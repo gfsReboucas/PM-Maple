@@ -4,6 +4,7 @@
        Ali H. Nayfeh and Char-Ming Chin
 
 Email: anayfeh@vt.edu    cchin@vt.edu
+Website: http://www2.esm.vt.edu/~nayfeh/
 ===============================================
      Copyright 1999 by Dynamics Press, Inc.
 
