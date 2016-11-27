@@ -1,0 +1,2438 @@
+{VERSION 2 3 "IBM INTEL NT" "2.3" }
+{USTYLETAB {CSTYLE "" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 1 0 0 0 0 }
+{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 132 0 0 0 2 0 0 0 0 0 0 }
+{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 22 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "
+2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "Define" 
+-1 256 "" 0 0 163 163 163 0 1 1 0 0 0 0 0 0 0 }{CSTYLE "Emphasis" -1 
+257 "" 0 0 128 0 128 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "Maple Input" -1 
+258 "Courier" 0 0 255 0 0 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 1 
+24 144 0 8 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 }{CSTYLE "" -1 261 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 262 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 263 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 265 "" 0 1 151 0 7 0 1 0 
+0 0 0 0 0 0 0 }{CSTYLE "" -1 266 "" 0 1 0 0 113 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 267 "" 0 1 0 0 14 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+268 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 0 0 
+255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 255 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 271 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 272 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+273 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 
+255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 275 "" 0 1 255 0 255 1 0 1 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 276 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 277 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+278 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 279 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 280 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 281 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 282 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 283 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 284 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 285 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 287 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 288 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 289 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 290 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 291 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 292 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 293 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 294 "" 0 1 
+0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 295 "" 0 1 254 0 120 0 0 1 0 
+0 0 0 0 0 0 }{CSTYLE "" -1 296 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 297 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+298 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 299 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 300 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 301 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 302 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 303 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 304 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 305 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 306 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 307 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 308 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 309 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 310 "" 0 1 0 0 13 0 1 0 
+0 0 0 0 0 0 0 }{CSTYLE "" -1 311 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 312 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 313 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 314 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 315 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 316 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 317 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 318 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 319 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 320 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 321 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 322 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 323 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 324 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 325 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 326 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 327 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 328 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 329 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 330 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 331 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 332 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 333 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 334 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 335 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 336 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 337 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 338 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 339 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 340 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 341 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 342 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 343 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 344 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 345 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 346 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 347 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 348 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 349 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 350 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 351 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 352 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 353 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 354 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 355 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 356 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 357 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 358 "" 0 1 255 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 359 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 360 "" 0 1 0 0 255 1 0 1 
+0 0 0 0 0 0 0 }{CSTYLE "" -1 361 "" 0 1 0 0 255 1 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 362 "" 0 1 0 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+363 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 364 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 365 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 366 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 367 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 368 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 369 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 370 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 371 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 372 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 373 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 374 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 375 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 376 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 377 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 378 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 379 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 380 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 381 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 382 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 383 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 384 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 385 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 386 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 387 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 388 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 389 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 390 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 391 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 392 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 393 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 394 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 395 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 396 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 397 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 398 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 399 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 400 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 401 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 402 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 403 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 404 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 405 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 406 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 407 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 408 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 409 "" 0 1 
+255 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 410 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 411 "" 0 1 0 0 255 1 0 1 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 412 "" 0 1 0 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+413 "" 0 1 0 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 414 "" 0 1 0 0 
+255 1 0 1 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 
+0 1 163 163 163 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 163 163 163 0 0 1 
+1 0 0 0 0 0 0 }3 0 0 -1 6 6 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 2" 3 4 
+1 {CSTYLE "" -1 -1 "" 1 14 163 163 163 0 0 0 2 0 0 0 0 0 0 }1 0 0 -1 
+4 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 3" 4 5 1 {CSTYLE "" -1 -1 "" 1 
+12 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 0 0 0 0 0 0 0 0 -1 0 }{PSTYLE "
+Maple Output" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 206 0 116 0 0 0 0 0 0 0 
+0 0 0 }3 3 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 12 1 {CSTYLE "" 
+-1 -1 "" 0 1 117 110 99 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 
+0 -1 0 }{PSTYLE "Title" 0 18 1 {CSTYLE "" -1 -1 "" 1 18 163 163 163 0 
+0 1 1 0 0 0 0 0 0 }3 0 0 -1 12 12 0 0 0 0 0 0 19 0 }{PSTYLE "Heading 4
+" 5 20 1 {CSTYLE "" -1 -1 "" 1 10 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 
+0 0 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {PARA 18 "" 0 "" {TEXT 259 70 "Chapter 6\nForced Oscillators o
+f Systems with Finite Degrees of Freedom" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 
+"interface(labelling=false,warnlevel=0);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "with(linalg):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+535 "In this chapter, we discuss nonlinear systems having finite degre
+es of freedom. The discussion is limited to weakly nonlinear systems, \+
+and approximate solutions are obtained by using the method of multiple
+ scales. In the case of strongly nonlinear systems, perturbation metho
+ds can be used in cases for which a basic exact nonlinear solution exi
+sts. For the other cases, recourse is often made to numerical methods \+
+and / or geometrical methods to obtain a qualitative description of th
+e behavior of the system, including its stability." }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 138 "In contrast with a single-degree-of-freedom syst
+em, which has only a single linear natural frequency and a single mode
+ of oscillation, an " }{TEXT 265 2 "n-" }{TEXT -1 29 "degree-of-freedo
+m system has " }{TEXT 266 1 "n" }{TEXT -1 32 " linear natural frequenc
+ies and " }{TEXT 267 1 "n" }{TEXT -1 57 " corresponding modes. Let us \+
+denote these frequencies by " }{XPPEDIT 18 0 "omega[1],omega[2]" "6$&%
+&omegaG6#\"\"\"&F$6#\"\"#" }{TEXT -1 7 ", ..., " }{XPPEDIT 18 0 "omega
+[n]" "&%&omegaG6#%\"nG" }{TEXT -1 208 " and assume that all of them ar
+e real and different from zero. An important case occurs whenever two \+
+or more of these frequencies are commensurate or nearly commensurate. \+
+Examples of near-commensurability are" }}}{EXCHG {PARA 0 "" 0 "" 
+{XPPEDIT 18 0 "omega[2]->2*omega[1],omega[3]->omega[2]" "6$:6#&%&omega
+G6#\"\"#7\"6$%)operatorG%&arrowG6\"*&\"\"#\"\"\"&F&6#\"\"\"F0F-F-:6#&F
+&6#\"\"$7\"6$F+F,F-&F&6#\"\"#F-F-" }{TEXT -1 3 " \261 " }{XPPEDIT 18 
+0 "omega[1]" "&%&omegaG6#\"\"\"" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "omeg
+a[2]->3*omega[1]" ":6#&%&omegaG6#\"\"#7\"6$%)operatorG%&arrowG6\"*&\"
+\"$\"\"\"&F%6#\"\"\"F/F,F," }{TEXT -1 2 ", " }{XPPEDIT 18 0 "omega[3]-
+>2*omega[2]" ":6#&%&omegaG6#\"\"$7\"6$%)operatorG%&arrowG6\"*&\"\"#\"
+\"\"&F%6#\"\"#F/F,F," }{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "omega[1]" "
+&%&omegaG6#\"\"\"" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "omega[4]->omega[3]
+" ":6#&%&omegaG6#\"\"%7\"6$%)operatorG%&arrowG6\"&F%6#\"\"$F,F," }
+{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "omega[2]" "&%&omegaG6#\"\"#" }
+{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "omega[1]" "&%&omegaG6#\"\"\"" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 171 "Depending on the order of the non
+linearity in the system, these commensurate relationships of frequenci
+es can cause the corresponding modes to be strongly coupled, and an " 
+}{TEXT 268 8 "internal" }{TEXT -1 4 " or " }{TEXT 269 24 "autoparametr
+ic resonance" }{TEXT -1 131 " is said to exist. For example, if the sy
+stem has quadratic nonlinearities, then to first order an internal res
+onance may exist if " }{XPPEDIT 18 0 "omega[m]->2*omega[k]" ":6#&%&ome
+gaG6#%\"mG7\"6$%)operatorG%&arrowG6\"*&\"\"#\"\"\"&F%6#%\"kGF/F,F," }
+{TEXT -1 4 " or " }{XPPEDIT 18 0 "omega[q]->omega[p]" ":6#&%&omegaG6#%
+\"qG7\"6$%)operatorG%&arrowG6\"&F%6#%\"pGF,F," }{TEXT -1 3 " \261 " }
+{XPPEDIT 18 0 "omega[m]" "&%&omegaG6#%\"mG" }{TEXT -1 92 ". For a syst
+em with cubic nonlinearities, to first order an internal resonance may
+ exist if " }{XPPEDIT 18 0 "omega[m]->3*omega[k]" ":6#&%&omegaG6#%\"mG
+7\"6$%)operatorG%&arrowG6\"*&\"\"$\"\"\"&F%6#%\"kGF/F,F," }{TEXT -1 6 
+"  or  " }{XPPEDIT 18 0 "omega[q]->omega[p]" ":6#&%&omegaG6#%\"qG7\"6$
+%)operatorG%&arrowG6\"&F%6#%\"pGF,F," }{TEXT -1 3 " \261 " }{XPPEDIT 
+18 0 "omega[m]" "&%&omegaG6#%\"mG" }{TEXT -1 3 " \261 " }{XPPEDIT 18 
+0 "omega[k]" "&%&omegaG6#%\"kG" }{TEXT -1 6 "  or  " }{XPPEDIT 18 0 "o
+mega[m]->omega[k]" ":6#&%&omegaG6#%\"mG7\"6$%)operatorG%&arrowG6\"&F%6
+#%\"kGF,F," }{TEXT -1 6 "  or  " }{XPPEDIT 18 0 "omega[q]->2*omega[p]
+" ":6#&%&omegaG6#%\"qG7\"6$%)operatorG%&arrowG6\"*&\"\"#\"\"\"&F%6#%\"
+pGF/F,F," }{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "omega[m]" "&%&omegaG6#%
+\"mG" }{TEXT -1 340 ". When an internal resonance exists in a free und
+amped system, energy imparted initially to one of the modes involved i
+n the internal resonance will be continuously exchanged among the mode
+s involved in that internal resonance. If damping is present in the sy
+stem, then the energy will decay with time as it is being continuously
+ exchanged." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 265 "In a conservative
+ nongyroscopic system, if the linear motion is oscillatory, then the n
+onlinear motion is bounded. For a conservative gyroscopic multidegree-
+of-freedom system, the nonlinear motion may be unbounded and hence uns
+table if an internal resonance exists." }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 48 "If an external harmonic excitation of frequency " }
+{XPPEDIT 18 0 "Omega" "I&OmegaG6\"" }{TEXT -1 108 " acts on a multideg
+ree-of-freedom system, then in addition to all of the primary and seco
+ndary resonances ( " }{XPPEDIT 18 0 "p" "I\"pG6\"" }{TEXT -1 1 " " }
+{XPPEDIT 18 0 "Omega->q*omega[m]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG
+6\"*&%\"qG\"\"\"&%&omegaG6#%\"mGF,F)F)" }{TEXT -1 8 " , with " }
+{XPPEDIT 18 0 "p" "I\"pG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "q" "I
+\"qG6\"" }{TEXT -1 79 " being integers) of a single-degree-of-freedom \+
+system, there might exist other " }{TEXT 270 22 "resonance combination
+s" }{TEXT -1 31 " of the frequencies in the form" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 34 "p*Omega=sum(a[i]*omega[i],i=1..N);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#/*&%\"pG\"\"\"%&OmegaGF&-%$sumG6$*&&%\"aG6#%
+\"iGF&&%&omegaGF.F&/F/;F&%\"NG" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "
+where " }{XPPEDIT 18 0 "p" "I\"pG6\"" }{TEXT -1 9 " and the " }
+{XPPEDIT 18 0 "a[n]" "&%\"aG6#%\"nG" }{TEXT -1 44 " are positive or ne
+gative integers such that" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+31 "abs(p)+sum(abs(a[n]),n=1..N)=M;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#/,&-%$absG6#%\"pG\"\"\"-%$sumG6$-F&6#&%\"aG6#%\"nG/F2;F)%\"NGF)%\"MG
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 0 "M" "I
+\"MG6\"" }{TEXT -1 47 " is the order of the nonlinearity plus one and \+
+" }{XPPEDIT 18 0 "N" "I\"NG6\"" }{TEXT -1 288 " is the number of degre
+es of freedom. The type of combination resonance which might exist in \+
+a system depends on the order of its nonlinearity. For a system having
+ quadratic nonlinearities, to first order the combination resonances t
+hat might exist involve two frequencies in addition to " }{XPPEDIT 18 
+0 "Omega" "I&OmegaG6\"" }{TEXT -1 12 ";  that is, " }{XPPEDIT 18 0 "Om
+ega->omega[m]+omega[k]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\",&&%&om
+egaG6#%\"mG\"\"\"&F,6#%\"kGF/F)F)" }{TEXT -1 6 "  or  " }{XPPEDIT 18 
+0 "Omega->omega[m]-omega[k]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\",&
+&%&omegaG6#%\"mG\"\"\"&F,6#%\"kG!\"\"F)F)" }{TEXT -1 34 " . The first \+
+of these is called a " }{TEXT 271 28 "summed combination resonance" }
+{TEXT -1 6 " or a " }{TEXT 272 42 "combination resonance of the additi
+ve type" }{TEXT -1 33 ", whereas the second is called a " }{TEXT 273 
+32 "difference combination resonance" }{TEXT -1 6 " or a " }{TEXT 274 
+44 "combination resonance of the difference type" }{TEXT -1 308 ". The
+se types of combination resonances were predicted theoretically by Mal
+kin (1956) and found experimentally by Yamamoto (1957, 1960). For a sy
+stem having cubic nonlinearities, to first order the combination reson
+ances that might exist involve either two or three of the natural freq
+uencies in addition to " }{XPPEDIT 18 0 "Omega" "I&OmegaG6\"" }{TEXT 
+-1 10 "; that is," }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 18 0 "Omega->ome
+ga[p]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\"&%&omegaG6#%\"pGF)F)" }
+{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "omega[m]" "&%&omegaG6#%\"mG" }
+{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "omega[k]" "&%&omegaG6#%\"kG" }
+{TEXT -1 3 " , " }{XPPEDIT 18 0 "Omega->2*omega[p]" ":6#%&OmegaG7\"6$%
+)operatorG%&arrowG6\"*&\"\"#\"\"\"&%&omegaG6#%\"pGF,F)F)" }{TEXT -1 3 
+" \261 " }{XPPEDIT 18 0 "omega[m]" "&%&omegaG6#%\"mG" }{TEXT -1 3 " , \+
+" }{XPPEDIT 18 0 "Omega->omega[p]" ":6#%&OmegaG7\"6$%)operatorG%&arrow
+G6\"&%&omegaG6#%\"pGF)F)" }{TEXT -1 3 " \261 " }{XPPEDIT 18 0 "2*omega
+[m]" "*&\"\"#\"\"\"&%&omegaG6#%\"mGF$" }{TEXT -1 3 " , " }{XPPEDIT 18 
+0 "2" "\"\"#" }{TEXT -1 1 " " }{XPPEDIT 18 0 "Omega->omega[m]" ":6#%&O
+megaG7\"6$%)operatorG%&arrowG6\"&%&omegaG6#%\"mGF)F)" }{TEXT -1 3 " \+
+\261 " }{XPPEDIT 18 0 "omega[k]" "&%&omegaG6#%\"kG" }}}{SECT 1 {PARA 
+4 "" 0 "" {TEXT 260 13 "Preliminaries" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 88 "To use the method of multiple scales, we introduce different ti
+me scales, define them as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+27 "timeScales:=T[0],T[1],T[2]:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+28 "In terms of the time scales " }{XPPEDIT 18 0 "T[n]" "&%\"TG6#%\"nG
+" }{TEXT -1 30 " , the time derivatives become" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 62 "dt[1]:=expr->add(epsilon^i*diff(expr,timeScale
+s[i+1]),i=0..2):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "dt[2]:=
+expr->dt[1](dt[1](expr)):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 65 "In t
+he course of the analysis, we need the complex conjugates of " }
+{XPPEDIT 18 0 "A[i]" "&%\"AG6#%\"iG" }{TEXT -1 5 " and " }{XPPEDIT 18 
+0 "Gamma[i,j]" "&%&GammaG6$%\"iG%\"jG" }{TEXT -1 42 ". We define them \+
+using the following rule:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+80 "ccRule:=`union`(seq(\{A[i]=conjugate(A[i]),conjugate(A[i])=A[i]\},
+i=1..2),\{I=-I\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'ccRuleG<'/-%*
+conjugateG6#&%\"AG6#\"\"#F*/-F(6#&F+6#\"\"\"F1/F*F'/%\"IG,$F6!\"\"/F1F
+/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 87 "To represent some of the exp
+ressions in a more concise way, we introduce the procedure " }{TEXT 
+275 8 "display1" }{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 16 "display1:=proc()" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "local r
+ule;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 346 "rule:=seq(\{A[i](T[1],T[2]
+)=A[i],conjugate(A[i])(T[1],T[2])=conjugate(A[i]),B[i](T[1],T[2])=B[i]
+,conjugate(B[i])(T[1],T[2])=conjugate(B[i])\},i=1..2),seq(seq(\{u[i,j]
+(timeScales)=u[i,j],theta[i,j](timeScales)=theta[i,j],v[i,j](timeScale
+s)=v[i,j],zeta[i,j](timeScales)=zeta[i,j],conjugate(zeta[i,j])(timeSca
+les)=conjugate(zeta[i,j])\},i=1..2),j=1..3);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "subs(rule,[args])[]" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 4 "end:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 101 "To directly collect
+ from an expression the coefficient of a term with * type, we define a
+ procedure, " }{TEXT 367 11 "coefficient" }{TEXT -1 13 ", as follows:
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "coefficient:=proc(expr,
+term)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "   local opList,expr0,k;" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "   if type(term,`*`) then" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "      opList:=[op(expand(term))]" }
+}{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "   else" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "      opList:=[term]" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 6 "   fi;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "   expr0:=expr;" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "   for k in opList do" }}{PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 27 "      expr0:=coeff(expr0,k)" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 6 "   od;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "   r
+emove(has,expr0,T[0]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "end:" }}}}
+{SECT 1 {PARA 4 "" 0 "" {TEXT -1 49 "6.1 Externally Excited Linearly U
+ncoupled Systems" }}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 19 "System of Equ
+ations" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 158 "We consider the respons
+e of the following two-degree-of-freedom system with quadratic and cub
+ic geometric nonlinearities to an external (additive) excitation:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 131 "eq61a:=seq(diff(u[i](t),t,t
+)+omega[i]^2*u[i](t)+2*mu[s,i]*diff(u[i](t),t)+Diff(V(u[1],u[2]),u[i])
+=F[i]*cos(Omega*t+tau[i]),i=1..2);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#
+>%&eq61aG6$/,*-%%diffG6$-F)6$-&%\"uG6#\"\"\"6#%\"tGF3F3F1*&&%&omegaGF0
+\"\"#F-F1F1*&&%#muG6$%\"sGF1F1F+F1F7-%%DiffG6$-%\"VG6$F.&F/6#F7F.F1*&&
+%\"FGF0F1-%$cosG6#,&*&%&OmegaGF1F3F1F1&%$tauGF0F1F1/,*-F)6$-F)6$-FCF2F
+3F3F1*&&F6FDF7FVF1F1*&&F:6$F<F7F1FTF1F7-F>6$F@FCF1*&&FGFDF1-FI6#,&FLF1
+&FOFDF1F1" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 29 "where the potential \+
+function " }{XPPEDIT 18 0 "V" "I\"VG6\"" }{TEXT -1 114 " possesses cub
+ic and quartic nonlinearities. The most general such potential functio
+n can be expressed as follows:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 22 "basicModes:=u[1],u[2]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 61 "quadraticTerms:=map(x->seq(i*x,i=\{basicModes\}),\{basicModes
+\}):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 84 "cubicTerms:=[op(sor
+t(convert(map(x->seq(i*x,i=quadraticTerms),\{basicModes\}),`+`)))];" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%+cubicTermsG7&*$&%\"uG6#\"\"\"\"\"$
+*&F'\"\"#&F(6#F-F**&F'F*F.F-*$F.F+" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 82 "quarticTerms:=[op(sort(convert(map(x->seq(i*x,i=cubic
+Terms),\{basicModes\}),`+`)))];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%-
+quarticTermsG7'*$&%\"uG6#\"\"\"\"\"%*&F'\"\"$&F(6#\"\"#F**&F'F0F.F0*&F
+'F*F.F-*$F.F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 128 "potential
+:=V(u[1],u[2])=add(delta[i]*cubicTerms[i],i=1..nops(cubicTerms))+add(a
+lpha[i]*quarticTerms[i],i=1..nops(quarticTerms));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%*potentialG/-%\"VG6$&%\"uG6#\"\"\"&F*6#\"\"#,4*&&%&de
+ltaGF+F,F)\"\"$F,*(&F3F.F,F)F/F-F,F,*(&F36#F4F,F)F,F-F/F,*&&F36#\"\"%F
+,F-F4F,*&&%&alphaGF+F,F)F=F,*(&F@F.F,F)F4F-F,F,*(&F@F9F,F)F/F-F/F,*(&F
+@F<F,F)F,F-F4F,*&&F@6#\"\"&F,F-F=F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 30 "Hence, the nonlinear terms in " }{TEXT 281 5 "eq61a" }{TEXT -1 
+19 " can be obtained as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 124 
+"NLTerms:=seq(Diff(V(u[1],u[2]),u[i])=subs(u[1]=u[1](t),u[2]=u[2](t),v
+alue(subs(potential,Diff(V(u[1],u[2]),u[i])))),i=1..2);" }}{PARA 12 "
+" 1 "" {XPPMATH 20 "6#>%(NLTermsG6$/-%%DiffG6$-%\"VG6$&%\"uG6#\"\"\"&F
+.6#\"\"#F-,0*&&%&deltaGF/F0-F-6#%\"tGF3\"\"$*(&F7F2F0F8F0-F1F9F0F3*&&F
+76#F;F0F>F3F0*&&%&alphaGF/F0F8F;\"\"%*(&FDF2F0F8F3F>F0F;*(&FDFAF0F8F0F
+>F3F3*&&FD6#FEF0F>F;F0/-F(6$F*F1,0*&F=F0F8F3F0*(F@F0F8F0F>F0F3*&&F7FLF
+0F>F3F;*&FGF0F8F;F0*(FIF0F8F3F>F0F3*(FKF0F8F0F>F3F;*&&FD6#\"\"&F0F>F;F
+E" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 692 "Approximate solutions of su
+ch a system can be obtained using a number of techniques, including th
+e method of normal forms, the method of multiple scales, the Krylov-Bo
+goliubov-Mitropolsky technique, and the method of averaging. With thes
+e methods, one determines a set of ordinary-differential equations (mo
+dulation equations) that govern the time evolution of the amplitudes a
+nd phases of the modes participating in the response. If these equatio
+ns are time-dependent, one usually transforms them into a set of auton
+omous equations. In this chapter, we describe how the method of multip
+le scales can be used to determine uniform expansions of this system, \+
+including the modulation equations." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 330 "Secondary resonances of nonlinear systems include subharmonic,
+ superharmonic, and combination resonances. One or more of these reson
+ances might be activated in the presence or absence of internal resona
+nces. When a combination resonance is activated in the presence of an \+
+internal resonance, fractional harmonics might be excited." }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 47 "For a consistent expansion, we first tran
+sform " }{TEXT 276 5 "eq61a" }{TEXT -1 87 " into a system of four firs
+t-order equations. To this end, we introduce the two states " }
+{XPPEDIT 18 0 "v[1](t)" "-&%\"vG6#\"\"\"6#%\"tG" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "v[2](t)" "-&%\"vG6#\"\"#6#%\"tG" }{TEXT -1 11 " defined
+ by" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "vel:=seq(diff(u[i](t
+),t)=v[i](t),i=1..2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$velG6$/-%%
+diffG6$-&%\"uG6#\"\"\"6#%\"tGF0-&%\"vGF-F//-F(6$-&F,6#\"\"#F/F0-&F3F9F
+/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 56 "Substituting the velocity an
+d acceleration terms, using " }{TEXT 277 3 "vel" }{TEXT -1 5 " and " }
+{TEXT 282 7 "NLTerms" }{TEXT -1 7 ", into " }{TEXT 278 5 "eq61a" }
+{TEXT -1 31 " and combining the result with " }{TEXT 279 3 "vel" }
+{TEXT -1 15 ", we transform " }{TEXT 280 5 "eq61a" }{TEXT -1 54 " into
+ the following set of four first-order equations:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 61 "eq61b:=[seq(op([vel[i],subs(vel,NLTerms,eq61
+a[i])]),i=1..2)];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&eq61bG7&/-%%di
+ffG6$-&%\"uG6#\"\"\"6#%\"tGF0-&%\"vGF-F//,6-F(6$F1F0F.*&&%&omegaGF-\"
+\"#F*F.F.*&&%#muG6$%\"sGF.F.F1F.F;*&&%&deltaGF-F.F*F;\"\"$*(&FC6#F;F.F
+*F.-&F,FGF/F.F;*&&FC6#FDF.FHF;F.*&&%&alphaGF-F.F*FD\"\"%*(&FOFGF.F*F;F
+HF.FD*(&FOFLF.F*F.FHF;F;*&&FO6#FPF.FHFDF.*&&%\"FGF-F.-%$cosG6#,&*&%&Om
+egaGF.F0F.F.&%$tauGF-F.F./-F(6$FHF0-&F3FGF//,6-F(6$F`oF0F.*&&F:FGF;FHF
+.F.*&&F>6$F@F;F.F`oF.F;*&FFF.F*F;F.*(FKF.F*F.FHF.F;*&&FCFWF.FHF;FD*&FR
+F.F*FDF.*(FTF.F*F;FHF.F;*(FVF.F*F.FHF;FD*&&FO6#\"\"&F.FHFDFP*&&FZFGF.-
+Ffn6#,&FinF.&F\\oFGF.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 60 "We see
+k a uniform second-order expansion of the solution of " }{TEXT 283 5 "
+eq61b" }{TEXT -1 12 " in the form" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 148 "solRule:=`union`(seq(\{u[i](timeScales)=add(epsilon^
+j*u[i,j](timeScales),j=1..3),v[i](timeScales)=add(epsilon^j*v[i,j](tim
+eScales),j=1..3)\},i=1..2)):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 33 "T
+he damping and forcing terms in " }{TEXT 284 5 "eq61b" }{TEXT -1 203 "
+ need to be scaled so that they balance the influence of the nonlinear
+ity. The scaling of the forcing depends on the type of resonance. Next
+, we treat different resonance cases in the following sections." }}}}
+{SECT 1 {PARA 5 "" 0 "" {TEXT -1 6 "6.1.1 " }{XPPEDIT 18 0 "Omega->ome
+ga[2]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\"&%&omegaG6#\"\"#F)F)" }
+{TEXT -1 7 "  and  " }{XPPEDIT 18 0 "omega[2]->2*omega[1]" ":6#&%&omeg
+aG6#\"\"#7\"6$%)operatorG%&arrowG6\"*&\"\"#\"\"\"&F%6#\"\"\"F/F,F," }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 270 "In this case, we have a combinati
+on of a primary resonance of the second mode, a subharmonic resonance \+
+of order one-half of the first mode, and a two-to-one internal resonan
+ce. In order to bring the effects of damping, forcing, and nonlinearit
+y at the same order, we let" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+81 "scaling:=seq(mu[s,i]=epsilon*mu[i],i=1..2),F[1]=epsilon*f[1],F[2]=
+epsilon^2*f[2];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(scalingG6&/&%#mu
+G6$%\"sG\"\"\"*&%(epsilonGF+&F(6#F+F+/&F(6$F*\"\"#*&F-F+&F(6#F3F+/&%\"
+FGF/*&F-F+&%\"fGF/F+/&F9F6*&F-F3&F<F6F+" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 90 "To describe quantitatively the nearness of the resonances
+, we introduce the two detunings " }{XPPEDIT 18 0 "sigma[1]" "&%&sigma
+G6#\"\"\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "sigma[2]" "&%&sigmaG6#
+\"\"#" }{TEXT -1 11 " defined by" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 86 "ResonanceCond:=\{omega[2]=2*omega[1]+epsilon*sigma[1]
+,Omega=omega[2]+epsilon*sigma[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%.ResonanceCondG<$/%&OmegaG,&&%&omegaG6#\"\"#\"\"\"*&%(epsilonGF-&%&
+sigmaGF+F-F-/F),&&F*6#F-F,*&F/F-&F1F5F-F-" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 36 "Then, we define the following lists:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 32 "omgList:=[seq(omega[i],i=1..2)];" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%(omgListG7$&%&omegaG6#\"\"\"&F'6#\"\"#" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "omgRule:=seq(solve(Resonanc
+eCond,\{Omega,omgList[-i]\}),i=1..2);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%(omgRuleG6$<$/&%&omegaG6#\"\"#,&&F)6#\"\"\"F+*&%(epsilonGF/&%&sig
+maGF.F/F//%&OmegaG,(F-F+F0F/*&F1F/&F3F*F/F/<$/F-,&F(#F/F+F0#!\"\"F+/F5
+,&F(F/F7F/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 22 "Using the time scal
+es " }{XPPEDIT 18 0 "T[0],T[1]" "6$&%\"TG6#\"\"!&F$6#\"\"\"" }{TEXT 
+-1 6 ", and " }{XPPEDIT 18 0 "T[2]" "&%\"TG6#\"\"#" }{TEXT -1 35 ", we
+ express the time derivative as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 175 "multiScales:=`union`(seq(\{u[i](t)=u[i](timeScales),v[i](t)=v
+[i](timeScales),diff(u[i](t),t)=dt[1](u[i](timeScales)),diff(v[i](t),t
+)=dt[1](v[i](timeScales))\},i=1..2),\{t=T[0]\}):" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 17 "Substituting the " }{TEXT 285 7 "scaling" }{TEXT 
+-1 2 ", " }{TEXT 286 11 "multiScales" }{TEXT -1 6 ", and " }{TEXT 287 
+7 "solRule" }{TEXT -1 6 " into " }{TEXT 288 5 "eq61b" }{TEXT -1 33 ", \+
+expanding the result for small " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6
+\"" }{TEXT -1 44 ", and discarding terms of order higher than " }
+{XPPEDIT 18 0 "epsilon^3" "*$%(epsilonG\"\"$" }{TEXT -1 11 ", we obtai
+n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "temp:=subs(scaling,mul
+tiScales,solRule,eq61b):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 85 
+"eq611a:=[seq(convert(series(lhs(temp[i])-rhs(temp[i]),epsilon,4),poly
+nom)=0,i=1..4)]:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 40 "Equating coef
+ficients of like powers of " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" 
+}{TEXT -1 11 ", we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+82 "eqEps:=convert([seq([seq(coeff(lhs(eq611a[i]),epsilon,j)=0,i=1..4)
+],j=1..3)],exp):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 98 "To place the \+
+linear operator on one side and the nonhomogeneous terms on the other \+
+side, we define" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 63 "linearSy
+s:=subs(f[1]=0,map(lhs,eqEps[1])): display1(linearSys);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#7&,&-%%diffG6$&%\"uG6$\"\"\"F+&%\"TG6#\"\"!F+&%
+\"vGF*!\"\",&-F&6$F0F,F+*&&%&omegaG6#F+\"\"#F(F+F+,&-F&6$&F)6$F:F+F,F+
+&F1F?F2,&-F&6$F@F,F+*&&F86#F:F:F>F+F+" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 17 "Then, we rewrite " }{TEXT 261 5 "eqEps" }{TEXT -1 3 " as
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "order1Eq:=[seq(linearSy
+s[i]=linearSys[i]-lhs(eqEps[1,i]),i=1..4)]:" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 122 "order2Eq:=[seq(subs(seq(\{u[k,1]=u[k,2],v[k,1]=v[
+k,2]\},k=1..2),linearSys[i]=linearSys[i])-eval(0=lhs(eqEps[2,i])),i=1.
+.4)]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 122 "order3Eq:=[seq(su
+bs(seq(\{u[k,1]=u[k,3],v[k,1]=v[k,3]\},k=1..2),linearSys[i]=linearSys[
+i])-eval(0=lhs(eqEps[3,i])),i=1..4)]:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "display1(order1Eq);" }}{PARA 12 "" 1 "" {XPPMATH 20 "
+6#7&/,&-%%diffG6$&%\"uG6$\"\"\"F,&%\"TG6#\"\"!F,&%\"vGF+!\"\"F0/,&-F'6
+$F1F-F,*&&%&omegaG6#F,\"\"#F)F,F,*&&%\"fGF;F,,&-%$expG6#*&%\"IGF,,&*&%
+&OmegaGF,F-F,F,&%$tauGF;F,F,#F,F<*$FAF3FKF,/,&-F'6$&F*6$F<F,F-F,&F2FRF
+3F0/,&-F'6$FSF-F,*&&F:6#F<F<FQF,F,F0" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "display1(order2Eq);" }}{PARA 12 "" 1 "" {XPPMATH 20 "
+6#7&/,&-%%diffG6$&%\"uG6$\"\"\"\"\"#&%\"TG6#\"\"!F,&%\"vGF+!\"\",$-F'6
+$&F*6$F,F,&F/6#F,F4/,&-F'6$F2F.F,*&&%&omegaGF;F-F)F,F,,,*&&%&deltaGF;F
+,F8F-!\"$-F'6$&F3F9F:F4*&&FF6#\"\"$F,&F*6$F-F,F-F4*(&FF6#F-F,F8F,FOF,!
+\"#*&&%#muGF;F,FJF,FT/,&-F'6$&F*6$F-F-F.F,&F3FgnF4,$-F'6$FOF:F4/,&-F'6
+$FhnF.F,*&&FBFSF-FfnF,F,,.*&FRF,F8F-F4-F'6$&F3FPF:F4*&&%\"fGFSF,,&-%$e
+xpG6#*&%\"IGF,,&*&%&OmegaGF,F.F,F,&%$tauGFSF,F,#F,F-*$F[pF4FepF,F,*&&F
+F6#\"\"%F,FOF-FG*(FLF,F8F,FOF,FT*&&FWFSF,FfoF,FT" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 19 "display1(order3Eq);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#7&/,&-%%diffG6$&%\"uG6$\"\"\"\"\"$&%\"TG6#\"\"!F,&%\"vG
+F+!\"\",&-F'6$&F*6$F,F,&F/6#\"\"#F4-F'6$&F*6$F,F<&F/6#F,F4/,&-F'6$F2F.
+F,*&&%&omegaGFBF<F)F,F,,8-F'6$&F3F9F:F4*&&%#muGFBF,&F3F@F,!\"#-F'6$FQF
+AF4*(&%&deltaGFBF,F8F,F?F,!\"'*&&%&alphaG6#\"\"%F,&F*6$F<F,F-F4*(&FW6#
+F-F,FhnF,&F*6$F<F<F,FR*(&FWF;F,F8F,F]oF,FR*(F`oF,F?F,FhnF,FR*&&FenFBF,
+F8F-!\"%*(&FenF;F,F8F<FhnF,!\"$*(&FenF\\oF,F8F,FhnF<FR/,&-F'6$&F*6$F<F
+-F.F,&F3F_pF4,&-F'6$FhnF:F4-F'6$F]oFAF4/,&-F'6$F`pF.F,*&&FIF;F<F^pF,F,
+,8-F'6$&F3FinF:F4*&&FPF;F,&F3F^oF,FR-F'6$FbqFAF4*(F`oF,F8F,F?F,FR*&&Fe
+n6#\"\"&F,FhnF-Fdo*(&FWFfnF,FhnF,F]oF,FX*(F[oF,F8F,F]oF,FR*(F[oF,F?F,F
+hnF,FR*&FfoF,F8F-F4*(FioF,F8F<FhnF,FR*(FZF,F8F,FhnF<Fgo" }}}{SECT 1 
+{PARA 20 "" 0 "" {TEXT -1 34 "First-Order Problem: Linear System" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 25 "The first-order problem, " }{TEXT 
+289 8 "order1Eq" }{TEXT -1 348 ", consists of two sets of uncoupled li
+near nonhomogeneous differential equations. Hence, the general solutio
+n of each set can be obtained by using the principle of superposition \+
+as the sum of any particular solution and the solution of the homogene
+ous equations. To determine the general solution of the homogeneous se
+ts, we seek a solution of the " }{TEXT 290 9 "linearSys" }{TEXT -1 13 
+" in the form " }{XPPEDIT 18 0 "u[i,1]=P*exp(I*omega[i]*T[0])" "/&%\"u
+G6$%\"iG\"\"\"*&%\"PG\"\"\"-%$expG6#*(%\"IGF*&%&omegaG6#F&F*&%\"TG6#\"
+\"!F*F*" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "v[i,1]=Q*exp(I*omega[i]*T
+[0])" "/&%\"vG6$%\"iG\"\"\"*&%\"QG\"\"\"-%$expG6#*(%\"IGF*&%&omegaG6#F
+&F*&%\"TG6#\"\"!F*F*" }{TEXT -1 11 " and obtain" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 116 "uvForm1:=`union`(seq(\{u[i,1](timeScales)=P*e
+xp(I*omega[i]*T[0]),v[i,1](timeScales)=Q*exp(I*omega[i]*T[0])\},i=1..2
+));" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%(uvForm1G<&/-&%\"uG6$\"\"\"F+
+6%&%\"TG6#\"\"!&F.6#F+&F.6#\"\"#*&%\"PGF+-%$expG6#*(%\"IGF+&%&omegaGF2
+F+F-F+F+/-&%\"vGF*F,*&%\"QGF+F8F+/-&F)6$F5F+F,*&F7F+-F96#*(F<F+&F>F4F+
+F-F+F+/-&FBFHF,*&FDF+FJF+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+72 "expr1:=expand(exp(-I*omega[1]*T[0])*subs(uvForm1,[op(1..2,linearSy
+s)]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&expr1G7$,&*(%\"IG\"\"\"%
+\"PGF)&%&omegaG6#F)F)F)%\"QG!\"\",&*(F(F)F.F)F+F)F)*&F+\"\"#F*F)F)" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 72 "expr2:=expand(exp(-I*omega[
+2]*T[0])*subs(uvForm1,[op(3..4,linearSys)]));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&expr2G7$,&*(%\"IG\"\"\"%\"PGF)&%&omegaG6#\"\"#F)F)%
+\"QG!\"\",&*(F(F)F/F)F+F)F)*&F+F.F*F)F)" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 28 "The coefficient matrices of " }{TEXT 291 5 "expr1" }
+{TEXT -1 5 " and " }{TEXT 292 5 "expr2" }{TEXT -1 4 " are" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "coefMat:=map(x->jacobian(x,[P,Q]),[
+expr1,expr2]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(coefMatG7$-%'MATR
+IXG6#7$7$*&%\"IG\"\"\"&%&omegaG6#F-F-!\"\"7$*$F.\"\"#F+-F'6#7$7$*&F,F-
+&F/6#F4F-F17$*$F:F4F9" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 33 "and thei
+r adjoints are defined by" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+52 "coefMatH:=map(x->subs(ccRule,transpose(x)),coefMat);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%)coefMatHG7$-%'MATRIXG6#7$7$,$*&%\"IG\"\"\"&%&
+omegaG6#F.F.!\"\"*$F/\"\"#7$F2F+-F'6#7$7$,$*&F-F.&F06#F4F.F2*$F<F47$F2
+F:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 42 "Hence, the right and left e
+igenvectors of " }{TEXT 293 7 "coefMat" }{TEXT -1 4 " are" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "rightVec:=map(x->nullspace(x)[],coe
+fMat);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)rightVecG7$-%'VECTORG6#7$
+\"\"\"*&%\"IGF*&%&omegaG6#F*F*-F'6#7$F**&F,F*&F.6#\"\"#F*" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "leftVec:=map(x->nullspace(x)[],coef
+MatH);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(leftVecG7$-%'VECTORG6#7$,
+$*&%\"IG\"\"\"&%&omegaG6#F-F-!\"\"F--F'6#7$,$*&F,F-&F/6#\"\"#F-F1F-" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "whose complex conjugates are" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "ccleftVec:=subs(ccRule,left
+Vec);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*ccleftVecG7$-%'VECTORG6#7$
+*&%\"IG\"\"\"&%&omegaG6#F,F,F,-F'6#7$*&F+F,&F.6#\"\"#F,F," }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 72 "To determine particular solutions of the \+
+partial-differential equations " }{TEXT 296 8 "order1Eq" }{TEXT -1 11 
+" using the " }{TEXT 294 5 "Maple" }{TEXT -1 11 "'s command " }{TEXT 
+295 6 "dsolve" }{TEXT -1 74 ", we first transform them into a set of o
+rdinary-differential equations as" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 96 "uvForm2:=`union`(seq(\{u[i,1](timeScales)=u[i,1](T[0]
+),v[i,1](timeScales)=v[i,1](T[0])\},i=1..2));" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%(uvForm2G<&/-&%\"uG6$\"\"\"F+6%&%\"TG6#\"\"!&F.6#F+&F
+.6#\"\"#-F(6#F-/-&%\"vGF*F,-F:F7/-&F)6$F5F+F,-F?F7/-&F;F@F,-FDF7" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "order1Eqa:=subs(uvForm2,orde
+r1Eq):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 34 "Then, the particular so
+lutions of " }{TEXT 297 9 "order1Eqa" }{TEXT -1 4 " are" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 97 "sol1p:=combine(expand(convert(subs(
+seq(_C.i=0,i=1..4),dsolve(order1Eqa,map(rhs,uvForm2))),exp)));" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&sol1pG<&/-&%\"vG6$\"\"\"F+6#&%\"TG6
+#\"\"!,&*,%\"IGF+%&OmegaGF+&%\"fG6#F+F+,&*$&%&omegaGF7\"\"#!\"\"*$F4F<
+F+F=-%$expG6#,&*(F3F+F4F+F-F+F+*&F3F+&%$tauGF7F+F+F+#F=F<*,F3F+F4F+F5F
++F8F=-F@6#,&FCF=FDF=F+#F+F</-&%\"uGF*F,,&*(F5F+F8F=FIF+FG*(F5F+F8F=F?F
++FG/-&F)6$F<F+F,F0/-&FPFWF,F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 43 "
+To simplify some of the expressions, we let" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 57 "fRule:=seq(f[i]=2*Lambda[i]*(omega[i]^2-Omega^2),i
+=1..2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&fRuleG6$/&%\"fG6#\"\"\",
+$*&&%'LambdaGF)F*,&*$&%&omegaGF)\"\"#F**$%&OmegaGF3!\"\"F*F3/&F(6#F3,$
+*&&F.F9F*,&*$&F2F9F3F*F4F6F*F3" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 12 
+"and express " }{XPPEDIT 18 0 "u[i,1]" "&%\"uG6$%\"iG\"\"\"" }{TEXT 
+-1 5 " and " }{XPPEDIT 18 0 "v[i,1]" "&%\"vG6$%\"iG\"\"\"" }{TEXT -1 
+3 " as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 163 "sol1u:=seq(u[i,1
+](timeScales)=A[i](T[1],T[2])*exp(I*omega[i]*T[0])+conjugate(A[i])(T[1
+],T[2])*exp(-I*omega[i]*T[0])+normal(subs(sol1p,fRule,u[i,1](T[0]))),i
+=1..2);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&sol1uG6$/-&%\"uG6$\"\"\"
+F+6%&%\"TG6#\"\"!&F.6#F+&F.6#\"\"#,(*&-&%\"AGF26$F1F3F+-%$expG6#*(%\"I
+GF+&%&omegaGF2F+F-F+F+F+*&--%*conjugateG6#F9F;F+-F=6#,$F?!\"\"F+F+*&,&
+-F=6#,&*(F@F+%&OmegaGF+F-F+FK*&F@F+&%$tauGF2F+FKF+-F=6#,&FQF+FSF+F+F+&
+%'LambdaGF2F+F+/-&F)6$F5F+F,,&*&-&F:F4F;F+-F=6#*(F@F+&FBF4F+F-F+F+F+*&
+--FF6#F\\oF;F+-F=6#,$F_oFKF+F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 71 "sol1v:=seq(v[i,1](timeScales)=expand(diff(rhs(sol1u[i]),T[0]))
+,i=1..2);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&sol1vG6$/-&%\"vG6$\"\"
+\"F+6%&%\"TG6#\"\"!&F.6#F+&F.6#\"\"#,***%\"IGF+-&%\"AGF26$F1F3F+&%&ome
+gaGF2F+-%$expG6#*(F8F+F=F+F-F+F+F+**F8F+--%*conjugateG6#F:F<F+F=F+F?!
+\"\"FH*,F8F+&%'LambdaGF2F+%&OmegaGF+-F@6#*(F8F+FLF+F-F+FH-F@6#*&F8F+&%
+$tauGF2F+FHFH*,F8F+FJF+FLF+FMF+FPF+F+/-&F)6$F5F+F,,&**F8F+-&F;F4F<F+&F
+>F4F+-F@6#*(F8F+FhnF+F-F+F+F+**F8F+--FF6#FgnF<F+FhnF+FinFHFH" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "sol1:=[sol1u,sol1v]:" }}}}
+{SECT 1 {PARA 20 "" 0 "" {TEXT -1 20 "Second-Order Problem" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 38 "Substituting the first-order solution " }
+{TEXT 298 4 "sol1" }{TEXT -1 32 " into the second-order problem, " }
+{TEXT 299 8 "order2Eq" }{TEXT -1 8 ", yields" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 39 "order2Eqa:=expand(subs(sol1,order2Eq)):" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "Any particular solution of " }
+{TEXT 300 9 "order2Eqa" }{TEXT -1 117 " contains secular terms and sma
+ll-divisor terms, making the expansion nonuniform. For a uniform expan
+sion, we choose " }{XPPEDIT 18 0 "diff(A[1],T[1])" "-%%diffG6$&%\"AG6#
+\"\"\"&%\"TG6#\"\"\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "diff(A[2],T[
+1])" "-%%diffG6$&%\"AG6#\"\"#&%\"TG6#\"\"\"" }{TEXT -1 121 " to elimin
+ate these terms. To accomplish this, we first convert the small-diviso
+r terms into secular terms using the rule" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 61 "newVar1:=seq(I*epsilon*sigma[i]*T[0]=I*sigma[i]*T[1
+],i=1..2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(newVar1G6$/**%\"IG\"
+\"\"%(epsilonGF)&%&sigmaG6#F)F)&%\"TG6#\"\"!F)*(F(F)F+F)&F/F-F)/**F(F)
+F*F)&F,6#\"\"#F)F.F)*(F(F)F6F)F3F)" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 100 "To eliminate the terms that produce secular terms (i.e., deter
+mine the solvability conditions) from " }{TEXT 301 9 "order2Eqa" }
+{TEXT -1 39 ", we collect the terms proportional to " }{XPPEDIT 18 0 "
+exp(I*omega[1]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"\"F'&%\"TG
+6#\"\"!F'" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "exp(I*omega[2]*T[0])" "
+-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"#F'&%\"TG6#\"\"!F'" }{TEXT -1 11 
+" and obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 134 "ST1[1]:=co
+mbine(subs(newVar1,[seq(coeff(expand(subs(omgRule[1],rhs(order2Eqa[i])
+)),exp(I*omega[1]*T[0])),i=1..2)])): display1(ST1[1]);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#7$,$-%%diffG6$&%\"AG6#\"\"\"&%\"TGF*!\"\",***&%&de
+ltaG6#\"\"#F+-%*conjugateG6#F(F+&F)F3F+-%$expG6#*(%\"IGF+&%&sigmaGF*F+
+F,F+F+!\"#*(F=F+F%F+&%&omegaGF*F+F.**F=F+&%#muGF*F+F(F+FBF+F@**&F2F*F+
+F5F+&%'LambdaGF*F+-F:6#,(F<F+*(F=F+&F?F3F+F,F+F+*&F=F+&%$tauGF*F+F+F+!
+\"'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 143 "ST1[2]:=combine(sub
+s(newVar1,[seq(coeff(expand(combine(subs(omgRule[2],rhs(order2Eqa[i]))
+)),exp(I*omega[2]*T[0])),i=3..4)])): display1(ST1[2]);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#7$,$-%%diffG6$&%\"AG6#\"\"#&%\"TG6#\"\"\"!\"\",**(
+&%&deltaGF*F/&F)F.F+-%$expG6#,$*(%\"IGF/&%&sigmaGF.F/F,F/F0F/F0**F;F/&
+%#muGF*F/F(F/&%&omegaGF*F/!\"#*(F;F/F%F/FAF/F0*&&%\"fGF*F/-F76#,&*(F;F
+/&F=F*F/F,F/F/*&F;F/&%$tauGF*F/F/F/#F/F+" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 118 "Then, the solvability conditions, conditions for the eli
+mination of the terms that produce secular terms, demand that " }
+{TEXT 302 6 "ST1[1]" }{TEXT -1 5 " and " }{TEXT 303 6 "ST1[2]" }{TEXT 
+-1 97 " be orthogonal to every solution of the corresponding adjoint p
+roblem, namely, the components of " }{TEXT 304 9 "ccleftVec" }{TEXT 
+-1 15 ". The result is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 72 "S
+Cond1:=[seq(multiply(ccleftVec[i],ST1[i])=0,i=1..2)]: display1(SCond1)
+;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/,**(%\"IG\"\"\"-%%diffG6$&%\"A
+G6#F(&%\"TGF.F(&%&omegaGF.F(!\"#**&%&deltaG6#\"\"#F(-%*conjugateG6#F,F
+(&F-F7F(-%$expG6#*(F'F(&%&sigmaGF.F(F/F(F(F3**F'F(&%#muGF.F(F,F(F1F(F3
+**&F6F.F(F9F(&%'LambdaGF.F(-F>6#,(F@F(*(F'F(&FBF7F(F/F(F(*&F'F(&%$tauG
+F.F(F(F(!\"'\"\"!/,**(F'F(-F*6$F<F/F(&F2F7F(F3*(F5F(F,F8-F>6#,$F@!\"\"
+F(Fhn**F'F(&FEF7F(F<F(FYF(F3*&&%\"fGF7F(-F>6#,&FMF(*&F'F(&FQF7F(F(F(#F
+(F8FS" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Solving " }{TEXT 305 6 "S
+Cond1" }{TEXT -1 5 " for " }{XPPEDIT 18 0 "diff(A[1],T[1])" "-%%diffG6
+$&%\"AG6#\"\"\"&%\"TG6#\"\"\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "dif
+f(A[2],T[1])" "-%%diffG6$&%\"AG6#\"\"#&%\"TG6#\"\"\"" }{TEXT -1 7 " yi
+elds" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 127 "SCond1Rule1:=combi
+ne(expand(solve(\{SCond1[]\},\{diff(A[1](T[1],T[2]),T[1]),diff(A[2](T[
+1],T[2]),T[1])\}))): display1(SCond1Rule1);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#<$/-%%diffG6$&%\"AG6#\"\"\"&%\"TGF*,(*.%\"IGF+&%&omegaG
+F*!\"\"-%$expG6#*(F0F+&%&sigmaGF*F+F,F+F+&%&deltaG6#\"\"#F+-%*conjugat
+eG6#F(F+&F)F<F+F+*&&%#muGF*F+F(F+F3*.F0F+F1F3&F;F*F+F>F+&%'LambdaGF*F+
+-F56#,(F7F+*(F0F+&F9F<F+F,F+F+*&F0F+&%$tauGF*F+F+F+\"\"$/-F&6$FAF,,(*,
+F0F+&F2F<F3F:F+F(F=-F56#,$F7F3F+#F+F=*&FAF+&FDF<F+F3**F0F+FWF3&%\"fGF<
+F+-F56#,&FLF+*&F0F+&FPF<F+F+F+#F3\"\"%" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 26 "whose complex conjugate is" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 40 "ccSCond1Rule1:=subs(ccRule,SCond1Rule1):" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 23 "With these conditions, " }{TEXT 306 9 "or
+der2Eqa" }{TEXT -1 189 " are solvable. However, their solutions are no
+t unique. To render them unique, we demand that they be orthogonal to \+
+solutions of the corresponding adjoint problems; that is, we damand th
+at " }{XPPEDIT 18 0 "[u[1,2],v[1,2]]" "7$&%\"uG6$\"\"\"\"\"#&%\"vG6$\"
+\"\"\"\"#" }{TEXT -1 18 " be orthogonal to " }{TEXT 307 12 "ccleftVec[
+1]" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "[u[2,2],v[2,2]]" "7$&%\"uG6$\"
+\"#\"\"#&%\"vG6$\"\"#\"\"#" }{TEXT -1 18 " be orthogonal to " }{TEXT 
+308 12 "ccleftVec[2]" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 53 "Next, we use the solvability conditions to eliminate " }
+{XPPEDIT 18 0 "diff(A[1],T[1])" "-%%diffG6$&%\"AG6#\"\"\"&%\"TG6#\"\"
+\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "diff(A[2],T[1])" "-%%diffG6$&%
+\"AG6#\"\"#&%\"TG6#\"\"\"" }{TEXT -1 6 " from " }{TEXT 309 9 "order2Eq
+a" }{TEXT -1 44 ". To simplify the resulting equations using " }{TEXT 
+310 5 "Maple" }{TEXT -1 23 ", we replace the scale " }{XPPEDIT 18 0 "T
+[1]" "&%\"TG6#\"\"\"" }{TEXT -1 4 " in " }{TEXT 311 11 "SCond1Rule1" }
+{TEXT -1 6 " with " }{XPPEDIT 18 0 "epsilon*T[0]" "*&%(epsilonG\"\"\"&
+%\"TG6#\"\"!F$" }{TEXT -1 50 ". To this end, we express the detuning p
+arameters " }{XPPEDIT 18 0 "sigma[i]" "&%&sigmaG6#%\"iG" }{TEXT -1 17 
+" in terms of the " }{XPPEDIT 18 0 "omega[i]" "&%&omegaG6#%\"iG" }
+{TEXT -1 5 " and " }{XPPEDIT 18 0 "Omega" "I&OmegaG6\"" }{TEXT -1 3 " \+
+as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "sigRule:=solve(Resona
+nceCond,\{sigma[1],sigma[2]\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(
+sigRuleG<$/&%&sigmaG6#\"\"#*&,&%&OmegaG\"\"\"&%&omegaGF)!\"\"F.%(epsil
+onGF1/&F(6#F.*&,&F/F.&F0F5!\"#F.F2F1" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 12 "and replace " }{XPPEDIT 18 0 "T[1]" "&%\"TG6#\"\"\"" }{TEXT -1 
+6 " with " }{XPPEDIT 18 0 "epsilon*T[0]" "*&%(epsilonG\"\"\"&%\"TG6#\"
+\"!F$" }{TEXT -1 15 " using the rule" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 75 "newVar2:=seq(I*sigma[i]*T[1]=subs(sigRule,I*sigma[i]*
+epsilon*T[0]),i=1..2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(newVar2G6
+$/*(%\"IG\"\"\"&%&sigmaG6#F)F)&%\"TGF,F)*(F(F),&&%&omegaG6#\"\"#F)&F2F
+,!\"#F)&F.6#\"\"!F)/*(F(F)&F+F3F)F-F)*(F(F),&%&OmegaGF)F1!\"\"F)F7F)" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 10 "Using the " }{TEXT 262 7 "newVa
+r2" }{TEXT -1 13 ", we rewrite " }{TEXT 263 10 "SCond1Rule" }{TEXT -1 
+5 " and " }{TEXT 264 12 "ccSCond1Rule" }{TEXT -1 3 " as" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 58 "SCond1f:=subs(newVar2,`union`(SCond
+1Rule1,ccSCond1Rule1)):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 59 "Substi
+tuting this form for the solvability conditions into " }{TEXT 312 9 "o
+rder2Eqa" }{TEXT -1 7 " yields" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 43 "order2Eqm:=expand(subs(SCond1f,order2Eqa)):" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 94 "Next, we use the method of undetermined coeffic
+ients to determine the particular solutions of " }{TEXT 313 9 "order2E
+qm" }{TEXT -1 97 ". To accomplish this, we first identify the form of \+
+the nonhomogeneous terms. To this end, we let" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 117 "basicH:=`union`(seq(\{A[i](T[1],T[2])*exp(I*ome
+ga[i]*T[0]),conjugate(A[i])(T[1],T[2])*exp(-I*omega[i]*T[0])\},i=1..2)
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'basicHG<&*&--%*conjugateG6#&%
+\"AG6#\"\"#6$&%\"TG6#\"\"\"&F1F-F3-%$expG6#,$*(%\"IGF3&%&omegaGF-F3&F1
+6#\"\"!F3!\"\"F3*&-&F,F2F/F3-F66#*(F:F3&F<F2F3F=F3F3*&-F+F/F3-F66#F9F3
+*&--F)6#FCF/F3-F66#,$FFF@F3" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+106 "collectForm:=`union`(basicH,\{Lambda[1]*exp(I*Omega*T[0]+I*tau[1]
+),Lambda[1]*exp(-I*Omega*T[0]-I*tau[1])\});" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%,collectFormG<(*&--%*conjugateG6#&%\"AG6#\"\"#6$&%\"T
+G6#\"\"\"&F1F-F3-%$expG6#,$*(%\"IGF3&%&omegaGF-F3&F16#\"\"!F3!\"\"F3*&
+-&F,F2F/F3-F66#*(F:F3&F<F2F3F=F3F3*&-F+F/F3-F66#F9F3*&--F)6#FCF/F3-F66
+#,$FFF@F3*&&%'LambdaGF2F3-F66#,&*(F:F3%&OmegaGF3F=F3F3*&F:F3&%$tauGF2F
+3F3F3*&FTF3-F66#,&FYF@FenF@F3" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 "
+Then, the possible form of the nonhomogeneous terms in " }{TEXT 314 9 
+"order2Eqm" }{TEXT -1 3 " is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 148 "possibleTerms:=[expand(`union`(collectForm,\{exp(I*Omega*T[0]+I
+*tau[2]),exp(-I*Omega*T[0]-I*tau[2])\},map(x->seq(i*x,i=collectForm),c
+ollectForm)))[]]:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 66 "Using the me
+thod of undetermined coefficients, we assume that the " }{XPPEDIT 18 
+0 "u[i,2]" "&%\"uG6$%\"iG\"\"#" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "v[
+i,2]" "&%\"vG6$%\"iG\"\"#" }{TEXT -1 102 " are linear combinations of \+
+these possible terms, substitute the result into the governing equatio
+ns, " }{TEXT 315 9 "order2Eqm" }{TEXT -1 490 ", equate the coefficient
+s of each of the possible terms on both sides of each equation, and ob
+tain a system of nonhomogeneous algebraic equations governing the unkn
+own coefficients. Associated with each possible term is a pair of two \+
+algebraic equations. The solutions of all pairs, except those associat
+ed with resonance terms, are unique. The solutions of the pairs corres
+ponding to the possible resonance terms are rendered unique by requiri
+ng them to be orthogonal to the components of " }{TEXT 316 9 "ccleftVe
+c" }{TEXT -1 51 ". The possible resonance terms are proportional to " 
+}{XPPEDIT 18 0 "exp(I*omega[1]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG
+6#\"\"\"F'&%\"TG6#\"\"!F'" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "exp(I*omeg
+a[2]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"#F'&%\"TG6#\"\"!F'" 
+}{TEXT -1 40 ", and their complex conjugates; that is," }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 143 "RTpos:=seq(map(x->if has(x,T[0]) t
+hen 0 else 1 fi,subs(newVar1,expand(combine(exp(-I*omega[i]*T[0])*subs
+(omgRule[i],possibleTerms))))),i=1..2);" }}{PARA 12 "" 1 "" {XPPMATH 
+20 "6#>%&RTposG6$7?\"\"\"\"\"!F(F(F(F(F(F(F(F(F(F(F(F'F(F(F(F(F(F(F(F'
+F(F(F(F(F(F(F(7?F(F'F(F'F(F(F(F(F(F(F(F(F(F(F(F'F(F(F(F'F(F(F(F(F(F(F(
+F(F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "RT:=seq([op(\{zip(`
+*`,RTpos[i],possibleTerms)[]\} minus \{0\})],i=1..2): display1(RT);" }
+}{PARA 12 "" 1 "" {XPPMATH 20 "6$7%*&&%\"AG6#\"\"\"F(-%$expG6#*(%\"IGF
+(&%&omegaGF'F(&%\"TG6#\"\"!F(F(**-%*conjugateG6#F%F(F)!\"\"&F&6#\"\"#F
+(-F*6#*(F-F(&F/F:F(F0F(F(*,&%'LambdaGF'F(-F*6#*(F-F(%&OmegaGF(F0F(F(-F
+*6#*&F-F(&%$tauGF'F(F(F5F(F)F87&*&F9F(F<F(*(FAF(FCF(FGF(*&F%F;F)F;*&FC
+F(-F*6#*&F-F(&FKF:F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "Hence, \+
+the coefficients of " }{TEXT 317 5 "RT[1]" }{TEXT -1 32 " in the nonho
+mogeneous terms in " }{TEXT 318 12 "order2Eqm[1]" }{TEXT -1 4 " are" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 76 "r1Rule:=seq(r[1,i]=coeffic
+ient(rhs(order2Eqm[1]),RT[1,i]),i=1..nops(RT[1]));" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%'r1RuleG6%/&%\"rG6$\"\"\"F*&%#muG6#F*/&F(6$F*\"\"#,
+$*(%\"IGF*&%&omegaGF-!\"\"&%&deltaG6#F1F*F7/&F(6$F*\"\"$,$*(F4F*F5F7&F
+9F-F*!\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 24 "and the coefficients
+ of " }{TEXT 319 5 "RT[1]" }{TEXT -1 32 " in the nonhomogeneous terms \+
+in " }{TEXT 320 12 "order2Eqm[2]" }{TEXT -1 4 " are" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 76 "r2Rule:=seq(r[2,i]=coefficient(rhs(order2
+Eqm[2]),RT[1,i]),i=1..nops(RT[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%'r2RuleG6%/&%\"rG6$\"\"#\"\"\",$*(%\"IGF+&%#muG6#F+F+&%&omegaGF1F+!
+\"\"/&F(6$F*F*,$&%&deltaG6#F*F4/&F(6$F*\"\"$,$&F:F1!\"$" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 15 "It follows from" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 81 "seq(subs(r1Rule,r2Rule,multiply(ccleftVec[1],[r[
+1,i],r[2,i]])),i=1..nops(RT[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6%
+\"\"!F#F#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 15 "that the parts " }
+{TEXT 321 6 "r1Rule" }{TEXT -1 5 " and " }{TEXT 322 6 "r2Rule" }{TEXT 
+-1 71 " are orthogonal to the solution of the adjoint, the first compo
+nent of " }{TEXT 323 9 "ccleftVec" }{TEXT -1 17 ", as they should." }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "Similarly, the coefficients of " 
+}{TEXT 324 5 "RT[2]" }{TEXT -1 32 " in the nonhomogeneous terms in " }
+{TEXT 325 12 "order2Eqm[3]" }{TEXT -1 4 " are" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 76 "r3Rule:=seq(r[3,i]=coefficient(rhs(order2Eqm[3])
+,RT[2,i]),i=1..nops(RT[2]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'r3R
+uleG6&/&%\"rG6$\"\"$\"\"\",$*(%\"IGF+&%&omegaG6#\"\"#!\"\"&%&deltaGF1F
++#F3F2/&F(6$F*F2,$*(F.F+F/F3&%\"fGF1F+#F+\"\"%/&F(6$F*F*&%#muGF1/&F(6$
+F*F?\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 24 "and the coefficients
+ of " }{TEXT 326 5 "RT[2]" }{TEXT -1 32 " in the nonhomogeneous terms \+
+in " }{TEXT 327 12 "order2Eqm[4]" }{TEXT -1 4 " are" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 76 "r4Rule:=seq(r[4,i]=coefficient(rhs(order2
+Eqm[4]),RT[2,i]),i=1..nops(RT[2]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%'r4RuleG6&/&%\"rG6$\"\"%\"\"\",$&%&deltaG6#\"\"##!\"\"F0/&F(6$F*F0,
+$&%\"fGF/#F+F*/&F(6$F*\"\"$,$*(%\"IGF+&%#muGF/F+&%&omegaGF/F+F2/&F(6$F
+*F*\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 22 "Again, it follows fro
+m" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 81 "seq(subs(r3Rule,r4Rule
+,multiply(ccleftVec[2],[r[3,i],r[4,i]])),i=1..nops(RT[2]));" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6&\"\"!F#F#F#" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 16 "that the vector " }{XPPEDIT 18 0 "[r[3,i],r[4,i]]" "7$&%
+\"rG6$\"\"$%\"iG&F$6$\"\"%F'" }{TEXT -1 71 " is orthogonal to the solu
+tion of the adjoint, the second component of " }{TEXT 328 9 "ccleftVec
+" }{TEXT -1 15 ", as it should." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+38 "The complement of the resonance terms " }{TEXT 329 2 "RT" }{TEXT 
+-1 4 " in " }{TEXT 330 13 "possibleTerms" }{TEXT -1 40 " yields the no
+nresonance terms; that is," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+97 "NRT:=seq([op(\{possibleTerms[]\} minus `union`(\{RT[i][]\},\{expan
+d(subs(ccRule,RT[i]))[]\}))],i=1..2):" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 139 "To implement the method of undetermined coefficients, we
+ associate with each possible resonance term an unknown coefficient us
+ing the rules" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "RTsymbolLi
+st[1]:=[seq(Gamma[1,j],j=1..nops(RT[1]))];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>&%-RTsymbolListG6#\"\"\"7%&%&GammaG6$F'F'&F*6$F'\"\"#&
+F*6$F'\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "RTsymbolList
+[2]:=[seq(Gamma[3,j],j=1..nops(RT[2]))];" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>&%-RTsymbolListG6#\"\"#7&&%&GammaG6$\"\"$\"\"\"&F*6$F,F'&F*6$F,
+F,&F*6$F,\"\"%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 95 "And, we associa
+te with each possible nonresonance term two unknown coefficients using
+ the rules" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "NRTsymbolList
+[1]:=seq([seq(Lambda[i,j],j=1..nops(NRT[1]))],i=1..2):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "NRTsymbolList[2]:=seq([seq(Lambda[i
+,j],j=1..nops(NRT[2]))],i=3..4):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+45 "Accounting for the orthogonality conditions, " }{XPPEDIT 18 0 "[u[
+1,2],v[1,2]]" "7$&%\"uG6$\"\"\"\"\"#&%\"vG6$\"\"\"\"\"#" }{TEXT -1 23 
+" must be orthogonal to " }{TEXT 331 12 "ccleftVec[1]" }{TEXT -1 5 " a
+nd " }{XPPEDIT 18 0 "[u[2,2],v[2,2]]" "7$&%\"uG6$\"\"#\"\"#&%\"vG6$\"
+\"#\"\"#" }{TEXT -1 23 " must be orthogonal to " }{TEXT 332 12 "ccleft
+Vec[2]" }{TEXT -1 27 ", for the resonance terms, " }{TEXT 333 2 "RT" }
+{TEXT -1 13 ", we express " }{XPPEDIT 18 0 "u[i,2]" "&%\"uG6$%\"iG\"\"
+#" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "v[i,2]" "&%\"vG6$%\"iG\"\"#" }
+{TEXT -1 23 " in the following form:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 46 "assign(seq(ratio[i]=-ccleftVec[i][1],i=1..2));" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 338 "sol2Form:=seq([u[i,2](timeS
+cales)=multiply(RTsymbolList[i],RT[i])+multiply(map(conjugate,RTsymbol
+List[i]),subs(ccRule,RT[i]))+multiply(NRTsymbolList[i][1],NRT[i]),v[i,
+2](timeScales)=ratio[i]*multiply(RTsymbolList[i],RT[i])+multiply(map(c
+onjugate,RTsymbolList[i]),subs(ccRule,ratio[i]*RT[i]))+multiply(NRTsym
+bolList[i][2],NRT[i])],i=1..2):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+13 "Substituting " }{TEXT 334 8 "sol2Form" }{TEXT -1 6 " into " }
+{TEXT 335 9 "order2Eqm" }{TEXT -1 41 " and collecting the coefficients
+ of like " }{TEXT 336 3 "NRT" }{TEXT -1 46 ", we obtain two sets of al
+gebraic equations as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 111 "eq
+611b:=seq(map(x->coefficient(expand(subs(sol2Form,lhs(order2Eqm[i])-rh
+s(order2Eqm[i]))),x)=0,NRT[1]),i=1..2);" }}{PARA 12 "" 1 "" {XPPMATH 
+20 "6#>%'eq611bG6$79/,&*(%\"IG\"\"\"&%'LambdaG6$F+F+F+&%&omegaG6#\"\"#
+F+F2&F-6$F2F+!\"\"\"\"!/,(*(F*F+&F-6$F+F2F+F/F+F+&F-6$F2F2F5*(F*F+F:F+
+&F06#F+F+F+F6/,&*(F*F+&F-6$F+\"\"$F+F?F+F2&F-6$F2FFF5F6/,&&F-6$F2\"\"%
+F5*(F*F+&F-6$F+FMF+%&OmegaGF+F+F6/,&&F-6$F2\"\"&F5*(F*F+&F-6$F+FVF+FQF
++F5F6/,$&F-6$F2\"\"'F5F6/,$&F-6$F2\"\"(F5F6/,(*(F*F+&F-6$F+\"\")F+FQF+
+F+&F-6$F2FcoF5*(F*F+FaoF+F/F+F+F6/,(*(F*F+&F-6$F+\"\"*F+F?F+F5*(F*F+Fj
+oF+F/F+F5&F-6$F2F\\pF5F6/,(*(F*F+&F-6$F+\"#5F+FQF+F5*(F*F+FcpF+F/F+F5&
+F-6$F2FepF5F6/,$&F-6$F2\"#6F5F6/,(*(F*F+&F-6$F+\"#7F+F?F+F5*(F*F+FaqF+
+FQF+F5&F-6$F2FcqF5F6/,(*(F*F+&F-6$F+\"#8F+FQF+F5*(F*F+FjqF+F/F+F+&F-6$
+F2F\\rF5F6/,(&F-6$F2\"#9F5*(F*F+&F-6$F+FdrF+F/F+F5*(F*F+FfrF+FQF+F+F6/
+,(&F-6$F2\"#:F5*(F*F+&F-6$F+F]sF+FQF+F+*(F*F+F_sF+F?F+F+F6/,&*(F*F+&F-
+6$F+\"#;F+F/F+!\"#&F-6$F2FgsF5F6/,&&F-6$F2\"#<F5*(F*F+&F-6$F+F_tF+F/F+
+F5F6/,&*(F*F+&F-6$F+\"#=F+F?F+Fhs&F-6$F2FhtF5F6/,&&F-6$F2\"#>F5*(F*F+&
+F-6$F+F_uF+F/F+F+F6/,&*(F*F+&F-6$F+\"#?F+FQF+F2&F-6$F2FhuF5F6/,&&F-6$F
+2\"#@F5*(F*F+&F-6$F+F_vF+FQF+F5F6/,&&F-6$F2\"#AF5*(F*F+&F-6$F+FgvF+FQF
++F+F6/,&*(F*F+&F-6$F+\"#BF+FQF+Fhs&F-6$F2F`wF5F679/,(&%&deltaG6#FFF+*(
+F*F+F3F+F/F+F2*&F?F2F,F+F+F6/,**(F*F+F<F+F?F+F+*&F?F2F:F+F+&FgwF1F2*(F
+*F+F<F+F/F+F+F6/,(*&F?F2FDF+F+*(F*F+FGF+F?F+F2&FgwF@FFF6/,&*(F*F+FKF+F
+QF+F+*&F?F2FOF+F+F6/,&*&F?F2FXF+F+*(F*F+FTF+FQF+F5F6/,&*&F?F2&F-6$F+Fh
+nF+F+FexFhnF6/,&FfwF2*&F?F2&F-6$F+F]oF+F+F6/,**(F*F+FdoF+F/F+F+*(F*F+F
+doF+FQF+F+F_xF2*&F?F2FaoF+F+F6/,**&F?F2FjoF+F+*(F*F+F^pF+F/F+F5*(F*F+F
+^pF+F?F+F5F_xF2F6/,*F_xF2*(F*F+FgpF+F/F+F5*(F*F+FgpF+FQF+F5*&F?F2FcpF+
+F+F6/,&FexFhn*&F?F2&F-6$F+F]qF+F+F6/,**&F?F2FaqF+F+*(F*F+FeqF+F?F+F5*(
+F*F+FeqF+FQF+F5FexFhnF6/,**&F?F2FjqF+F+*(F*F+F^rF+FQF+F5F_xF2*(F*F+F^r
+F+F/F+F+F6/,**(F*F+FbrF+FQF+F+*(F*F+FbrF+F/F+F5*&F?F2FfrF+F+F_xF2F6/,*
+FexFhn*&F?F2F_sF+F+*(F*F+F[sF+FQF+F+*(F*F+F[sF+F?F+F+F6/,(FfwF+*(F*F+F
+isF+F/F+Fhs*&F?F2FesF+F+F6/,&*&F?F2FatF+F+*(F*F+F]tF+F/F+F5F6/,(FexFF*
+(F*F+FitF+F?F+Fhs*&F?F2FftF+F+F6/,&*(F*F+F]uF+F/F+F+*&F?F2FauF+F+F6/,(
+FexFF*&F?F2FfuF+F+*(F*F+FiuF+FQF+F2F6/,(*(F*F+F]vF+FQF+F5*&F?F2FavF+F+
+*(F*F+&%#muGF@F+FQF+FhsF6/,(*&F?F2FivF+F+Fh]lF2*(F*F+FevF+FQF+F+F6/,(*
+&F?F2F^wF+F+*(F*F+FawF+FQF+FhsFexFFF6" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 111 "eq611c:=seq(map(x->coefficient(expand(subs(sol2Form,
+lhs(order2Eqm[i])-rhs(order2Eqm[i]))),x)=0,NRT[2]),i=3..4);" }}{PARA 
+12 "" 1 "" {XPPMATH 20 "6#>%'eq611cG6$77/,&*(%\"IG\"\"\"&%'LambdaG6$\"
+\"$F+F+&%&omegaG6#\"\"#F+F3&F-6$\"\"%F+!\"\"\"\"!/,(*(F*F+&F-6$F/F3F+F
+0F+F+*(F*F+F<F+&F16#F+F+F+&F-6$F6F3F7F8/,$&F-6$F6F/F7F8/,$&F-6$F6F6F7F
+8/,(*(F*F+&F-6$F/\"\"&F+%&OmegaGF+F+*(F*F+FNF+F?F+F7&F-6$F6FPF7F8/,(*(
+F*F+&F-6$F/\"\"'F+FQF+F+*(F*F+FXF+F0F+F+&F-6$F6FZF7F8/,(*(F*F+&F-6$F/
+\"\"(F+F?F+F7*(F*F+F[oF+F0F+F+&F-6$F6F]oF7F8/,(&F-6$F6\"\")F7*(F*F+&F-
+6$F/FeoF+F0F+F7*(F*F+FgoF+F?F+F7F8/,(&F-6$F6\"\"*F7*(F*F+&F-6$F/F^pF+F
+0F+F7*(F*F+F`pF+FQF+F7F8/,$&F-6$F6\"#5F7F8/,(*(F*F+&F-6$F/\"#6F+F?F+F7
+*(F*F+F[qF+FQF+F7&F-6$F6F]qF7F8/,(*(F*F+&F-6$F/\"#7F+FQF+F7*(F*F+FdqF+
+F0F+F+&F-6$F6FfqF7F8/,(*(F*F+&F-6$F/\"#8F+FQF+F+*(F*F+F]rF+F0F+F7&F-6$
+F6F_rF7F8/,(*(F*F+&F-6$F/\"#9F+F?F+F+&F-6$F6FhrF7*(F*F+FfrF+FQF+F+F8/,
+&*(F*F+&F-6$F/\"#:F+F0F+!\"#&F-6$F6FasF7F8/,(*(F*F+&F-6$F/\"#;F+F?F+F+
+*(F*F+FhsF+FQF+F7&F-6$F6FjsF7F8/,(*(F*F+&F-6$F/\"#<F+F?F+F+*(F*F+FatF+
+F0F+F7&F-6$F6FctF7F8/,&*(F*F+&F-6$F/\"#=F+F?F+F7&F-6$F6F\\uF7F8/,&*(F*
+F+&F-6$F/\"#>F+F?F+F+&F-6$F6FduF7F8/,&*(F*F+&F-6$F/\"#?F+FQF+F3&F-6$F6
+F\\vF7F8/,&*(F*F+&F-6$F/\"#@F+FQF+Fbs&F-6$F6FdvF7F877/,(*&F0F3F,F+F+&%
+&deltaG6#F6F/*(F*F+F4F+F0F+F3F8/,*&F\\w6#F/F3*&F0F3F<F+F+*(F*F+FAF+F0F
++F+*(F*F+FAF+F?F+F+F8/,&&F\\wF2F3*&F0F3&F-6$F/F/F+F+F8/,&*&F0F3&F-6$F/
+F6F+F+F[wFZF8/,**(F*F+FSF+F?F+F7*(F*F+FSF+FQF+F+FhwF3*&F0F3FNF+F+F8/,*
+*(F*F+FfnF+F0F+F+*(F*F+FfnF+FQF+F+*&F0F3FXF+F+FawF3F8/,*FawF3*(F*F+F_o
+F+F0F+F+*(F*F+F_oF+F?F+F7*&F0F3F[oF+F+F8/,**&F0F3FgoF+F+FawF3*(F*F+Fco
+F+F0F+F7*(F*F+FcoF+F?F+F7F8/,**&F0F3F`pF+F+FawF3*(F*F+F\\pF+FQF+F7*(F*
+F+F\\pF+F0F+F7F8/,&FhwF3*&F0F3&F-6$F/FgpF+F+F8/,*FhwF3*(F*F+F_qF+FQF+F
+7*(F*F+F_qF+F?F+F7*&F0F3F[qF+F+F8/,**(F*F+FhqF+FQF+F7*(F*F+FhqF+F0F+F+
+FawF3*&F0F3FdqF+F+F8/,**(F*F+FarF+F0F+F7*&F0F3F]rF+F+FawF3*(F*F+FarF+F
+QF+F+F8/,**&F0F3FfrF+F+*(F*F+FirF+F?F+F+*(F*F+FirF+FQF+F+FhwF3F8/,(*&F
+0F3F_sF+F+*(F*F+FcsF+F0F+FbsF[wF/F8/,**(F*F+F\\tF+FQF+F7FhwF3*(F*F+F\\
+tF+F?F+F+*&F0F3FhsF+F+F8/,*FawF3*(F*F+FetF+F0F+F7*(F*F+FetF+F?F+F+*&F0
+F3FatF+F+F8/,&*&F0F3FjtF+F+*(F*F+F]uF+F?F+F7F8/,&*(F*F+FeuF+F?F+F+*&F0
+F3FbuF+F+F8/,(*&F0F3FjuF+F+*(F*F+F]vF+FQF+F3FhwF+F8/,(*&F0F3FbvF+F+Fhw
+F+*(F*F+FevF+FQF+FbsF8" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Solving \+
+" }{TEXT 337 6 "eq611b" }{TEXT -1 9 " for the " }{TEXT 338 16 "NRTsymb
+olList[1]" }{TEXT -1 11 ", we obtain" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 59 "coef11:=solve(map(op,\{eq611b\}),map(op,\{NRTsymbolLi
+st[1]\}));" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%'coef11G<P/&%'LambdaG6
+$\"\"#\"#=,$*(%\"IG\"\"\"&%&omegaG6#F/!\"\"&%&deltaGF2F/!\"#/&F(6$F*\"
+#;,$**F.F/&F56#\"\"$F/,&*$&F16#F*F*!\"%*$F0F*F/F3FBF/F*/&F(6$F/\"#8,$*
+&&F5FCF/,*FEF3*$%&OmegaGF*F/*&FBF/FOF/F6FAF/F3F*/&F(6$F/\"#9FJ/&F(6$F*
+\"#>\"\"!/&F(6$F*\"#6FY/&F(6$F*\"\"'FY/&F(6$F*\"\"(FY/&F(6$F*F?,$F-F*/
+&F(6$F*F*,$*,F.F/FLF/,&FBF/F0F/F/FBF3,&F0F*FBF/F3F*/&F(6$F*\"\"*,$FhoF
+6/&F(6$F*\"#:,$*,F.F/F4F/,&FOF/F0F/F/FOF3,&F0F*FOF/F3F[o/&F(6$F/\"\"&F
+Y/&F(6$F*\"#7,$Fep!\"'/&F(6$F*F/,$F<F6/&F(6$F*FT,$**F.F/FLF/,&FOF/FBF3
+F/FMF3F*/&F(6$F*\"#?,$**F.F/F4F/,&FEF3FN\"\"%F3FOF/F[o/&F(6$F*\"#B,$Fa
+rFaq/&F(6$F*\"#A,$*(FOF*&%#muGF2F/,&FEF3FNF/F3F6/&F(6$F/F[o,$*&F4F/F0F
+6Faq/&F(6$F*F[qFY/&F(6$F/FcrFY/&F(6$F/F^p,$*(FLF/FBF3FjoF3F*/&F(6$F*FI
+,$FjqF6/&F(6$F*FcrFY/&F(6$F/F_o,$*&F=F/F0F6F6/&F(6$F/F+Ffs/&F(6$F/F?Ff
+s/&F(6$F/FgnFes/&F(6$F*\"#@F]s/&F(6$F/F*F`t/&F(6$F*\"#5,$**F.F/FLF/,&F
+OF/FBF/F/,*FPF*FAF/FNF/FEF3F3F6/&F(6$F/F_q,$*(F4F/FOF3FgpF3F[o/&F(6$F/
+FXFY/&F(6$F/FcpFiv/&F(6$F/Fju,$**F.F/FOF/F_sF/FasF3F6/&F(6$F/Fgr,$*&F4
+F/FbrF3F?/&F(6$F/\"\"),$*&FLF/FevF3F*/&F(6$F/F:,$*&F=F/F@F3F3/&F(6$F/F
+/Fdx/&F(6$F/\"#<FY/&F(6$F/FavF_x/&F(6$F/F\\s,$FewF*/&F(6$F*F\\yFY/&F(6
+$F/F_rFiw/&F(6$F*F^x,$FcvF*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Sol
+ving " }{TEXT 339 6 "eq611c" }{TEXT -1 9 " for the " }{TEXT 340 16 "NR
+TsymbolList[2]" }{TEXT -1 11 ", we obtain" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 59 "coef12:=solve(map(op,\{eq611c\}),map(op,\{NRTsymbol
+List[2]\}));" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%'coef12G<L/&%'Lambda
+G6$\"\"$\"#:*&&%&deltaG6#\"\"%\"\"\"&%&omegaG6#\"\"#!\"#/&F(6$F*\"#5,$
+*&&F.F4F1F2F6F6/&F(6$F*\"\"',$*(&F.6#F*F1%&OmegaG!\"\",&F2F5FFF1FGF5/&
+F(6$F*F0,$F,!\"'/&F(6$F0\"\"),$*,%\"IGF1FDF1,&F2F1&F36#F1F1F1FVFG,&F2F
+5FVF1FGF6/&F(6$F*\"\"*FB/&F(6$F0\"\"(,$*,FTF1FDF1,&FVF1F2FGF1FVFG,&F2F
+6FVF1FGF6/&F(6$F0F5,$FSF5/&F(6$F*\"#8,$*(FDF1FFFG,&F2F6FFF1FGF5/&F(6$F
+0\"#9,$**FTF1F=F1,&FFF1FVF1F1,**&FVF1FFF1F5*$FFF5F1*$FVF5F1*$F2F5FGFGF
+5/&F(6$F*\"#>\"\"!/&F(6$F*\"#7Fgo/&F(6$F0F^q,$*,FTF1FDF1,&FFF1F2FGF1FF
+FGFioFGF6/&F(6$F0Ffo,$FcqF5/&F(6$F0\"#6,$F_pF6/&F(6$F*FQ,$*(FDF1FVFGFX
+FGF5/&F(6$F*F*F;/&F(6$F*Fjn,$*(FDF1FVFGF^oFGF5/&F(6$F0\"#;,$**FTF1F=F1
+,&FVFGFFF1F1,*FbpF6FcpF1FdpF1FepFGFGF6/&F(6$F0Ffn,$*,FTF1FDF1,&FFF1F2F
+1F1FFFGFHFGF6/&F(6$F*F5Far/&F(6$F0\"\"&,$F`sF5/&F(6$F0FA,$FgsF5/&F(6$F
+*\"#<Fir/&F(6$F0\"#?,$**FTF1F=F1,&FepFGFcpF0FGFFF1F5/&F(6$F*\"#@*&F=F1
+F_uFG/&F(6$F0Fcu,$F^uF6/&F(6$F0F1,$*(FTF1F-F1F2FGF5/&F(6$F0\"#=Fjp/&F(
+6$F0FipFjp/&F(6$F0F+,$F]vF6/&F(6$F*F\\uFdu/&F(6$F*F_t,$*&F=F1FbsFGF5/&
+F(6$F*F1F,/&F(6$F*F^sF_w/&F(6$F*FavFjp/&F(6$F0F:Fjp/&F(6$F0F*Fjp/&F(6$
+F0F0Fjp/&F(6$F*F\\r,$*&F=F1FapFGF5/&F(6$F0Fht,$F\\oF5/&F(6$F*F]pFfx" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Substituting " }{TEXT 341 8 "sol
+2Form" }{TEXT -1 6 " into " }{TEXT 342 9 "order2Eqm" }{TEXT -1 41 " an
+d collecting the coefficients of like " }{TEXT 343 2 "RT" }{TEXT -1 
+46 ", we obtain two sets of algebraic equations as" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 95 "eq1:=map(x->coefficient(expand(subs(sol2For
+m,lhs(order2Eqm[1])-rhs(order2Eqm[1]))),x)=0,RT[1]);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>%$eq1G7%/,&*(%\"IG\"\"\"&%&omegaG6#F*!\"\"&%&deltaG
+F-F*\"\"$*(F)F*&%&GammaG6$F*F*F*%&OmegaGF*F*\"\"!/,&*(F)F*&F46$F*\"\"#
+F*&F,6#F=F*F**(F)F*F+F.&F0F?F*F*F7/,&*(F)F*&F46$F*F1F*F+F*F=&%#muGF-F.
+F7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 95 "eq2:=map(x->coefficie
+nt(expand(subs(sol2Form,lhs(order2Eqm[3])-rhs(order2Eqm[3]))),x)=0,RT[
+2]);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%$eq2G7&/,(*(%\"IG\"\"\"&%&om
+egaG6#\"\"#!\"\"&%&deltaGF-F*#F*F.*(F)F*&%&GammaG6$\"\"$F*F*&F,6#F*F*F
+.*(F)F*F+F*F4F*F*\"\"!/,(*(F)F*F+F/&%\"fGF-F*#F/\"\"%*(F)F*&F56$F7F.F*
+%&OmegaGF*F**(F)F*F+F*FDF*F*F;/,&&%#muGF-F/*(F)F*&F56$F7F7F*F+F*F.F;/,
+&*(F)F*&F56$F7FBF*FFF*F**(F)F*F+F*FRF*F*F;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 8 "Solving " }{TEXT 344 3 "eq1" }{TEXT -1 5 " and " }{TEXT 
+345 3 "eq2" }{TEXT -1 9 " for the " }{TEXT 346 15 "RTsymbolList[1]" }
+{TEXT -1 5 " and " }{TEXT 347 15 "RTsymbolList[2]" }{TEXT -1 11 ", we \+
+obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "coef21:=solve(\{e
+q1[]\},\{RTsymbolList[1][]\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'c
+oef21G<%/&%&GammaG6$\"\"\"F*,$*(&%&deltaG6#F*F*&%&omegaGF/!\"\"%&Omega
+GF2!\"$/&F(6$F*\"\"$,$*(%\"IGF*&%#muGF/F*F0F2#F2\"\"#/&F(6$F*F?,$*(&F.
+6#F?F*&F1FFF2F0F2F2" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "coef
+22:=solve(\{eq2[]\},\{RTsymbolList[2][]\});" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'coef22G<&/&%&GammaG6$\"\"$\"\"%\"\"!/&F(6$F*F*,$*(%
+\"IG\"\"\"&%#muG6#\"\"#F3&%&omegaGF6!\"\"#F:F7/&F(6$F*F3,$*(&%&deltaGF
+6F3F8F:,&&F96#F3F7F8F3F:F;/&F(6$F*F7,$*(&%\"fGF6F3F8F:,&%&OmegaGF3F8F3
+F:#F3F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 54 "Combining these coeffi
+cients and using the condition, " }{TEXT 348 10 "omgRule[1]" }{TEXT 
+-1 6 " with " }{XPPEDIT 18 0 "epsilon=0" "/%(epsilonG\"\"!" }{TEXT -1 
+8 ", yields" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 140 "coefs:=subs
+(omgRule[1],epsilon=0,`union`(coef11,coef12,coef21,coef22,map(x->conju
+gate(lhs(x))=subs(ccRule,rhs(x)),`union`(coef21,coef22)))):" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 62 "Then, we express the solution of t
+he second-order equations as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 70 "sol2:=combine(expand(subs(coefs,map(op,[sol2Form])))): display1(
+sol2);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7&/&%\"uG6$\"\"\"\"\"#,T*(&%
+&deltaG6#F(F(&%&omegaGF.!\"#&%'LambdaGF.F)!\"'*,%\"IGF(&%#muGF.F(F/!\"
+\"F2F(-%$expG6#,&*(F6F(%&OmegaGF(&%\"TG6#\"\"!F(F9*&F6F(&%$tauGF.F(F9F
+(#!\"%\"\"$*,F6F(F7F(F/F9F2F(-F;6#,&F>F(FDF(F(#\"\"%FI**F,F(F/F1F2F)-F
+;6#,&F>F1FDF1F(#F(\"\"&**F,F(F/F1F2F)-F;6#,&F>F)FDF)F(FT*,F,F(F/F1-%*c
+onjugateG6#&%\"AGF.F(F2F(-F;6#,(*(F6F(F/F(F@F(F9F>F9FDF9F(#FIFO*,F,F(F
+/F1FenF(F2F(-F;6#,(F]oF9F>F(FDF(F(#!\"$F)*,F,F(F/F1F2F(FhnF(-F;6#,(F]o
+F(F>F9FDF9F(Fco**F,F(F/F1FenF)-F;6#,$F]oF1F(F(**F,F(F/F1FhnF(FenF(F4**
+F,F(F/F1FhnF)-F;6#,$F]oF)F(F(*,F6F(F7F(F/F9FhnF(-F;6#F]oF(#F9F)*,F6F(F
+7F(F/F9FenF(-F;6#,$F]oF9F(#F(F)*,F,F(F/F1F2F(FhnF(-F;6#,(F]oF(F>F(FDF(
+F(F^o*,&F-6#F)F(F/F1-Ffn6#&FinFaqF(FenF(-F;6#,&*(F6F(&F0FaqF(F@F(F9F]o
+F9F(#F(FO**&F-6#FIF(F/F1FdqF)-F;6#,$FhqF)F(#F(\"#:*,F`qF(F/F1F2F(FdqF(
+-F;6#,(FhqF(F>F(FDF(F(#F)Fbr*,F`qF(F/F1FbqF(F2F(-F;6#,(F>F(FhqF9FDF(F(
+F1*,F`qF(F/F1F2F(FdqF(-F;6#,(FhqF(F>F9FDF9F(F1**F\\rF(F/F1FbqF(FdqF(F1
+**F\\rF(F/F1FbqF)-F;6#,$FhqF1F(Far*,F`qF(F/F1FhnF(FdqF(-F;6#,&F]oF(Fhq
+F(F(Fjq*,F`qF(F/F1FbqF(F2F(-F;6#,(FhqF9F>F9FDF9F(Fgr*,F`qF(F/F1FhnF(Fb
+qF(-F;6#,&F]oF(FhqF9F(Fep*,F`qF(F/F1FenF(FdqF(-F;6#,&F]oF9FhqF(F(Fep/&
+%\"vGF',J*,F6F(F\\rF(F/F9FdqF)F^rF(#FOFbr*(F7F(FenF(FgpF(Fep*,F6F(F/F9
+F,F(F2F)FWF(#FOFU*.F6F(F/F9F`qF(FbqF(F2F(FjsF(#!\")Fbr*.F6F(F/F9F,F(Fe
+nF(F2F(FjnF(#!\"*FO*,F6F(F/F9F,F(F2F)FQF(#FHFU*.F6F(F/F9F,F(F2F(FhnF(F
+\\qF(#\"\"*FO*,F6F(F\\rF(F/F9FbqF)FbsF(#FHFbr*,F6F(F/F9F,F(FenF)FjoF(F
+1*(F7F(F2F(F:F(#F`uFI*(F7F(F2F(FKF(F]v*,F6F(F/F9F,F(FhnF)F_pF(F)*.F6F(
+F/F9F,F(F2F(FhnF(FfoF(Fco*.F6F(F/F9F`qF(F2F(FdqF(FdrF(#\"\")Fbr*.F6F(F
+/F9F`qF(FhnF(FbqF(F^tF(Fep*.F6F(F/F9F`qF(FhnF(FdqF(FfsF(F^o*.F6F(F/F9F
+`qF(FbqF(FenF(FeqF(#FdoFO*.F6F(F/F9F,F(FenF(F2F(F`oF(#FIF)*.F6F(F/F9F`
+qF(FenF(FdqF(FbtF(Fjp*(FcpF(FhnF(F7F(Fep/&F&6$F)F),T**F`qF(F/F1F2F)FQF
+(#F(\"#7*(&%\"fGFaqF(F/F1-F;6#,&F>F(*&F6F(&FFFaqF(F(F(#F(\"#K**F`qF(F/
+F1F2F)FWF(Faw*(FdwF(F/F1-F;6#,&F>F9FiwF9F(F[x*(F`qF(F/F1F2F)Fep*,F`qF(
+F/F1FhnF(F2F(F\\qF(#F)FU*,F`qF(F/F1FenF(F2F(F`oF(#F1FI**F`qF(F/F1FhnF(
+FenF(Fep*,F`qF(F/F1FenF(F2F(FjnF(Fdx*,F`qF(F/F1FhnF(F2F(FfoF(Ffx**F`qF
+(F/F1FenF)FjoF(#F9\"#;**F`qF(F/F1FhnF)F_pF(F[y*,F\\rF(F/F1FbqF(FenF(Fe
+qF(Fdx*,F\\rF(F/F1FhnF(FdqF(FfsF(Fdx*,F6F(&F8FaqF(F/F9FdqF(-F;6#FhqF(#
+F9FO*,F\\rF(F/F1FdqF(F2F(FdrF(#F(\"\"'**&F-6#FOF(F/F1FbqF(FdqF(Fco*,F
+\\rF(F/F1FbqF(F2F(FirF(Fep**FiyF(F/F1FdqF)F^rF(Fjq*,F\\rF(F/F1FdqF(F2F
+(F]sF(Fep*,F\\rF(F/F1FbqF(F2F(FjsF(Ffy**FiyF(F/F1FbqF)FbsF(Fjq*,F\\rF(
+F/F1FenF(FdqF(FbtF(Ffx*,F\\rF(F/F1FbqF(FhnF(F^tF(Ffx*,F6F(FayF(F/F9Fbq
+F(-F;6#,$FhqF9F(Fjq/&FgtF^w,J*.F6F(FiqF(F`qF(F/F1FhnF)F_pF(#F(F\\y*,F6
+F(FiqF(FdwF(F/F1FfwF(#F9F\\x*,FiqF(FayF(F/F9FdqF(FbyF(Fdy*.F6F(F/F9F`q
+F(F2F(FenF(F`oF(Ffx*.F6F(F\\rF(F/F9F2F(FdqF(FdrF(#F)FI*.F6F(F\\rF(F/F9
+FbqF(F2F(FjsF(Ffx*,F6F(F/F9F`qF(F2F)FQF(#F9FI*,F6F(F/F9F`qF(F2F)FWF(#F
+(FI*.F6F(F/F9F`qF(F2F(FenF(FjnF(#F4FU*.F6F(F/F9F`qF(F2F(FhnF(F\\qF(#Fg
+yFU*,F6F(FiyF(F/F9FbqF)FbsF(F9*,F6F(FiqF(FdwF(F/F1F_xF(F[x*.F6F(F`qF(F
+/F1FiqF(FenF)FjoF(F[y*,F6F(FiyF(F/F9FdqF)F^rF(F(*,FayF(F/F9FiqF(FbqF(F
+czF(Fdy*.F6F(F/F9F`qF(F2F(FhnF(FfoF(F`[l*.F6F(F\\rF(F/F9FbqF(FenF(FeqF
+(Fg[l*.F6F(F\\rF(F/F9FenF(FdqF(FbtF(Ffx*.F6F(F\\rF(F/F9FbqF(FhnF(F^tF(
+F`[l*.F6F(F\\rF(F/F9FhnF(FdqF(FfsF(Fi[l" }}}}{SECT 1 {PARA 20 "" 0 "" 
+{TEXT -1 19 "Third-Order Problem" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+81 "Substituting the first- and second-order solutions into the third-
+order problem, " }{TEXT 349 8 "order3Eq" }{TEXT -1 8 ", yields" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "order3Eqa:=expand(subs(sol1,
+sol2,order3Eq)):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 17 "Substituting \+
+the " }{TEXT 350 7 "omgRule" }{TEXT -1 30 " into the right-hand sides \+
+of " }{TEXT 351 9 "order3Eqa" }{TEXT -1 86 " and collecting the terms \+
+that could produce secular terms, the terms proportional to " }
+{XPPEDIT 18 0 "exp(I*omega[1]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6
+#\"\"\"F'&%\"TG6#\"\"!F'" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "exp(I*om
+ega[2]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"#F'&%\"TG6#\"\"!F'
+" }{TEXT -1 9 ", we have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+116 "ST2[1]:=combine(subs(newVar1,[seq(coeff(expand(subs(omgRule[1],rh
+s(order3Eqa[i]))),exp(I*omega[1]*T[0])),i=1..2)])):" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 135 "ST2[2]:=combine(subs(newVar1,epsilon=0,[
+seq(coeff(expand(combine(subs(omgRule[2],rhs(order3Eqa[i])))),exp(I*om
+ega[2]*T[0])),i=3..4)])):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 45 "Then
+, the solvability conditions demand that " }{TEXT 352 6 "ST2[1]" }
+{TEXT -1 5 " and " }{TEXT 353 6 "ST2[2]" }{TEXT -1 79 " be orthogonal \+
+to solutions of their corresponding adjoints, the components of " }
+{TEXT 354 9 "ccleftVec" }{TEXT -1 15 ". The result is" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "SCond2:=expand([seq(multiply(ccleft
+Vec[i],ST2[i])=0,i=1..2)]):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Sol
+ving " }{TEXT 355 6 "SCond2" }{TEXT -1 5 " for " }{XPPEDIT 18 0 "diff(
+A[1],T[2])" "-%%diffG6$&%\"AG6#\"\"\"&%\"TG6#\"\"#" }{TEXT -1 5 " and \+
+" }{XPPEDIT 18 0 "diff(A[2],T[2])" "-%%diffG6$&%\"AG6#\"\"#&%\"TG6#\"
+\"#" }{TEXT -1 9 ", we have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+127 "SCond2Rule1:=combine(expand(solve(\{SCond2[]\},\{diff(A[1](T[1],T
+[2]),T[2]),diff(A[2](T[1],T[2]),T[2])\}))): display1(SCond2Rule1);" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#<$/-%%diffG6$&%\"AG6#\"\"#&%\"TGF*,`o*
+2%\"IG\"\"\"&%&omegaGF*!\"$&%&deltaGF*F1&F)6#F1F1&F66#\"\"$F1&%'Lambda
+GF8F1-%*conjugateG6#F7F1-%$expG6#,&*(F0F1&%&sigmaGF*F1&F-F8F1F1*&F0F1&
+%$tauGF8F1F1F1#!#Y\"#:**F0F1F2!\"\"&%#muGF*F+F(F1#FPF+*0F0F1F2FP&%&alp
+haGF*F1F7F1F>F1F<F1FAF1F;*,F2!\"#-FB6#,$*(F0F1&FGF8F1FHF1FPF1FQF1F5F1F
+7F+#FP\"\"%*,F2FXFYF1F5F1F7F+&FRF8F1F1*2F0F1F2F4F5F1F7F1&F6F8F1F<F1F>F
+1FAF1!#F*.F0F1F2FP&FV6#FinF1F<F1F(F+-FB6#,&FEFPFIFPF1#F;F+*,F0F1F2F4F9
+F+-F?6#F(F1F(F+#!$;\"FN*,F0F1F2F4F(F+&F6FaoF+FgoF1!#:*.F0F1F2FP&FVF:F1
+F<F+FgoF1-FB6#,&FEF+FIF+F1F1*,F0F1F2FPF_pF1F<F+F(F1F+*,F0F1F2F4F<F+F9F
++F(F1#!\"%F;*.F0F1F2F4F9F1F]oF1F<F+F(F1!#C*,F0F1F2FP&FV6#\"\"&F1F(F+Fg
+oF1\"\"'*.F0F1F2F4F\\pF1F<F+F5F1F(F1!\"'*0F0F1F2F4F\\pF1F7F1F5F1F>F1F(
+F1F_q*.F0F1F2F4F7F1F5F+F>F1F(F1FP*.F0F1F2F4F7F1F9F+F>F1F(F1#!#;FN*.F0F
+1F2FPF_pF1F7F1F>F1F(F1F+*,F0F1F2F4F<F+F5F+F(F1#!$7\"FN*0F0F1F2F4F9F1F]
+oF1F<F+FgoF1F`pF1#FinF\\q*2F0F1F2F4F\\pF1F<F1F9F1FgoF1F(F1FAF1!#5*2F0F
+1F2F4F5F1F<F1F9F1FgoF1F(F1FAF1#!$K#FN*0F0F1F2F4F\\pF1F<F1F9F1F(F+FboF1
+!\"&*0F0F1F2F4F\\pF1F<F+F5F1FgoF1F`pF1F1*0F0F1F2F4F5F1F<F1F9F1F(F+FboF
+1Fio*0F0F1F2FPF`oF1F<F1FgoF1F(F1FAF1F;*.F0F1F2F4F<F+F5F+FgoF1F`pF1!\")
+*0F0F1F2F4F9F1F]oF1F7F1F>F1F(F1Fhp*.F0F1F2F4F<F+F9F+FgoF1F`pF1FX**F2FX
+FQF1&%\"fGF*F1-FB6#,&FEF1*&F0F1&FKF*F1F1F1#F1\"\")*,F0F1F2FPFUF1F<F;FA
+F1Feo*.F0F1F2F4F9F1F<F;F5F1FAF1#FarF;*.F0F1F2F4F5F1F<F;F]oF1FAF1#FjoF
+\\q/-F&6$F7F,,N*.&F3F8FXF5F1F>F1FQF1F(F1-FB6#FfnF1#F1Fin*.F]tFXF[oF1F^
+tF1F5F1F>F1F(F1FP*,F0F1F]tF4F7F+F5F+F>F1#!\"*\"#;*2F0F1F]tF4F9F1F7F1F5
+F1F(F1F<F1FboF1#!#B\"#I*.F0F1F]tF4F5F1F>F1FjrF1-FB6#,(FfnF1FEF1F_sF1F1
+#F1\"#K*2F0F1F]tF4F]oF1F7F1F5F1F<F1FgoF1FAF1#F^oFin*2F0F1F]tF4F]oF1F7F
+1F5F1F(F1F<F1FboF1Fau*0F0F1F]tFPFUF1F<F1F7F1FgoF1FAF1F;*0F0F1F]tFPFUF1
+F<F1F7F1F(F1FboF1F;*2F0F1F]tF4F9F1F7F1F5F1F<F1FgoF1FAF1Fgt*.F]oF1F]tFX
+F>F1F[oF1F<F1-FB6#,(FfnF1FEF1FIF1F1!\"(*,F0F1F]tF4F7F1F5F+F<F+Fgt*,F0F
+1F]tFP&FVF8F1F7F+F>F1F]q*,F0F1F]tFPF]vF1F7F1F<F+\"#7**F0F1F]tFPF7F1F[o
+F+FS*.F0F1F]tF4F7F1F9F+FgoF1F(F1#FfpFN*0F0F1F]tF4F5F1F7F1F\\pF1FgoF1F(
+F1#F4F+*.F0F1F]tFPF_pF1F7F1FgoF1F(F1F+*0F0F1F]tF4F]oF1F7F1F9F1FgoF1F(F
+1F_q*,F0F1F]tF4F7F1F]oF+F<F+#!#\")Fin*,F0F1F]tF4F7F+F]oF+F>F1F]p*.F0F1
+F]tF4F5F+F7F1FgoF1F(F1Fhn" }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 14 "R
+econstitution" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 36 "Using the method \+
+of reconstitution, " }{XPPEDIT 18 0 "diff(A[k](t),t)=epsilon*diff(A[k]
+(T[1],T[2]),T[1])+epsilon^2*diff(A[k](T[1],T[2]),T[2])" "/-%%diffG6$-&
+%\"AG6#%\"kG6#%\"tGF,,&*&%(epsilonG\"\"\"-F$6$-&F(6#F*6$&%\"TG6#\"\"\"
+&F86#\"\"#&F86#\"\"\"F0F0*&F/\"\"#-F$6$-&F(6#F*6$&F86#\"\"\"&F86#\"\"#
+&F86#\"\"#F0F0" }{TEXT -1 54 " + ..., we combine the partial-different
+ial equations " }{TEXT 356 11 "SCond1Rule1" }{TEXT -1 5 " and " }
+{TEXT 357 11 "SCond2Rule1" }{TEXT -1 113 " into the following two ordi
+nary-differential equations governing the modulation of the complex-va
+lued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }{TEXT -1 2 " :
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 152 "moduEq:=collect(subs(S
+Cond1Rule1,SCond2Rule1,[seq(2*I*omega[i]*diff(A[i](t),t)=2*I*omega[i]*
+dt[1](A[i](T[1],T[2])),i=1..2)]),epsilon): display1(moduEq);" }}{PARA 
+12 "" 1 "" {XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F(-%%diffG6$-
+&%\"AGF+6#%\"tGF3F(\"\"#,&**F'F(F)F(,N*.F)!\"#&%&deltaG6#F4F(-%*conjug
+ateG6#F0F(&%#muGF<F(&F1F<F(-%$expG6#*(F'F(&%&sigmaGF+F(&%\"TGF+F(F(#F(
+\"\"%*.F)F9&FAF+F(FCF(F:F(F=F(FBF(!\"\"*,F'F(F)!\"$F0F4F:F4F=F(#!\"*\"
+#;*2F'F(F)FQ&F;6#\"\"$F(F0F(F:F(FBF(&%'LambdaGF+F(-FD6#,&*(F'F(&FHF<F(
+FIF(FO*&F'F(&%$tauGF+F(FOF(#!#B\"#I*.F'F(F)FQF:F(F=F(&%\"fGF<F(-FD6#,(
+FFF(FhnF(*&F'F(&F\\oF<F(F(F(#F(\"#K*2F'F(F)FQ&F;F+F(F0F(F:F(FYF(-F>6#F
+BF(-FD6#,&FhnF(FjnF(F(#!#FFL*2F'F(F)FQF[pF(F0F(F:F(FBF(FYF(FenF(Fap*0F
+'F(F)FO&%&alphaGF<F(FYF(F0F(F\\pF(F^pF(FX*0F'F(F)FOFepF(FYF(F0F(FBF(Fe
+nF(FX*2F'F(F)FQFVF(F0F(F:F(FYF(F\\pF(F^pF(F]o*.F[pF(F)F9F=F(FNF(FYF(-F
+D6#,(FFF(FhnF(FjnF(F(!\"(*,F'F(F)FQF0F(F:F4FYF4F]o*,F'F(F)FO&FfpF+F(F0
+F4F=F(\"\"'*,F'F(F)FOF`qF(F0F(FYF4\"#7**F'F(F)FOF0F(FNF4#FOF4*.F'F(F)F
+QF0F(FVF4F\\pF(FBF(#!\"%\"#:*0F'F(F)FQF:F(F0F(&F;6#FLF(F\\pF(FBF(#FQF4
+*.F'F(F)FO&FfpFWF(F0F(F\\pF(FBF(F4*0F'F(F)FQF[pF(F0F(FVF(F\\pF(FBF(!\"
+'*,F'F(F)FQF0F(F[pF4FYF4#!#\")FL*,F'F(F)FQF0F4F[pF4F=F(!#:*.F'F(F)FQF:
+F4F0F(F\\pF(FBF(#FOFLF(%(epsilonGF4F4**F'F(F)F(,(*.F'F(FCF(F)FOF:F(F=F
+(FBF(F(*&F0F(FNF(FO*.F'F(F)FOF[pF(F=F(FYF(FjpF(FXF(FirF(F4/,$*(F'F(&F*
+F<F(-F-6$-FBF2F3F(F4,&**F'F(FbsF(,`o*2F'F(FbsFQF:F(F0F(FVF(FYF(F=F(F^p
+F(#!#YFiq**F'F(FbsFOF@F4FBF(Feq*0F'F(FbsFOFepF(F0F(F=F(FYF(F^pF(FX*,Fb
+sF9-FD6#,$FFFOF(F@F(F:F(F0F4Fhr*,FbsF9F_tF(F:F(F0F4FNF(F(*2F'F(FbsFQF:
+F(F0F(F[pF(FYF(F=F(F^pF(Fbp*.F'F(FbsFO&FfpF\\rF(FYF(FBF4FenF(#FXF4*,F'
+F(FbsFQFVF4F\\pF(FBF4#!$;\"Fiq*,F'F(FbsFQFBF4F[rF4F\\pF(Ffr*.F'F(FbsFO
+F_rF(FYF4F\\pF(-FD6#,&FhnF4FjnF4F(F(*,F'F(FbsFOF_rF(FYF4FBF(F4*,F'F(Fb
+sFQFYF4FVF4FBF(#FhqFX*.F'F(FbsFQFVF(F[pF(FYF4FBF(!#C*,F'F(FbsFO&Ffp6#
+\"\"&F(FBF4F\\pF(Faq*.F'F(FbsFQF[rF(FYF4F:F(FBF(Far*0F'F(FbsFQF[rF(F0F
+(F:F(F=F(FBF(Far*.F'F(FbsFQF0F(F:F4F=F(FBF(FO*.F'F(FbsFQF0F(FVF4F=F(FB
+F(#!#;Fiq*.F'F(FbsFOF_rF(F0F(F=F(FBF(F4*,F'F(FbsFQFYF4F:F4FBF(#!$7\"Fi
+q*0F'F(FbsFQFVF(F[pF(FYF4F\\pF(F\\uF(#FLFgu*2F'F(FbsFQF[rF(FYF(FVF(F\\
+pF(FBF(F^pF(!#5*2F'F(FbsFQF:F(FYF(FVF(F\\pF(FBF(F^pF(#!$K#Fiq*0F'F(Fbs
+FQF[rF(FYF(FVF(FBF4FenF(!\"&*0F'F(FbsFQF[rF(FYF4F:F(F\\pF(F\\uF(F(*0F'
+F(FbsFQF:F(FYF(FVF(FBF4FenF(Fht*0F'F(FbsFOFetF(FYF(F\\pF(FBF(F^pF(FX*.
+F'F(FbsFQFYF4F:F4F\\pF(F\\uF(!\")*0F'F(FbsFQFVF(F[pF(F0F(F=F(FBF(Fcu*.
+F'F(FbsFQFYF4FVF4F\\pF(F\\uF(F9**FbsF9F@F(FaoF(-FD6#,&FhnF(FfoF(F(#F(
+\"\")*,F'F(FbsFOFepF(FYFXF^pF(Fft*.F'F(FbsFQFVF(FYFXF:F(F^pF(#FjvFX*.F
+'F(FbsFQF:F(FYFXF[pF(F^pF(#FitFguF(FirF4F4**F'F(FbsF(,(*,F'F(FbsFOF:F(
+F0F4F_tF(#F(F4**F'F(FbsFOFaoF(FcwF(Fhr*&FBF(F@F(FOF(FirF(F4" }}}}}
+{SECT 1 {PARA 5 "" 0 "" {TEXT -1 20 "6.1.2 The procedure " }{TEXT 358 
+3 "MMS" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 94 "According to the procedu
+res described in the previous section, we can build a procedure named \+
+" }{TEXT 359 3 "MMS" }{TEXT -1 2 " (" }{TEXT 360 1 "M" }{TEXT -1 9 "et
+hod of " }{TEXT 361 1 "M" }{TEXT -1 8 "ultiple " }{TEXT 362 1 "S" }
+{TEXT -1 24 "cales) specifically for " }{TEXT 364 5 "eq61b" }{TEXT -1 
+309 ". A more general procedure (a Package) can be created by consider
+ing as arguments the governing equations, symbols for dependent variab
+les, independent variable, excitation amplitudes and frequencies, and \+
+all other related quantities which allow the program to identify their
+ respective meanings. We will use " }{TEXT 363 3 "MMS" }{TEXT -1 66 " \+
+to solve for different resonance cases in the following sections." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "MMS:=proc(scaling::set,Reson
+anceCond::set)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 469 "local omgList,om
+gRule,multiScales,temp,eqa,eqEps,linearSys,order1Eq,order2Eq,order3Eq,
+uvForm1,expr1,expr2,coefMat,coefMatH,rightVec,leftVec,ccleftVec,uvForm
+2,order1Eqa,sol1p,fRule,sol1u,sol1v,sol1,order2Eqa,ndeg,newVar1,ST1,SC
+ond1,SCond1Rule1,ccSCond1Rule1,sigRule,newVar2,SCond1f,order2Eqm,sol2,
+basicH,collectForm,possibleTerms,RTpos,RT,NRT,RTsymbolList,NRTsymbolLi
+st,ratio,sol2Form,eqb,eqc,coef11,coef12,eqd,eqe,coef21,coef22,coefs,or
+der3Eqa,ST2,SCond2,SCond2Rule1,i;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "omgList:=[seq(omega[i],i=1..2)
+];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "omgRule:=seq(solve(ResonanceC
+ond,\{Omega,omgList[-i]\}),i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+175 "multiScales:=`union`(seq(\{u[i](t)=u[i](timeScales),v[i](t)=v[i](
+timeScales),diff(u[i](t),t)=dt[1](u[i](timeScales)),diff(v[i](t),t)=dt
+[1](v[i](timeScales))\},i=1..2),\{t=T[0]\});" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 46 "temp:=subs(scaling,multiScales,solRule,eq61b);" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "eqa:=[seq(convert(series(lhs(temp[i
+])-rhs(temp[i]),epsilon,4),polynom)=0,i=1..4)];" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 93 "eqEps:=convert(convert([seq([seq(coeff(lhs(eqa[i]),ep
+silon,j)=0,i=1..4)],j=1..3)],exp),diff);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 49 "linearSys:=subs(f[1]=0,f[2]=0,map(lhs,eqEps[1]));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "order1Eq:=[seq(linearSys[i]=linearS
+ys[i]-lhs(eqEps[1,i]),i=1..4)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 122 
+"order2Eq:=[seq(subs(seq(\{u[k,1]=u[k,2],v[k,1]=v[k,2]\},k=1..2),linea
+rSys[i]=linearSys[i])-eval(0=lhs(eqEps[2,i])),i=1..4)];" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 122 "order3Eq:=[seq(subs(seq(\{u[k,1]=u[k,3],v[k,1
+]=v[k,3]\},k=1..2),linearSys[i]=linearSys[i])-eval(0=lhs(eqEps[3,i])),
+i=1..4)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "# First-Order Problem" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 116 "uvForm1:=`union`(seq(\{u[i,1](timeScales)=P*exp(I*omega[i]*T[
+0]),v[i,1](timeScales)=Q*exp(I*omega[i]*T[0])\},i=1..2));" }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 72 "expr1:=expand(exp(-I*omega[1]*T[0])*subs(uvF
+orm1,[op(1..2,linearSys)]));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 72 "exp
+r2:=expand(exp(-I*omega[2]*T[0])*subs(uvForm1,[op(3..4,linearSys)]));
+" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "coefMat:=map(x->jacobian(x,[P,Q
+]),[expr1,expr2]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "coefMatH:=map
+(x->subs(ccRule,transpose(x)),coefMat);" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 41 "rightVec:=map(x->nullspace(x)[],coefMat);" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 41 "leftVec:=map(x->nullspace(x)[],coefMatH);" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 32 "ccleftVec:=subs(ccRule,leftVec);" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 96 "uvForm2:=`union`(seq(\{u[i,1](timeS
+cales)=u[i,1](T[0]),v[i,1](timeScales)=v[i,1](T[0])\},i=1..2));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "order1Eqa:=subs(uvForm2,order1Eq);
+" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 97 "sol1p:=combine(expand(convert(s
+ubs(seq(_C.i=0,i=1..4),dsolve(order1Eqa,map(rhs,uvForm2))),exp)));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "fRule:=seq(f[i]=2*Lambda[i]*(omega[
+i]^2-Omega^2),i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 163 "sol1u:=s
+eq(u[i,1](timeScales)=A[i](T[1],T[2])*exp(I*omega[i]*T[0])+conjugate(A
+[i])(T[1],T[2])*exp(-I*omega[i]*T[0])+normal(subs(sol1p,fRule,u[i,1](T
+[0]))),i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 71 "sol1v:=seq(v[i,1
+](timeScales)=expand(diff(rhs(sol1u[i]),T[0])),i=1..2);" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 20 "sol1:=[sol1u,sol1v];" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "# Second-Order \+
+Problem" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "order2Eqa:=expand(subs(s
+ol1,order2Eq));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "ndeg:=seq(degree
+(select(has,map(op,ResonanceCond),sigma[i])[],epsilon),i=1..2);" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "newVar1:=seq(I*epsilon^ndeg[i]*sigm
+a[i]*T[0]=I*sigma[i]*T[ndeg[i]],i=1..2);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 125 "ST1[1]:=combine(subs(newVar1,[seq(coeff(expand(combi
+ne(subs(omgRule[1],rhs(order2Eqa[i])))),exp(I*omega[1]*T[0])),i=1..2)]
+));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 125 "ST1[2]:=combine(subs(newVar
+1,[seq(coeff(expand(combine(subs(omgRule[2],rhs(order2Eqa[i])))),exp(I
+*omega[2]*T[0])),i=3..4)]));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "SCo
+nd1:=[seq(multiply(ccleftVec[i],ST1[i])=0,i=1..2)];" }}{PARA 0 "> " 0 
+"" {MPLTEXT 1 0 104 "SCond1Rule1:=combine(expand(solve(\{SCond1[]\},\{
+diff(A[1](T[1],T[2]),T[1]),diff(A[2](T[1],T[2]),T[1])\})));" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 40 "ccSCond1Rule1:=subs(ccRule,SCond1Rule1);
+" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "sigRule:=solve(ResonanceCond,\{
+sigma[1],sigma[2]\});" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 89 "newVar2:=s
+eq(I*sigma[i]*T[ndeg[i]]=subs(sigRule,I*sigma[i]*epsilon^ndeg[i]*T[0])
+,i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 58 "SCond1f:=subs(newVar2,
+`union`(SCond1Rule1,ccSCond1Rule1));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 43 "order2Eqm:=expand(subs(SCond1f,order2Eqa));" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 34 "if \{map(rhs,order2Eqm)[]\}=\{0\} then" }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 71 "sol2:=`union`(seq(\{u[i,2](timeScales)=0,v[i
+,2](timeScales)=0\},i=1..2));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "els
+e" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 117 "basicH:=`union`(seq(\{A[i](T[
+1],T[2])*exp(I*omega[i]*T[0]),conjugate(A[i])(T[1],T[2])*exp(-I*omega[
+i]*T[0])\},i=1..2));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 199 "collectFor
+m:=basicH[]; for i to 2 do if has(order1Eq,f[i]) then collectForm:=col
+lectForm,Lambda[i]*exp(I*Omega*T[0]+I*tau[i]),Lambda[i]*exp(-I*Omega*T
+[0]-I*tau[i]); fi od; collectForm:=\{collectForm\};" }}{PARA 0 "> " 0 
+"" {MPLTEXT 1 0 267 "possibleTerms:=collectForm; for i to 2 do if has(
+order2Eq,f[i]) then possibleTerms:=possibleTerms,\{exp(I*Omega*T[0]+I*
+tau[i]),exp(-I*Omega*T[0]-I*tau[i])\}; fi od; possibleTerms:=[expand(`
+union`(possibleTerms,map((x,y)->expand(x*y)[],collectForm,[collectForm
+[]])))[]];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 143 "RTpos:=seq(map(x->if
+ has(x,T[0]) then 0 else 1 fi,subs(newVar1,expand(combine(exp(-I*omega
+[i]*T[0])*subs(omgRule[i],possibleTerms))))),i=1..2);" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 68 "RT:=seq([op(\{zip(`*`,RTpos[i],possibleTerms)[]
+\} minus \{0\})],i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 97 "NRT:=s
+eq([op(\{possibleTerms[]\} minus `union`(\{RT[i][]\},\{expand(subs(ccR
+ule,RT[i]))[]\}))],i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "RTsy
+mbolList[1]:=[seq(Gamma[1,j],j=1..nops(RT[1]))];" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 52 "RTsymbolList[2]:=[seq(Gamma[3,j],j=1..nops(RT[2]))];
+" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "NRTsymbolList[1]:=seq([seq(Lamb
+da[i,j],j=1..nops(NRT[1]))],i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 67 "NRTsymbolList[2]:=seq([seq(Lambda[i,j],j=1..nops(NRT[2]))],i=3..
+4);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "ratio:=map(x->-x[1],ccleftVe
+c);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 338 "sol2Form:=seq([u[i,2](timeS
+cales)=multiply(RTsymbolList[i],RT[i])+multiply(map(conjugate,RTsymbol
+List[i]),subs(ccRule,RT[i]))+multiply(NRTsymbolList[i][1],NRT[i]),v[i,
+2](timeScales)=ratio[i]*multiply(RTsymbolList[i],RT[i])+multiply(map(c
+onjugate,RTsymbolList[i]),subs(ccRule,ratio[i]*RT[i]))+multiply(NRTsym
+bolList[i][2],NRT[i])],i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 114 
+"eqb:=seq(map((x,y)->coefficient(y,x)=0,NRT[1],expand(subs(sol2Form,lh
+s(order2Eqm[i])-rhs(order2Eqm[i])))),i=1..2);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 114 "eqc:=seq(map((x,y)->coefficient(y,x)=0,NRT[2],expand
+(subs(sol2Form,lhs(order2Eqm[i])-rhs(order2Eqm[i])))),i=3..4);" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "coef11:=solve(map(op,\{eqb\}),map(o
+p,\{NRTsymbolList[1]\}));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "coef12
+:=solve(map(op,\{eqc\}),map(op,\{NRTsymbolList[2]\}));" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 101 "eqd:=map((x,y)->coefficient(y,x)=0,RT[1],expa
+nd(subs(sol2Form,lhs(order2Eqm[1])-rhs(order2Eqm[1]))));" }}{PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 101 "eqe:=map((x,y)->coefficient(y,x)=0,RT[2],exp
+and(subs(sol2Form,lhs(order2Eqm[3])-rhs(order2Eqm[3]))));" }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 43 "coef21:=solve(\{eqd[]\},\{RTsymbolList[1][]
+\});" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "coef22:=solve(\{eqe[]\},\{R
+TsymbolList[2][]\});" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 140 "coefs:=sub
+s(omgRule[1],epsilon=0,`union`(coef11,coef12,coef21,coef22,map(x->conj
+ugate(lhs(x))=subs(ccRule,rhs(x)),`union`(coef21,coef22))));" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 54 "sol2:=combine(expand(subs(coefs,map(op,[s
+ol2Form]))));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "fi;" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "# Third-
+Order Problem" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "order3Eqa:=expand(
+subs(sol1,sol2,order3Eq));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 135 "ST2[
+1]:=combine(subs(newVar1,epsilon=0,[seq(coeff(expand(combine(subs(omgR
+ule[1],rhs(order3Eqa[i])))),exp(I*omega[1]*T[0])),i=1..2)]));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 135 "ST2[2]:=combine(subs(newVar1,epsil
+on=0,[seq(coeff(expand(combine(subs(omgRule[2],rhs(order3Eqa[i])))),ex
+p(I*omega[2]*T[0])),i=3..4)]));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "
+SCond2:=expand([seq(multiply(ccleftVec[i],ST2[i])=0,i=1..2)]);" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 104 "SCond2Rule1:=combine(expand(solve(
+\{SCond2[]\},\{diff(A[1](T[1],T[2]),T[2]),diff(A[2](T[1],T[2]),T[2])\}
+)));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 16 "# Reconstitution" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+50 "print(`\\nThe second-order approximate solution:`);" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 90 "print(display1(seq(u[i](t)=subs(solRule,epsilo
+n^3=0,sol1,sol2,u[i](timeScales)),i=1..2)));" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 149 "if convert(\{seq(evalb(subs(scaling,F[i]/f[i])=epsil
+on),i=1..2)\},`or`) then print(`\\nwhere`); print(Lambda['i']=f['i']/(
+2*(omega['i']^2-Omega^2))) fi;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "p
+rint(`\\nThe modulation equations:`);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 136 "display1(collect(subs(SCond1Rule1,SCond2Rule1,[seq(2*I*omega[i]
+*diff(A[i](t),t)=2*I*omega[i]*dt[1](A[i](T[1],T[2])),i=1..2)]),epsilon
+));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "end:" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 50 "As an example, we check the case in Section 6.1.1:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 84 "scaling1:=\{seq(mu[s,i]=eps
+ilon*mu[i],i=1..2),F[1]=epsilon*f[1],F[2]=epsilon^2*f[2]\};" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%)scaling1G<&/&%#muG6$%\"sG\"\"#*&%(epsilon
+G\"\"\"&F(6#F+F./&F(6$F*F.*&F-F.&F(6#F.F./&%\"FGF0*&F-F+&%\"fGF0F./&F9
+F6*&F-F.&F<F6F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 87 "Resonanc
+eCond1:=\{omega[2]=2*omega[1]+epsilon*sigma[1],Omega=omega[2]+epsilon*
+sigma[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond1G<$/&%
+&omegaG6#\"\"#,&&F(6#\"\"\"F**&%(epsilonGF.&%&sigmaGF-F.F./%&OmegaG,&F
+'F.*&F0F.&F2F)F.F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "t0:=t
+ime():" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scaling1,Reso
+nanceCond1);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-order~a
+pproximate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"uG6#\"
+\"\"6#%\"tG,&*&%(epsilonGF(,(*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&omegaGF'
+F(&%\"TG6#\"\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(*&,&-F36#,
+&*(F6F(%&OmegaGF(F9F(FD*&F6F(&%$tauGF'F(FDF(-F36#,&FJF(FLF(F(F(&%'Lamb
+daGF'F(F(F(F(*&F-\"\"#,T**&%&deltaGF'F(F7!\"#F0F(F>F(!\"'*,F6F(&%#muGF
+'F(F7FDF0F(F2F(#FDFU*,F6F(FgnF(F7FDF>F(FAF(#F(FU*,FXF(F7FZFRF(F0F(-F36
+#,(F5F(FJF(FLF(F(#\"\"$\"\"%*,&FY6#FUF(F7FZF>F(&F1FeoF(-F36#,&F5FD*(F6
+F(&F8FeoF(F9F(F(F(Fin*,FdoF(F7FZF0F(-F?6#FfoF(-F36#,&F5F(FjoFDF(Fin*,F
+doF(F7FZF0F(FfoF(-F36#,&F5F(FjoF(F(#F(Fbo*,FdoF(F7FZF]pF(F>F(-F36#,&Fj
+oFDF5FDF(Ffp*,FXF(F7FZF>F(FRF(-F36#,(F5FDFJFDFLFDF(F`o*,FXF(F7FZF>F(FR
+F(-F36#,(F5FDFJF(FLF(F(#!\"$FU*,FXF(F7FZFRF(F0F(-F36#,(F5F(FJFDFLFDF(F
+cq**FXF(F7FZF>FU-F36#,$F5FZF(F(**FXF(F7FZF0FU-F36#,$F5FUF(F(*,FdoF(F7F
+ZFRF(FfoF(-F36#,(FjoF(FJF(FLF(F(#FU\"#:**&FY6#FaoF(F7FZFfoFU-F36#,$Fjo
+FUF(#F(Ffr*,FdoF(F7FZF]pF(FRF(-F36#,(FJF(FjoFDFLF(F(FZ*,FdoF(F7FZFRF(F
+foF(-F36#,(FjoF(FJFDFLFDF(FZ**FhrF(F7FZF]pFU-F36#,$FjoFZF(F]s**FhrF(F7
+FZF]pF(FfoF(FZ*,FdoF(F7FZF]pF(FRF(-F36#,(FjoFDFJFDFLFDF(Fer*(FXF(F7FZF
+RFUFen*,F6F(FgnF(F7FDFRF(FGF(#!\"%Fao*,F6F(FgnF(F7FDFRF(FOF(#FboFao**F
+XF(F7FZFRFU-F36#,&FJFZFLFZF(#F(\"\"&**FXF(F7FZFRFU-F36#,&FJFUFLFUF(Fit
+F(F(/-&F&FeoF),&*&F-F(,&*&FfoF(-F36#FjoF(F(*&F]pF(-F36#,$FjoFDF(F(F(F(
+*&F-FU,T**FdoF(F7FZFRFUFftF(#F(\"#7*(&%\"fGFeoF(F7FZ-F36#,&FJF(*&F6F(&
+FNFeoF(F(F(#F(\"#K**FdoF(F7FZFRFUF\\uF(F_v**FdoF(F7FZF0F(F>F(Fin*,FdoF
+(F7FZF>F(FRF(F`qF(#FZFao*,FdoF(F7FZF>F(FRF(F\\qF(#FUFjt*,FdoF(F7FZF0F(
+FRF(F]oF(F`w*,FdoF(F7FZF0F(FRF(FfqF(F^w**FdoF(F7FZF>FUFjqF(#FD\"#;**Fd
+oF(F7FZF0FUF^rF(Fdw*(FbvF(F7FZ-F36#,&FJFDFgvFDF(Fiv*,FhrF(F7FZF>F(FfoF
+(FgoF(F^w*,FhrF(F7FZF]pF(F0F(F_pF(F^w*,F6F(&FhnFeoF(F7FDF]pF(FiuF(Ffp*
+,F6F(F^xF(F7FDFfoF(FfuF(#FDFbo**&FY6#FboF(F7FZFfoFUFjrF(Ffp*,FhrF(F7FZ
+FfoF(FRF(FbrF(#F(\"\"'*,FhrF(F7FZF]pF(FRF(F_sF(Fin*,FhrF(F7FZFfoF(FRF(
+FcsF(Fin*,FhrF(F7FZF]pF(FRF(F\\tF(Fex**FbxF(F7FZF]pFUFgsF(Ffp*,FhrF(F7
+FZF0F(FfoF(FcpF(F`w*,FhrF(F7FZF]pF(F>F(FhpF(F`w**FbxF(F7FZF]pF(FfoF(Fc
+q*(FdoF(F7FZFRFUFinF(F(" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%'|+whereG
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/&%'LambdaG6#%\"iG*&&%\"fGF&\"\"\"
+,&*$&%&omegaGF&\"\"#F0*$%&OmegaGF0!\"#!\"\"" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#%;|+The~modulation~equations:G" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%
+\"tGF3F(\"\"#,&**F'F(F)F(,N*.F)!\"#&%&deltaG6#F4F(-%*conjugateG6#F0F(&
+%#muGF<F(&F1F<F(-%$expG6#*(F'F(&%&sigmaGF+F(&%\"TGF+F(F(#F(\"\"%*.F)F9
+&FAF+F(FCF(F:F(F=F(FBF(!\"\"*,F'F(F)!\"$F0F4F:F4F=F(#!\"*\"#;*2F'F(F)F
+Q&F;6#\"\"$F(F0F(F:F(FBF(&%'LambdaGF+F(-FD6#,&*(F'F(&FHF<F(FIF(FO*&F'F
+(&%$tauGF+F(FOF(#!#B\"#I*.F'F(F)FQF:F(F=F(&%\"fGF<F(-FD6#,(FFF(FhnF(*&
+F'F(&F\\oF<F(F(F(#F(\"#K*2F'F(F)FQ&F;F+F(F0F(F:F(FYF(-F>6#FBF(-FD6#,&F
+hnF(FjnF(F(#!#FFL*2F'F(F)FQF[pF(F0F(F:F(FBF(FYF(FenF(Fap*0F'F(F)FO&%&a
+lphaGF<F(FYF(F0F(F\\pF(F^pF(FX*0F'F(F)FOFepF(FYF(F0F(FBF(FenF(FX*2F'F(
+F)FQFVF(F0F(F:F(FYF(F\\pF(F^pF(F]o*.F[pF(F)F9F=F(FNF(FYF(-FD6#,(FFF(Fh
+nF(FjnF(F(!\"(*,F'F(F)FQF0F(F:F4FYF4F]o*,F'F(F)FO&FfpF+F(F0F4F=F(\"\"'
+*,F'F(F)FOF`qF(F0F(FYF4\"#7**F'F(F)FOF0F(FNF4#FOF4*.F'F(F)FQF0F(FVF4F
+\\pF(FBF(#!\"%\"#:*0F'F(F)FQF:F(F0F(&F;6#FLF(F\\pF(FBF(#FQF4*.F'F(F)FO
+&FfpFWF(F0F(F\\pF(FBF(F4*0F'F(F)FQF[pF(F0F(FVF(F\\pF(FBF(!\"'*,F'F(F)F
+QF0F(F[pF4FYF4#!#\")FL*,F'F(F)FQF0F4F[pF4F=F(!#:*.F'F(F)FQF:F4F0F(F\\p
+F(FBF(#FOFLF(%(epsilonGF4F4**F'F(F)F(,(*.F'F(FCF(F)FOF:F(F=F(FBF(F(*&F
+0F(FNF(FO*.F'F(F)FOF[pF(F=F(FYF(FjpF(FXF(FirF(F4/,$*(F'F(&F*F<F(-F-6$-
+FBF2F3F(F4,&**F'F(FbsF(,`o*2F'F(FbsFQF:F(F0F(FVF(FYF(F=F(F^pF(#!#YFiq*
+*F'F(FbsFOF@F4FBF(Feq*0F'F(FbsFOFepF(F0F(F=F(FYF(F^pF(FX*,FbsF9-FD6#,$
+FFFOF(F@F(F:F(F0F4Fhr*,FbsF9F_tF(F:F(F0F4FNF(F(*2F'F(FbsFQF:F(F0F(F[pF
+(FYF(F=F(F^pF(Fbp*.F'F(FbsFO&FfpF\\rF(FYF(FBF4FenF(#FXF4*,F'F(FbsFQFVF
+4F\\pF(FBF4#!$;\"Fiq*,F'F(FbsFQFBF4F[rF4F\\pF(Ffr*.F'F(FbsFOF_rF(FYF4F
+\\pF(-FD6#,&FhnF4FjnF4F(F(*,F'F(FbsFOF_rF(FYF4FBF(F4*,F'F(FbsFQFYF4FVF
+4FBF(#FhqFX*.F'F(FbsFQFVF(F[pF(FYF4FBF(!#C*,F'F(FbsFO&Ffp6#\"\"&F(FBF4
+F\\pF(Faq*.F'F(FbsFQF[rF(FYF4F:F(FBF(Far*0F'F(FbsFQF[rF(F0F(F:F(F=F(FB
+F(Far*.F'F(FbsFQF0F(F:F4F=F(FBF(FO*.F'F(FbsFQF0F(FVF4F=F(FBF(#!#;Fiq*.
+F'F(FbsFOF_rF(F0F(F=F(FBF(F4*,F'F(FbsFQFYF4F:F4FBF(#!$7\"Fiq*0F'F(FbsF
+QFVF(F[pF(FYF4F\\pF(F\\uF(#FLFgu*2F'F(FbsFQF[rF(FYF(FVF(F\\pF(FBF(F^pF
+(!#5*2F'F(FbsFQF:F(FYF(FVF(F\\pF(FBF(F^pF(#!$K#Fiq*0F'F(FbsFQF[rF(FYF(
+FVF(FBF4FenF(!\"&*0F'F(FbsFQF[rF(FYF4F:F(F\\pF(F\\uF(F(*0F'F(FbsFQF:F(
+FYF(FVF(FBF4FenF(Fht*0F'F(FbsFOFetF(FYF(F\\pF(FBF(F^pF(FX*.F'F(FbsFQFY
+F4F:F4F\\pF(F\\uF(!\")*0F'F(FbsFQFVF(F[pF(F0F(F=F(FBF(Fcu*.F'F(FbsFQFY
+F4FVF4F\\pF(F\\uF(F9**FbsF9F@F(FaoF(-FD6#,&FhnF(FfoF(F(#F(\"\")*,F'F(F
+bsFOFepF(FYFXF^pF(Fft*.F'F(FbsFQFVF(FYFXF:F(F^pF(#FjvFX*.F'F(FbsFQF:F(
+FYFXF[pF(F^pF(#FitFguF(FirF4F4**F'F(FbsF(,(*,F'F(FbsFOF:F(F0F4F_tF(#F(
+F4**F'F(FbsFOFaoF(FcwF(Fhr*&FBF(F@F(FOF(FirF(F4" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 22 "time_taken:=time()-t0;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%+time_takenG$\"&zh(!\"$" }}}}{SECT 1 {PARA 5 "" 0 "" 
+{TEXT -1 6 "6.1.3 " }{XPPEDIT 18 0 "Omega->omega[1]" ":6#%&OmegaG7\"6$
+%)operatorG%&arrowG6\"&%&omegaG6#\"\"\"F)F)" }{TEXT -1 7 "  and  " }
+{XPPEDIT 18 0 "omega[2]->2*omega[1]" ":6#&%&omegaG6#\"\"#7\"6$%)operat
+orG%&arrowG6\"*&\"\"#\"\"\"&F%6#\"\"\"F/F,F," }}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 254 "In this case, we have a combination of a primary reson
+ance of the first mode, a superharmonic resonance of the second mode, \+
+and a two-to-one internal resonance. In order to bring the effects of \+
+damping, forcing, and nonlinearity at the same order, we let" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 84 "scaling3:=\{seq(mu[s,i]=epsi
+lon*mu[i],i=1..2),F[1]=epsilon^2*f[1],F[2]=epsilon*f[2]\};" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%)scaling3G<&/&%#muG6$%\"sG\"\"#*&%(epsilon
+G\"\"\"&F(6#F+F./&F(6$F*F.*&F-F.&F(6#F.F./&%\"FGF0*&F-F.&%\"fGF0F./&F9
+F6*&F-F+&F<F6F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 96 "To describe qu
+antitatively the nearness of the resonances, we introduce the detuning
+ parameters " }{XPPEDIT 18 0 "sigma[1]" "&%&sigmaG6#\"\"\"" }{TEXT -1 
+5 " and " }{XPPEDIT 18 0 "sigma[2]" "&%&sigmaG6#\"\"#" }{TEXT -1 21 " \+
+defined according to" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 87 "Res
+onanceCond3:=\{omega[2]=2*omega[1]+epsilon*sigma[1],Omega=omega[1]+eps
+ilon*sigma[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond3G
+<$/&%&omegaG6#\"\"#,&&F(6#\"\"\"F**&%(epsilonGF.&%&sigmaGF-F.F./%&Omeg
+aG,&F,F.*&F0F.&F2F)F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Using \+
+" }{TEXT 365 3 "MMS" }{TEXT -1 129 ", we obtain the second-order appro
+ximate solution and the two equations governing the modulation of the \+
+complex-valued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }
+{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scalin
+g3,ResonanceCond3);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-
+order~approximate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"
+uG6#\"\"\"6#%\"tG,&*&%(epsilonGF(,&*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&om
+egaGF'F(&%\"TG6#\"\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(F(F(
+*&F-\"\"#,T**&%&deltaG6#\"\"$F(F7!\"#&%'LambdaG6#FFFF-F36#,&*(F6F(%&Om
+egaGF(F9F(FM*&F6F(&%$tauGFPF(FMF(#F(FL*(&%\"fGF'F(F7FM-F36#,&FTF(*&F6F
+(&FXF'F(F(F(#F(\"\")**FIF(F7FMFNFF-F36#,&FTFFFVFFF(FY*(FenF(F7FM-F36#,
+&FTFDFjnFDF(F\\o*(FIF(F7FMFNFFFM*,&FJFPF(F7FMFNF(F>F(-F36#,(FTF(FVF(F5
+FDF(FM**&FJF'F(F7FMF>FF-F36#,$F5FMF(F(**F]pF(F7FMF0FF-F36#,$F5FFF(F(*,
+F6F(&%#muGF'F(F7FDF0F(F2F(#FDFF*,F6F(FfpF(F7FDF>F(FAF(#F(FF**F]pF(F7FM
+F0F(F>F(!\"'*,FhoF(F7FMFNF(F>F(-F36#,(F5FDFTFDFVFDF(#FFFL*,FhoF(F7FMFN
+F(F0F(-F36#,(F5F(FTFDFVFDF(FM*,FhoF(F7FMFNF(F0F(-F36#,(FTF(FVF(F5F(F(F
+aq*,FhoF(F7FMF>F(&F1FPF(-F36#,&F5FD*(F6F(&F8FPF(F9F(F(F(Fhp*,FhoF(F7FM
+F0F(-F?6#F[rF(-F36#,&F5F(F_rFDF(Fhp*,FhoF(F7FMF0F(F[rF(-F36#,&F5F(F_rF
+(F(#F(\"\"%*,FhoF(F7FMFbrF(F>F(-F36#,&F_rFDF5FDF(F[s**FIF(F7FMF[rFF-F3
+6#,$F_rFFF(#F(\"#:*,FIF(F7FMF[rF(FNF(-F36#,(FTF(FVF(F_rF(F(F[s**FIF(F7
+FMFbrFF-F36#,$F_rFMF(Fes*,FIF(F7FMF[rF(FNF(-F36#,(F_rF(FTFDFVFDF(Fhp**
+FIF(F7FMFbrF(F[rF(FM*,FIF(F7FMFbrF(FNF(-F36#,(F_rFDFTFDFVFDF(F[s*,FIF(
+F7FMFbrF(FNF(-F36#,(F_rFDFTF(FVF(F(FhpF(F(/-&F&FPF),&*&F-F(,(*&F[rF(-F
+36#F_rF(F(*&FbrF(-F36#,$F_rFDF(F(*&,&-F36#,&FTF(FVF(F(-F36#,&FTFDFVFDF
+(F(FNF(F(F(F(*&F-FF,T*,F6F(&FgpFPF(F7FDFNF(F^vF(Faq*,F6F(FdvF(F7FDFNF(
+F[vF(#FMFL**&FJ6#F\\sF(F7FMFNFFF_oF(#!\"$\"#;**FhvF(F7FMFNFFFQF(Fjv*(F
+hvF(F7FMFNFF#F[wFF*,FIF(F7FMF0F(FNF(FgqF(#FDF]o*,FIF(F7FMF0F(FNF(FcqF(
+Fhp*,FIF(F7FMFNF(F>F(FioF(Fhp**FhoF(F7FMF>FFF^pF(#FDF\\w**FhoF(F7FMF0F
+FFbpF(Few*,F6F(FdvF(F7FDFbrF(FfuF(F[s*,F6F(FdvF(F7FDF[rF(FcuF(#FDF\\s*
+,FhvF(F7FMF[rF(FNF(FhsF(#\"\"'\"\"&*,FhvF(F7FMFbrF(FNF(FitF(FM**FhvF(F
+7FMF[rFFFbsF(F[s*,FhvF(F7FMFbrF(FNF(FetF(F[x*,FhvF(F7FMF[rF(FNF(F`tF(F
+M**FhvF(F7FMFbrF(F[rF(F_w**FhvF(F7FMFbrFFF\\tF(F[s**FhoF(F7FMF0F(F>F(F
+hp*,FIF(F7FMFNF(F>F(F^qF(Faw*,FIF(F7FMF0F(F[rF(FhrF(#FFF]x*,FIF(F7FMFb
+rF(F>F(F^sF(Fgx*,FIF(F7FMF>F(F[rF(F\\rF(Ffv*,FIF(F7FMFbrF(F0F(FdrF(Ffv
+F(F(" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%'|+whereG" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#/&%'LambdaG6#%\"iG*&&%\"fGF&\"\"\",&*$&%&omegaGF&\"\"
+#F0*$%&OmegaGF0!\"#!\"\"" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%;|+The~mo
+dulation~equations:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/,$*(%\"IG\"
+\"\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%\"tGF3F(\"\"#,&**F'F(F)F(,fo*
+.F'F(F)!\"\"&%&alphaG6#F4F(F0F4&%'LambdaGF<F(-%$expG6#,&*(F'F(&%&sigma
+GF<F(&%\"TGF+F(F9*&F'F(&%$tauGF<F(F9F(#\"\"$F4*2F'F(F)!\"$&%&deltaG6#F
+LF(F0F(&FPF<F(-%*conjugateG6#F0F(F=F(-F@6#,&FCF(FHF(F(#!\"*\"\")*2F'F(
+F)FN&FPF+F(F0F(FRF(F=F(FSF(FVF(!#5*.F'F(F)FNFSF(FOF4F=F4-F@6#,&FCF4FHF
+4F(#F9F4*0F'F(F)F9F:F(F0F(FSF(F=F(FVF(FL*0F'F(F)FNFgnF(FSF(FOF(F=F4Fjn
+F(F(*,F'F(F)FNF0F4FRF4FSF(#FZ\"#;*0F'F(F)FNFgnF(F0F4FRF(F=F(F?F(!\"&*.
+F'F(F)F9&F;FQF(FSF(F=F4FjnF(F(*0F'F(F)FNFOF(F0F4FRF(F=F(F?F(Fao*,F'F(F
+)F9&F;F+F(F0F4FSF(\"\"'*,F'F(F)FNF0F4FgnF4FSF(!#:**F'F(F)F9F0F(&%#muGF
++F4F]o*.F'F(F)FNFgnF(F0F(FOF(F=F4!\"'*,F'F(F)FNFRF4F0F(F=F4#!\"%FL*,F'
+F(F)FNF0F(FOF4F=F4#FdoFen*.F'F(F)FNFRF(F0F(&FP6#\"\"%F(F=F4#FNF4*0F'F(
+F)FNFRF(FSF(FhpF(F=F4FjnF(#FNFbo*,F'F(F)F9FfoF(F0F(F=F4F4*.F'F(F)FNFRF
+4FSF(F=F4FjnF(!\"#*.F)F`qF^pF(FOF(&F1F<F(F=F(-F@6#,(*(F'F(&FEF+F(FFF(F
+(FCF9FHF9F(F]o*2F'F(F)FNFOF(FbqF(FhpF(F=F(-FT6#FbqF(FVF(#!#B\"#5*2F'F(
+F)FNFRF(FOF(FiqF(F=F(FbqF(FVF(#FZFjp*.F'F(F)FNFRF(&%\"fGF+F(FbqF(-F@6#
+,(FCF9*&F'F(&FJF+F(F9FfqF(F(#F(Fen*.FOF(F)F`qFbqF(&F_pF<F(F=F(FcqF(#Fd
+o\"#7*0F'F(F)F9&F;FipF(FbqF(F=F(FiqF(FVF(FL*.F'F(F)FNF0F(FOF4FiqF(FbqF
+(#Fdp\"#:*.F'F(F)FNFRF4F0F(FiqF(FbqF(#F9Fjp*0F'F(F)FNFgnF(F0F(FOF(FiqF
+(FbqF(Fap*.F)F`qFRF(FSF(FjrF(FbqF(-F@6#FfqF(#F(Fjp*.F'F(F)F9FfoF(F0F(F
+iqF(FbqF(F4*0F'F(F)FNFRF(F0F(FhpF(FiqF(FbqF(F[q*.F)F`qF^pF(FfsF(FRF(FS
+F(FbqF(F9**F)F`qF^pF(FarF(-F@6#,&FCF(FfrF(F(Fhr*.F'F(F)FNFOF(F=FLFhpF(
+FVF(#!#FFbo*.F'F(F)FNFRF(FOF(F=FLFVF(#FdoFL*,F'F(F)F9F^sF(F=FLFVF(FKF(
+%(epsilonGF4F4**F'F(F)F(,**&F0F(F^pF(F9*.F'F(FfsF(F)F9FRF(FSF(FbqF(F(*
+*F'F(F)F9FarF(F]tF(Fcs*.F'F(FOF(F)F9FbqF(F=F(FcqF(F(F(FftF(F4/,$*(F'F(
+&F*F<F(-F-6$-FbqF2F3F(F4,&**F'F(F`uF(,T*,F`uF`q-F@6#,$FfqF9F(FRF(F0F4F
+^pF(F(*,F`uF`qFhuF(FjrF(FRF(F0F4Fcs*.F`uF`qFOF(F0F(FjrF(F=F(-F@6#,(Ffq
+F9FCF(FHF(F(#\"\"&Fjo*.F`uF`qFOF(F^pF(F0F(F=F(F]vF(F(*2F'F(F`uFNFRF(F0
+F(FOF(F=F(FbqF(F?F(FZ*2F'F(F`uFNFhpF(FSF(FOF(F=F(FbqF(FVF(#!#YFav*2F'F
+(F`uFNFhpF(F0F(FOF(F=F(FbqF(F?F(Fev*.F'F(F`uFNF0F(FRF4FSF(FbqF(F9*.F'F
+(F`uF9FfoF(F0F(FSF(FbqF(F4*.F'F(F`uFNF0F(FOF4FSF(FbqF(#!#;Fas*2F'F(F`u
+FNFRF(FSF(FOF(F=F(FbqF(FVF(FZ*0F'F(F`uFNFOF(FgnF(F0F(FSF(FbqF(!#C*,F`u
+F`qFjrF(FhpF(F=F4-F@6#,(FfqF9FCF4FHF4F(#\"#8Fjp*0F'F(F`uFNFhpF(F0F(FRF
+(FSF(FbqF(Fap*,F'F(F`uF9&F;6#FavF(FbqF(F=F4F\\s*,F'F(F`uFNFOF4FbqF(F=F
+4FZ*,F'F(F`uFNFbqF(FhpF4F=F4#!$Q\"Fav**F'F(F`uF9FjrF4FbqF(F]o*,F'F(F`u
+FNFbqF4FhpF4FiqF(F\\p*,F'F(F`uFNFOF4FiqF(FbqF4#!$;\"Fas*,F'F(F`uF9FhwF
+(FbqF4FiqF(Fjo*0F'F(F`uF9F^sF(FSF(FbqF(F=F(FVF(FL*0F'F(F`uF9F^sF(F0F(F
+bqF(F=F(F?F(FL*.F'F(F`uFNFOF(FarF(F=F(-F@6#,*FfqF9FCF4FfrF(FHF(F(#F(F4
+*.F'F(F`uFNFRF(F0F(FarF(-F@6#,(FCF(FfrF(FfqF9F(FjxF(FftF4F4**F'F(F`uF(
+,**,F'F(FhpF(F`uF9F=F4FawF(FK*.F'F(F`uF9FOF(F0F(F=F(F]vF(F(*&FbqF(FjrF
+(F9*,F'F(F`uF9FRF(F0F4FhuF(FjxF(FftF(F4" }}}}{SECT 1 {PARA 5 "" 0 "" 
+{TEXT -1 6 "6.1.4 " }{XPPEDIT 18 0 "Omega->omega[1]+omega[2]" ":6#%&Om
+egaG7\"6$%)operatorG%&arrowG6\",&&%&omegaG6#\"\"\"\"\"\"&F,6#\"\"#F/F)
+F)" }{TEXT -1 7 "  and  " }{XPPEDIT 18 0 "omega[2]->2*omega[1]" ":6#&%
+&omegaG6#\"\"#7\"6$%)operatorG%&arrowG6\"*&\"\"#\"\"\"&F%6#\"\"\"F/F,F
+," }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 89 "In this case, we have a combi
+nation resonance and a two-to-one internal resonance. We let" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "scaling4:=\{seq(mu[s,i]=epsi
+lon*mu[i],i=1..2),F[1]=epsilon*f[1],F[2]=epsilon*f[2]\};" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%)scaling4G<&/&%#muG6$%\"sG\"\"#*&%(epsilonG\"
+\"\"&F(6#F+F./&F(6$F*F.*&F-F.&F(6#F.F./&%\"FGF6*&F-F.&%\"fGF6F./&F9F0*
+&F-F.&F<F0F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 96 "ResonanceCo
+nd4:=\{omega[2]=2*omega[1]+epsilon*sigma[1],Omega=omega[1]+omega[2]+ep
+silon*sigma[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond4
+G<$/&%&omegaG6#\"\"#,&&F(6#\"\"\"F**&%(epsilonGF.&%&sigmaGF-F.F./%&Ome
+gaG,(F,F.F'F.*&F0F.&F2F)F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Us
+ing " }{TEXT 366 3 "MMS" }{TEXT -1 129 ", we obtain the second-order a
+pproximate solution and the two equations governing the modulation of \+
+the complex-valued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }
+{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scalin
+g4,ResonanceCond4);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-
+order~approximate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"
+uG6#\"\"\"6#%\"tG,&*&%(epsilonGF(,(*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&om
+egaGF'F(&%\"TG6#\"\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(*&,&
+-F36#,&*(F6F(%&OmegaGF(F9F(FD*&F6F(&%$tauGF'F(FDF(-F36#,&FJF(FLF(F(F(&
+%'LambdaGF'F(F(F(F(*&F-\"\"#,\\p*(&%&deltaG6#\"\"$F(F7!\"#&FS6#FUFUFfn
+*(&FYF'F(F7FfnFRFU!\"'*,F6F(&%#muGF'F(F7FDFRF(FGF(#!\"$\"\"%*,F6F(F]oF
+(F7FDFRF(FOF(#FenFao**FjnF(F7FfnFRFU-F36#,&FJFfnFLFfnF(#Fen\"#N**FjnF(
+F7FfnFRFU-F36#,&FJFUFLFUF(Fho*,&FYFhnF(F7FfnF>F(FgnF(-F36#,(F5FDFJFD*&
+F6F(&FNFhnF(FDF(#FU\"#:*,F_pF(F7FfnF>F(FgnF(-F36#,(FJF(FcpF(F5FDF(#FUF
+en*,F_pF(F7FfnF0F(FgnF(-F36#,(FJF(FcpF(F5F(F(Fep*,F_pF(F7FfnF0F(FgnF(-
+F36#,(F5F(FJFDFcpFDF(F[q*,FjnF(F7FfnF>F(FRF(-F36#,(F5FDFJFDFLFDF(#FU\"
+\"&*,FjnF(F7FfnF>F(FRF(-F36#,(F5FDFJF(FLF(F(FU*,FjnF(F7FfnFRF(F0F(-F36
+#,(F5F(FJFDFLFDF(FU**FjnF(F7FfnF>FU-F36#,$F5FfnF(F(*,F6F(F]oF(F7FDF0F(
+F2F(#FDFU*,F6F(F]oF(F7FDF>F(FAF(#F(FU**FjnF(F7FfnF0FU-F36#,$F5FUF(F(*,
+FjnF(F7FfnFRF(F0F(-F36#,(F5F(FJF(FLF(F(Fhq**FjnF(F7FfnF0F(F>F(F[o*,F_p
+F(F7FfnFRF(&F1FhnF(-F36#,(*(F6F(&F8FhnF(F9F(F(FJF(FLF(F(#F(\"#7*,F_pF(
+F7Ffn-F?6#FdsF(FRF(-F36#,(FJF(FhsFDFLF(F(Fgr*,F_pF(F7FfnFRF(FdsF(-F36#
+,(FhsF(FJFDFLFDF(Fgr*,F_pF(F7FfnF>F(FdsF(-F36#,&F5FDFhsF(F(Fgr**FXF(F7
+FfnFdsFU-F36#,$FhsFUF(#F(Ffp**FXF(F7FfnF]tFU-F36#,$FhsFfnF(F^u**FXF(F7
+FfnF]tF(FdsF(Ffn*,F_pF(F7FfnF]tF(FRF(-F36#,(FhsFDFJFDFLFDF(Fjs*,FXF(F7
+FfnF]tF(FgnF(-F36#,(FhsFDFJF(FcpF(F(Fgr*,FXF(F7FfnFgnF(FdsF(-F36#,(Fhs
+F(FJFDFcpFDF(Fgr*,FXF(F7FfnF]tF(FgnF(-F36#,(FhsFDFJFDFcpFDF(Fjs*,FXF(F
+7FfnFgnF(FdsF(-F36#,(FJF(FcpF(FhsF(F(Fjs*,F_pF(F7FfnF0F(F]tF(-F36#,&F5
+F(FhsFDF(Fgr*,F_pF(F7FfnF0F(FdsF(-F36#,&F5F(FhsF(F(#F(Fao*,F_pF(F7FfnF
+]tF(F>F(-F36#,&FhsFDF5FDF(F`w*,F_pF(F7FfnFgnF(FRF(-F36#,(FJFfnFcpFDFLF
+DF(#FUFio**FXF(F7FfnFgnFU-F36#,&FJFUFcpFUF(#F(Fio*,F_pF(F7FfnFgnF(FRF(
+-F36#,&FLF(FcpFDF(Ffn*,F_pF(F7FfnFgnF(FRF(-F36#,&FLFDFcpF(F(Ffn*,F_pF(
+F7FfnFgnF(FRF(-F36#,(FJFUFLF(FcpF(F(Fiw**FXF(F7FfnFgnFU-F36#,&FJFfnFcp
+FfnF(F^xF(F(/-&F&FhnF),&*&F-F(,(*&FdsF(-F36#FhsF(F(*&F]tF(-F36#,$FhsFD
+F(F(*&,&-F36#,&FJF(FcpF(F(-F36#,&FJFDFcpFDF(F(FgnF(F(F(F(*&F-FU,\\p**F
+_pF(F7FfnFRFUFeoF(#F(\"#K**F_pF(F7FfnFRFUF[pF(Fgz*,F6F(&F^oFhnF(F7FDFg
+nF(FazF(#F[oFiq*,F6F(F[[lF(F7FDFgnF(F^zF(#\"\"'Fiq*(&FY6#FaoF(F7FfnFgn
+FU#F`oFU**Fa[lF(F7FfnFgnFUF\\yF(#FenFhz*,FXF(F7FfnFgnF(FRF(FfwF(#F(\"#
+;*,FXF(F7FfnFgnF(FRF(FdxF(Fgr*,FXF(F7FfnFgnF(FRF(F`xF(Fgr**Fa[lF(F7Ffn
+FgnFUF[xF(Fe[l*,FXF(F7FfnFgnF(FRF(FhxF(Fg[l*(F_pF(F7FfnFRFUFgr**F_pF(F
+7FfnF>FUFcrF(#FDFh[l**F_pF(F7FfnF0FUF[sF(F_\\l*,FXF(F7FfnF0F(FgnF(FaqF
+(#FD\"\")*,FXF(F7FfnF>F(FgnF(F`pF(#F(F_[l*,FXF(F7FfnF0F(FgnF(F]qF(Fe\\
+l*,FXF(F7FfnF>F(FgnF(FhpF(Fb\\l*,F_pF(F7FfnF>F(FRF(F[rF(Fb\\l**F_pF(F7
+FfnF0F(F>F(Fgr*,F_pF(F7FfnF>F(FRF(FeqF(Fe\\l*,F_pF(F7FfnF0F(FRF(F_sF(F
+e\\l*,F_pF(F7FfnF0F(FRF(F_rF(Fb\\l*,Fa[lF(F7FfnF]tF(FgnF(FavF(#FU\"\"(
+*,Fa[lF(F7FfnFgnF(FdsF(F]vF(Ffn*,FXF(F7FfnFdsF(FRF(FesF(#FU\"#@*,Fa[lF
+(F7FfnFgnF(FdsF(FevF(F^]l**Fa[lF(F7FfnFdsFUF[uF(F`w*,FXF(F7FfnF]tF(FRF
+(F_tF(#FfnFen**Fa[lF(F7FfnF]tF(FdsF(Fc[l*,FXF(F7FfnFdsF(FRF(FctF(Fg]l*
+,FXF(F7FfnF]tF(FRF(FeuF(Fb]l**Fa[lF(F7FfnF]tFUF`uF(F`w*,F6F(F[[lF(F7FD
+F]tF(FiyF(F`w*,FXF(F7FfnF0F(FdsF(F]wF(Fhq*,FXF(F7FfnF]tF(F>F(FbwF(Fhq*
+,FXF(F7FfnF>F(FdsF(FgtF(Fg]l*,FXF(F7FfnF]tF(F0F(FivF(Fg]l*,F6F(F[[lF(F
+7FDFdsF(FfyF(#FDFao*,Fa[lF(F7FfnF]tF(FgnF(FiuF(FfnF(F(" }}{PARA 12 "" 
+1 "" {XPPMATH 20 "6#%'|+whereG" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/&%'
+LambdaG6#%\"iG*&&%\"fGF&\"\"\",&*$&%&omegaGF&\"\"#F0*$%&OmegaGF0!\"#!
+\"\"" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%;|+The~modulation~equations:G
+" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F(-
+%%diffG6$-&%\"AGF+6#%\"tGF3F(\"\"#,&**F'F(F)F(,bp*2F'F(F)!\"$&%&deltaG
+6#\"\"$F(F0F(&F;6#F4F(&%'LambdaGF+F(&FAF?F(-%$expG6#,&*&F'F(&%$tauGF+F
+(F(*&F'F(&FIF?F(!\"\"F(#!#6\"#C*2F'F(F)F9F:F(F0F(F>F(F@F(FBF(-FD6#,&FG
+FLFJF(F(FM*0F'F(F)FL&%&alphaGF?F(F0F(F@F(FBF(FCF(F=*0F'F(F)FLFUF(F0F(F
+@F(FBF(FQF(F=*.F'F(F)FL&FVF+F(-%*conjugateG6#F0F4F@F(-FD6#,(*(F'F(&%&s
+igmaGF+F(&%\"TGF+F(F(*(F'F(&F\\oF?F(F]oF(F(FGF(F(\"\"'*,F'F(F)F9F0F(F>
+F4F@F4FM*,F'F(F)FLFYF(F0F(F@F4\"#7**F'F(F)FLF0F(&%#muGF+F4#FLF4*,F'F(F
+)FLFYF(F0F4FZF(Fao*,F'F(F)F9F0F(&F;F+F4F@F4#!#a\"\"&*.F'F(F)FLFUF(FZF4
+FBF(-FD6#,(FjnF(F_oF(FJF(F(#F=F4*,F'F(F)F9F0F4F[pF4FZF(!#:*.F'F(F)F9F[
+pF(F0F(F:F(FBF4!\"'*,F'F(F)F9F>F4F0F(FBF4#\"\"%F^p*,F'F(F)FL&FVF<F(F0F
+(FBF4F4*.F'F(F)F9F>F(F0F(&F;6#FjpF(FBF4#F9F4*,F'F(F)F9F0F(F:F4FBF4#F(F
+O*.F'F(F)F9FZF4F>F4F@F(FgnF(#F9\"#;*0F'F(F)F9F:F(FZF4F>F(FBF(F`pF(Fdq*
+2F'F(F)F9F[pF(F0F(F>F(F@F(FBF(FQF(#!#=F^p*2F'F(F)F9F[pF(F0F(F>F(F@F(FB
+F(FCF(Fhq*,F'F(F)F9F0F4F>F4FZF(#!\"*Feq*.F'F(F)F9FZF4F[pF4F@F(FgnF(\"
+\"**0F'F(F)F9F[pF(FZF4F>F(FBF(F`pF(F=*.F'F(F)FLF\\qF(F0F(-Fen6#&F1F?F(
+FdrF(F4*.F'F(F)F9F>F4F0F(FbrF(FdrF(#FLFjp*.F'F(F)F9F0F(F:F4FbrF(FdrF(#
+!\"%\"#:*0F'F(F)F9F>F(F0F(F^qF(FbrF(FdrF(F`q*.F)!\"#FfoF(-FD6#FjnF(F>F
+(FZF(FdrF(FL*.F)F]sF>F(FZF(&FgoF?F(FdrF(F^sF(#F(Fjp*.F)F]sFfoF(F>F(Fbr
+F(F@F(-FD6#,&F_oF(FGF(F(#!\"&Fjp*0F'F(F)F9F[pF(F0F(F:F(FbrF(FdrF(Fgp*0
+F'F(F)F9F>F(F:F(FBF(FdrF4-FD6#,(FjnF(F_oFLFJFLF(#!#8\"#I*0F'F(F)F9F[pF
+(F@F(F:F(FdrF4-FD6#,(F_oFLFGFLFjnF(F(#F(F^p*.F:F(F)F]sFbrF(FasF(FBF(-F
+D6#,&F_oF(FJF(F(#!#H\"#?*0F'F(F)F9F>F(F@F(F^qF(FdrF4FbtF(Fbs*.F>F(F)F]
+sF@F(FasF(FbrF(FdsF(Ffr*0F'F(F)F9F:F(FdrF4F^qF(FBF(F[tF(#!\"(Fjp*.F'F(
+F)FLF\\qF(F@F(FdrF4FbtF(F(*.F)F]sFfoF(F:F(FbrF(FBF(FgtF(Fho*.F'F(F)FL&
+FVF_qF(FdrF4FBF(F[tF(Fcp*.F'F(F)F9F>F4FdrF4F@F(FbtF(Fho*.F'F(F)F9F@F(F
+:F4FdrF4FbtF(#F]sF=F(%(epsilonGF4F4**F'F(F)F(,**.F'F(F:F(F)FLFbrF(FBF(
+FgtF(F(*.F'F(F^sF(F)FLF>F(FZF(FdrF(F(*.F'F(F)FLF>F(F@F(FbrF(FdsF(F(*&F
+0F(FfoF(FLF(FiuF(F4/,$*(F'F(&F*F?F(-F-6$-FdrF2F3F(F4,&**F'F(FcvF(,fo*.
+F>F(FcvF]sFZF(FfoF(F@F(FdsF(#FhsF4*,FcvF]s-FD6#,$FjnFLF(FasF(F>F(F0F4F
+fr*,FcvF]sF]wF(F>F(F0F4FfoF(F(*.F:F(FcvF]sFfoF(FZF(FBF(FgtF(FL*.FcvF]s
+FasF(F>F(F@F(FZF(FdsF(Fho*.FcvF]sFasF(F:F(FZF(FBF(FgtF(#F[u\"#5*.F'F(F
+cvF9F0F(F>F4FZF(FdrF(FL*.F'F(FcvF9F0F(F:F4FZF(FdrF(#!#;Fjr*2F'F(FcvF9F
+:F(F[pF(F@F(F0F(FbrF(-FD6#,(F_oF(FGF(FjnFLF(#\"\")F^p*0F'F(FcvF9F0F(F:
+F4FbrF(F@F(F[xF(#FiwF=*0F'F(FcvFLFeuF(F0F(FbrF(FBF(-FD6#,(FjnFLF_oF(FJ
+F(F(F=*2F'F(FcvF9F^qF(F0F(F>F(F@F(FbrF(F[xF(F4*0F'F(FcvF9F:F(F[pF(F0F(
+FZF(FdrF(!#C*.F'F(FcvFLF\\qF(F0F(FZF(FdrF(F4*0F'F(FcvFLF\\qF(F@F(F0F(F
+brF(F[xF(F4*2F'F(FcvF9F^qF(F0F(F:F(FbrF(FBF(FcxF(!#9*,F'F(FcvF9F@F4F>F
+4FdrF(#FhsF=*0F'F(FcvFLFeuF(F@F(FBF(FdrF(FQF(F=*2F'F(FcvF9F^qF(F@F(F:F
+(FdrF(FBF(FCF(#!#!*\"\"(*2F'F(FcvF9F^qF(F@F(F:F(FdrF(FBF(FQF(Fay*,F'F(
+FcvFL&FV6#F^pF(FdrF4FbrF(Fao*,F'F(FcvFLFfyF(FdrF(FBF4Fdo*,F'F(FcvF9F:F
+4FBF4FdrF(#F[uF=*,F'F(FcvF9FdrF(F^qF4FBF4#!$q#Fcy*0F'F(FcvFLFeuF(F@F(F
+BF(FdrF(FCF(F=*2F'F(FcvF9F>F(F@F(F:F(FdrF(FBF(FQF(Fjy*,F'F(FcvF9F:F4Fb
+rF(FdrF4#!$;\"Fjr*.F'F(FcvF9F:F(F[pF(F@F4FdrF(Fhx*,F'F(FcvFLF\\qF(F@F4
+FdrF(F4*,F'F(FcvF9FdrF4F^qF4FbrF(Fep**F'F(FcvFLFasF4FdrF(Fho*,F'F(FcvF
+9F@F4F:F4FdrF(#FiwFcy*2F'F(FcvF9F>F(F@F(F:F(FdrF(FBF(FCF(Fjy*0F'F(FcvF
+9F^qF(F0F(F>F(FZF(FdrF(Fgp*.F'F(FcvF9F^qF(F@F4F>F(FdrF(Fgp*0F'F(FcvF9F
+0F(F>F4F@F(FbrF(F[xF(Fir*2F'F(FcvF9F>F(F0F(F:F(FbrF(FBF(FcxF(#!#_FjrF(
+FiuF4F4**F'F(FcvF(,**&FdrF(FasF(FL*.F'F(FcvFLF>F(FZF(F@F(FdsF(F(*.F'F(
+FcvFLF:F(FZF(FBF(FgtF(F(*,F'F(FcvFLF>F(F0F4F]wF(#F(F4F(FiuF(F4" }}}}
+{SECT 1 {PARA 5 "" 0 "" {TEXT -1 6 "6.1.5 " }{XPPEDIT 18 0 "Omega->ome
+ga[2]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\"&%&omegaG6#\"\"#F)F)" }
+{TEXT -1 7 "  and  " }{XPPEDIT 18 0 "omega[2]->3*omega[1]" ":6#&%&omeg
+aG6#\"\"#7\"6$%)operatorG%&arrowG6\"*&\"\"$\"\"\"&F%6#\"\"\"F/F,F," }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 150 "In this case, we have a primary r
+esonance of the second mode, a subharmonic resonance of the first mode
+, and a three-to-one internal resonance. We let" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 86 "scaling5:=\{seq(mu[s,i]=epsilon^2*mu[i],i=1..2
+),F[1]=epsilon*f[1],F[2]=epsilon^3*f[2]\};" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)scaling5G<&/&%\"FG6#\"\"\"*&%(epsilonGF*&%\"fGF)F*/&
+%#muG6$%\"sGF**&F,\"\"#&F1F)F*/&F16$F3F5*&F,F5&F16#F5F*/&F(F<*&F,\"\"$
+&F.F<F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 91 "ResonanceCond5:=
+\{omega[2]=3*omega[1]+epsilon^2*sigma[1],Omega=omega[2]+epsilon^2*sigm
+a[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond5G<$/%&Omeg
+aG,&&%&omegaG6#\"\"#\"\"\"*&%(epsilonGF,&%&sigmaGF+F-F-/F),&&F*6#F-\"
+\"$*&F/F,&F1F5F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Using " }
+{TEXT 368 3 "MMS" }{TEXT -1 129 ", we obtain the second-order approxim
+ate solution and the two equations governing the modulation of the com
+plex-valued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }{TEXT 
+-1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scaling5,Res
+onanceCond5);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-order~
+approximate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"uG6#\"
+\"\"6#%\"tG,&*&%(epsilonGF(,(*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&omegaGF'
+F(&%\"TG6#\"\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(*&,&-F36#,
+&*(F6F(%&OmegaGF(F9F(FD*&F6F(&%$tauGF'F(FDF(-F36#,&FJF(FLF(F(F(&%'Lamb
+daGF'F(F(F(F(*&F-\"\"#,L*(&%&deltaGF'F(F7!\"#FRFU!\"'**&FY6#\"\"$F(F7F
+Z-F?6#&F16#FUF(F\\oF(FZ**FXF(F7FZF0F(F>F(Fen**FgnF(F7FZF\\oFU-F36#,$*(
+F6F(&F8F]oF(F9F(FUF(#F(\"#N**FXF(F7FZF0FU-F36#,$F5FUF(F(**FXF(F7FZFRFU
+-F36#,&FJFZFLFZF(#FinFfo*,&FYF]oF(F7FZFRF(F\\oF(-F36#,(FcoF(FJF(FLF(F(
+#FUFfo*,FapF(F7FZF0F(FjnF(-F36#,&F5F(FcoFDF(#FUFin*,FXF(F7FZF>F(FRF(-F
+36#,(F5FDFJF(FLF(F(FU**FXF(F7FZFRFU-F36#,&FJFUFLFUF(F_p*,FapF(F7FZF>F(
+F\\oF(-F36#,&F5FDFcoF(F(Fjp*,FapF(F7FZFjnF(FRF(-F36#,(FJF(FcoFDFLF(F(F
+Z*,FapF(F7FZF0F(F\\oF(-F36#,&F5F(FcoF(F(#FU\"#:**FXF(F7FZF>FU-F36#,$F5
+FZF(F(*,FXF(F7FZFRF(F0F(-F36#,(F5F(FJF(FLF(F(#FU\"\"&*,FapF(F7FZFjnF(F
+>F(-F36#,&FcoFDF5FDF(F_r*,FapF(F7FZFjnF(FRF(-F36#,(FcoFDFJFDFLFDF(Fep*
+*FgnF(F7FZFjnFU-F36#,$FcoFZF(Feo*,FXF(F7FZF>F(FRF(-F36#,(F5FDFJFDFLFDF
+(Fir*,FapF(F7FZFRF(F\\oF(-F36#,(FcoF(FJFDFLFDF(FZ*,FXF(F7FZFRF(F0F(-F3
+6#,(F5F(FJFDFLFDF(FUF(F(/-&F&F]oF),&*&F-F(,&*&F\\oF(-F36#FcoF(F(*&FjnF
+(-F36#,$FcoFDF(F(F(F(*&F-FU,L**&FY6#\"\"%F(F7FZFjnF(F\\oF(#FZFin**FapF
+(F7FZF0F(F>F(#FZ\"\"**(FapF(F7FZFRFUFhu**FcuF(F7FZFjnFUFdsF(#F(Fiu*,Fa
+pF(F7FZF>F(FRF(F\\qF(#FZFjr**FapF(F7FZFRFUF`qF(#F(\"#F**FapF(F7FZF0FUF
+hoF(#FDFjr**FapF(F7FZFRFUF\\pF(F`v*,FgnF(F7FZF\\oF(FRF(FbpF(#FUFav*,Fg
+nF(F7FZFjnF(F0F(FgpF(F^v*,FgnF(F7FZFjnF(F>F(F\\sF(#FU\"\"(*,FgnF(F7FZF
+>F(F\\oF(FdqF(F^v*,FgnF(F7FZFjnF(FRF(F`sF(Ffv*,FgnF(F7FZFjnF(FRF(FhqF(
+Fhu*,FgnF(F7FZF\\oF(FRF(F\\tF(Fhu**FapF(F7FZF>FUFbrF(Fcv*,FapF(F7FZF>F
+(FRF(FhsF(Fiv*,FgnF(F7FZF0F(F\\oF(F\\rF(Fiv*,FapF(F7FZF0F(FRF(F`tF(F^v
+*,FapF(F7FZF0F(FRF(FfrF(Fiv**FcuF(F7FZF\\oFUF`oF(F\\vF(F(" }}{PARA 12 
+"" 1 "" {XPPMATH 20 "6#%'|+whereG" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/
+&%'LambdaG6#%\"iG*&&%\"fGF&\"\"\",&*$&%&omegaGF&\"\"#F0*$%&OmegaGF0!\"
+#!\"\"" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%;|+The~modulation~equations
+:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F
+(-%%diffG6$-&%\"AGF+6#%\"tGF3F(\"\"#,$**F'F(F)F(%(epsilonGF4,R*0F'F(F)
+!\"$&%&deltaGF+F(F0F(&F<6#\"\"$F(-%*conjugateG6#&F16#F4F(FCF(!\"'*0F'F
+(F)F:&F<FDF(F0F(&F<6#\"\"%F(F@F(FCF(#!\"#F?*.F'F(F)!\"\"&%&alphaGF>F(F
+0F(F@F(FCF(F4*.F'F(F)F:F0F(F=F4F@F(FCF(#!\"%\"#N*.F'F(F)F:FGF4F0F(F@F(
+FCF(#FJ\"\"&*2F'F(F)F:F=F(F0F(FGF(&%'LambdaGF+F(FCF(-%$expG6#,&*(F'F(&
+%&sigmaGFDF(&%\"TGFDF(FN*&F'F(&%$tauGF+F(FNF(#!$1\"\"$:$*2F'F(F)F:F;F(
+F0F(FGF(FCF(FYF(FenF(#!#=FW*0F'F(F)FN&FPFDF(FYF(F0F(FCF(FenF(F?*.F'F(F
+)FNFhoF(-FA6#F0F4FCF(-Ffn6#*(F'F(&F[oF+F(F\\oF(F(#F?F4*0F'F(F)F:F=F(Fj
+oF4FGF(FCF(F\\pF(#F:FW*0F'F(F)F:F;F(FjoF4FGF(FCF(F\\pF(F?*,F'F(F)F:F0F
+4FGF4FjoF(#!#>\"#X*,F'F(F)F:F0F(FGF4FYF4Fao*,F'F(F)F:F0F(F;F4FYF4#!#aF
+W*,F'F(F)FN&FPF+F(F0F4FjoF(\"\"'*,F'F(F)FNF]qF(F0F(FYF4\"#7*&F0F(&%#mu
+GF+F(FN*,F'F(F)F:F0F4F;F4FjoF(!#:*0F'F(F)FNFhoF(FYF(F0F(F@F(-Ffn6#,&Fi
+nF(F^oF(F(F?*2F'F(F)F:F=F(F0F(FGF(FYF(F@F(FgqF(Fao*2F'F(F)F:F;F(F0F(FG
+F(FYF(F@F(FgqF(Feo*.F'F(F)F:FjoF4F;F4FYF(-Ffn6#,(F^pF(FinF(F^oF(F(\"\"
+**.F'F(F)FNF]qF(FjoF4FYF(F]rF(F^q*.F'F(F)F:FjoF4FGF4FYF(F]rF(FbpF(F4/,
+$*(F'F(&F*FDF(-F-6$-FCF2F3F(F4,$**F'F(FfrF(F7F4,bo*,F'F(FfrFNFhoF(FYF?
+FgqF(F`p*.F'F(FfrF:FGF(FYF?F;F(FgqF(#!%j=FT*.F'F(FfrF:F0F(FGF4FjoF(FCF
+(#\"#OFW*.F'F(FfrF:F0F(F=F4FjoF(FCF(#!#OFT*0F'F(FfrF:F=F(F;F(F0F(FjoF(
+FCF(F[q*.F'F(FfrFNFOF(F0F(FjoF(FCF(F4*,F'F(FfrF:FYF4FGF4FCF(#!$7'FT**F
+'F(FfrFN&%\"fGFDF(-Ffn6#,&FinF(*&F'F(&F`oFDF(F(F(#FNFJ*,F'F(FfrFN&FP6#
+FWF(FCF4F@F(F^q*&FCF(&FcqFDF(FN*,F'F(FfrF:F=F4F@F(FCF4#!$@'FT*.F'F(Ffr
+F:F=F(F;F(FYF4FCF(F[q*,F'F(FfrFNFOF(FYF4FCF(F4*,F'F(FfrF:FCF4FHF4F@F(F
+eq*,F'F(FfrF:FYF4F=F4FCF(#FSF?*0F'F(FfrF:FHF(F0F(FGF(FjoF(FCF(FE*.F'F(
+FfrF:FHF(FYF4FGF(FCF(FE*.F'F(FfrF:F=F(FYF?FGF(FgqF(#!\"&F?*0F'F(FfrF:F
+HF(FYF(F=F(FCF4FenF(Ffu*2F'F(FfrF:FHF(FYF(F=F(F@F(FCF(FgqF(!#5*.F'F(Ff
+rF:-Ffn6#,$F^pFNF(FGF(F0F?F;F(F`r*0F'F(FfrFNFhoF(F0F(FYF(FjoF(FgqF(F?*
+.F'F(FfrF:F[vF(F=F(F0F?FGF(#!\"*FW*2F'F(FfrF:FGF(F0F(F=F(FYF(FjoF(FgqF
+(#FboFT*2F'F(FfrF:FGF(F0F(F;F(FYF(FjoF(FgqF(#!$i\"FW*,F'F(FfrFNF[vF(Fh
+oF(F0F?#F(F4*2F'F(FfrF:FGF(FYF(F=F(F@F(FCF(FgqF(#!%U7FT*.F'F(FfrFN&FPF
+IF(FYF(FCF4FenF(F`p*.F'F(FfrF:FYF4F=F4F@F(-Ffn6#,&FinF4F^oF4F(FL*.F'F(
+FfrF:FYF4FGF4F@F(F_wF(Ffo*0F'F(FfrF:FGF(FYF(F=F(FCF4FenF(F[u*0F'F(FfrF
+NF]wF(FYF(F@F(FCF(FgqF(F?*0F'F(FfrF:F=F(F;F(FYF4F@F(F_wF(#\"#FFT*0F'F(
+FfrF:FHF(FYF4FGF(F@F(F_wF(F(*.F'F(FfrFNFOF(FYF4F@F(F_wF(F(F(F4" }}}}
+{SECT 1 {PARA 5 "" 0 "" {TEXT -1 6 "6.1.6 " }{XPPEDIT 18 0 "Omega->ome
+ga[2]-2*omega[1]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\",&&%&omegaG6#
+\"\"#\"\"\"*&\"\"#F/&F,6#\"\"\"F/!\"\"F)F)" }{TEXT -1 7 "  and  " }
+{XPPEDIT 18 0 "omega[2]->3*omega[1]" ":6#&%&omegaG6#\"\"#7\"6$%)operat
+orG%&arrowG6\"*&\"\"$\"\"\"&F%6#\"\"\"F/F,F," }}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 152 "In this case, we have a primary resonance of the first
+ mode, a superharmonic resonance of the second mode, and a three-to-on
+e internal resonance. We let" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 86 "scaling6:=\{seq(mu[s,i]=epsilon^2*mu[i],i=1..2),F[1]=epsilon^3*f
+[1],F[2]=epsilon*f[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)scaling
+6G<&/&%\"FG6#\"\"\"*&%(epsilonG\"\"$&%\"fGF)F*/&F(6#\"\"#*&F,F*&F/F2F*
+/&%#muG6$%\"sGF**&F,F3&F8F)F*/&F86$F:F3*&F,F3&F8F2F*" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 102 "ResonanceCond6:=\{omega[2]=3*omega[1]+ep
+silon^2*sigma[1],Omega=omega[2]-2*omega[1]+epsilon^2*sigma[2]\};" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond6G<$/%&OmegaG,(&%&omeg
+aG6#\"\"#\"\"\"&F*6#F-!\"#*&%(epsilonGF,&%&sigmaGF+F-F-/F),&F.\"\"$*&F
+2F,&F4F/F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Using " }{TEXT 
+369 3 "MMS" }{TEXT -1 129 ", we obtain the second-order approximate so
+lution and the two equations governing the modulation of the complex-v
+alued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }{TEXT -1 1 ":
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scaling6,ResonanceC
+ond6);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-order~approxi
+mate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"uG6#\"\"\"6#%
+\"tG,&*&%(epsilonGF(,&*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&omegaGF'F(&%\"T
+G6#\"\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(F(F(*&F-\"\"#,L**
+&%&deltaG6#\"\"$F(F7!\"#-F?6#&F16#FFF(FPF(FM**&FJF'F(F7FMF0F(F>F(!\"'*
+*FSF(F7FMF>FF-F36#,$F5FMF(F(*,FIF(F7FMFNF(&%'LambdaGFQF(-F36#,(*(F6F(&
+F8FQF(F9F(FD*(F6F(%&OmegaGF(F9F(FD*&F6F(&%$tauGFQF(FDF(#FF\"#:**FIF(F7
+FMFZFF-F36#,&F[oFMF]oFMF(#F(FL*,&FJFQF(F7FMF0F(FNF(-F36#,&F5F(FinFDF(#
+FFFL*,FhoF(F7FMF0F(FZF(-F36#,(F5F(F[oFDF]oFDF(FM*,FhoF(F7FMF>F(FZF(-F3
+6#,(F5FDF[oFDF]oFDF(F\\p*,FhoF(F7FMF0F(FPF(-F36#,&F5F(FinF(F(F`o**FIF(
+F7FMFPFF-F36#,$FinFFF(#F(\"#N**FSF(F7FMF0FF-F36#,$F5FFF(F(*(FIF(F7FMFZ
+FFFM*,FIF(F7FMFNF(FZF(-F36#,(FinFDF[oF(F]oF(F(F\\p*,FhoF(F7FMF0F(FZF(-
+F36#,(F[oF(F]oF(F5F(F(F\\p*,FIF(F7FMFPF(FZF(-F36#,(F[oF(F]oF(FinF(F(F`
+o**FIF(F7FMFZFF-F36#,&F[oFFF]oFFF(Ffo*,FIF(F7FMFPF(FZF(-F36#,(FinF(F[o
+FDF]oFDF(F\\p**FIF(F7FMFNFF-F36#,$FinFMF(F]q*,FhoF(F7FMFNF(F>F(-F36#,&
+FinFDF5FDF(F`o*,FhoF(F7FMF>F(FPF(-F36#,&F5FDFinF(F(F\\p*,FhoF(F7FMF>F(
+FZF(-F36#,(F[oF(F]oF(F5FDF(FMF(F(/-&F&FQF),&*&F-F(,(*&FPF(-F36#FinF(F(
+*&FNF(-F36#,$FinFDF(F(*&,&-F36#,&F[oF(F]oF(F(-F36#,&F[oFDF]oFDF(F(FZF(
+F(F(F(*&F-FF,L**&FJ6#\"\"%F(F7FMFNF(FPF(#FMFL**FhoF(F7FMF0F(F>F(#FM\"
+\"**(F`uF(F7FMFZFFFcu**F`uF(F7FMFPFFFjpF(#F(Ffu*,FIF(F7FMF0F(FPF(FfpF(
+#FF\"\"(**FhoF(F7FMF0FFF`qF(#FD\"\"&**F`uF(F7FMFZFFFcoF(#!\"$F_v**F`uF
+(F7FMFNFFFirF(Fiu**FhoF(F7FMF>FFFVF(F^v*,FIF(F7FMF>F(FPF(FasF(#FMF_v*,
+F`uF(F7FMFNF(FZF(FfnF(#\"\"'F\\v*,FIF(F7FMFNF(F>F(F]sF(F[v*,F`uF(F7FMF
+PF(FZF(FerF(#FTF_v*,FIF(F7FMF0F(FZF(F^pF(Feu*,FIF(F7FMF>F(FZF(FbpF(Ffv
+*,FIF(F7FMF>F(FZF(FesF(Feu*,FIF(F7FMF0F(FZF(FiqF(Ffv*,F`uF(F7FMFNF(FZF
+(FeqF(F\\w*,F`uF(F7FMFPF(FZF(F]rF(Fhv**F`uF(F7FMFZFFFarF(Fav*,FIF(F7FM
+FNF(F0F(FioF(FfvF(F(" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%'|+whereG" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#/&%'LambdaG6#%\"iG*&&%\"fGF&\"\"\",&*$
+&%&omegaGF&\"\"#F0*$%&OmegaGF0!\"#!\"\"" }}{PARA 12 "" 1 "" {XPPMATH 
+20 "6#%;|+The~modulation~equations:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "
+6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%\"tGF3F(\"\"#
+,$**F'F(F)F(%(epsilonGF4,bp*&F0F(&%#muGF+F(!\"\"*,F'F(F)F<&%&alphaGF+F
+(F0F4-%*conjugateG6#F0F(\"\"'*,F'F(F)!\"$F0F4&%&deltaGF+F4F@F(!#:*,F'F
+(F)FEF0F4&FG6#F4F4F@F(#!#>\"#X*.F'F(F)F<&F?6#\"\"$F(F0F(-FA6#&F1FKF(FU
+F(F4*.F'F(F)FEFJF4F0F(FSF(FUF(#\"\"%\"\"&*.F'F(F)FEF0F(&FGFQF4FSF(FUF(
+#!\"%\"#N*0F'F(F)FEFJF(F0F(&FG6#FXF(FSF(FUF(#!\"#FR*0F'F(F)FEFFF(F0F(F
+enF(FSF(FUF(!\"'*,F'F(F)F<&F?F[oF(&%'LambdaGFKFR-%$expG6#,(*(F'F(&%&si
+gmaGFKF(&%\"TGFKF(F(*(F'F(&FjoF+F(F[pF(F(*&F'F(&%$tauGFKF(F(F(#FRF4*.F
+'F(F)FEFboF4FenF4F@F(-Feo6#,(F]pF4FhoF4F_pF4F(#F]o\"\"**.F'F(F)F<FPF(F
+@F(FboF4FdpF(F(*0F'F(F)FEFJF(F@F(FjnF(FboF4FdpF(#FEFY*2F'F(F)FEFFF(F0F
+(FJF(F@F(FboF(FdoF(!#5*.F'F(F)F<&F?FKF(F0F4FboF(-Feo6#,(FhoF<F]pF<F_pF
+<F(Fbp*0F'F(F)FEFFF(FboF4FenF(F@F(FdpF(F(*0F'F(F)FEFenF(F@F4FJF(FUF(-F
+eo6#F]pF(F[q*0F'F(F)FEFFF(F@F4FJF(FUF(FeqF(FR*.F'F(F)F<F_qF(F@F4FUF(Fe
+qF(Fbp*0F'F(F)FEFenF(FboF(FJF(F0F4F`qF(FL*,F'F(F)F<FPF(F0F(FboF4F4*2F'
+F(F)FEFenF(FboF(FJF(F0F(F@F(FdoF(#!#QFN*0F'F(F)FEFFF(F0F4FJF(FboF(F`qF
+(!\"&*0F'F(F)F<F_qF(F0F(F@F(FboF(FdoF(FR*,F'F(F)FEFJF4F0F(FboF4#FgnFR*
+,F'F(F)FEFboF4FenF4F0F(#!#GFN*.F'F(F)FEFenF(FboFRFjnF(FdoF(#FM\"#:*.F'
+F(F)FEFFF(FboF4FenF(F0F(F_o*.F'F(F)FEFJF(F0F(FjnF(FboF4F\\o**F'F(F)F<&
+%\"fGF+F(-Feo6#,(F]pF(FhoF(*&F'F(&FapF+F(F(F(#F<FX*.F'F(F)FEFJF(FenF(F
+boFRFdoF(#F_rFR*.F'F(F)F<FaoF(FUF(FboF4-Feo6#,(F]pF<FhoF]oF_pF]oF(Fbp*
+0F'F(F)FEFenF(FUF(FjnF(FboF4FgsF(#!\"*FY*2F'F(F)FEFJF(FenF(FSF(FUF(Fbo
+F(FdoF(#F_oFY*2F'F(F)FEFenF(FUF(FjnF(FSF(FboF(FdoF(#!$1\"\"$0\"*0F'F(F
+)F<FaoF(FUF(FSF(FboF(FdoF(FR*0F'F(F)FEFJF(FenF(FboF4FUF(FgsF(F(*.F'F(F
+)FEFJF4F@F(FboF4FdpF(F]o*0F'F(F)FEFUF(FenF4F@F(FboF(-Feo6#,&FhoF<F_pF<
+F(#FgnFY*2F'F(F)FEFFF(FUF(FenF(F@F(FboF(FgtF(F4*0F'F(F)FEFJF4F@F(FUF(F
+boF(FgtF(#FXFR*0F'F(F)F<FPF(F@F(FUF(FboF(FgtF(F4*2F'F(F)FEFJF(F@F(FjnF
+(FUF(FboF(FgtF(F^tF(F4/,$*(F'F(&F*FKF(-F-6$-FUF2F3F(F4,$**F'F(FcuF(F7F
+4,\\o*,F'F(FcuFEFenF4FboFR-Feo6#,(F]pF4FhoFRF_pFRF(FR*,F'F(FcuFEFboFRF
+jnF4F[vF(#!#\")FY*,F'F(FcuF<&F?6#FYF(FboFRF[vF(F4*.F'F(FcuFEF0F(FJF4F@
+F(FUF(#\"#OFY*.F'F(FcuFEF0F(FenF4F@F(FUF(#!#OFhn*0F'F(FcuFEFenF(FFF(F0
+F(F@F(FUF(!#a*.F'F(FcuF<FPF(F0F(F@F(FUF(F4*,F'F(FcuF<FbvF(FUF4FSF(FC*&
+FUF(&F;FKF(F<*,F'F(FcuFEFenF4FSF(FUF4#!$@'Fhn*,F'F(FcuFEFUF4FjnF4FSF(F
+H*0F'F(FcuFEFjnF(F0F(FJF(F@F(FUF(F_o*.F'F(FcuFE-Feo6#,$F]pF<F(FJF(F0FR
+FFF(Fhp*.F'F(FcuFEFfwF(FenF(F0FRFJF(F[t*,F'F(FcuF<FfwF(F_qF(F0FR#F(F4*
+0F'F(FcuFEFjnF(FboF(FJF(F0F4-Feo6#,&FhoF(F_pF(F(#!#FFY*.F'F(FcuFEF0F4F
+enF4FboF(F]xF(#!#=FY*.F'F(FcuF<FaoF(F0F(FboF4-Feo6#,(F]pF(FhoF4F_pF4F(
+Fbp*.F'F(FcuF<FPF(F0F4FboF(F]xF(F(*.F'F(FcuFEFboF(FJF4F0F4F]xF(FC*0F'F
+(FcuFEFJF(FboF4FenF(F0F(FfxF(Fhp*0F'F(FcuFEFenF(FFF(F0F4FboF(F]xF(Fhp*
+0F'F(FcuFEFjnF(FboF4FenF(F0F(FfxF(F_v*,F'F(FcuFEFenF4FUF(FboF4#F[wFY*,
+F'F(FcuFEFUF(FjnF4FboF4#!$a*Fhn*,F'F(FcuF<FbvF(FUF(FboF4\"#7*2F'F(FcuF
+EFJF(FUF(FenF(F@F(FboF(FdoF(F_y*2F'F(FcuFEFJF(FUF(FenF(F0F(FboF(F`qF(F
+_y*2F'F(FcuFEFjnF(FUF(FenF(F@F(FboF(FdoF(#!$=$Fhn*2F'F(FcuFEFjnF(FUF(F
+enF(F0F(FboF(F`qF(Fhy*0F'F(FcuF<FaoF(F@F(FUF(FboF(FdoF(FR*0F'F(FcuF<Fa
+oF(F0F(FUF(FboF(F`qF(FRF(F4" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 6 "6
+.1.7 " }{XPPEDIT 18 0 "Omega->omega[1]+omega[2]" ":6#%&OmegaG7\"6$%)op
+eratorG%&arrowG6\",&&%&omegaG6#\"\"\"\"\"\"&F,6#\"\"#F/F)F)" }{TEXT 
+-1 7 "  and  " }{XPPEDIT 18 0 "omega[2]->omega[1]" ":6#&%&omegaG6#\"\"
+#7\"6$%)operatorG%&arrowG6\"&F%6#\"\"\"F,F," }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 104 "In this case, we have a subharmonic resonance of either \+
+mode and a one-to-one internal resonance. We let" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 82 "scaling7:=\{seq(mu[s,i]=epsilon*mu[i],i=1..2)
+,F[1]=epsilon*f[1],F[2]=epsilon*f[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%)scaling7G<&/&%#muG6$%\"sG\"\"#*&%(epsilonG\"\"\"&F(6#F+F./&F(
+6$F*F.*&F-F.&F(6#F.F./&%\"FGF6*&F-F.&%\"fGF6F./&F9F0*&F-F.&F<F0F." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 94 "ResonanceCond7:=\{omega[2]=o
+mega[1]+epsilon*sigma[1],Omega=omega[1]+omega[2]+epsilon*sigma[2]\};" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond7G<$/&%&omegaG6#\"\"
+#,&&F(6#\"\"\"F.*&%(epsilonGF.&%&sigmaGF-F.F./%&OmegaG,(F,F.F'F.*&F0F.
+&F2F)F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Using " }{TEXT 370 3 
+"MMS" }{TEXT -1 129 ", we obtain the second-order approximate solution
+ and the two equations governing the modulation of the complex-valued \+
+functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }{TEXT -1 1 ":" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scaling7,ResonanceCond7)
+;" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-order~approximate~
+solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"uG6#\"\"\"6#%\"tG,
+&*&%(epsilonGF(,(*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&omegaGF'F(&%\"TG6#\"
+\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(*&,&-F36#,&*(F6F(%&Ome
+gaGF(F9F(FD*&F6F(&%$tauGF'F(FDF(-F36#,&FJF(FLF(F(F(&%'LambdaGF'F(F(F(F
+(*&F-\"\"#,\\p*(&%&deltaGF'F(F7!\"#FRFU!\"'*,F6F(&%#muGF'F(F7FDFRF(FGF
+(#!\"%\"\"$*,F6F(FgnF(F7FDFRF(FOF(#\"\"%F[o**FXF(F7FZFRFU-F36#,&FJFZFL
+FZF(#F(\"\"&**FXF(F7FZFRFU-F36#,&FJFUFLFUF(Fco*,&FY6#FUF(F7FZF0F(&FSF[
+pF(-F36#,(F5F(FJFD*&F6F(&FNF[pF(FDF(#FDFU*,FjoF(F7FZF>F(F\\pF(-F36#,(F
+JF(F`pF(F5FDF(Fbp*,FjoF(F7FZF0F(F\\pF(-F36#,(FJF(F`pF(F5F(F(#F(F^o*,Fj
+oF(F7FZF>F(F\\pF(-F36#,(F5FDFJFDF`pFDF(F[q*,FXF(F7FZF>F(FRF(-F36#,(F5F
+DFJFDFLFDF(#F[oF^o*,FXF(F7FZFRF(F0F(-F36#,(F5F(FJFDFLFDF(#!\"$FU*,FXF(
+F7FZF>F(FRF(-F36#,(F5FDFJF(FLF(F(Fiq**FXF(F7FZF>FU-F36#,$F5FZF(F(**FXF
+(F7FZF0FU-F36#,$F5FUF(F(**FXF(F7FZF0F(F>F(Fen*,F6F(FgnF(F7FDF>F(FAF(#F
+(FU*,F6F(FgnF(F7FDF0F(F2F(Fbp*,FXF(F7FZFRF(F0F(-F36#,(F5F(FJF(FLF(F(Fd
+q**&FY6#F[oF(F7FZF\\pFU-F36#,&FJFUF`pFUF(#F(\"#:*,F`sF(F7FZ&F1F[pF(F\\
+pF(-F36#,(*(F6F(&F8F[pF(F9F(F(FJFDF`pFDF(Fbp*,F`sF(F7FZ-F?6#FhsF(F\\pF
+(-F36#,(F\\tFDFJF(F`pF(F(Fbp*,F`sF(F7FZFhsF(F\\pF(-F36#,(FJF(F`pF(F\\t
+F(F(F[q*,F`sF(F7FZF_tF(F\\pF(-F36#,(F\\tFDFJFDF`pFDF(F[q*,FjoF(F7FZF0F
+(F_tF(-F36#,&F5F(F\\tFDF(FZ*,FjoF(F7FZF_tF(F>F(-F36#,&F\\tFDF5FDF(#FUF
+[o*,FjoF(F7FZF0F(FhsF(-F36#,&F5F(F\\tF(F(Fdu*,FjoF(F7FZF>F(FhsF(-F36#,
+&F5FDF\\tF(F(FZ**F`sF(F7FZFhsFU-F36#,$F\\tFUF(#F(F[o*,FjoF(F7FZFRF(Fhs
+F(-F36#,(F\\tF(FJF(FLF(F(F[q*,FjoF(F7FZFRF(FhsF(-F36#,(F\\tF(FJFDFLFDF
+(Fbp*,FjoF(F7FZF_tF(FRF(-F36#,(FJF(F\\tFDFLF(F(Fbp**F`sF(F7FZF_tFU-F36
+#,$F\\tFZF(Fav*,FjoF(F7FZF_tF(FRF(-F36#,(F\\tFDFJFDFLFDF(F[q**F`sF(F7F
+ZF_tF(FhsF(FZ**F`sF(F7FZF\\pFU-F36#,&FJFZF`pFZF(Fes*,FjoF(F7FZFRF(F\\p
+F(-F36#,(FJFZF`pFDFLFDF(#FUFfs*,FjoF(F7FZFRF(F\\pF(-F36#,&FLF(F`pFDF(F
+Z*,FjoF(F7FZFRF(F\\pF(-F36#,&FLFDF`pF(F(FZ*,FjoF(F7FZFRF(F\\pF(-F36#,(
+FJFUFLF(F`pF(F(F_x*(F`sF(F7FZF\\pFUFZF(F(/-&F&F[pF),&*&F-F(,(*&FhsF(-F
+36#F\\tF(F(*&F_tF(-F36#,$F\\tFDF(F(*&,&-F36#,&FJFDF`pFDF(-F36#,&FJF(F`
+pF(F(F(F\\pF(F(F(F(*&F-FU,\\p**FjoF(F7FZFRFUF`oF(Fes**FjoF(F7FZFRFUFfo
+F(Fes**&FY6#F^oF(F7FZF\\pFUFhwF(Fco*,F`sF(F7FZFRF(F\\pF(FexF(FZ*(FjoF(
+F7FZFRFUFZ*,F6F(&FhnF[pF(F7FDF\\pF(F_zF(F]o**FgzF(F7FZF\\pFUFbsF(Fco*,
+F`sF(F7FZFRF(F\\pF(FixF(F_x*,F`sF(F7FZFRF(F\\pF(F\\xF(F_x*,F6F(F\\[lF(
+F7FDF\\pF(F\\zF(Fin*,F`sF(F7FZFRF(F\\pF(FaxF(FZ*,F`sF(F7FZF0F(F\\pF(F]
+pF(Fbp*,F`sF(F7FZF0F(F\\pF(FhpF(F[q*,F`sF(F7FZF>F(F\\pF(F]qF(F[q**FjoF
+(F7FZF0F(F>F(FZ*,FjoF(F7FZF>F(FRF(F\\rF(Fbp*,FjoF(F7FZF>F(FRF(FaqF(F[q
+*,FjoF(F7FZF0F(FRF(FfqF(Fbp*,FjoF(F7FZF0F(FRF(F\\sF(F[q**FjoF(F7FZF>FU
+F`rF(Fav**FjoF(F7FZF0FUFdrF(Fav*,F`sF(F7FZF_tF(F>F(FauF(Fdu*,F`sF(F7FZ
+F0F(FhsF(FfuF(Fdu*,F`sF(F7FZF>F(FhsF(FjuF(FZ*,F`sF(F7FZF_tF(F0F(F]uF(F
+Z**FgzF(F7FZF_tFUF_wF(F(*,FgzF(F7FZFhsF(F\\pF(FisF(Fiq*,F6F(F\\[lF(F7F
+DF_tF(FgyF(Fir*,FgzF(F7FZF_tF(F\\pF(FatF(Fiq*,F6F(F\\[lF(F7FDFhsF(FdyF
+(Fbp*,FgzF(F7FZFhsF(F\\pF(FetF(Fdq**FgzF(F7FZFhsFUF^vF(F(*,FgzF(F7FZF_
+tF(F\\pF(FitF(Fdq**FgzF(F7FZF_tF(FhsF(Fen*,F`sF(F7FZFhsF(FRF(FcvF(F[q*
+,F`sF(F7FZFhsF(FRF(FgvF(Fbp*,F`sF(F7FZF_tF(FRF(F[wF(Fbp*,F`sF(F7FZF_tF
+(FRF(FcwF(F[q*,F`sF(F7FZF>F(F\\pF(FdpF(Fbp*(FgzF(F7FZF\\pFUFenF(F(" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#%'|+whereG" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#/&%'LambdaG6#%\"iG*&&%\"fGF&\"\"\",&*$&%&omegaGF&\"\"#F
+0*$%&OmegaGF0!\"#!\"\"" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%;|+The~modu
+lation~equations:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/,$*(%\"IG\"\"
+\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%\"tGF3F(\"\"#,&**F'F(F)F(,dr*,F
+'F(F)!\"\"&%&alphaGF+F(F0F4-%*conjugateG6#F0F(\"\"'*,F'F(F)!\"$F0F4&%&
+deltaGF+F4F<F(!#:*0F'F(F)F9&F;6#F4F(&%'LambdaGF+F(F0F(&FIFGF(-%$expG6#
+,&*&F'F(&%$tauGF+F(F9*&F'F(&FQFGF(F(F(\"\"$*0F'F(F)F9FFF(FHF(F0F(FJF(-
+FL6#,&FOF(FRF9F(FT*,F'F(F)FAF0F4&FCFGF4F<F(#!\"&FT*,F'F(F)FAF0F(FZF4FH
+F4#!\"*\"\"%*.FBF(F)!\"#F<F(&%#muGF+F(FHF(-FL6#,(*(F'F(&%&sigmaGF+F(&%
+\"TGF+F(F(*(F'F(&FdoFGF(FeoF(F(FOF(F(!\"(*.F'F(F)F9&F;6#FTF(F0F(-F=6#&
+F1FGF(F_pF(F4*.F'F(F)FAFZF4F0F(F]pF(F_pF(#!\"%FT*.F'F(F)FAF0F(&FCF\\pF
+4F]pF(F_pF(Fap*0F'F(F)FAFZF(F0F(&FC6#FjnF(F]pF(F_pF(!\"'*.FZF(F)F\\oF<
+F(&F^oFGF(FJF(-FL6#,(FboF(FgoF(FRF(F(Fap*.F)F\\oF]oF(FZF(F<F(FJF(F[qF(
+F9*,F'F(F)F9F:F(F0F(FHF4\"#7**F'F(F)F9F0F(F]oF4#F9F4*,F'F(F)FAF0F(FBF4
+FHF4#!#\")Fjn*2F'F(F)FAFBF(F0F(FZF(FHF(FJF(FVF(#!#FFjn*2F'F(F)FAFdpF(F
+0F(FZF(FHF(FJF(FKF(Fhn*0F'F(F)FAFBF(F0F(FdpF(F]pF(F_pF(Fhp*2F'F(F)FAFB
+F(F0F(FZF(FHF(FJF(FKF(Fgq*2F'F(F)FAFdpF(F0F(FZF(FHF(FJF(FVF(Fhn*2F'F(F
+)FAFBF(FHF(FdpF(F_pF(FJF(-FL6#,(FOF9FboF(FRF(F(#FTFjn*2F'F(F)FAFZF(FHF
+(FfpF(F_pF(FJF(F^rF(Far*2F'F(F)FAFZF(FHF(FfpF(F_pF(FJF(-FL6#,(FOF(FboF
+(FRF9F(#FAF4*0F'F(F)FA-FL6#FboF(FdpF(F_pF4FfpF(F]pF(Ffn*0F'F(F)FAFirF(
+FBF(FHF4FZF(F_pF(Fgq*0F'F(F)F9F[pF(FHF(F_pF(FJF(FdrF(F4*0F'F(F)FAFirF(
+FdpF(FHF4FZF(F_pF(Fhn*0F'F(F)FAFirF(FZF(FdpF(F_pF(FJF4Fhn*2F'F(F)FAFBF
+(FHF(FdpF(F_pF(FJF(FdrF(Fgr*0F'F(F)FAFirF(FZF(FdpF(F]pF(F_pF4Fen*0F'F(
+F)FAFirF(FdpF(F_pF(FfpF(FJF4Fgq*0F'F(F)F9F[pF(FHF(F_pF(FJF(F^rF(F4*0F'
+F(F)FAFHF(FdpF4F_pF(FJF(F^rF(#FfnF4*0F'F(F)FAFZF4FHF(FJF(F_pF(FdrF(#Fi
+oFjn*0F'F(F)FAFZF4FHF(FJF(F_pF(F^rF(Fds*.F'F(F)F9FirF(&F;FgpF(F_pF4F]p
+F(#FTF4*.F'F(F)F9FirF(FFF(FHF4F_pF(FT*.F'F(F)F9FirF(FisF(F_pF(FJF4FT*.
+F)F\\oF]oF(FZF(F]pF(FHF(-FL6#,&FgoF(FOF(F(#!#6F?*0F'F(F)FA-FL6#,$FboF9
+F(FdpF(F0F4FZF(F]pF(Fen*0F'F(F)FA-FL6#,$FboF4F(FBF(F<F(FdpF(F_pF4F(*.F
+ZF(F)F\\oFHF(FjpF(F]pF(F^tF(Fbq*.FdpF(F)F\\oF]pF(FjpF(FJF(-FL6#,&FgoF(
+FRF(F(Fat*.F'F(F)F9FdtF(FFF(F0F4F]pF(Fjs*.F'F(F)FAFhtF(F<F(FZF4F_pF4F
+\\o*.F'F(F)FAFhtF(F<F(FdpF4F_pF4F\\o*.F'F(F)F9FhtF(F[pF(F<F(F_pF4F(*.F
+)F\\oF]oF(FdpF(F]pF(FJF(F]uF(Fbq*0F'F(F)FAFhtF(FZF(F<F(FfpF(F_pF4F(*0F
+'F(F)FAFdtF(FBF(F0F4FZF(F]pF(Ffn*0F'F(F)F9FirF(FFF(F0F(F<F(F_pF(FT*2F'
+F(F)FAFirF(FBF(F0F(FZF(F<F(F_pF(!#5*2F'F(F)FAFirF(FdpF(F0F(FZF(F<F(F_p
+F(#FiuFT*,F'F(F)F9F[pF(F0F(FJF4F4*,F'F(F)FAFZF4F0F(FJF4#F9Fjn*,F'F(F)F
+AFJF4FdpF4F0F(F^v*.F'F(F)FAFBF(FJF4FdpF(F0F(Fhp*.F'F(F)FAFZF(F0F(FfpF(
+FJF4Fhp*0F'F(F)FAFHF(FdpF4F_pF(FJF(FdrF(FfsF(%(epsilonGF4F4**F'F(F)F(,
+,*.F'F(F)F9FZF(FHF(F]pF(F^tF(F(*&F0F(F]oF(F9*.F'F(F)F9FZF(F<F(FJF(F[qF
+(F(*.F'F(F)F9FBF(F<F(FHF(F_oF(FT*.F'F(FdpF(F)F9F]pF(FJF(F]uF(F(F(FcvF(
+F4/,$*(F'F(&F*FGF(-F-6$-F_pF2F3F(F4,&**F'F(F^wF(,dr*.F'F(F^wFAF0F(FZF4
+F<F(F_pF(Fap*.F'F(F^wFAF0F(FdpF4F<F(F_pF(Fap*0F'F(F^wF9F[pF(F0F(FHF(FJ
+F(-FL6#,(FboF9FOF(FRF9F(F4*0F'F(F^wFAF0F(FZF4FHF(FJF(FhwF(Fds*0F'F(F^w
+FAFdtF(FZF(F0F(FdpF(FJF4Fhn*0F'F(F^wFAFdpF(FBF(F0F(F<F(F_pF(Fhp*.F'F(F
+^wF9F[pF(F0F(F<F(F_pF(F4*0F'F(F^wFAFdtF(FZF(F0F(FBF(FHF4Fgq*2F'F(F^wFA
+FdpF(FBF(FHF(F0F(FJF(FhwF(Far*2F'F(F^wFAFfpF(F0F(FZF(FHF(FJF(FhwF(Far*
+0F'F(F^wFAFdtF(FfpF(F0F(FdpF(FJF4Fgq*0F'F(F^wF9F[pF(F0F(FHF(FJF(-FL6#,
+(FboF9FOF9FRF(F(F4*0F'F(F^wFAFdtF(FdpF(F0F4FZF(F<F(Fen*0F'F(F^wFAFdtF(
+FdpF(F0F(FZF(FHF4Fhn*2F'F(F^wFAFfpF(F0F(FZF(FHF(FJF(FdxF(Fgr*.F'F(F^wF
+9FdtF(FisF(F0F(FJF4FT*.F'F(F^wF9FdtF(FFF(F0F4F<F(Fjs*.F'F(F^wF9FdtF(FF
+F(F0F(FHF4FT*.F^wF\\oFjpF(FZF(FHF(F<F(F^tF(Fbq*.F^wF\\oFjpF(FdpF(F<F(F
+JF(F]uF(Fat*.FdpF(F^wF\\oF]oF(F<F(FJF(F]uF(Fbq*.FZF(F^wF\\oF<F(F]oF(FH
+F(F^tF(Fat*2F'F(F^wFAFdpF(FBF(FHF(F0F(FJF(FdxF(Fgr*0F'F(F^wFAFdtF(FZF(
+F0F4FBF(F<F(Ffn*0F'F(F^wFAF0F(FZF4FHF(FJF(FdxF(Ffs*,F'F(F^wF9&F;6#\"\"
+&F(F_pF4F]pF(F?*,F'F(F^wFAFdpF4F]pF(F_pF4Fen*0F'F(F^wFAF0F(FdpF4FHF(FJ
+F(FhwF(Fds*,F'F(F^wFAF_pF4FfpF4F]pF(FD*0F'F(F^wFAFfpF(F0F(FZF(F<F(F_pF
+(Fhp*0F'F(F^wFAF0F(FdpF4FHF(FJF(FdxF(Ffs*2F'F(F^wFAFZF(FHF(FdpF(F_pF(F
+JF(FKF(Fhn*2F'F(F^wFAFfpF(FHF(FdpF(F_pF(FJF(FVF(Fgq*2F'F(F^wFAFZF(FHF(
+FdpF(F_pF(FJF(FVF(Fhn*2F'F(F^wFAFfpF(FHF(FdpF(F_pF(FJF(FKF(Fgq*.F'F(F^
+wF9FirF(FisF(F<F(F_pF4Fjs*2F'F(F^wFAFdtF(FZF(F0F(FdpF(F]pF(F_pF(F[v*.F
+'F(F^wFA-FL6#,$FboF\\oF(F0F4FZF4F]pF(F\\o*.F'F(F^wFAFdzF(F0F4FdpF4F]pF
+(F\\o*.F'F(F^wF9FdzF(F[pF(F0F4F]pF(F(*.F'F(F^wFAFdpF(FBF(FHF4F_pF(Fhp*
+,F'F(F^wFAFHF4FdpF4F_pF(F^v*,F'F(F^wF9F[pF(FHF4F_pF(F4**F'F(F^wF9FjpF4
+F_pF(Fbq*0F'F(F^wFAFirF(FZF(F<F(FdpF(F_pF4Fen*0F'F(F^wFAFdzF(FdpF(FBF(
+F0F4F]pF(F(*.F'F(F^wFAFfpF(FHF4FZF(F_pF(Fhp*0F'F(F^wFAFirF(FfpF(F<F(Fd
+pF(F_pF4Ffn*0F'F(F^wFAFdzF(FfpF(F0F4FZF(F]pF(F(*2F'F(F^wFAFdtF(FfpF(F0
+F(FdpF(F]pF(F_pF(Fiu*0F'F(F^wF9FdtF(FisF(F0F(F]pF(F_pF(FT*,F'F(F^wFAFH
+F4FZF4F_pF(F^v*.F^wF\\oFjpF(FdpF(F]pF(FHF(-FL6#,(FgoF(FOF(FboF9F(F9*.F
+dpF(F^wF\\oF]oF(FHF(F]pF(Ff[lF(Fap*.FfpF(F^wF\\oF]pF(FjpF(FJF(-FL6#,(F
+boF9FgoF(FRF(F(Fio*0F'F(F^wF9FisF(FHF(F_pF(FJF(FKF(FT*0F'F(F^wF9FisF(F
+HF(F_pF(FJF(FVF(FT*,F'F(F^wFAFdpF4F_pF(FJF4Fhn*,F'F(F^wFAF_pF(FfpF4FJF
+4Fdq*,F'F(F^wF9FeyF(F_pF(FJF4F`qF(FcvF4F4**F'F(F^wF(,,*.F'F(F^wF9FZF(F
+<F(FHF(F^tF(F(*&F_pF(FjpF(F9*.F'F(F^wF9FdpF(F<F(FJF(F]uF(F(*.F'F(F^wF9
+FdpF(FHF(F]pF(Ff[lF(F(*.F'F(FfpF(F^wF9F]pF(FJF(F[\\lF(FTF(FcvF(F4" }}}
+}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 6 "6.1.8 " }{XPPEDIT 18 0 "Omega->2*
+omega[2]-omega[1]" ":6#%&OmegaG7\"6$%)operatorG%&arrowG6\",&*&\"\"#\"
+\"\"&%&omegaG6#\"\"#F-F-&F/6#\"\"\"!\"\"F)F)" }{TEXT -1 7 "  and  " }
+{XPPEDIT 18 0 "omega[2]->omega[1]" ":6#&%&omegaG6#\"\"#7\"6$%)operator
+G%&arrowG6\"&F%6#\"\"\"F,F," }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 100 "In
+ this case, we have a primary resonance of either mode and a one-to-on
+e internal resonance. We let" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 88 "scaling8:=\{seq(mu[s,i]=epsilon^2*mu[i],i=1..2),F[1]=epsilon^3*f
+[1],F[2]=epsilon^3*f[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)scali
+ng8G<&/&%\"FG6#\"\"\"*&%(epsilonG\"\"$&%\"fGF)F*/&%#muG6$%\"sGF**&F,\"
+\"#&F2F)F*/&F26$F4F6*&F,F6&F26#F6F*/&F(F=*&F,F-&F/F=F*" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 100 "ResonanceCond8:=\{omega[2]=omega[1
+]+epsilon^2*sigma[1],Omega=2*omega[2]-omega[1]+epsilon^2*sigma[2]\};" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/ResonanceCond8G<$/%&OmegaG,(&%&om
+egaG6#\"\"#F,&F*6#\"\"\"!\"\"*&%(epsilonGF,&%&sigmaGF+F/F//F),&F-F/*&F
+2F,&F4F.F/F/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "Using " }{TEXT 
+371 3 "MMS" }{TEXT -1 129 ", we obtain the second-order approximate so
+lution and the two equations governing the modulation of the complex-v
+alued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }{TEXT -1 1 ":
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "MMS(scaling8,ResonanceC
+ond8);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-order~approxi
+mate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6$/-&%\"uG6#\"\"\"6#%
+\"tG,&*&%(epsilonGF(,&*&&%\"AGF'F(-%$expG6#*(%\"IGF(&%&omegaGF'F(&%\"T
+G6#\"\"!F(F(F(*&-%*conjugateG6#F0F(-F36#,$F5!\"\"F(F(F(F(*&F-\"\"#,6**
+&%&deltaG6#\"\"$F(F7!\"#&F16#FFFF-F36#,$*(F6F(&F8FOF(F9F(FFF(#F(FL*,&F
+JFOF(F7FMF0F(FNF(-F36#,&F5F(FSF(F(#FFFL**&FJF'F(F7FMF0FF-F36#,$F5FFF(F
+(**FgnF(F7FMF0F(F>F(!\"'**FIF(F7FM-F?6#FNF(FNF(FM*,FWF(F7FMF>F(FNF(-F3
+6#,&F5FDFSF(F(FM*,FWF(F7FMF^oF(F>F(-F36#,&FSFDF5FDF(Fen**FIF(F7FMF^oFF
+-F36#,$FSFMF(FU*,FWF(F7FMF0F(F^oF(-F36#,&F5F(FSFDF(FM**FgnF(F7FMF>FF-F
+36#,$F5FMF(F(F(F(/-&F&FOF),&*&F-F(,&*&FNF(-F36#FSF(F(*&F^oF(-F36#,$FSF
+DF(F(F(F(*&F-FF,6**&FJ6#\"\"%F(F7FMFNFFFPF(F(*,FIF(F7FMF0F(FNF(FXF(Fen
+**FWF(F7FMF0FFFhnF(FU**FWF(F7FMF0F(F>F(FM**FdqF(F7FMF^oF(FNF(F\\o*,FIF
+(F7FMF>F(FNF(FaoF(FM*,FIF(F7FMF^oF(F>F(FeoF(Fen**FdqF(F7FMF^oFFFioF(F(
+*,FIF(F7FMF^oF(F0F(F]pF(FM**FWF(F7FMF>FFFapF(FUF(F(" }}{PARA 12 "" 1 "
+" {XPPMATH 20 "6#%;|+The~modulation~equations:G" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%
+\"tGF3F(\"\"#,$**F'F(F)F(%(epsilonGF4,R*&F0F(&%#muGF+F(!\"\"*,F'F(F)!
+\"$F0F4&%&deltaGF+F4-%*conjugateG6#F0F(!#:*,F'F(F)F<&%&alphaGF+F(F0F4F
+AF(\"\"'*,F'F(F)F>F0F4&F@6#F4F4FAF(#!\"&\"\"$*0F'F(F)F>-%$expG6#,$*(F'
+F(&%&sigmaGF+F(&%\"TGFKF(F<F(F?F(F0F4FJF(-FB6#&F1FKF(FM*0F'F(F)F>FPF(&
+F@6#FNF(F0F4FJF(FYF(FL*.F'F(F)F<FPF(&FGFKF(F0F4FYF(#FNF4**F'F(F)F<&%\"
+fGF+F(-FQ6#,(FTF4*(F'F(&FVFKF(FWF(F(*&F'F(&%$tauGF+F(F(F(#F<\"\"%*2F'F
+(F)F>-FQ6#FTF(F?F(F0F(FJF(FAF(FenF(!#5*0F'F(F)F>FJF(F0F(&F@6#FhoF(FYF(
+FenF(!\"'*.F'F(F)F<&FGFhnF(F0F(FYF(FenF(F4*.F'F(F)F>F0F(FgnF4FYF(FenF(
+#!\"%FN*.F'F(F)F>FJF4F0F(FYF(FenF(Fdp*0F'F(F)F>F?F(F0F(FgnF(FYF(FenF(F
+`p*.F'F(F)F<-FQ6#,$FTF4F(FbpF(FAF(FenF4F(*.F'F(F)F>FipF(FJF4FAF(FenF4!
+\"#*.F'F(F)F>FipF(FAF(FgnF4FenF4F]q*0F'F(F)F>FipF(F?F(FAF(FgnF(FenF4F(
+*0F'F(F)F>FipF(FJF(FAF(F^pF(FenF4F(*0F'F(F)F>FjoF(FgnF(FenF4F^pF(FYF(F
+M*0F'F(F)F>FjoF(FJF(FgnF(FYF(FenF4FL*.F'F(F)F<FjoF(&FGF_pF(FenF4FYF(F[
+o*2F'F(F)F>FjoF(FgnF(F0F(FJF(FAF(FenF(#F\\pFN*0F'F(F)F<FjoF(FjnF(F0F(F
+AF(FenF(FNF(F4/,$*(F'F(&F*FKF(-F-6$-FenF2F3F(F4,$**F'F(F[rF(F7F4,R*0F'
+F(F[rF>FPF(FgnF(F0F4FJF(FAF(FL*.F'F(F[rF<FPF(FjnF(F0F4FAF(F[o*0F'F(F[r
+F>FPF(FJF(F0F4F?F(FAF(FM*0F'F(F[rF>-FQ6#,$FTF]qF(F^pF(F0F4FJF(FYF(F(*0
+F'F(F[rF>FfrF(FgnF(F?F(F0F4FYF(F(*.F'F(F[rF<FfrF(FbpF(F0F4FYF(F(**F'F(
+F[rF<&F^oFKF(-FQ6#,(FboF(FTF(*&F'F(&FfoFKF(F(F(Fgo*.F'F(F[rF>F0F(FJF4F
+AF(FenF(Fdp*.F'F(F[rF>F0F(FgnF4FAF(FenF(Fdp*0F'F(F[rF>F^pF(F0F(FJF(FAF
+(FenF(F`p*.F'F(F[rF<FbpF(F0F(FAF(FenF(F4*2F'F(F[rF>FPF(FJF(F0F(FgnF(FY
+F(FenF(Ffq*0F'F(F[rF<FPF(FdqF(F0F(FYF(FenF(FN*2F'F(F[rF>FPF(F^pF(F0F(F
+gnF(FYF(FenF(F\\p*&FenF(&F;FKF(F<*0F'F(F[rF>FjoF(FJF(FAF(FgnF(FenF4FL*
+.F'F(F[rF<FjoF(FdqF(FAF(FenF4F[o*0F'F(F[rF>FjoF(F^pF(FAF(FgnF(FenF4FM*
+,F'F(F[rF<&FG6#\"\"&F(FenF4FYF(FH*,F'F(F[rF>FenF4F^pF4FYF(FD*,F'F(F[rF
+>FgnF4FYF(FenF4FL*0F'F(F[rF>FgnF(F?F(F0F(FAF(FenF(F`p*.F'F(F[rF>FfrF(F
+0F4FJF4FYF(F]q*.F'F(F[rF>FfrF(F0F4FgnF4FYF(F]qF(F4" }}}}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT -1 51 "6.2 Parametrically Excited Linearly Coupl
+ed Systems" }}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 29 "6.2.1 Two-Pendulum \+
+Oscillator" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 115 "As an example, we c
+onsider a parametrically excited two-pendulum oscillator with a three-
+to-one internal resonance:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+460 "eq621a:=[diff(theta[1](t),t,t)+alpha*diff(theta[2](t),t,t)+theta[
+1](t)=1/2*alpha*(theta[2](t)-theta[1](t))^2*diff(theta[2](t),t,t)+1/6*
+theta[1](t)^3+alpha*(theta[2](t)-theta[1](t))*diff(theta[2](t),t)^2-2*
+F[1]*Omega^2*theta[1](t)*cos(Omega*t),diff(theta[2](t),t,t)+diff(theta
+[1](t),t,t)+theta[2](t)=1/2*(theta[2](t)-theta[1](t))^2*diff(theta[1](
+t),t,t)+1/6*theta[2](t)^3-(theta[2](t)-theta[1](t))*diff(theta[1](t),t
+)^2-2*F[1]*Omega^2*theta[2](t)*cos(Omega*t)];" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%'eq621aG7$/,(-%%diffG6$-F)6$-&%&thetaG6#\"\"\"6#%\"tG
+F3F3F1*&%&alphaGF1-F)6$-F)6$-&F/6#\"\"#F2F3F3F1F1F-F1,**(F5F1,&F:F1F-!
+\"\"F=F6F1#F1F=*$F-\"\"$#F1\"\"'*(F5F1F@F1F8F=F1**&%\"FGF0F1%&OmegaGF=
+F-F1-%$cosG6#*&FKF1F3F1F1!\"#/,(F6F1F(F1F:F1,**&F@F=F(F1FB*$F:FDFE*&F@
+F1F+F=FA**FIF1FKF=F:F1FLF1FP" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 5 "wh
+ere" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "params:=alpha=16/25+
+epsilon^2*sigma[1];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'paramsG/%&al
+phaG,&#\"#;\"#D\"\"\"*&%(epsilonG\"\"#&%&sigmaG6#F+F+F+" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 10 "for small " }{XPPEDIT 18 0 "epsilon" "I(e
+psilonG6\"" }{TEXT -1 34 ". Here, the excitation frequency, " }
+{XPPEDIT 18 0 "Omega" "I&OmegaG6\"" }{TEXT -1 76 ", is assumed to be c
+lose to twice the natural frequency of the second mode, " }{XPPEDIT 
+18 0 "omega[2]" "&%&omegaG6#\"\"#" }{TEXT -1 64 ", which is three time
+s the natural frequency of the first mode, " }{XPPEDIT 18 0 "omega[1]
+" "&%&omegaG6#\"\"\"" }{TEXT -1 48 ". Hence, we define the following l
+ists and sets:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "omgList:=
+[seq(omega[i],i=1..2)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(omgListG
+7$&%&omegaG6#\"\"\"&F'6#\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 73 "ResonanceCond:=\{Omega=2*omega[2]+epsilon^2*sigma[2],omega[2]=3*
+omega[1]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%.ResonanceCondG<$/&%&
+omegaG6#\"\"#,$&F(6#\"\"\"\"\"$/%&OmegaG,&F'F**&%(epsilonGF*&%&sigmaGF
+)F.F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "omgRule:=seq(solve
+(ResonanceCond,\{Omega,omgList[-i]\}),i=1..2);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%(omgRuleG6$<$/&%&omegaG6#\"\"#,$&F)6#\"\"\"\"\"$/%&Om
+egaG,&F-\"\"'*&%(epsilonGF+&%&sigmaGF*F/F/<$/F-,$F(#F/F0/F2,&F(F+F5F/
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 83 "In order to bring the effects
+ of forcing and nonlinearity at the same order, we let" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "scaling:=F[1]=epsilon^2*f[1];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(scalingG/&%\"FG6#\"\"\"*&%(epsilonG
+\"\"#&%\"fGF(F)" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "For a consiste
+nt expansion, we first transform " }{TEXT 372 6 "eq621a" }{TEXT -1 87 
+" into a system of four first-order equations. To this end, we introdu
+ce the two states " }{XPPEDIT 18 0 "v[1](t)" "-&%\"vG6#\"\"\"6#%\"tG" 
+}{TEXT -1 5 " and " }{XPPEDIT 18 0 "v[2](t)" "-&%\"vG6#\"\"#6#%\"tG" }
+{TEXT -1 11 " defined by" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 
+"vel:=seq(diff(theta[i](t),t)=v[i](t),i=1..2);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%$velG6$/-%%diffG6$-&%&thetaG6#\"\"\"6#%\"tGF0-&%\"vGF
+-F//-F(6$-&F,6#\"\"#F/F0-&F3F9F/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+56 "Substituting the velocity and acceleration terms, using " }{TEXT 
+373 3 "vel" }{TEXT -1 7 ", into " }{TEXT 374 6 "eq621a" }{TEXT -1 31 "
+ and combining the result with " }{TEXT 375 3 "vel" }{TEXT -1 15 ", we
+ transform " }{TEXT 376 6 "eq621a" }{TEXT -1 54 " into the following s
+et of four first-order equations:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 55 "eq621b:=[seq(op([vel[i],subs(vel,eq621a[i])]),i=1..2)
+];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%'eq621bG7&/-%%diffG6$-&%&theta
+G6#\"\"\"6#%\"tGF0-&%\"vGF-F//,(-F(6$F1F0F.*&%&alphaGF.-F(6$-&F36#\"\"
+#F/F0F.F.F*F.,**(F9F.,&-&F,F>F/F.F*!\"\"F?F:F.#F.F?*$F*\"\"$#F.\"\"'*(
+F9F.FBF.F<F?F.**&%\"FGF-F.%&OmegaGF?F*F.-%$cosG6#*&FOF.F0F.F.!\"#/-F(6
+$FCF0F</,(F:F.F6F.FCF.,**&FBF?F6F.FF*$FCFHFI*&FBF.F1F?FE**FMF.FOF?FCF.
+FPF.FT" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 60 "We seek a uniform secon
+d-order expansion of the solution of " }{TEXT 377 6 "eq621b" }{TEXT 
+-1 12 " in the form" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 156 "sol
+Rule:=`union`(seq(\{theta[i](timeScales)=add(epsilon^j*theta[i,j](time
+Scales),j=1..3),v[i](timeScales)=add(epsilon^j*v[i,j](timeScales),j=1.
+.3)\},i=1..2)):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 22 "Using the time
+ scales " }{XPPEDIT 18 0 "T[0],T[1]" "6$&%\"TG6#\"\"!&F$6#\"\"\"" }
+{TEXT -1 6 ", and " }{XPPEDIT 18 0 "T[2]" "&%\"TG6#\"\"#" }{TEXT -1 
+66 ", we express the dependent variables and their time derivatives as
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 191 "multiScales:=`union`(s
+eq(\{theta[i](t)=theta[i](timeScales),v[i](t)=v[i](timeScales),diff(th
+eta[i](t),t)=dt[1](theta[i](timeScales)),diff(v[i](t),t)=dt[1](v[i](ti
+meScales))\},i=1..2),\{t=T[0]\}):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+17 "Substituting the " }{TEXT 378 6 "params" }{TEXT -1 2 ", " }{TEXT 
+379 7 "scaling" }{TEXT -1 2 ", " }{TEXT 380 11 "multiScales" }{TEXT 
+-1 6 ", and " }{TEXT 381 7 "solRule" }{TEXT -1 6 " into " }{TEXT 382 
+6 "eq621b" }{TEXT -1 33 ", expanding the result for small " }{XPPEDIT 
+18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 44 ", and discarding terms of
+ order higher than " }{XPPEDIT 18 0 "epsilon^3" "*$%(epsilonG\"\"$" }
+{TEXT -1 11 ", we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 
+"temp:=subs(params,scaling,multiScales,solRule,eq621b):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 85 "eq621c:=[seq(convert(series(lhs(tem
+p[i])-rhs(temp[i]),epsilon,4),polynom)=0,i=1..4)]:" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 40 "Equating coefficients of like powers of " }
+{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 11 ", we obtain" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "eqEps:=convert([seq([seq(coe
+ff(lhs(eq621c[i]),epsilon,j)=0,i=1..4)],j=1..3)],exp):" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 98 "To place the linear operator on one side \+
+and the nonhomogeneous terms on the other side, we define" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "linearSys:=map(lhs,eqEps[1]): displ
+ay1(linearSys);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7&,&-%%diffG6$&%&th
+etaG6$\"\"\"F+&%\"TG6#\"\"!F+&%\"vGF*!\"\",(-F&6$F0F,F+-F&6$&F16$\"\"#
+F+F,#\"#;\"#DF(F+,&-F&6$&F)F9F,F+F8F2,(F6F+FAF+F4F+" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 17 "Then, we rewrite " }{TEXT 383 5 "eqEps" }{TEXT 
+-1 3 " as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "order1Eq:=[seq
+(linearSys[i]=linearSys[i]-lhs(eqEps[1,i]),i=1..4)]:" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 130 "order2Eq:=[seq(subs(seq(\{theta[k,1]=the
+ta[k,2],v[k,1]=v[k,2]\},k=1..2),linearSys[i]=linearSys[i])-eval(0=lhs(
+eqEps[2,i])),i=1..4)]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 130 "
+order3Eq:=[seq(subs(seq(\{theta[k,1]=theta[k,3],v[k,1]=v[k,3]\},k=1..2
+),linearSys[i]=linearSys[i])-eval(0=lhs(eqEps[3,i])),i=1..4)]:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "display1(order1Eq);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#7&/,&-%%diffG6$&%&thetaG6$\"\"\"F,&%\"
+TG6#\"\"!F,&%\"vGF+!\"\"F0/,(-F'6$F1F-F,-F'6$&F26$\"\"#F,F-#\"#;\"#DF)
+F,F0/,&-F'6$&F*F;F-F,F:F3F0/,(F8F,FDF,F6F,F0" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 19 "display1(order2Eq);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#7&/,&-%%diffG6$&%&thetaG6$\"\"\"\"\"#&%\"TG6#\"\"!F,&%
+\"vGF+!\"\",$-F'6$&F*6$F,F,&F/6#F,F4/,(-F'6$F2F.F,-F'6$&F36$F-F-F.#\"#
+;\"#DF)F,,&-F'6$&F3F9F:F4-F'6$&F36$F-F,F:#!#;FF/,&-F'6$&F*FCF.F,FBF4,$
+-F'6$&F*FNF:F4/,(F@F,FUF,F>F,,&FHF4FKF4" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "display1(order3Eq);" }}{PARA 12 "" 1 "" {XPPMATH 20 "
+6#7&/,&-%%diffG6$&%&thetaG6$\"\"\"\"\"$&%\"TG6#\"\"!F,&%\"vGF+!\"\",&-
+F'6$&F*6$F,F,&F/6#\"\"#F4-F'6$&F*6$F,F<&F/6#F,F4/,(-F'6$F2F.F,-F'6$&F3
+6$F<F-F.#\"#;\"#DF)F,,4-F'6$&F3F9F:F4*&,&&F*6$F<F,F,F8F4F<-F'6$&F3FUF.
+F,#\"\")FM-F'6$&F36$F<F<FA#!#;FM-F'6$FXF:Fin*&&%&sigmaGFBF,FVF,F4*&,&F
+TFKF8FinF,FXF<F,-F'6$&F3F@FAF4*$F8F-#F,\"\"'**&%\"fGFBF,%&OmegaGF<F8F,
+,&-%$expG6#*(%\"IGF,F[pF,F.F,#F,F<*$F]pF4FbpF,!\"#/,&-F'6$&F*FJF.F,FIF
+4,&-F'6$FTF:F4-F'6$&F*FhnFAF4/,(FGF,FipF,FEF,,2F[oF4*&FSF<-F'6$FQF.F,F
+bpFenF4FOF4*&FSF,FQF<F4FboF4*$FTF-Ffo**FioF,F[pF<FTF,F\\pF,Fdp" }}}
+{SECT 1 {PARA 20 "" 0 "" {TEXT -1 34 "First-Order Problem: Linear Syst
+em" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 25 "The first-order problem, " }
+{TEXT 384 8 "order1Eq" }{TEXT -1 232 ", consists of a set of coupled l
+inear homogeneous differential equations. Hence, the general solution \+
+is the solution of the homogeneous equations. To determine the general
+ solution of the homogeneous set, we seek a solution of the " }{TEXT 
+385 9 "linearSys" }{TEXT -1 12 " in the form" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 124 "assumedForm:=`union`(seq(\{theta[i,1](timeScale
+s)=c[i]*exp(I*omega*T[0]),v[i,1](timeScales)=d[i]*exp(I*omega*T[0])\},
+i=1..2));" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%,assumedFormG<&/-&%&the
+taG6$\"\"\"F+6%&%\"TG6#\"\"!&F.6#F+&F.6#\"\"#*&&%\"cGF2F+-%$expG6#*(%
+\"IGF+%&omegaGF+F-F+F+/-&%\"vGF*F,*&&%\"dGF2F+F9F+/-&F)6$F5F+F,*&&F8F4
+F+F9F+/-&FBFIF,*&&FEF4F+F9F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "S
+ubstituting " }{TEXT 386 11 "assumedForm" }{TEXT -1 6 " into " }{TEXT 
+387 9 "linearSys" }{TEXT -1 32 " and collecting coefficients of " }
+{XPPEDIT 18 0 "c[i]" "&%\"cG6#%\"iG" }{TEXT -1 5 " and " }{XPPEDIT 18 
+0 "d[i]" "&%\"dG6#%\"iG" }{TEXT -1 37 ", we obtain the coefficient mat
+rix as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 96 "coefMat:=jacobian
+(expand(exp(-I*omega*T[0])*subs(assumedForm,linearSys)),[c[1],d[1],c[2
+],d[2]]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(coefMatG-%'MATRIXG6#7&
+7&*&%\"IG\"\"\"%&omegaGF,!\"\"\"\"!F/7&F,F*F/,$F*#\"#;\"#D7&F/F/F*F.7&
+F/F*F,F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "whose adjoint is defi
+ned by" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "coefMatH:=subs(cc
+Rule,transpose(coefMat));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)coefMa
+tHG-%'MATRIXG6#7&7&,$*&%\"IG\"\"\"%&omegaGF-!\"\"F-\"\"!F07&F/F*F0F*7&
+F0F0F*F-7&F0,$F+#!#;\"#DF/F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 53 "T
+he natural frequencies of the two modes involved are" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 57 "evals:=select(is,[solve(det(coefMat)=0,om
+ega)],positive);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&evalsG7$,$*$\"
+\"&#\"\"\"\"\"##F*\"\"$F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 42 "Henc
+e, the right and left eigenvectors of " }{TEXT 388 7 "coefMat" }{TEXT 
+-1 18 " corresponding to " }{TEXT 389 5 "evals" }{TEXT -1 4 " are" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 65 "rightVec:=map(x->nullspace(s
+ubs(omega=x,eval(coefMat)))[],evals);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>%)rightVecG7$-%'VECTORG6#7&#\"\"%\"\"&,$*&%\"IG\"\"\"F,#F0\"\"##F+
+\"#:F0,$F.#F0\"\"$-F'6#7&F0F.#!\"&F+,$F.F;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 65 "leftVec:=map(x->nullspace(subs(omega=x,eval(coefMat
+H)))[],evals);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(leftVecG7$-%'VECT
+ORG6#7&#\"\"&\"\"%,$*&%\"IG\"\"\"F+#F0\"\"##F+\"#7F0,$F.#F0\"\"$-F'6#7
+&#!\"&F,,$F.F;F0F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 26 "which can b
+e normalized as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "rightVec
+:=map(x->evalm(x/x[1]),rightVec);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%)rightVecG7$-%'VECTORG6#7&\"\"\",$*&%\"IGF*\"\"&#F*\"\"##F*\"\"$#F.\"
+\"%,$F,#F.\"#7-F'6#7&F*F,#!\"&F4,$F,F;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 39 "leftVec:=map(x->evalm(x/x[4]),leftVec);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%(leftVecG7$-%'VECTORG6#7&,$*&%\"IG\"\"\"\"\"&#
+F-\"\"##!\"$\"\"%#F.F3,$F+#F2F.F--F'6#7&,$F+#F-F3#!\"&F3,$F+#!\"\"F.F-
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "whose complex conjugates are
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "ccleftVec:=subs(ccRule,
+leftVec);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*ccleftVecG7$-%'VECTORG
+6#7&,$*&%\"IG\"\"\"\"\"&#F-\"\"##\"\"$\"\"%#F.F3,$F+#F2F.F--F'6#7&,$F+
+#!\"\"F3#!\"&F3,$F+#F-F.F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Bas
+ed on the " }{TEXT 390 8 "rightVec" }{TEXT -1 44 ", we can assume the \+
+general solution form as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 99 
+"sol1Form:=multiply(transpose(matrix(rightVec)),[seq(A[i](T[1],T[2])*e
+xp(I*omega[i]*T[0]),i=1..2)]);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%)s
+ol1FormG-%'VECTORG6#7&,&*&-&%\"AG6#\"\"\"6$&%\"TGF.&F26#\"\"#F/-%$expG
+6#*(%\"IGF/&%&omegaGF.F/&F26#\"\"!F/F/F/*&-&F-F4F0F/-F76#*(F:F/&F<F4F/
+F=F/F/F/,&**F:F/\"\"&#F/F5F+F/F6F/#F/\"\"$**F:F/FIFJFAF/FCF/F/,&F*#FI
+\"\"%F@#!\"&FP,&FH#FI\"#7FMFQ" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "w
+here " }{XPPEDIT 18 0 "omega[1]=sqrt(5)/3" "/&%&omegaG6#\"\"\"*&-%%sqr
+tG6#\"\"&\"\"\"\"\"$!\"\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "omega[2
+]=sqrt(5)" "/&%&omegaG6#\"\"#-%%sqrtG6#\"\"&" }{TEXT -1 37 ". Therefor
+e, the general solution of " }{TEXT 391 8 "order1Eq" }{TEXT -1 20 " ca
+n be expressed as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 73 "states
+:=j->[seq(op([theta[i,j](timeScales),v[i,j](timeScales)]),i=1..2)]:" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 84 "sol1:=seq(states(1)[i]=sol
+1Form[i]+subs(ccRule,sol1Form[i]),i=1..4): display1(sol1);" }}{PARA 
+12 "" 1 "" {XPPMATH 20 "6&/&%&thetaG6$\"\"\"F',**&&%\"AG6#F'F'-%$expG6
+#*(%\"IGF'&%&omegaGF,F'&%\"TG6#\"\"!F'F'F'*&&F+6#\"\"#F'-F.6#*(F1F'&F3
+F:F'F4F'F'F'*&-%*conjugateG6#F*F'-F.6#,$F0!\"\"F'F'*&-FB6#F9F'-F.6#,$F
+>FGF'F'/&%\"vGF&,***F1F'\"\"&#F'F;F*F'F-F'#F'\"\"$**F1F'FSFTF9F'F<F'F'
+**F1F'FSFTFAF'FDF'#FGFV**F1F'FSFTFIF'FKF'FG/&F%6$F;F',*F)#FS\"\"%F8#!
+\"&FjnF@FinFHF[o/&FPFgn,*FR#FS\"#7FWF[oFX#F\\oFaoFZFin" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 0 "A[1]" "&%\"AG6#\"
+\"\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "A[2]" "&%\"AG6#\"\"#" }
+{TEXT -1 90 " are to be determined from the solvability conditions at \+
+the next levels of approximation." }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT 
+-1 20 "Second-Order Problem" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 38 "Sub
+stituting the first-order solution " }{TEXT 392 4 "sol1" }{TEXT -1 32 
+" into the second-order problem, " }{TEXT 393 8 "order2Eq" }{TEXT -1 
+8 ", yields" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "order2Eqa:=e
+xpand(subs(sol1,order2Eq)): display1(order2Eqa);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#7&/,&-%%diffG6$&%&thetaG6$\"\"\"\"\"#&%\"TG6#\"\"!F,&%
+\"vGF+!\"\",**&-F'6$&%\"AG6#F,&F/F;F,-%$expG6#*(%\"IGF,&%&omegaGF;F,F.
+F,F,F4*&-F'6$&F:6#F-F<F,-F>6#*(FAF,&FCFHF,F.F,F,F4*&-F'6$-%*conjugateG
+6#F9F<F,F=F4F4*&-F'6$-FQ6#FGF<F,FIF4F4/,(-F'6$F2F.F,-F'6$&F36$F-F-F.#
+\"#;\"#DF)F,,***FAF,\"\"&#F,F-F7F,F=F,#!\"$F_o**FAF,F_oF`oFEF,FIF,#F4F
+_o**FAF,F_oF`oFNF,F=F4#\"\"$F_o**FAF,F_oF`oFTF,FIF4#F,F_o/,&-F'6$&F*Fi
+nF.F,FhnF4,*F6#!\"&\"\"%FD#F_oFbpFMF`pFSFcp/,(FfnF,F^pF,FZF,,*F^o#FboF
+bpFco#F,FbpFeo#FgoFbpFho#F4Fbp" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 35 
+"For a uniform expansion, we choose " }{XPPEDIT 18 0 "diff(A[1],T[1])
+" "-%%diffG6$&%\"AG6#\"\"\"&%\"TG6#\"\"\"" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "diff(A[2],T[1])" "-%%diffG6$&%\"AG6#\"\"#&%\"TG6#\"\"\"
+" }{TEXT -1 107 " to eliminate the secular or small-divisor terms. To \+
+accomplish this, we collect the terms proportional to " }{XPPEDIT 18 
+0 "exp(I*omega[1]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"\"F'&%
+\"TG6#\"\"!F'" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "exp(I*omega[2]*T[0]
+)" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"#F'&%\"TG6#\"\"!F'" }{TEXT 
+-1 11 " and obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 90 "ST1[1
+]:=map(x->coeff(x,exp(I*omega[1]*T[0])),expand(subs(omgRule[1],map(rhs
+,order2Eqa))));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%$ST1G6#\"\"\"7&,
+$-%%diffG6$-&%\"AGF&6$&%\"TGF&&F26#\"\"#F1!\"\",$*(%\"IGF'\"\"&#F'F5F*
+F'#!\"$F:,$F*#!\"&\"\"%,$F8#F=FA" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 90 "ST1[2]:=map(x->coeff(x,exp(I*omega[2]*T[0])),expand(s
+ubs(omgRule[2],map(rhs,order2Eqa))));" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#>&%$ST1G6#\"\"#7&,$-%%diffG6$-&%\"AGF&6$&%\"TG6#\"\"\"&F2F&F1!\"\",
+$*(%\"IGF4\"\"&#F4F'F*F4#F6F:,$F*#F:\"\"%,$F8#F4F?" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 45 "Then, the solvability conditions demand that " }
+{TEXT 394 6 "ST1[1]" }{TEXT -1 5 " and " }{TEXT 395 6 "ST1[2]" }{TEXT 
+-1 97 " be orthogonal to every solution of the corresponding adjoint p
+roblem, namely, the components of " }{TEXT 396 9 "ccleftVec" }{TEXT 
+-1 15 ". The result is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 72 "S
+Cond1:=[seq(multiply(ccleftVec[i],ST1[i])=0,i=1..2)]: display1(SCond1)
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"\"\"&#F(\"\"#-%
+%diffG6$&%\"AG6#F(&%\"TGF1F(!\"$\"\"!/*(F'F(F)F*-F-6$&F06#F+F2F(F5" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Solving " }{TEXT 397 6 "SCond1" }
+{TEXT -1 5 " for " }{XPPEDIT 18 0 "diff(A[1],T[1])" "-%%diffG6$&%\"AG6
+#\"\"\"&%\"TG6#\"\"\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "diff(A[2],T
+[1])" "-%%diffG6$&%\"AG6#\"\"#&%\"TG6#\"\"\"" }{TEXT -1 7 " yields" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 109 "SCond1Rule:=solve(\{SCond1
+[]\},\{diff(A[1](T[1],T[2]),T[1]),diff(A[2](T[1],T[2]),T[1])\}): displ
+ay1(SCond1Rule1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<$/-%%diffG6$&%\"
+AG6#\"\"#&%\"TG6#\"\"\"\"\"!/-F&6$&F)F.F,F0" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 26 "whose complex conjugate is" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 38 "ccSCond1Rule:=subs(ccRule,SCond1Rule):" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 13 "Substituting " }{TEXT 398 10 "SCond1Rule
+" }{TEXT -1 5 " and " }{TEXT 399 12 "ccSCond1Rule" }{TEXT -1 6 " into \+
+" }{TEXT 400 9 "order2Eqa" }{TEXT -1 11 ", we obtain" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 80 "order2Eqm:=expand(subs(SCond1Rule,ccSCond
+1Rule,order2Eqa)): display1(order2Eqm);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#7&/,&-%%diffG6$&%&thetaG6$\"\"\"\"\"#&%\"TG6#\"\"!F,&%\"vGF+!\"
+\"F1/,(-F'6$F2F.F,-F'6$&F36$F-F-F.#\"#;\"#DF)F,F1/,&-F'6$&F*F<F.F,F;F4
+F1/,(F9F,FDF,F7F,F1" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 103 "which is \+
+a set of homogeneous equations. Then, we express the solution of the s
+econd-order equations as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 
+"sol2:=map(x->x=0,states(2));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%so
+l2G7&/-&%&thetaG6$\"\"\"\"\"#6%&%\"TG6#\"\"!&F/6#F+&F/6#F,F1/-&%\"vGF*
+F-F1/-&F)6$F,F,F-F1/-&F9F=F-F1" }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 
+19 "Third-Order Problem" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 81 "Substit
+uting the first- and second-order solutions into the third-order probl
+em, " }{TEXT 401 8 "order3Eq" }{TEXT -1 8 ", yields" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 44 "order3Eqa:=expand(subs(sol1,sol2,order3Eq
+)):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 17 "Substituting the " }{TEXT 
+402 7 "omgRule" }{TEXT -1 30 " into the right-hand sides of " }{TEXT 
+403 9 "order3Eqa" }{TEXT -1 86 " and collecting the terms that could p
+roduce secular terms, the terms proportional to " }{XPPEDIT 18 0 "exp(
+I*omega[1]*T[0])" "-%$expG6#*(%\"IG\"\"\"&%&omegaG6#\"\"\"F'&%\"TG6#\"
+\"!F'" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "exp(I*omega[2]*T[0])" "-%$e
+xpG6#*(%\"IG\"\"\"&%&omegaG6#\"\"#F'&%\"TG6#\"\"!F'" }{TEXT -1 9 ", we
+ have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 108 "ST2[1]:=map(x->co
+eff(x,exp(I*omega[1]*T[0])),expand(subs(omgRule[1],map(rhs,order3Eqa))
+)): display1(ST2[1]);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7&,$-%%diffG6
+$&%\"AG6#\"\"\"&%\"TG6#\"\"#!\"\",2*&F(F/-%*conjugateG6#F(F+#\"#B\"#O*
+&&F)F.F+F3F/#\"#6\"#7**&%&sigmaGF*F+\"\"&#F+F/F(F+&%&omegaGF*F+#FAF=*,
+F:F+-F46#F:F+FAFBF(F+FCF+#!#\")\"#?*(%\"IGF+FAFBF%F+#!\"$FA**F(F/FAFBF
+3F+FCF+#F0\"#S*(F(F+F:F+FGF+#\"\"(F/**F3F/FAFBF:F+FCF+#\"\"*FR,$F%#!\"
+&\"\"%,0F9#!%v6\"$%QFF#\"#F\"#;FS#!#N\"#kFL#FOFfnFP#F0\"#KF2#\"$l*\"%_
+6FV#\"\"$Fco" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 63 "newVar1:=se
+q(I*epsilon^2*sigma[i]*T[0]=I*sigma[i]*T[2],i=1..2):" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 141 "ST2[2]:=subs(newVar1,epsilon=0,map(x->co
+eff(x,exp(I*omega[2]*T[0])),expand(combine(subs(omgRule[2],map(rhs,ord
+er3Eqa)))))): display1(ST2[2]);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7&,
+$-%%diffG6$&%\"AG6#\"\"#&%\"TGF*!\"\",4*&F(F+-%*conjugateG6#F(\"\"\"#!
+#V\"\"%*$&F)6#F4\"\"$#F4\"#O**&%&sigmaGF:F4\"\"&#F4F+F(F4&%&omegaGF*F4
+#!\"&F7*,F9F4-F26#F9F4FAFBF(F4FCF4#F;\"#?*(%\"IGF4FAFBF%F4#F.FA**F(F+F
+AFBF1F4FCF4#\"$V#\"#S*(F9F4F(F4FHF4#!\"$F+*(F9F;FAFBFCF4#F.\"$g$**&%\"
+fGF:F4F1F4-%$expG6#*(FMF4&F@F*F4F,F4F4FCF+!\"%,$F%#FAF7,2F0#\"%:8\"$G
+\"FYFAFO#!$V#\"#KFS#\"#N\"#kFL#F4F7FG#F4\"#;FV#F.\"$)GF8#\"$N&\"%_6" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 45 "Then, the solvability conditions
+ demand that " }{TEXT 404 6 "ST2[1]" }{TEXT -1 5 " and " }{TEXT 405 6 
+"ST2[2]" }{TEXT -1 61 " be orthogonal to their corresponding adjoints.
+ The result is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "SCond2:=e
+xpand([seq(multiply(ccleftVec[i],ST2[i])=0,i=1..2)]):" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 8 "Solving " }{TEXT 406 6 "SCond2" }{TEXT -1 
+5 " for " }{XPPEDIT 18 0 "diff(A[1],T[2])" "-%%diffG6$&%\"AG6#\"\"\"&%
+\"TG6#\"\"#" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "diff(A[2],T[2])" "-%%
+diffG6$&%\"AG6#\"\"#&%\"TG6#\"\"#" }{TEXT -1 9 ", we have" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "value1:=omega[1]=sqrt(5)/3,omega[2]
+=sqrt(5),Omega=2*sqrt(5);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'value1
+G6%/&%&omegaG6#\"\"\",$*$\"\"&#F*\"\"##F*\"\"$/&F(6#F/F,/%&OmegaG,$F,F
+/" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 129 "SCond2Rule:=expand(su
+bs(value1,solve(\{SCond2[]\},\{diff(A[1](T[1],T[2]),T[2]),diff(A[2](T[
+1],T[2]),T[2])\}))): display1(SCond2Rule);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#<$/-%%diffG6$&%\"AG6#\"\"\"&%\"TG6#\"\"#,**,%\"IGF+\"\"
+&#F+F/F(F+&F)F.F+-%*conjugateG6#F5F+#\"#B\"$#>**F2F+&%&sigmaGF*F+F(F+F
+3F4#!#D\"$K%**F2F+F3F4F(F/-F76#F(F+#!$`$\"%cM**F2F+F3F4F5F+FCF/#\"#6\"
+$G\"/-F&6$F5F,,,*,F2F+F3F4F(F+F5F+FCF+#F:\"#k**F2F+F=F+F5F+F3F4#\"#D\"
+#;**F2F+F3F4F5F/F6F+#!%P8FK*(F2F+F3F4F(\"\"$FI*,F2F+F3F4&%\"fGF*F+F6F+
+-%$expG6#*(F2F+&F>F.F+F,F+F+\"#5" }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT 
+-1 14 "Reconstitution" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 36 "Using the
+ method of reconstitution, " }{XPPEDIT 18 0 "diff(A[k](t),t)=epsilon*d
+iff(A[k](T[1],T[2]),T[1])+epsilon^2*diff(A[k](T[1],T[2]),T[2])" "/-%%d
+iffG6$-&%\"AG6#%\"kG6#%\"tGF,,&*&%(epsilonG\"\"\"-F$6$-&F(6#F*6$&%\"TG
+6#\"\"\"&F86#\"\"#&F86#\"\"\"F0F0*&F/\"\"#-F$6$-&F(6#F*6$&F86#\"\"\"&F
+86#\"\"#&F86#\"\"#F0F0" }{TEXT -1 54 " + ..., we combine the partial-d
+ifferential equations " }{TEXT 407 10 "SCond1Rule" }{TEXT -1 5 " and \+
+" }{TEXT 408 10 "SCond2Rule" }{TEXT -1 113 " into the following two or
+dinary-differential equations governing the modulation of the complex-
+valued functions " }{XPPEDIT 18 0 "A[k]" "&%\"AG6#%\"kG" }{TEXT -1 2 "
+ :" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 133 "moduEq:=subs(SCond1R
+ule,SCond2Rule,[seq(2*I*omega[i]*diff(A[i](t),t)=2*I*omega[i]*dt[1](A[
+i](T[1],T[2])),i=1..2)]): display1(moduEq);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#7$/,$*(%\"IG\"\"\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%
+\"tGF3F(\"\"#,$**F'F(F)F(%(epsilonGF4,**,F'F(\"\"&#F(F4F0F(&F16#F4F(-%
+*conjugateG6#F<F(#\"#B\"$#>**F'F(&%&sigmaGF+F(F0F(F:F;#!#D\"$K%**F'F(F
+:F;F0F4-F?6#F0F(#!$`$\"%cM**F'F(F:F;F<F(FKF4#\"#6\"$G\"F(F4/,$*(F'F(&F
+*F=F(-F-6$-F<F2F3F(F4,$**F'F(FWF(F7F4,,*,F'F(F:F;F0F(F<F(FKF(#FB\"#k**
+F'F(FEF(F<F(F:F;#\"#D\"#;**F'F(F:F;F<F4F>F(#!%P8FS*(F'F(F:F;F0\"\"$FQ*
+,F'F(F:F;&%\"fGF+F(F>F(-%$expG6#*(F'F(&FFF=F(&%\"TGF=F(F(\"#5F(F4" }}}
+}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 20 "6.2.2 The procedure " }{TEXT 
+409 4 "MMSC" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 90 "According to the pr
+ocedures described in the previous section, we build a procedure named
+ " }{TEXT 410 4 "MMSC" }{TEXT -1 2 " (" }{TEXT 411 1 "M" }{TEXT -1 9 "
+ethod of " }{TEXT 412 1 "M" }{TEXT -1 8 "ultiple " }{TEXT 413 1 "S" }
+{TEXT -1 19 "cales for Linearly " }{TEXT 414 1 "C" }{TEXT -1 40 "ouple
+d Systems) to automate the process." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 66 "MMSC:=proc(eqs::list,depVar::list,scaling::set,Resona
+nceCond::set)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 369 "local omgList,i,o
+mgRule,mydepVar,solRule,multiScales,temp,eqa,eqEps,linearSys,order1Eq,
+order2Eq,order3Eq,assumedForm,coefMat,coefMatH,list01,evals,rightVec,l
+eftVec,ccleftVec,sol1hForm,states,sol1p,uvForm1,uvForm2,order1Eqa,fRul
+e,sol1,order2Eqa,ndeg,newVar1,ST1,SCond1,SCond1Rule1,ccSCond1Rule1,sig
+Rule,newVar2,SCond1f,order2Eqm,sol2,order3Eqa,ST2,SCond2,SCond2Rule1,S
+C;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 32 "omgList:=[seq(omega[i],i=1..2)];" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 62 "omgRule:=seq(solve(ResonanceCond,\{Omega,omgList[-i
+]\}),i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "mydepVar:=[u[1],v[
+1],u[2],v[2]];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 148 "solRule:=`union`
+(seq(\{u[i](timeScales)=add(epsilon^j*u[i,j](timeScales),j=1..3),v[i](
+timeScales)=add(epsilon^j*v[i,j](timeScales),j=1..3)\},i=1..2));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 175 "multiScales:=`union`(seq(\{u[i](t)
+=u[i](timeScales),v[i](t)=v[i](timeScales),diff(u[i](t),t)=dt[1](u[i](
+timeScales)),diff(v[i](t),t)=dt[1](v[i](timeScales))\},i=1..2),\{t=T[0
+]\});" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 76 "temp:=subs(zip((x,y)->x=y,
+depVar,mydepVar),scaling,multiScales,solRule,eqs);" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 82 "eqa:=[seq(convert(series(lhs(temp[i])-rhs(temp[i]),
+epsilon,4),polynom)=0,i=1..4)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 93 "
+eqEps:=convert(convert([seq([seq(coeff(lhs(eqa[i]),epsilon,j)=0,i=1..4
+)],j=1..3)],exp),diff);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "linearSy
+s:=subs(f[1]=0,f[2]=0,map(lhs,eqEps[1]));" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 66 "order1Eq:=[seq(linearSys[i]=linearSys[i]-lhs(eqEps[1,
+i]),i=1..4)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 122 "order2Eq:=[seq(su
+bs(seq(\{u[k,1]=u[k,2],v[k,1]=v[k,2]\},k=1..2),linearSys[i]=linearSys[
+i])-eval(0=lhs(eqEps[2,i])),i=1..4)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 122 "order3Eq:=[seq(subs(seq(\{u[k,1]=u[k,3],v[k,1]=v[k,3]\},k=1..2)
+,linearSys[i]=linearSys[i])-eval(0=lhs(eqEps[3,i])),i=1..4)];" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+21 "# First-Order Problem" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 116 "assum
+edForm:=`union`(seq(\{u[i,1](timeScales)=c[i]*exp(I*omg*T[0]),v[i,1](t
+imeScales)=d[i]*exp(I*omg*T[0])\},i=1..2));" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 94 "coefMat:=jacobian(expand(exp(-I*omg*T[0])*subs(assume
+dForm,linearSys)),[c[1],d[1],c[2],d[2]]);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 42 "coefMatH:=subs(ccRule,transpose(coefMat));" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 44 "list01:=[solve(factor(det(coefMat)=0),omg
+)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "if hastype(list01,name) then
+" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "evals:=omgList;" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 4 "else" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "eval
+s:=select(is,list01,positive);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "fi
+;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 92 "rightVec:=map(x->evalm(x/x[1])
+,[seq(nullspace(subs(omg=evals[i],eval(coefMat)))[],i=1..2)]);" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 92 "leftVec:=map(x->evalm(x/x[4]),[seq(
+nullspace(subs(omg=evals[i],eval(coefMatH)))[],i=1..2)]);" }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 32 "ccleftVec:=subs(ccRule,leftVec);" }}{PARA 0 
+"> " 0 "" {MPLTEXT 1 0 100 "sol1hForm:=multiply(transpose(matrix(right
+Vec)),[seq(A[i](T[1],T[2])*exp(I*omega[i]*T[0]),i=1..2)]);" }}{PARA 0 
+"> " 0 "" {MPLTEXT 1 0 69 "states:=j->[seq(op([u[i,j](timeScales),v[i,
+j](timeScales)]),i=1..2)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "if \{
+map(rhs,order1Eq)[]\}=\{0\} then" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 17 
+"sol1p:=[0,0,0,0];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "else" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 55 "uvForm1:=[seq(op([u[i,1](T[0]),v[i,1](T[0
+])]),i=1..2)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "uvForm2:=zip((x,y
+)->x=y,states(1),uvForm1);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "order
+1Eqa:=subs(uvForm2,order1Eq);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 102 "s
+ol1p:=subs(combine(expand(convert(subs(seq(_C.i=0,i=1..4),dsolve(order
+1Eqa,uvForm1)),exp))),uvForm1);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "f
+i;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "fRule:=seq(f[i]=2*Lambda[i]*(
+omega[i]^2-Omega^2),i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 99 "sol
+1:=seq(states(1)[i]=sol1hForm[i]+subs(ccRule,sol1hForm[i])+normal(subs
+(fRule,sol1p[i])),i=1..4);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "# Second-Order Problem" }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 39 "order2Eqa:=expand(subs(sol1,order2Eq));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "ndeg:=seq(degree(select(has,map(op,
+ResonanceCond),sigma[i])[],epsilon),i=1..2);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 75 "newVar1:=seq(I*epsilon^ndeg[i]*sigma[i]*T[0]=I*sigma[
+i]*T[ndeg[i]],i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 121 "ST1[1]:=
+expand(subs(newVar1,map(x->coeff(x,exp(I*omega[1]*T[0])),expand(combin
+e(subs(omgRule[1],map(rhs,order2Eqa)))))));" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 121 "ST1[2]:=expand(subs(newVar1,map(x->coeff(x,exp(I*ome
+ga[2]*T[0])),expand(combine(subs(omgRule[2],map(rhs,order2Eqa)))))));
+" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "SCond1:=[seq(multiply(ccleftVec
+[i],ST1[i])=0,i=1..2)];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 104 "SCond1R
+ule1:=combine(expand(solve(\{SCond1[]\},\{diff(A[1](T[1],T[2]),T[1]),d
+iff(A[2](T[1],T[2]),T[1])\})));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "
+ccSCond1Rule1:=subs(ccRule,SCond1Rule1);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 164 "sigRule:=\{\}: for i to 2 do if has(ResonanceCond,si
+gma[i]) then sigRule:=sigRule,solve(select(has,ResonanceCond,sigma[i])
+,sigma[i]) fi od; sigRule:=`union`(sigRule);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 89 "newVar2:=seq(I*sigma[i]*T[ndeg[i]]=subs(sigRule,I*sig
+ma[i]*epsilon^ndeg[i]*T[0]),i=1..2);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 58 "SCond1f:=subs(newVar2,`union`(SCond1Rule1,ccSCond1Rule1));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "order2Eqm:=expand(subs(SCond1f,orde
+r2Eqa));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "if \{map(rhs,order2Eqm)
+[]\}=\{0\} then" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "sol2:=map(x->x=0
+,states(2))" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "else" }}{PARA 0 "> " 
+0 "" {MPLTEXT 1 0 124 "RETURN(`The particular solution of the second o
+rder equations needs to be solved, which is not included in this proce
+dure.`)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "fi;" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "# Third-Order P
+roblem" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "order3Eqa:=expand(subs(so
+l1,sol2,order3Eq));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 131 "ST2[1]:=exp
+and(subs(newVar1,epsilon=0,map(x->coeff(x,exp(I*omega[1]*T[0])),expand
+(combine(subs(omgRule[1],map(rhs,order3Eqa)))))));" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 131 "ST2[2]:=expand(subs(newVar1,epsilon=0,map(x->coeff
+(x,exp(I*omega[2]*T[0])),expand(combine(subs(omgRule[2],map(rhs,order3
+Eqa)))))));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "SCond2:=expand([seq(
+multiply(ccleftVec[i],ST2[i])=0,i=1..2)]);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 104 "SCond2Rule1:=combine(expand(solve(\{SCond2[]\},\{dif
+f(A[1](T[1],T[2]),T[2]),diff(A[2](T[1],T[2]),T[2])\})));" }}{PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "# Recon
+stitution" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "print(`\\nThe second-o
+rder approximate solution:`);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 130 "p
+rint(display1(subs(zip((x,y)->x=y,mydepVar,depVar),[seq(u[i](t)=subs(s
+olRule,epsilon^3=0,sol1,sol2,u[i](timeScales)),i=1..2)])));" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 149 "if convert(\{seq(evalb(subs(scaling,F[i]
+/f[i])=epsilon),i=1..2)\},`or`) then print(`\\nwhere`); print(Lambda['
+i']=f['i']/(2*(omega['i']^2-Omega^2))) fi;" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 37 "print(`\\nThe modulation equations:`);" }}{PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 73 "SC:=subs(seq(omega[i]=evals[i],i=1..2),`union`
+(SCond1Rule1,SCond2Rule1));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 115 "dis
+play1(collect(subs(SC,[seq(2*I*omega[i]*diff(A[i](t),t)=2*I*omega[i]*d
+t[1](A[i](T[1],T[2])),i=1..2)]),epsilon));" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 4 "end:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 50 "As an exa
+mple, we check the case in Section 6.2.1:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 28 "eqtest:=subs(params,eq621b);" }}{PARA 12 "" 1 "" 
+{XPPMATH 20 "6#>%'eqtestG7&/-%%diffG6$-&%&thetaG6#\"\"\"6#%\"tGF0-&%\"
+vGF-F//,(-F(6$F1F0F.*&,&#\"#;\"#DF.*&%(epsilonG\"\"#&%&sigmaGF-F.F.F.-
+F(6$-&F36#F?F/F0F.F.F*F.,**(F9F.,&-&F,FFF/F.F*!\"\"F?FBF.#F.F?*$F*\"\"
+$#F.\"\"'*(F9F.FIF.FDF?F.**&%\"FGF-F.%&OmegaGF?F*F.-%$cosG6#*&FVF.F0F.
+F.!\"#/-F(6$FJF0FD/,(FBF.F6F.FJF.,**&FIF?F6F.FM*$FJFOFP*&FIF.F1F?FL**F
+TF.FVF?FJF.FWF.Fen" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "scali
+ng1:=\{F[1]=epsilon^2*f[1]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)sc
+aling1G<#/&%\"FG6#\"\"\"*&%(epsilonG\"\"#&%\"fGF)F*" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 74 "ResonanceCond1:=\{omega[2]=3*omega[1],Ome
+ga=2*omega[2]+epsilon^2*sigma[2]\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%/ResonanceCond1G<$/&%&omegaG6#\"\"#,$&F(6#\"\"\"\"\"$/%&OmegaG,&F'F
+**&%(epsilonGF*&%&sigmaGF)F.F." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 67 "MMSC(eqtest,[theta[1],v[1],theta[2],v[2]],scaling1,ResonanceCo
+nd1);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#%H|+The~second-order~approxim
+ate~solution:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/-&%&thetaG6#\"\"
+\"6#%\"tG*&%(epsilonGF),**&&%\"AGF(F)-%$expG6#*(%\"IGF)&%&omegaGF(F)&%
+\"TG6#\"\"!F)F)F)*&&F16#\"\"#F)-F36#*(F6F)&F8F?F)F9F)F)F)*&-%*conjugat
+eG6#F0F)-F36#,$F5!\"\"F)F)*&-FG6#F>F)-F36#,$FCFLF)F)F)/-&F'F?F**&F-F),
+*F/#\"\"&\"\"%F=#!\"&FZFEFXFMFenF)" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#
+%;|+The~modulation~equations:G" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#7$/,
+$*(%\"IG\"\"\"&%&omegaG6#F(F(-%%diffG6$-&%\"AGF+6#%\"tGF3F(\"\"#,$**F'
+F(F)F(%(epsilonGF4,***F'F(&%&sigmaGF+F(F0F(\"\"&#F(F4#!#D\"$K%**F'F(F<
+F=&F16#F4F(-%*conjugateG6#F0F4#\"#6\"$G\"**F'F(F<F=F0F4FDF(#!$`$\"%cM*
+,F'F(F<F=F0F(FBF(-FE6#FBF(#\"#B\"$#>F(F4/,$*(F'F(&F*FCF(-F-6$-FBF2F3F(
+F4,$**F'F(FWF(F7F4,,*,F'F(F<F=F0F(FDF(FBF(#FR\"#k**F'F(F:F(FBF(F<F=#\"
+#D\"#;**F'F(F<F=FBF4FOF(#!%P8FI*,F'F(F<F=&%\"fGF+F(FOF(-%$expG6#*(F'F(
+&F;FCF(&%\"TGFCF(F(\"#5*(F'F(F<F=F0\"\"$FGF(F4" }}}}}}{MARK "17 0 0" 
+3 }{VIEWOPTS 1 1 0 3 4 1802 }

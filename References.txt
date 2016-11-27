@@ -1,0 +1,178 @@
+==========
+REFERENCES
+==========
+
+Arafat, H. N., Nayfeh, A. H., and Chin, C-M., 1998,
+"Nonlinear Nonplanar Dynamics
+of Parametrically Excited Cantilever Beams,"
+Nonlinear Dyn., Vol. 15, 31-61.
+
+Benedettini, F., Rega, G., and Alaggio, R., 1995a,
+"Experimental Analysis of the Finite Dynamics of a Suspended Cable,"
+Proceedings of the 15th ASME
+Biennial Conference on Mechanical Vibrations and Noise,
+DE Vol. 84-1, 543-552.
+
+Benedettini, F., Rega, G., and Alaggio, R., 1995b,
+"Non-Linear Oscillations of
+a Four-Degree-of-Freedom Model of a Suspended Cable under
+Multiple Internal Resonance Conditions,"
+J. Sound Vib., Vol. 182, 775-798.
+
+Chin, C-M. and Nayfeh, A. H., 1996,
+"Bifurcation and Chaos in Externally Excited 
+Circular Cylindrical Shells,"
+J. Appl. Mech., Vol. 63, 565-574.
+
+Chin, C-M. and Nayfeh, A. H., 1997,
+"Three-to-One Internal Resonances in Hinged-Clamped Beams,"
+Nonl. Dyn., Vol. 12, 129-154.
+
+Chin, C-M., Nayfeh, A. H., and Lacarbonara, W., 1997,
+"Two-to-One Internal Resonances in Parametrically Excited Buckled Beams,"
+Proceedings of the
+AIAA Structures, Structural Dynamics and Materials Conference, 
+Vol. 1, 213-223.
+
+Chu, H-N. and Herrmann, G., 1956,
+"Influence of Large Amplitudes on Free
+Flexural Vibrations of Rectangular Elastic Plates,"
+J. Appl. Mech., Vol. 23, 532-540.
+
+Crespo da Silva, M. R. M., 1978,
+"Flexural-Flexural Oscillations of Beck's
+Column Subjected to a Planar Harmonic Excitation,"
+J. Sound Vib., Vol. 60, 133-144.
+
+Crespo da Silva, M. R. M. and Glynn, C. C., 1978a,
+"Nonlinear Flexural-Flexural-Torsional Dynamics of
+Inextensional Beams, I. Equations of Motion,"
+J. Struct. Mech., Vol. 6, 437-448.
+
+Crespo da Silva, M. R. M. and Glynn, C. C., 1978b,
+"Nonlinear Flexural-Flexural-Torsional Dynamics of
+Inextensional Beams, II. Forced Motions,"
+J. Struct. Mech., Vol. 6, 449-461.
+
+Lacarbonara, W., Nayfeh, A. H., and Kreider, W., 1998,
+"Experimental Validation
+of Reduction Methods for Nonlinear Vibrations of Distributed-Parameter
+Systems: Analysis of a Buckled Beam,"
+Nonlinear Dyn., Vol. 17, 95-117.
+
+Malkin, I. G., 1956,
+"Some Problems in the Theory of Nonlinear Oscillations,"
+GITTL, Moscow.
+
+McIvor, I. K., 1966,
+"The Elastic Cylindrical Shell under Radial Impulse,"
+J. Appl. Mech., Vol. 33, 831-837.
+
+Nayfeh, A. H., 1975,
+"Nonlinear Propagation of a Wave Packet in a Hard-Walled Circular Duct,"
+J. Acoust. Soc. Am., Vol. 57, 803-809.
+
+Nayfeh, A. H., 1981,
+Introduction to Perturbation Techniques, 
+Wiley, New York.
+
+Nayfeh, A. H., 1998,
+"Reduced-Order Models of Weakly Nonlinear Spatially Continuous Systems,"
+Nonlinear Dyn., Vol. 16, 105-125.
+
+Nayfeh, A. H. and Asfar, K. R., 1986,
+"Response of a Bar Constrained by a Non-Linear Spring to a Harmonic Excitation,"
+J. Sound Vib., Vol. 105, 1-15.
+
+Nayfeh, A. H. and Bouguerra, H., 1990,
+"Non-Linear Response of a Fluid Valve,"
+Int. J. Non-Linear Mech., Vol. 25, 433-439.
+
+Nayfeh, A. H., Kreider, W., and Anderson, T. J., 1995,
+"Investigation of Natural Frequencies and Mode Shapes of Buckled Beams,"
+AIAA J., Vol. 33, 1121-1126.
+
+Nayfeh, A. H. and Lacarbonara, W., 1997,
+"On the Discretization of
+Distributed-Parameter Systems with Quadratic and Cubic Nonlinearities,"
+Nonlinear Dyn., Vol. 13, 203-220.
+
+Nayfeh, A. H. and Lacarbonara, W., 1998,
+"On the Discretization of Spatially
+Continuous Systems with Quadratic and Cubic Nonlinearities,"
+JSME Int. J., C41, 510-531.
+
+Nayfeh, A. H., Lacarbonara, W., and Chin, C-M., 1999,
+"Nonlinear Normal Modes
+of Buckled Beams: Three-to-One and One-to-One Internal Resonances,"
+Nonlinear Dyn., in press.
+
+Nayfeh, A. H. and Mook, D. T., 1979,
+Nonlinear Oscillations,
+Wiley, New York.
+
+Nayfeh, A. H., Nayfeh, J. F., and Mook, D. T., 1992,
+"On Methods for
+Continuous Systems with Quadratic and Cubic Nonlinearities,"
+Nonlinear Dyn., Vol. 3, 145-162.
+
+Nayfeh, S. A. and Nayfeh, A. H., 1993,
+"Nonlinear Interactions Between
+Two Widely Spaced Modes - External Excitation,"
+Int. J. Bif. Chaos, Vol. 3, 417-427.
+
+Nayfeh, A. H. and Nayfeh, S. A., 1995,
+"Nonlinear Normal Modes of
+a Continuous System with Quadratic Nonlinearities,"
+J. Vib. Acoust., Vol. 117, 199-205.
+
+Nayfeh, A. H., Nayfeh, S. A., and Pakdemirli, M., 1995,
+"On the Discretization of Weakly Nonlinear Spatially Continuous Systems,"
+Nonlinear Dynamics and Stochastic Mechanics,
+(W. Kliemann and N. Sri Namachchivaya, eds.), 
+CRC Press, Boca Raton, Florida, 175-200.
+
+Pai, P. F. and Nayfeh, A. H., 1990a,
+"Non-Linear Non-Planar
+Oscillations of a Cantilever Beam under Lateral Base Excitations,"
+Int. J. Non-Linear Mech., Vol. 25, 455-474.
+
+Pai, P. F. and Nayfeh, A. H., 1990b,
+"Three-Dimensional Nonlinear
+Vibrations of Composite Beams- I. Equations of Motion,"
+Nonlinear Dyn., Vol. 1, 477-502.
+
+Pakdemirli, M., Nayfeh, S. A., and Nayfeh, A. H., 1995,
+"Analysis of
+One-to-One Autoparametric Resonances in Cables - Discretization vs.
+Direct Treatment,"
+Nonlinear Dyn., Vol. 8, 65-83.
+
+Raouf, R. A. and Nayfeh, A. H., 1990a,
+"Nonlinear Axisymmetric
+Response of Spherical Shells to a Radial Harmonic Excitation,"
+Int. J. Non-Linear Mech., Vol. 25, 475-492.
+
+Raouf, R. A. and Nayfeh, A. H., 1990b,
+"One-to-One Autoparametric
+Resonances in Infinitely Long Cylindrical Shells,"
+Comp. Struct., Vol. 35, 163-173.
+
+Rega, G., Lacarbonara, W., Nayfeh, A. H., and Chin, C-M., 1999,
+"Multiple Resonances in Suspended Cables: 
+Direct versus Reduced-Order Models,"
+Int. J. Non-Linear Mech., accepted for publication.
+
+von Karmam, T., 1910,
+"Festigkeitsprobleme in Maschinenbau,"
+Encyklopadie der Mathematischen Wissenschaften, P. R. Halmos, ed.,
+Am. Math. Soc., Vol. 3, 211-385.
+
+Yamamoto, T. 1957,
+"On the Vibrations of a Rotating Shaft,"
+Mem. Fac. Eng. Nagoya Univ., Vol. 9, 19-115.
+
+Yamamoto, T. 1960,
+"Response Curves at the Critical Speeds of Subharmonic
+and Summed and Differential Harmonic Oscillations,"
+Bull. JSME, Vol. 3, 397-403.
