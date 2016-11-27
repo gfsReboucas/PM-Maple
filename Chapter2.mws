@@ -1,1449 +1,1270 @@
-{VERSION 2 3 "Windows 10" "2.3" }
-{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
- 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 6 6 2 0 2 0 2 2 -1 1 }{PSTYLE "War
-ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
- 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
-ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
-}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
-" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
-0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
-255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
-ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
- 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
- {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
-0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
-imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 4 4 2 0 2 0 2 2 -1 1 }
-{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
- 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
--1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
-0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
- "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
- 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
-12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
-"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
- 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
--1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
-1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
- "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
- 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
-" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
-{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
-1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
-tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
- 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
-206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
-0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
- {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
-1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
--1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
-2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
- 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
-Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
-1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
-" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
-2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0
- 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Tit
-le" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 
-}3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1
- -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
--1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
- 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variab
-le" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Define"
- -1 200 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 
-31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Varia
-ble" -1 201 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Cod
-e" -1 202 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2
-D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
-"2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
-"Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
-"Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }
-{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 
-}{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 
-0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0
- 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
-0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 
-1 }{CSTYLE "Equation Label" -1 203 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
-0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 
-0 0 0 1 }{CSTYLE "Maple Input258" -1 204 "Courier" 1 12 255 0 0 1 2 1 
-2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147
- 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 
-0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 205 "Ti
-mes" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16
- "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Tim
-es" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 206
- "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined It
-alic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Comm
-ent" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Co
-mment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Plot
- Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Emphasi
-s" -1 207 "Times" 1 12 128 0 128 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Ma
-th Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
-"Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "H
-elp Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "He
-ader and Footer" -1 208 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
-{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "Text" -1 209 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
-{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
-{CSTYLE "Maple Input Placeholder" -1 210 "Courier New" 1 12 200 0 200 
-1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 
-0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 
-0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 
-1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 
-1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 211 "Times" 1 12 0 0 
-0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 
-1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 
-10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 
-255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 
-14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12
- 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 212 "Time
-s" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 
-"Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal"
- -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple
- Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Ca
-ption Reference" -1 213 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 1 2 2 2 2 
-1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 209 1 {CSTYLE "
-" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 
-2 0 2 2 -1 1 }{PSTYLE "" -1 210 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 
-0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1
- 211 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }
-1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 212 1 {CSTYLE "" -1 -1 "Co
-urier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
-1 }{PSTYLE "" -1 213 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2
- 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 214 "Times
-" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 215 "Times" 1 12 255
- 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 214 1 {CSTYLE "" -1 -1 "Co
-urier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
-1 }{CSTYLE "" -1 216 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 215 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 217 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 216 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{PSTYLE "" -1 217 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 
-1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 218
- "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 218 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 219 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 219 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 220 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 220 "Times" 1
- 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Times" 1 12 255 
-0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 221 1 {CSTYLE "" -1 -1 "Cou
-rier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
- }{PSTYLE "" -1 222 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 
-2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 222 "Times"
- 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 223 1 {CSTYLE "" 
--1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
-0 2 2 -1 1 }{CSTYLE "" -1 223 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0
- 0 1 }{PSTYLE "" -1 224 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
-1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 225 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 226 1 {CSTYLE "" -1 -1 "Times" 1 
-14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 4 4 2 0 2 0 2 2 -1 1 }{CSTYLE 
-"" -1 224 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
-227 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 225 "Times" 1 12 255 0 255 
-1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 226 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{CSTYLE "" -1 227 "Times" 1 12 255 0 255 1 2 1 2 2 2 
-2 0 0 0 1 }{CSTYLE "" -1 228 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 
-0 1 }{PSTYLE "" -1 228 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1
- 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 229 "Tim
-es" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Times" 1 12 0
- 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 229 1 {CSTYLE "" -1 -1 "Cour
-ier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
-}{CSTYLE "" -1 231 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 230 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 231 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{PSTYLE "" -1 232 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
-" -1 233 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
- 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 232 "Times" 1 12 255 0
- 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 233 "Times" 1 12 255 0 255 1
- 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 234 1 {CSTYLE "" -1 -1 "Courier" 1
- 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 234 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 235 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
- -1 236 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 235 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 237 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{PSTYLE "" -1 236 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 238 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
-239 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 240 "T
-imes" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 237 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 241 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{PSTYLE "" -1 238 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 242 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
-243 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times
-" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 245 "Times" 1 12 255
- 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 239 1 {CSTYLE "" -1 -1 "Co
-urier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
-1 }{CSTYLE "" -1 246 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 247 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
- -1 248 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
-240 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 249 "Times" 1 12 255 0 255 
-1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 241 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 250 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 251 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 252 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 242 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 253 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 243 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{CSTYLE "" -1 254 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{CSTYLE "" -1 255 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 244 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 256 "Times" 1
- 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 257 "Times" 1 12 0 0 
-255 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 245 1 {CSTYLE "" -1 -1 "Times
-" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 4 4 2 0 2 0 2 2 -1 1 }
-{PSTYLE "" -1 246 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 247 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{PSTYLE "" -1 248 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 258 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
-259 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 249 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 260 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{PSTYLE "" -1 250 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
-" -1 251 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
- 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 261 "Times" 1 12 255 0
- 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 252 1 {CSTYLE "" -1 -1 "Cour
-ier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
-}{CSTYLE "" -1 262 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 253 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 263 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 254 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{PSTYLE "" -1 255 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 
-1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 264
- "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 256 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 265 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{PSTYLE "" -1 257 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 266 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
-258 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 267 "Times" 1 12 255 0 255 
-1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 268 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{CSTYLE "" -1 269 "Times" 1 12 255 0 255 1 2 1 2 2 2 
-2 0 0 0 1 }{PSTYLE "" -1 259 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0
- 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 
-260 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 261 1 {CSTYLE "" -1 -1 "Cou
-rier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
- }{CSTYLE "" -1 270 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 271 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 262 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 263 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{PSTYLE "" -1 264 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 272 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
-273 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 265 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 274 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{PSTYLE "" -1 266 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
-" -1 267 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
- 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 275 "Times" 1 12 255 0
- 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 268 1 {CSTYLE "" -1 -1 "Cour
-ier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
-}{CSTYLE "" -1 276 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 269 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 277 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 270 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{CSTYLE "" -1 278 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{CSTYLE "" -1 279 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 271 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 272 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{PSTYLE "" -1 273 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 280 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
-274 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 281 "Times" 1 12 255 0 255 
-1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 275 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{PSTYLE "" -1 276 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 282 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 283 "Times" 1 12 
-255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 277 1 {CSTYLE "" -1 -1 
-"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
--1 1 }{CSTYLE "" -1 284 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 285 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 278 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 286 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 279 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{CSTYLE "" -1 287 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{PSTYLE "" -1 280 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 
-2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 281 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 282 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 288 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 283 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 289 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 290 "Times" 1 12 
-255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 284 1 {CSTYLE "" -1 -1 
-"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
--1 1 }{PSTYLE "" -1 285 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
-1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 291 "Ti
-mes" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 292 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 286 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{PSTYLE "" -1 287 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 
-1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 293
- "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 294 "Time
-s" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 288 1 {CSTYLE "
-" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 
-2 0 2 2 -1 1 }{CSTYLE "" -1 295 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0
- 0 0 1 }{CSTYLE "" -1 296 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1
- }{PSTYLE "" -1 289 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 
-2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 297 "Times"
- 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 290 1 {CSTYLE "" 
--1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
-0 2 2 -1 1 }{CSTYLE "" -1 298 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0
- 0 1 }{PSTYLE "" -1 291 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
-1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 299 "Ti
-mes" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 292 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{CSTYLE "" -1 300 "Times" 1 12 255 0 255 1 2 1 2 2 2 2
- 0 0 0 1 }{CSTYLE "" -1 301 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{PSTYLE "" -1 293 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 
-2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 294 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 295 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{PSTYLE "" -1 296 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 297 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{PSTYLE "" -1 298 1 {CSTYLE "" -1 -1 "Courier" 1 12 
-255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
-" -1 302 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
-299 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 300 1 {CSTYLE "" -1 -1 "Cou
-rier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
- }{PSTYLE "" -1 301 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 
-2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 302 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 303 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{PSTYLE "" -1 304 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 303 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 304 "Times" 1 12 
-255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 305 1 {CSTYLE "" -1 -1 
-"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
--1 1 }{CSTYLE "" -1 305 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 306 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 307 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{CSTYLE "" -1 306 "Times" 1 12 255 0 255 1 2 1 2 2 2 2
- 0 0 0 1 }{CSTYLE "" -1 307 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{CSTYLE "" -1 308 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 308 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 309 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{CSTYLE "" -1 309 "Times" 1 12 255 0 255 1 2 1 2 2 2 2
- 0 0 0 1 }{PSTYLE "" -1 310 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 
-1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 310
- "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 311 "Time
-s" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 312 "Times" 1 
-12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 311 1 {CSTYLE "" -1 
--1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
- 2 -1 1 }{CSTYLE "" -1 313 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 
-1 }{PSTYLE "" -1 312 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2
- 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 314 "Times
-" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 313 1 {CSTYLE ""
- -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2
- 0 2 2 -1 1 }{CSTYLE "" -1 315 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 
-0 0 1 }{PSTYLE "" -1 314 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2
- 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 316 "T
-imes" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 315 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 316 1 {CSTYLE "" -1 -1 "Courier" 
-1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 317 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 318 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 319 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 317 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 320 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 318 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{CSTYLE "" -1 321 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{PSTYLE "" -1 319 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 
-2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 320 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 322 "Times" 1 12 0 0 255 1 2 2 2 
-2 2 2 0 0 0 1 }{CSTYLE "" -1 323 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 
-0 0 0 1 }{PSTYLE "" -1 321 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1
- 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 324 
-"Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 325 "Times
-" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 322 1 {CSTYLE ""
- -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2
- 0 2 2 -1 1 }{PSTYLE "" -1 323 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0
- 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 
-326 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 327 "T
-imes" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 328 "Times" 1 
-12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 329 "Times" 1 12 255
- 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 330 "Times" 1 12 255 0 255
- 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 331 "Times" 1 12 255 0 255 1 2 1
- 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 332 "Times" 1 12 255 0 255 1 2 1 2 2 2
- 2 0 0 0 1 }{CSTYLE "" -1 333 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0
- 0 1 }{PSTYLE "" -1 324 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
-1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 334 "Ti
-mes" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 335 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 325 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{CSTYLE "" -1 336 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{PSTYLE "" -1 326 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 
-2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 337 "Time
-s" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 338 "Times" 1 
-12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 339 "Times" 1 12 255
- 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 327 1 {CSTYLE "" -1 -1 "Co
-urier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
-1 }{CSTYLE "" -1 340 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 341 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 328 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 342 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 343 "Times" 1 12 
-255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 344 "Times" 1 12 255 0 
-255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 345 "Times" 1 12 255 0 255 1 
-2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 346 "Times" 1 12 0 0 255 1 2 2 2 2 
-2 2 0 0 0 1 }{CSTYLE "" -1 347 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 
-0 0 1 }{PSTYLE "" -1 329 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2
- 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 330 1 
-{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
- 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 348 "Times" 1 12 255 0 255 1 2 1 
-2 2 2 2 0 0 0 1 }{CSTYLE "" -1 349 "Times" 1 12 255 0 255 1 2 1 2 2 2 
-2 0 0 0 1 }{PSTYLE "" -1 331 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0
- 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 
-332 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
- 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 333 1 {CSTYLE "" -1 -1 "Cou
-rier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
- }{CSTYLE "" -1 350 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 351 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 334 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 335 1 {CSTYLE
- "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
-0 2 0 2 2 -1 1 }{CSTYLE "" -1 352 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0
- 0 0 1 }{CSTYLE "" -1 353 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 336 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
-1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 354 "Times" 1
- 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 337 1 {CSTYLE "" -1
- -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 
-2 2 -1 1 }{CSTYLE "" -1 355 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0
- 1 }{CSTYLE "" -1 356 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 357 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 358 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 359 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 360 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }}
-{SECT 0 {PARA 208 "" 0 "" {TEXT 209 10 "Chapter 2\n" }{TEXT 209 20 "T
-he Duffing Equation" }}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 209 8 "re
-start;" }}}{EXCHG {PARA 210 "> " 0 "" {MPLTEXT 1 209 39 "interface(lab
-elling=false,warnlevel=0);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I%trueG%
-*protectedG\"\"$" }}}{EXCHG {PARA 211 "> " 0 "" {MPLTEXT 1 209 13 "wit
-h(linalg):" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 361 24 "2.1 The Duffing E
-quation" }}{EXCHG {PARA 0 "" 0 "" {TEXT 362 124 "The free oscillations
- of many conservative systems having a single degree of freedom are go
-verned by an equation of the form" }}}{EXCHG {PARA 212 "> " 0 "" 
-{MPLTEXT 1 209 32 "eq21a:=diff(x(t),t$2)+f(x(t))=0;" }}{PARA 11 "" 1 "
-" {XPPMATH 20 "/,&-I%diffG%*protectedG6$-F%6$-I\"xG6\"6#I\"tGF,F.F.\"
-\"\"-I\"fGF,6#F*F/\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 6 "where 
-" }{TEXT 362 28 " is a nonlinear function of " }{TEXT 362 9 " . Here, 
-" }{TEXT 362 44 " is the acceleration of the system, whereas " }{TEXT 
-362 29 " is the restoring force. Let " }{TEXT 362 48 " be an equilibri
-um position of the system. Then " }{TEXT 362 25 " is a constant and he
-nce " }{TEXT 362 18 " . We assume that " }{TEXT 362 28 " is an analyti
-c function of " }{TEXT 362 4 " at " }{TEXT 362 41 " and expand it in a
- Taylor series around " }{TEXT 362 3 " as" }}}{EXCHG {PARA 213 "> " 0 
-"" {MPLTEXT 1 209 39 "fexp:=subs(x=x(t),series(f(x),x=x0,4));" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "+-,&-I\"xG6\"6#I\"tGF&\"\"\"I#x0GF&!\"\"
--I\"fGF&6#F*\"\"!--I\"DG6$%*protectedGI(_syslibGF&6#F-F.F),$---I#@@GF3
-6$F2\"\"#F6F.#F)F=F=,$---F;6$F2\"\"$F6F.#F)\"\"'FD-I\"OGF46#F)\"\"%" }
-}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 44 "where terms up to cubic are ret
-ained. Using " }{TEXT 214 8 "convert " }{TEXT 362 40 "to truncate the \+
-higher-order terms from " }{TEXT 215 4 "fexp" }{TEXT 362 9 ", we have"
- }}}{EXCHG {PARA 214 "> " 0 "" {MPLTEXT 1 209 52 "fpoly:=convert(fexp,
-polynom);  # Drop the order term" }}{PARA 11 "" 1 "" {XPPMATH 20 ",*-I
-\"fG6\"6#I#x0GF%\"\"\"*&--I\"DG6$%*protectedGI(_syslibGF%6#F$F&F(,&-I
-\"xGF%6#I\"tGF%F(F'!\"\"F(F(*&---I#@@GF-6$F,\"\"#F0F&F(F1F=#F(F=*&---F
-;6$F,\"\"$F0F&F(F1FD#F(\"\"'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "
-Substituting " }{TEXT 216 6 "fpoly " }{TEXT 362 4 "for " }{TEXT 362 
-37 " and using the equilibrium condition " }{TEXT 362 11 ", we obtain"
- }}}{EXCHG {PARA 215 "> " 0 "" {MPLTEXT 1 209 40 "temp:=subs(f(x(t))=f
-poly,f(x0)=0,eq21a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,*-I%diffG%*pro
-tectedG6$-F%6$-I\"xG6\"6#I\"tGF,F.F.\"\"\"*&--I\"DG6$F&I(_syslibGF,6#I
-\"fGF,6#I#x0GF,F/,&F*F/F9!\"\"F/F/*&---I#@@GF46$F3\"\"#F6F8F/F:FB#F/FB
-*&---F@6$F3\"\"$F6F8F/F:FI#F/\"\"'\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 37 "Now, we introduce the transformation " }{TEXT 362 6 " in
-to " }{TEXT 217 5 "temp " }{TEXT 362 10 "and obtain" }}}{EXCHG {PARA 
-216 "> " 0 "" {MPLTEXT 1 209 14 "x:=t->x0+u(t):" }}}{EXCHG {PARA 217 "
-> " 0 "" {MPLTEXT 1 209 12 "eq21b:=temp;" }}{PARA 11 "" 1 "" {XPPMATH 
-20 "/,*-I%diffG%*protectedG6$-F%6$-I\"uG6\"6#I\"tGF,F.F.\"\"\"*&--I\"D
-G6$F&I(_syslibGF,6#I\"fGF,6#I#x0GF,F/F*F/F/*&---I#@@GF46$F3\"\"#F6F8F/
-F*F@#F/F@*&---F>6$F3\"\"$F6F8F/F*FG#F/\"\"'\"\"!" }}}{EXCHG {PARA 0 ""
- 0 "" {TEXT 362 28 "To simplify the notation in " }{TEXT 218 5 "eq21b"
- }{TEXT 362 31 ", we denote the coefficient of " }{TEXT 362 4 " by " }
-{TEXT 362 16 " . The result is" }}}{EXCHG {PARA 218 "> " 0 "" {MPLTEXT
- 1 209 48 "eq21c:=diff(u(t),t,t)+sum(k[i]*u(t)^i,i=1..3)=0;" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "/,*-I%diffG%*protectedG6$-F%6$-I\"uG6\"6#I\"tG
-F,F.F.\"\"\"*&&I\"kGF,6#F/F/F*F/F/*&&F26#\"\"#F/F*F7F/*&&F26#\"\"$F/F*
-F;F/\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 14 "We relate the " }
-{TEXT 362 36 " to the derivatives of the function " }{TEXT 362 9 " by \+
-using" }}}{EXCHG {PARA 219 "> " 0 "" {MPLTEXT 1 209 56 "solve(\{coeffs
-(lhs(eq21b-eq21c),u(t))\},\{k[1],k[2],k[3]\});" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "<%/&I\"kG6\"6#\"\"\"--I\"DG6$%*protectedGI(_syslibGF&6#I
-\"fGF&6#I#x0GF&/&F%6#\"\"#,$---I#@@GF,6$F+F6F/F1#F(F6/&F%6#\"\"$,$---F
-;6$F+FAF/F1#F(\"\"'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 131 "Most of \+
-this chapter is devoted to the special case of cubic nonlinearities. T
-hus, we set the coefficient of the quadratic term in " }{TEXT 219 6 "e
-q21c " }{TEXT 362 24 "equal to zero and obtain" }}}{EXCHG {PARA 220 ">
- " 0 "" {MPLTEXT 1 209 26 "eq21d:=subs(k[2]=0,eq21c);" }}{PARA 11 "" 1
- "" {XPPMATH 20 "/,(-I%diffG%*protectedG6$-F%6$-I\"uG6\"6#I\"tGF,F.F.
-\"\"\"*&&I\"kGF,6#F/F/F*F/F/*&&F26#\"\"$F/F*F7F/\"\"!" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 20 "which is called the " }{TEXT 220 16 "Duf
-fing equation" }{TEXT 362 15 ". We note that " }{TEXT 362 5 " and " }
-{TEXT 362 29 " may be positive or negative." }}}{EXCHG {PARA 0 "" 0 ""
- {TEXT 362 149 "It is a good practice to nondimensionalize the governi
-ng equations before treating them with perturbation methods. To this e
-nd, we nondimensionalize " }{TEXT 362 5 " and " }{TEXT 362 31 " using \+
-a characteristic length " }{TEXT 362 27 " and a characteristic time " 
-}{TEXT 362 58 " of the motion and denote the nondimensional variables \+
-by " }{TEXT 362 5 " and " }{TEXT 362 27 " . In nondimensional form, " 
-}{TEXT 221 6 "eq21d " }{TEXT 362 7 "becomes" }}}{EXCHG {PARA 221 "> " 
-0 "" {MPLTEXT 1 209 16 "u:=t->U*us(t/T):" }}}{EXCHG {PARA 222 "> " 0 "
-" {MPLTEXT 1 209 26 "eq21e:=subs(t=T*ts,eq21d);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/,(*(I\"UG6\"\"\"\"---I#@@G6$%*protectedGI(_syslibGF&6$I
-\"DGF,\"\"#6#I#usGF&6#I#tsGF&F'I\"TGF&!\"#F'*(&I\"kGF&6#F'F'F%F'-F3F4F
-'F'*(&F:6#\"\"$F'F%F@F<F@F'\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-40 "Next, we multiply the left-hand side of " }{TEXT 222 6 "eq21e " }
-{TEXT 362 3 "by " }{TEXT 362 28 " so that the coefficient of " }{TEXT 
-362 24 " is unity. The result is" }}}{EXCHG {PARA 223 "> " 0 "" 
-{MPLTEXT 1 209 27 "eq21f:=expand(eq21e*T^2/U);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/,(---I#@@G6$%*protectedGI(_syslibG6\"6$I\"DGF(\"\"#6#I#u
-sGF+6#I#tsGF+\"\"\"*(I\"TGF+F.&I\"kGF+6#F3F3-F0F1F3F3**F5F.I\"UGF+F.&F
-76#\"\"$F3F9F>F3\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 89 "We choo
-se T so that the linear natural frequency of the system is unity; that
- is, we let " }{TEXT 362 32 " , for ease of notation, we let " }{TEXT 
-362 11 " , replace " }{TEXT 362 5 " and " }{TEXT 362 4 " by " }{TEXT 
-362 5 " and " }{TEXT 362 29 " , respectively, and rewrite " }{TEXT 
-223 6 "eq21f " }{TEXT 362 2 "as" }}}{EXCHG {PARA 224 "> " 0 "" 
-{MPLTEXT 1 209 7 "u:='u':" }}}{EXCHG {PARA 225 "> " 0 "" {MPLTEXT 1 
-209 67 "DuffingEq:=subs(k[1]=1/T^2,k[3]=epsilon/(T^2*U^2),us=u,ts=t,eq
-21f);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,(---I#@@G6$%*protectedGI(_sys
-libG6\"6$I\"DGF(\"\"#6#I\"uGF+6#I\"tGF+\"\"\"-F0F1F3*&I(epsilonGF+F3F4
-\"\"$F3\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "We note that " }
-{TEXT 362 86 " is a nondimensional quantity, which is a measure of the
- strength of the nonlinearity." }}}}{SECT 0 {PARA 226 "" 0 "" {TEXT 
-209 29 "2.2 Straightforward Expansion" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 13 "To solve the " }{TEXT 224 9 "DuffingEq" }{TEXT 362 43 ", we au
-gment it with the initial conditions" }}}{EXCHG {PARA 227 "> " 0 "" 
-{MPLTEXT 1 209 25 "ic:=\{u(0)=u0,D(u)(0)=v0\};" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "<$/-I\"uG6\"6#\"\"!I#u0GF&/--I\"DG6$%*protectedGI(_syslib
-GF&6#F%F'I#v0GF&" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "The solution
- " }{TEXT 362 29 " of the initial-value problem" }{TEXT 225 1 " " }
-{TEXT 362 25 "(IVP), consisting of the " }{TEXT 226 10 "DuffingEq " }
-{TEXT 362 34 "and associated initial conditions " }{TEXT 227 2 "ic" }
-{TEXT 362 44 ", is a function of the independent variable " }{TEXT 
-362 19 " and the parameter " }{TEXT 362 103 " . Next, we determine an \+
-approximation of the IVP for weak nonlinearity; that is, for small but
- finite " }{TEXT 362 2 " ." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 14 "Fi
-rst, we set " }{TEXT 362 22 " equal to zero in the " }{TEXT 228 9 "Duf
-fingEq" }{TEXT 362 86 ", augment the result with the initial condition
-s, and obtain the following linear IVP:" }}}{EXCHG {PARA 228 "> " 0 ""
- {MPLTEXT 1 209 46 "linearIVP:=[subs(epsilon=0,DuffingEq),op(ic)];" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "7%/,&---I#@@G6$%*protectedGI(_syslibG6\"
-6$I\"DGF)\"\"#6#I\"uGF,6#I\"tGF,\"\"\"-F1F2F4\"\"!/-F16#F6I#u0GF,/--F.
-F0F9I#v0GF," }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 61 "The solution of t
-his linear IVP can be obtained by using the " }{TEXT 229 5 "Maple" }
-{TEXT 362 9 " command " }{TEXT 230 6 "dsolve" }{TEXT 362 15 ". The res
-ult is" }}}{EXCHG {PARA 229 "> " 0 "" {MPLTEXT 1 209 34 "linearSol:=ds
-olve(linearIVP,u(t));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I\"uG6\"6#I\"
-tGF%,&*&I#v0GF%\"\"\"-I$sinG6$%*protectedGI(_syslibGF%F&F+F+*&I#u0GF%F
-+-I$cosGF.F&F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 5 "When " }{TEXT
- 362 109 " is small but different from zero, the solution of the nonli
-near initial-value problem is no longer given by " }{TEXT 231 9 "linea
-rSol" }{TEXT 362 77 ", but deviates from it. We try a correction in th
-e form of a power series in " }{TEXT 362 21 "; that is, we expand " }
-{TEXT 362 22 " in a power series in " }{TEXT 362 3 " as" }}}{EXCHG 
-{PARA 230 "> " 0 "" {MPLTEXT 1 209 57 "uExp:=(maxOrder,t)->sum(epsilon
-^i*u[i](t),i=0..maxOrder);" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I)maxO
-rderG6\"I\"tGF%F%6$I)operatorGF%I&arrowGF%F%-I$sumG6$%*protectedGI(_sy
-slibGF%6$*&)I(epsilonGF%I\"iGF%\"\"\"-&I\"uGF%6#F36#9%F4/F3;\"\"!9$F%F
-%F%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 6 "where " }{TEXT 362 76 " is
- the solution of the linear problem. For example, to first order, we h
-ave" }}}{EXCHG {PARA 231 "> " 0 "" {MPLTEXT 1 209 10 "uExp(1,t);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 ",&-&I\"uG6\"6#\"\"!6#I\"tGF&\"\"\"*&I(ep
-silonGF&F+-&F%6#F+F)F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 27 "and \+
-to third order, we have" }}}{EXCHG {PARA 232 "> " 0 "" {MPLTEXT 1 209 
-10 "uExp(3,t);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",*-&I\"uG6\"6#\"\"!6#I
-\"tGF&\"\"\"*&I(epsilonGF&F+-&F%6#F+F)F+F+*&F-\"\"#-&F%6#F2F)F+F+*&F-
-\"\"$-&F%6#F7F)F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 27 "and to fi
-fth order, we have" }}}{EXCHG {PARA 233 "> " 0 "" {MPLTEXT 1 209 10 "u
-Exp(5,t);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.-&I\"uG6\"6#\"\"!6#I\"tGF
-&\"\"\"*&I(epsilonGF&F+-&F%6#F+F)F+F+*&F-\"\"#-&F%6#F2F)F+F+*&F-\"\"$-
-&F%6#F7F)F+F+*&F-\"\"%-&F%6#F<F)F+F+*&F-\"\"&-&F%6#FAF)F+F+" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 112 "Next, we restrict our discussion
- to first order; that is, we keep two terms in the power series. Thus,
- we apply " }{TEXT 232 5 "uExp " }{TEXT 362 7 "to the " }{TEXT 233 9 "
-DuffingEq" }{TEXT 362 31 ", expand the result, and obtain" }}}{EXCHG 
-{PARA 234 "> " 0 "" {MPLTEXT 1 209 87 "eq22atemp:=subs(u(t)=uExp(1,t),
-seq((D@@k)(u)(t)=diff(uExp(1,t),t$k),k=1..2),DuffingEq);" }}{PARA 11 "
-" 1 "" {XPPMATH 20 "/,,-I%diffG%*protectedG6$-F%6$-&I\"uG6\"6#\"\"!6#I
-\"tGF-F1F1\"\"\"*&I(epsilonGF-F2-F%6$-F%6$-&F,6#F2F0F1F1F2F2F*F2*&F4F2
-F9F2F2*&F4F2,&F*F2F<F2\"\"$F2F/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-31 "Since we kept only terms up to " }{TEXT 362 21 " in the expansion \+
-of " }{TEXT 362 48 ", we need to neglect terms of order higher than " 
-}{TEXT 362 4 " in " }{TEXT 234 10 "eq22atemp " }{TEXT 362 44 "for cons
-istency. To accomplish this, we use " }{TEXT 235 7 "series " }{TEXT 
-362 4 "and " }{TEXT 236 8 "convert " }{TEXT 362 10 "and obtain" }}}
-{EXCHG {PARA 235 "> " 0 "" {MPLTEXT 1 209 61 "eq22a:=convert(series(lh
-s(eq22atemp),epsilon=0,2),polynom)=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 
-"/,(-I%diffG%*protectedG6$-F%6$-&I\"uG6\"6#\"\"!6#I\"tGF-F1F1\"\"\"F*F
-2*&,(-F%6$-F%6$-&F,6#F2F0F1F1F2F9F2*$F*\"\"$F2F2I(epsilonGF-F2F2F/" }}
-}{EXCHG {PARA 0 "" 0 "" {TEXT 362 43 "Setting the coefficients of like
- powers of " }{TEXT 362 4 " in " }{TEXT 237 6 "eq22a " }{TEXT 362 69 "
-equal to zero, we obtain the following hierarchy of linear equations:"
- }}}{EXCHG {PARA 236 "> " 0 "" {MPLTEXT 1 209 57 "eqEps:=subs(epsilon=
-0,eq22a),coeff(lhs(eq22a),epsilon)=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 
-"6$/,&-I%diffG%*protectedG6$-F&6$-&I\"uG6\"6#\"\"!6#I\"tGF.F2F2\"\"\"F
-+F3F0/,(-F&6$-F&6$-&F-6#F3F1F2F2F3F:F3*$F+\"\"$F3F0" }}}{EXCHG {PARA 0
- "" 0 "" {TEXT 362 86 "which needs to be solved in succession. That is
-, we first solve the first equation in " }{TEXT 238 6 "eqEps " }{TEXT 
-362 10 "to obtain " }{TEXT 362 60 " and then substitute the result int
-o the second equation in " }{TEXT 239 6 "eqEps " }{TEXT 362 68 "to obt
-ain a linear nonhomogeneous equation, which can be solved for " }{TEXT
- 362 1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 50 "The general solutio
-n of the zeroth-order problem (" }{TEXT 240 8 "eqEps[1]" }{TEXT 362 
-39 ") can be expressed in Cartesian form as" }}}{EXCHG {PARA 237 "> " 
-0 "" {MPLTEXT 1 209 25 "dsolve(eqEps[1],u[0](t));" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-&I\"uG6\"6#\"\"!6#I\"tGF&,&*&I$_C1GF&\"\"\"-I$sinG6$%*p
-rotectedGI(_syslibGF&F)F.F.*&I$_C2GF&F.-I$cosGF1F)F.F." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 89 "Alternatively, we can express the soluti
-on of the zeroth-order problem in the polar form " }{TEXT 362 49 " by \+
-adding two appropriate initial conditions to " }{TEXT 241 8 "eqEps[1]"
- }{TEXT 362 3 " as" }}}{EXCHG {PARA 238 "> " 0 "" {MPLTEXT 1 209 98 "s
-ol0:=combine(dsolve(\{eqEps[1],u[0](0)=a[0]*cos(beta[0]),D(u[0])(0)=-a
-[0]*sin(beta[0])\},u[0](t)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-&I\"u
-G6\"6#\"\"!6#I\"tGF&*&&I\"aGF&F'\"\"\"-I$cosG6$%*protectedGI(_syslibGF
-&6#,&F*F.&I%betaGF&F'F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 6 "wher
-e " }{TEXT 362 5 " and " }{TEXT 362 34 " are arbitrary constants. Beca
-use " }{TEXT 242 8 "eqEps[1]" }{TEXT 362 134 " represents a linear und
-amped oscillator, one can write down its general solution in either Ca
-rtesian or polar form without using the " }{TEXT 243 5 "Maple" }{TEXT 
-362 9 " command " }{TEXT 244 6 "dsolve" }{TEXT 362 1 "." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 17 "Substituting for " }{TEXT 362 30 " in th
-e first-order equation (" }{TEXT 245 8 "eqEps[2]" }{TEXT 362 69 ") and
- determining the general solution of the resulting equation for " }
-{TEXT 362 12 " , we obtain" }}}{EXCHG {PARA 239 "> " 0 "" {MPLTEXT 1 
-209 55 "sol1temp:=combine(dsolve(subs(sol0,eqEps[2]),u[1](t)));" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "/-&I\"uG6\"6#\"\"\"6#I\"tGF&,,*(&I\"aGF&
-6#\"\"!\"\"$F*F(-I$sinG6$%*protectedGI(_syslibGF&6#,&F*F(&I%betaGF&F/F
-(F(#!\"$\"\")*&F-F1-I$cosGF46#,&F*F1F9F1F(#F(\"#K*&F-F1-F@F7F(#F<\"#;*
-&I$_C2GF&F(-F3F)F(F(*&I$_C1GF&F(-F@F)F(F(" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 37 "We note that the homogeneous part of " }{TEXT 246 9 "sol
-1temp " }{TEXT 362 36 "consists of the terms involving the " }{TEXT 
-362 22 " (the usual case) and " }{TEXT 362 16 " (obtained from " }
-{TEXT 247 7 "dsolve " }{TEXT 362 45 "in this case). Hence, we can repl
-ace them by " }{TEXT 362 13 " and rewrite " }{TEXT 248 9 "sol1temp " }
-{TEXT 362 2 "as" }}}{EXCHG {PARA 240 "> " 0 "" {MPLTEXT 1 209 102 "sol
-1:=u[1](t)=subs(_C1=0,_C2=0,cos(t+beta[0])=0,cos(t-3*beta[0])=0,rhs(so
-l1temp)+a[1]*cos(t+beta[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-&I\"u
-G6\"6#\"\"\"6#I\"tGF&,(*(&I\"aGF&6#\"\"!\"\"$F*F(-I$sinG6$%*protectedG
-I(_syslibGF&6#,&F*F(&I%betaGF&F/F(F(#!\"$\"\")*&F-F1-I$cosGF46#,&F*F1F
-9F1F(#F(\"#K*&&F.F'F(-F@6#,&F*F(&F:F'F(F(F(" }}}{EXCHG {PARA 0 "" 0 ""
- {TEXT 362 103 "Combining the solutions of the zeroth- and first-order
- problems, we obtain the general solution of the " }{TEXT 249 9 "Duffi
-ngEq" }{TEXT 362 20 ", to first order, as" }}}{EXCHG {PARA 241 "> " 0 
-"" {MPLTEXT 1 209 36 "sol:=u(t)=subs(sol0,sol1,uExp(1,t));" }}{PARA 11
- "" 1 "" {XPPMATH 20 "/-I\"uG6\"6#I\"tGF%,&*&&I\"aGF%6#\"\"!\"\"\"-I$c
-osG6$%*protectedGI(_syslibGF%6#,&F'F.&I%betaGF%F,F.F.F.*&I(epsilonGF%F
-.,(*(F*\"\"$F'F.-I$sinGF1F4F.#!\"$\"\")*&F*F<-F06#,&F'F<F6F<F.#F.\"#K*
-&&F+6#F.F.-F06#,&F'F.&F7FJF.F.F.F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 6 "where " }{TEXT 362 25 " are arbitrary constants." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 187 "We started with a second-order equation
- that can support two initial conditions but it appears that we ended \+
-up with four arbitrary constants. It turns out that only two of the co
-nstants " }{TEXT 362 7 " , and " }{TEXT 362 54 " are arbitrary and tha
-t the two initial conditions in " }{TEXT 250 3 "ic " }{TEXT 362 81 "ar
-e sufficient to determine all of them. Hence, we impose the initial co
-nditions " }{TEXT 251 3 "ic " }{TEXT 362 14 "by evaluating " }{TEXT 
-252 4 "sol " }{TEXT 362 22 "and its derivative at " }{TEXT 362 13 " ac
-cording to" }}}{EXCHG {PARA 242 "> " 0 "" {MPLTEXT 1 209 55 "eq22b:=su
-bs(ic,subs(t=0,[sol,convert(diff(sol,t),D)]));" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "7$/I#u0G6\",&*&&I\"aGF%6#\"\"!\"\"\"-I$cosG6$%*protectedG
-I(_syslibGF%6#&I%betaGF%F*F,F,*&I(epsilonGF%F,,&*&F(\"\"$-F.6#,$F3F9F,
-#F,\"#K*&&F)6#F,F,-F.6#&F4FAF,F,F,F,/I#v0GF%,&*&F(F,-I$sinGF/F2F,!\"\"
-*&F6F,,(*&FIF,F(F9#!\"$\"\")*&F(F9-FJF;F,#FPF>*&F@F,-FJFCF,FKF,F," }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 43 "We equate the coefficient of each
- power of " }{TEXT 362 4 " in " }{TEXT 253 6 "eq22b " }{TEXT 362 54 "a
-nd obtain four algebraic equations for the constants " }{TEXT 362 7 " \+
-, and " }{TEXT 362 15 ". The result is" }}}{EXCHG {PARA 243 "> " 0 "" 
-{MPLTEXT 1 209 71 "eq22c:=[subs(epsilon=0,eq22b),map(eq->0=coeff(rhs(e
-q),epsilon),eq22b)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$7$/I#u0G6\"*&&
-I\"aGF&6#\"\"!\"\"\"-I$cosG6$%*protectedGI(_syslibGF&6#&I%betaGF&F*F,/
-I#v0GF&,$*&F(F,-I$sinGF/F2F,!\"\"7$/F+,&*&F(\"\"$-F.6#,$F3F@F,#F,\"#K*
-&&F)6#F,F,-F.6#&F4FHF,F,/F+,(*&F9F,F(F@#!\"$\"\")*&F(F@-F:FBF,#FPFE*&F
-GF,-F:FJF,F;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 11 "Thus, once " }
-{TEXT 362 5 " and " }{TEXT 362 16 " are known from " }{TEXT 254 8 "eq2
-2c[1]" }{TEXT 362 2 ", " }{TEXT 362 5 " and " }{TEXT 362 24 " can be c
-alculated from " }{TEXT 255 8 "eq22c[2]" }{TEXT 362 1 "." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 133 "Alternatively, instead of including the
- homogeneous solution at each order and consider the arbitrary constan
-ts to be independent of " }{TEXT 362 140 " as done above, one may disr
-egard the homogeneous solution at all orders except the first and cons
-ider the arbitrary constants to depend on " }{TEXT 362 110 " in imposi
-ng the initial conditions. With the latter approach, the solution to f
-irst order can be rewritten as" }}}{EXCHG {PARA 244 "> " 0 "" {MPLTEXT
- 1 209 37 "subs(a[0]=a,beta[0]=beta,a[1]=0,sol);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-I\"uG6\"6#I\"tGF%,&*&I\"aGF%\"\"\"-I$cosG6$%*protectedG
-I(_syslibGF%6#,&F'F+I%betaGF%F+F+F+*&I(epsilonGF%F+,&*(F*\"\"$F'F+-I$s
-inGF.F1F+#!\"$\"\")*&F*F8-F-6#,&F'F8F3F8F+#F+\"#KF+F+" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 33 "We note that the correction term " }
-{TEXT 362 41 " is small compared to the principal term " }{TEXT 362 
-38 " , as it is supposed to be, only when " }{TEXT 362 36 " is small c
-ompared with unity. When " }{TEXT 362 122 " is O(1), the term that is \+
-supposed to be a small correction becomes the same order as the princi
-pal term. Moreover, when " }{TEXT 362 1 " " }{TEXT 362 161 " O(1), the
- \"small-correction\" term becomes larger than the principal term. Hen
-ce, the above obtained straightforward expansion is valid only for tim
-es such that " }{TEXT 362 1 " " }{TEXT 362 16 " O(1); that is, " }
-{TEXT 362 1 " " }{TEXT 362 7 " O(1 / " }{TEXT 362 101 " ). Consequentl
-y, we say such expansions are nonuniform or breakdown for long times a
-nd we call them " }{TEXT 256 11 "pedestrian " }{TEXT 362 3 "or " }
-{TEXT 257 16 "naive expansions" }{TEXT 362 82 ". The reason for the br
-eakdown of the above expansion is the presence of the term " }{TEXT 
-362 200 " , a product of algebraic and circular terms. Such terms are \+
-called mixed-secular terms. In subsequent sections, we implement four \+
-methods that avoid secular terms, and hence yield uniform expansions."
- }}}}{SECT 0 {PARA 245 "" 0 "" {TEXT 209 36 "2.3 The Lindstedt-Poincar
-\351 Technique" }}{EXCHG {PARA 0 "" 0 "" {TEXT 362 362 "The breakdown \+
-in the straightforward expansion is due to its failure to account for \+
-the nonlinear dependence of the frequency of the system on the nonline
-arity. A number of techniques that yield uniformly valid expansions ha
-ve been developed. Four of these techniques are discussed in this chap
-ter. We start with the Lindstedt-Poincar\351 technique in this section
-." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 47 "To account for the dependen
-ce of the frequency " }{TEXT 362 58 " of the system on the nonlinearit
-y, we explicitly exhibit " }{TEXT 362 86 " in the governing differenti
-al equation. To this end, we introduce the transformation " }{TEXT 
-362 9 " , where " }{TEXT 362 31 " is a constant that depends on " }
-{TEXT 362 13 " , and obtain" }}}{EXCHG {PARA 246 "> " 0 "" {MPLTEXT 1 
-209 18 "u:=t->us(omega*t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6#I\"tG6
-\"F%6$I)operatorGF%I&arrowGF%F%-I#usGF%6#*&I&omegaGF%\"\"\"9$F.F%F%F%"
- }}}{EXCHG {PARA 247 "> " 0 "" {MPLTEXT 1 209 40 "eq23a:=subs(t=tau/om
-ega,us=u,DuffingEq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,(*&---I#@@G6$%
-*protectedGI(_syslibG6\"6$I\"DGF)\"\"#6#I\"uGF,6#I$tauGF,\"\"\"I&omega
-GF,F/F4-F1F2F4*&I(epsilonGF,F4F6\"\"$F4\"\"!" }}}{EXCHG {PARA 248 "> "
- 0 "" {MPLTEXT 1 209 7 "u:='u':" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-52 "To determine a uniform expansion of the solution of " }{TEXT 258 
-5 "eq23a" }{TEXT 362 17 ", we expand both " }{TEXT 362 5 " and " }
-{TEXT 362 14 " in powers of " }{TEXT 362 7 " using " }{TEXT 259 4 "uEx
-p" }{TEXT 362 4 " and" }}}{EXCHG {PARA 249 "> " 0 "" {MPLTEXT 1 209 
-65 "omgRule:=(maxOrder,omega)->sum(epsilon^i*omega[i],i=0..maxOrder);"
- }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I)maxOrderG6\"I&omegaGF%F%6$I)ope
-ratorGF%I&arrowGF%F%-I$sumG6$%*protectedGI(_syslibGF%6$*&)I(epsilonGF%
-I\"iGF%\"\"\"&9%6#F3F4/F3;\"\"!9$F%F%F%" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 6 "where " }{TEXT 362 137 " is the linear natural frequency \+
-of the system. In the present case, the linear natural frequency was n
-ormalized to unity. Hence, we set " }{TEXT 362 118 " . The corrections
- to the linear frequency are determined in the course of the analysis \+
-by requiring the expansion of " }{TEXT 362 23 " to be uniform for all 
-" }{TEXT 362 39 " . Next, we show how one can determine " }{TEXT 362 
-1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 31 "Substituting the expansi
-ons of " }{TEXT 362 5 " and " }{TEXT 362 6 " into " }{TEXT 260 5 "eq23
-a" }{TEXT 362 22 ", using the fact that " }{TEXT 362 11 " , setting " 
-}{TEXT 362 67 " , expanding the result, and discarding terms of order \+
-higher than " }{TEXT 362 12 " , we obtain" }}}{EXCHG {PARA 250 "> " 0 
-"" {MPLTEXT 1 209 85 "temp:=subs(u(tau)=uExp(1,tau),omega=omgRule(1,om
-ega),omega[0]=1,convert(eq23a,diff));" }}{PARA 11 "" 1 "" {XPPMATH 20 
-"/,**&-I%diffG%*protectedG6$-F&6$,&-&I\"uG6\"6#\"\"!6#I$tauGF/\"\"\"*&
-I(epsilonGF/F4-&F.6#F4F2F4F4F3F3F4,&*&F6F4&I&omegaGF/F9F4F4F4F4\"\"#F4
-F,F4F5F4*&F6F4F+\"\"$F4F1" }}}{EXCHG {PARA 251 "> " 0 "" {MPLTEXT 1 
-209 56 "eq23b:=convert(series(lhs(temp),epsilon=0,2),polynom)=0;" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "/,(-I%diffG%*protectedG6$-F%6$-&I\"uG6\"
-6#\"\"!6#I$tauGF-F1F1\"\"\"F*F2*&,**&F$F2&I&omegaGF-6#F2F2\"\"#-F%6$-F
-%6$-&F,F8F0F1F1F2F>F2*$F*\"\"$F2F2I(epsilonGF-F2F2F/" }}}{EXCHG {PARA 
-0 "" 0 "" {TEXT 362 40 "Equating coefficients of like powers of " }
-{TEXT 362 18 " on both sides of " }{TEXT 261 6 "eq23b " }{TEXT 362 6 "
-yields" }}}{EXCHG {PARA 252 "> " 0 "" {MPLTEXT 1 209 57 "eqEps:=subs(e
-psilon=0,eq23b),coeff(lhs(eq23b),epsilon)=0;" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6$/,&-I%diffG%*protectedG6$-F&6$-&I\"uG6\"6#\"\"!6#I$tauG
-F.F2F2\"\"\"F+F3F0/,**&F%F3&I&omegaGF.6#F3F3\"\"#-F&6$-F&6$-&F-F9F1F2F
-2F3F?F3*$F+\"\"$F3F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 24 "The gene
-ral solution of " }{TEXT 262 8 "eqEps[1]" }{TEXT 362 62 ", the zeroth-
-order equation, can be expressed in polar form as" }}}{EXCHG {PARA 253
- "> " 0 "" {MPLTEXT 1 209 79 "sol0:=dsolve(\{eqEps[1],u[0](0)=a*cos(be
-ta),D(u[0])(0)=-a*sin(beta)\},u[0](tau));" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-&I\"uG6\"6#\"\"!6#I$tauGF&,&*(I\"aGF&\"\"\"-I$sinG6$%*p
-rotectedGI(_syslibGF&6#I%betaGF&F.-F0F)F.!\"\"*(F-F.-I$cosGF1F4F.-F:F)
-F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 6 "where " }{TEXT 362 5 " an
-d " }{TEXT 362 33 " are constants. Substituting for " }{TEXT 362 4 " i
-n " }{TEXT 263 8 "eqEps[2]" }{TEXT 362 34 ", the first-order equation,
- yields" }}}{EXCHG {PARA 254 "> " 0 "" {MPLTEXT 1 209 39 "order1Eq:=co
-mbine(subs(sol0,eqEps[2]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,,*(I\"a
-G6\"\"\"\"-I$cosG6$%*protectedGI(_syslibGF&6#,&I%betaGF&F'I$tauGF&F'F'
-&I&omegaGF&6#F'F'!\"#-I%diffGF+6$-F66$-&I\"uGF&F36#F0F0F0F'F:F'*&F%\"
-\"$-F)6#,&F/F?F0F?F'#F'\"\"%*&F%F?F(F'#F?FD\"\"!" }}}{EXCHG {PARA 0 ""
- 0 "" {TEXT 362 28 "whose particular solution is" }}}{EXCHG {PARA 255 
-"> " 0 "" {MPLTEXT 1 209 98 "u1pSol:=subs(_C1=0,_C2=0,cos(tau+3*beta)=
-0,cos(tau-3*beta)=0,combine(dsolve(order1Eq,u[1](tau))));" }}{PARA 11 
-"" 1 "" {XPPMATH 20 "/-&I\"uG6\"6#\"\"\"6#I$tauGF&,,*&I\"aGF&\"\"$-I$c
-osG6$%*protectedGI(_syslibGF&6#,&I%betaGF&F.F*F.F(#F(\"#K*&F-F.-F06#,&
-F6F(F*F(F(#!\"$\"#;*(F-F(F:F(&I&omegaGF&F'F(#F(\"\"#*(F*F(F-F.-I$sinGF
-1F;F(#F>\"\")**F*F(F-F(FAF(FFF(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 17 "It is clear that " }{TEXT 264 7 "u1pSol " }{TEXT 362 169 "cont
-ains a mixed-secular term, which makes the expansion nonuniform. In co
-ntrast with the straightforward expansion, where the secular term cann
-ot be annihilated unless " }{TEXT 362 55 " is trivial, in this case, w
-e can choose the parameter " }{TEXT 362 43 " to eliminate the secular \+
-term according to" }}}{EXCHG {PARA 256 "> " 0 "" {MPLTEXT 1 209 66 "om
-g1:=omega[1]=solve(coeff(rhs(u1pSol),sin(beta+tau))=0,omega[1]);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "/&I&omegaG6\"6#\"\"\",$*$I\"aGF%\"\"##\"
-\"$\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 17 "Substituting for " }
-{TEXT 362 6 " into " }{TEXT 265 6 "u1pSol" }{TEXT 362 9 ", we have" }}
-}{EXCHG {PARA 257 "> " 0 "" {MPLTEXT 1 209 24 "sol1:=subs(omg1,u1pSol)
-;" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-&I\"uG6\"6#\"\"\"6#I$tauGF&,$*&I
-\"aGF&\"\"$-I$cosG6$%*protectedGI(_syslibGF&6#,&I%betaGF&F.F*F.F(#F(\"
-#K" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 86 "We note that, to determine
- the condition for the elimination of the secular term from " }{TEXT 
-362 109 " , we do not need to determine the particular solution first \+
-as done above. Instead, we only need to inspect " }{TEXT 266 9 "order1
-Eq " }{TEXT 362 11 "and choose " }{TEXT 362 28 " so that the coefficie
-nt of " }{TEXT 362 35 " , which produces secular terms in " }{TEXT 
-362 29 " , is equal to zero. That is," }}}{EXCHG {PARA 258 "> " 0 "" 
-{MPLTEXT 1 209 62 "omega[1]=solve(coeff(lhs(order1Eq),cos(beta+tau))=0
-,omega[1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/&I&omegaG6\"6#\"\"\",$*$
-I\"aGF%\"\"##\"\"$\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "Subst
-ituting " }{TEXT 267 4 "sol0" }{TEXT 362 5 " and " }{TEXT 268 4 "sol1"
- }{TEXT 362 6 " into " }{TEXT 269 5 "uExp " }{TEXT 362 6 "yields" }}}
-{EXCHG {PARA 259 "> " 0 "" {MPLTEXT 1 209 44 "u(tau)=combine(subs(sol0
-,sol1,uExp(1,tau)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I\"uG6\"6#I$ta
-uGF%,&*&I\"aGF%\"\"\"-I$cosG6$%*protectedGI(_syslibGF%6#,&I%betaGF%F+F
-'F+F+F+*(I(epsilonGF%F+F*\"\"$-F-6#,&F3F6F'F6F+#F+\"#K" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 10 "Replacing " }{TEXT 362 6 " with " }{TEXT
- 362 20 " , substituting for " }{TEXT 362 23 " , using the fact that "
- }{TEXT 362 72 " , and expanding the arguments of the trigonometric fu
-nctions, we obtain" }}}{EXCHG {PARA 260 "> " 0 "" {MPLTEXT 1 209 73 "s
-olLP:=u(t)=combine(subs(tau=omgRule(1,omega)*t,omega[0]=1,omg1,rhs(%))
-);" }}{PARA 261 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-I\"uG6\"6#I\"tGF%,&*&I\"aGF%\"\"\"-I$cosG6$%*protectedG
-I(_syslibGF%6#,(I%betaGF%F+*(F*\"\"#I(epsilonGF%F+F'F+#\"\"$\"\")F'F+F
-+F+*(F6F+F*F8-F-6#,(F3F8F4#\"\"*F9F'F8F+#F+\"#K" }}}{EXCHG {PARA 0 "" 
-0 "" {TEXT 362 23 "Clearly, the expansion " }{TEXT 270 6 "solLP " }
-{TEXT 362 49 "is free of secular terms and the correction term " }
-{TEXT 362 43 " is small compared with the principal term " }{TEXT 362 
-9 " for all " }{TEXT 362 33 " and hence it is uniformly valid." }}}}
-{SECT 0 {PARA 4 "" 0 "" {TEXT 361 33 "2.4 The Method of Multiple Scale
-s" }}{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "We note from " }{TEXT 271 6 
-"solLP " }{TEXT 362 34 "that the functional dependence of " }{TEXT 
-362 4 " on " }{TEXT 362 5 " and " }{TEXT 362 27 " is not disjoint. In \+
-fact, " }{TEXT 362 28 " depends on the combination " }{TEXT 362 30 " a
-s well as on the individual " }{TEXT 362 5 " and " }{TEXT 362 60 " . C
-arrying out the expansion to higher order, we find that " }{TEXT 362 
-29 " depends on the combinations " }{TEXT 362 3 " , " }{TEXT 362 3 " ,
- " }{TEXT 362 36 " , ... as well as on the individual " }{TEXT 362 5 "
- and " }{TEXT 362 10 " . Hence, " }{TEXT 362 13 " . For small " }{TEXT
- 362 3 " , " }{TEXT 362 7 " , for " }{TEXT 362 57 " , ..., represent d
-ifferent time scales. For example, if " }{TEXT 362 33 " , variations o
-n the time scales " }{TEXT 362 7 " , and " }{TEXT 362 87 " can be obse
-rved, respectively, on the second, minute, and hour arms of a watch. T
-hus, " }{TEXT 362 31 " represents a fast time scale, " }{TEXT 362 33 "
- represents a slower time scale, " }{TEXT 362 74 " represents an even \+
-slower time scale, and so on. Since the dependence of " }{TEXT 362 4 "
- on " }{TEXT 362 5 " and " }{TEXT 362 105 " occurs on different time s
-cales, we imagine that we have a watch and attempt to observe the beha
-vior of " }{TEXT 362 76 " using the different scales of the watch. The
-refore, instead of determining " }{TEXT 362 18 " as a function of " }
-{TEXT 362 16 " , we determine " }{TEXT 362 18 " as a function of " }
-{TEXT 362 56 " , .... To this end, we change the independent variable 
-" }{TEXT 362 32 " in the governing equation from " }{TEXT 362 4 " to "
- }{TEXT 362 28 " , ..., which are defined as" }}}{EXCHG {PARA 262 "> "
- 0 "" {MPLTEXT 1 209 27 "timeScales:=T[0],T[1],T[2]:" }}}{EXCHG {PARA 
-0 "" 0 "" {TEXT 362 37 "We define the derivative operators as" }}}
-{EXCHG {PARA 263 "> " 0 "" {MPLTEXT 1 209 75 "dt[1]:=expr->sum(epsilon
-^'i'*Diff(expr,timeScales['i'+1]),'i'=0..maxOrder);" }}{PARA 11 "" 1 "
-" {XPPMATH 20 "f*6#I%exprG6\"F%6$I)operatorGF%I&arrowGF%F%-I$sumG6$%*p
-rotectedGI(_syslibGF%6$*&)I(epsilonGF%.I\"iGF%\"\"\"-I%DiffGF%6$9$&I+t
-imeScalesGF%6#,&F2F4F4F4F4/F2;\"\"!I)maxOrderGF%F%F%F%" }}}{EXCHG 
-{PARA 264 "> " 0 "" {MPLTEXT 1 209 39 "dt[2]:=expr->value(dt[1](dt[1](
-expr)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6#I%exprG6\"F%6$I)operator
-GF%I&arrowGF%F%-I&valueG6$%*protectedGI(_syslibGF%6#-&I#dtGF%6#\"\"\"6
-#-F06#9$F%F%F%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 26 "and treat the \+
-time scales " }{TEXT 362 7 " , and " }{TEXT 362 26 " as independent va
-riables." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 88 "Next, we use the met
-hod of multiple scales to determine an approximate solution for the " 
-}{TEXT 272 9 "DuffingEq" }{TEXT 362 33 ". In Section 2.4.1, we treat t
-he " }{TEXT 273 10 "DuffingEq " }{TEXT 362 192 "in its second-order fo
-rm; in Section 2.4.2, we transform it first into a system of two real-
-valued equations; and in Section 2.4.3, we transform it first into a s
-ingle complex-valued equation." }}}{SECT 0 {PARA 5 "" 0 "" {TEXT 363 
-37 "2.4.1 Second-Order Real-Valued System" }}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 113 "To determine a first-order uniform expansion of the sol
-ution of the Duffing equation, we use the two time scales " }{TEXT 
-362 5 " and " }{TEXT 362 14 " and hence let" }}}{EXCHG {PARA 265 "> " 
-0 "" {MPLTEXT 1 209 12 "maxOrder:=1:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 34 "Expressing the time derivative in " }{TEXT 274 10 "DuffingEq "
- }{TEXT 362 32 "in terms of the two time scales " }{TEXT 362 5 " and "
- }{TEXT 362 10 " , we have" }}}{EXCHG {PARA 266 "> " 0 "" {MPLTEXT 1 
-209 85 "temp:=subs(u(t)=u(T[0],T[1]),seq((D@@k)(u)(t)=dt[k](u(T[0],T[1
-])),k=1..2),DuffingEq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,,-I%diffG%*
-protectedG6$-F%6$-I\"uG6\"6$&I\"TGF,6#\"\"!&F/6#\"\"\"F.F.F4*&I(epsilo
-nGF,F4-F%6$F(F2F4F4*&F6F4,&F7F4*&F6F4-F%6$-F%6$F*F2F2F4F4F4F4F*F4*&F6F
-4F*\"\"$F4F1" }}}{EXCHG {PARA 267 "> " 0 "" {MPLTEXT 1 209 57 "eq241a:
-=convert(series(lhs(temp),epsilon=0,2),polynom)=0;" }}{PARA 11 "" 1 ""
- {XPPMATH 20 "/,(-I%diffG%*protectedG6$-F%6$-I\"uG6\"6$&I\"TGF,6#\"\"!
-&F/6#\"\"\"F.F.F4F*F4*&,&-F%6$F(F2\"\"#*$F*\"\"$F4F4I(epsilonGF,F4F4F1
-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 500 "Consequently, we have repla
-ced the original ordinary-differential equation by a partial-different
-ial equation, and it appears that, as a result, we have complicated th
-e problem. This is partially true, but experience with this method has
- shown that the disadvantages of introducing this complication are far
- outweighed by the advantages. Not only does this method provide a uni
-form expansion, but it also provides all the various nonlinear resonan
-ce phenomena, as we shall see in subsequent chapters." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 60 "We seek a uniform second-order expansion
- of the solution of " }{TEXT 275 7 "eq241a " }{TEXT 362 11 "in the for
-m" }}}{EXCHG {PARA 268 "> " 0 "" {MPLTEXT 1 209 67 "solForm:=u(T[0],T[
-1])=add(epsilon^i*u[i](T[0],T[1]),i=0..maxOrder);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-I\"uG6\"6$&I\"TGF%6#\"\"!&F(6#\"\"\",&-&F$F)F&F-*&I(eps
-ilonGF%F--&F$F,F&F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 33 "Substit
-uting this expansion into " }{TEXT 276 6 "eq241a" }{TEXT 362 62 ", exp
-anding the result, discarding terms of order higher than " }{TEXT 362 
-47 " , and equating coefficients of like powers of " }{TEXT 362 12 " ,
- we obtain" }}}{EXCHG {PARA 269 "> " 0 "" {MPLTEXT 1 209 72 "eqEps:=se
-q(coeff(expand(subs(solForm,lhs(eq241a))),epsilon,i)=0,i=0..1);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6$/,&-I%diffG%*protectedG6$-F&6$-&I\"uG6
-\"6#\"\"!6$&I\"TGF.F/&F36#\"\"\"F2F2F6F+F6F0/,*-F&6$-F&6$-&F-F5F1F2F2F
-6F=F6-F&6$F)F4\"\"#*$F+\"\"$F6F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-24 "The general solution of " }{TEXT 277 8 "eqEps[1]" }{TEXT 362 18 " \+
-can be written as" }}}{EXCHG {PARA 270 "> " 0 "" {MPLTEXT 1 209 51 "so
-l0:=u[0](T[0],T[1])=a(T[1])*cos(T[0]+beta(T[1]));" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-&I\"uG6\"6#\"\"!6$&I\"TGF&F'&F+6#\"\"\"*&-I\"aGF&6#F,F.
--I$cosG6$%*protectedGI(_syslibGF&6#,&F*F.-I%betaGF&F2F.F." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 29 "The functional dependence of " }{TEXT 
-362 5 " and " }{TEXT 362 4 " on " }{TEXT 362 134 " is not known at thi
-s level of approximation; it is determined at subsequent levels of app
-roximation by eliminating the secular terms." }}}{EXCHG {PARA 0 "" 0 "
-" {TEXT 362 13 "Substituting " }{TEXT 278 5 "sol0 " }{TEXT 362 5 "into
- " }{TEXT 279 8 "eqEps[2]" }{TEXT 362 92 " and moving the nonhomogeneo
-us parts to the right-hand side of the resulting equation yields" }}}
-{EXCHG {PARA 271 "> " 0 "" {MPLTEXT 1 209 36 "temp:=subs(u[0]=u[1],lhs
-(eqEps[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&-I%diffG%*protectedG6$
--F$6$-&I\"uG6\"6#\"\"\"6$&I\"TGF,6#\"\"!&F1F-F0F0F.F)F." }}}{EXCHG 
-{PARA 272 "> " 0 "" {MPLTEXT 1 209 40 "order1Eq:=(temp=temp)-(0=lhs(eq
-Eps[2]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,&-I%diffG%*protectedG6$-F
-%6$-&I\"uG6\"6#\"\"\"6$&I\"TGF-6#\"\"!&F2F.F1F1F/F*F/,&-F%6$-F%6$-&F,F
-3F0F1F5!\"#*$F;\"\"$!\"\"" }}}{EXCHG {PARA 273 "> " 0 "" {MPLTEXT 1 
-209 28 "eq241b:=subs(sol0,order1Eq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
-/,&-I%diffG%*protectedG6$-F%6$-&I\"uG6\"6#\"\"\"6$&I\"TGF-6#\"\"!&F2F.
-F1F1F/F*F/,&-F%6$-F%6$*&-I\"aGF-6#F5F/-I$cosG6$F&I(_syslibGF-6#,&F1F/-
-I%betaGF-F>F/F/F1F5!\"#*&F<\"\"$F?FI!\"\"" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 39 "Next, we expand the right-hand side of " }{TEXT 280 7 "e
-q241b " }{TEXT 362 61 "in a Fourier series using trigonometric identit
-ies and obtain" }}}{EXCHG {PARA 274 "> " 0 "" {MPLTEXT 1 209 33 "eq241
-b_RHS:=combine(rhs(eq241b));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",**&-I%d
-iffG%*protectedG6$-I\"aG6\"6#&I\"TGF*6#\"\"\"F,F/-I$sinG6$F&I(_syslibG
-F*6#,&&F-6#\"\"!F/-I%betaGF*F+F/F/\"\"#*(F(F/-F%6$F9F,F/-I$cosGF2F4F/F
-;*&F(\"\"$-F@6#,&F6FBF9FBF/#!\"\"\"\"%*&F(FBF?F/#!\"$FH" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 87 "To produce a uniform expansion, we elimi
-nate the terms that produce secular terms from " }{TEXT 281 10 "eq241b
-_RHS" }{TEXT 362 21 "; that is, we choose " }{TEXT 362 5 " and " }
-{TEXT 362 43 " to annihilate each of the coefficients of " }{TEXT 362 
-5 " and " }{TEXT 362 16 " . The result is" }}}{EXCHG {PARA 275 "> " 0 
-"" {MPLTEXT 1 209 49 "eq241c:=coeff(eq241b_RHS,sin(T[0]+beta(T[1])))=0
-;" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,$-I%diffG%*protectedG6$-I\"aG6\"6
-#&I\"TGF*6#\"\"\"F,\"\"#\"\"!" }}}{EXCHG {PARA 276 "> " 0 "" {MPLTEXT 
-1 209 49 "eq241d:=coeff(eq241b_RHS,cos(T[0]+beta(T[1])))=0;" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "/,&*&-I\"aG6\"6#&I\"TGF'6#\"\"\"F,-I%diffG%*pr
-otectedG6$-I%betaGF'F(F)F,\"\"#*$F%\"\"$#!\"$\"\"%\"\"!" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 8 "Solving " }{TEXT 282 7 "eq241c " }{TEXT 
-362 4 "and " }{TEXT 283 7 "eq241d " }{TEXT 362 4 "for " }{TEXT 362 5 "
- and " }{TEXT 362 6 " when " }{TEXT 362 7 " yields" }}}{EXCHG {PARA 
-277 "> " 0 "" {MPLTEXT 1 209 86 "SCond:=[solve(\{eq241c\},diff(a(T[1])
-,T[1]))[],solve(\{eq241d\},diff(beta(T[1]),T[1]))[]];" }}{PARA 11 "" 1
- "" {XPPMATH 20 "7$/-I%diffG%*protectedG6$-I\"aG6\"6#&I\"TGF*6#\"\"\"F
-,\"\"!/-F%6$-I%betaGF*F+F,,$*$F(\"\"##\"\"$\"\")" }}}{EXCHG {PARA 0 ""
- 0 "" {TEXT 362 16 "The solution of " }{TEXT 284 8 "SCond[1]" }{TEXT 
-362 4 " is " }{TEXT 362 35 " = constant. Then, the solution of " }
-{TEXT 285 8 "SCond[2]" }{TEXT 362 3 " is" }}}{EXCHG {PARA 278 "> " 0 "
-" {MPLTEXT 1 209 74 "betaSol:=subs(_C1=beta[0],dsolve(subs(a(T[1])=a[0
-],SCond[2]),beta(T[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I%betaG6
-\"6#&I\"TGF%6#\"\"\",&*&&I\"aGF%6#\"\"!\"\"#F'F*#\"\"$\"\")&F$F/F*" }}
-}{EXCHG {PARA 0 "" 0 "" {TEXT 362 39 "With the above solvability condi
-tions, " }{TEXT 286 7 "eq241b " }{TEXT 362 7 "becomes" }}}{EXCHG 
-{PARA 279 "> " 0 "" {MPLTEXT 1 209 43 "eq241e:=lhs(eq241b)=subs(SCond,
-eq241b_RHS);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,&-I%diffG%*protectedG6
-$-F%6$-&I\"uG6\"6#\"\"\"6$&I\"TGF-6#\"\"!&F2F.F1F1F/F*F/,$*&-I\"aGF-6#
-F5\"\"$-I$cosG6$F&I(_syslibGF-6#,&F1F;-I%betaGF-F:F;F/#!\"\"\"\"%" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 27 "The particular solution of " }
-{TEXT 287 7 "eq241e " }{TEXT 362 18 "can be obtained as" }}}{EXCHG 
-{PARA 280 "> " 0 "" {MPLTEXT 1 209 51 "u1Form:=u[1](T[0],T[1])=c*cos(3
-*T[0]+3*beta(T[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-&I\"uG6\"6#\"
-\"\"6$&I\"TGF&6#\"\"!&F+F'*&I\"cGF&F(-I$cosG6$%*protectedGI(_syslibGF&
-6#,&F*\"\"$-I%betaGF&6#F.F8F(" }}}{EXCHG {PARA 281 "> " 0 "" {MPLTEXT 
-1 209 57 "sol1:=subs(c=solve(value(subs(u1Form,eq241e)),c),u1Form);" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "/-&I\"uG6\"6#\"\"\"6$&I\"TGF&6#\"\"!&F+
-F'*&F&F(-I$cosG6$%*protectedGI(_syslibGF&6#,&F*\"\"$-I%betaGF&6#F.F7F(
-" }}}{EXCHG {PARA 282 "> " 0 "" {MPLTEXT 1 209 53 "eq241f:=subs(sol0,s
-ol1,a(T[1])=a[0],betaSol,solForm);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-
-I\"uG6\"6$&I\"TGF%6#\"\"!&F(6#\"\"\",&*&&I\"aGF%F)F--I$cosG6$%*protect
-edGI(_syslibGF%6#,(F'F-*&F0\"\"#F+F-#\"\"$\"\")&I%betaGF%F)F-F-F-*(I(e
-psilonGF%F-F%F--F36#,(F'F<F9#\"\"*F=F>F<F-F-" }}}{EXCHG {PARA 0 "" 0 "
-" {TEXT 362 6 "where " }{TEXT 362 5 " and " }{TEXT 362 93 " are consta
-nts to within the order of the error indicated. In terms of the origin
-al variable " }{TEXT 362 3 " , " }{TEXT 288 7 "eq241f " }{TEXT 362 19 
-"can be expressed as" }}}{EXCHG {PARA 283 "> " 0 "" {MPLTEXT 1 209 45 
-"u(t)=subs(T[0]=t,T[1]=epsilon*t,rhs(eq241f));" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-I\"uG6\"6#I\"tGF%,&*&&I\"aGF%6#\"\"!\"\"\"-I$cosG6$%*pr
-otectedGI(_syslibGF%6#,(F'F.*(F*\"\"#I(epsilonGF%F.F'F.#\"\"$\"\")&I%b
-etaGF%F,F.F.F.*(F8F.F%F.-F06#,(F'F:F6#\"\"*F;F<F:F.F." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 83 "in agreement with the expansion obtained
- by using the Lindstedt-Poincar\351 technique." }}}{EXCHG {PARA 0 "" 0
- "" {TEXT 362 58 "In the higher-order approximations, we include the s
-cales " }{TEXT 362 8 " , ..., " }{TEXT 362 33 "  but we do not include
- the term " }{TEXT 362 7 " in an " }{TEXT 362 20 " th-order expansion.
-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 148 "Before closing this section
-, we present an alternate representation of the solutions of the pertu
-rbation equations. Instead of the real-valued form " }{TEXT 289 4 "sol
-0" }{TEXT 362 31 ", we represent the solution of " }{TEXT 290 8 "eqEps
-[1]" }{TEXT 362 35 " in a complex-valued form; that is," }}}{EXCHG 
-{PARA 284 "> " 0 "" {MPLTEXT 1 209 74 "sol0:=u[0](T[0],T[1])=A(T[1])*e
-xp(I*T[0])+conjugate(A)(T[1])*exp(-I*T[0]);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-&I\"uG6\"6#\"\"!6$&I\"TGF&F'&F+6#\"\"\",&*&-I\"AGF&6#F,
-F.-I$expG6$%*protectedGI(_syslibGF&6#*&^#F.F.F*F.F.F.*&--I*conjugateGF
-76#F2F3F.-F56#*&^#!\"\"F.F*F.F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 6 "where " }{TEXT 362 29 " is the complex conjugate of " }{TEXT 
-362 4 " and" }}}{EXCHG {PARA 285 "> " 0 "" {MPLTEXT 1 209 99 "polarFor
-m:=A(T[1])=1/2*a(T[1])*exp(I*beta(T[1])),conjugate(A)(T[1])=1/2*a(T[1]
-)*exp(-I*beta(T[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/-I\"AG6\"6#&
-I\"TGF&6#\"\"\",$*&-I\"aGF&F'F+-I$expG6$%*protectedGI(_syslibGF&6#*&^#
-F+F+-I%betaGF&F'F+F+#F+\"\"#/--I*conjugateGF36#F%F',$*&F.F+-F16#*&^#!
-\"\"F+F8F+F+F:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "Substituting "
- }{TEXT 291 5 "sol0 " }{TEXT 362 5 "into " }{TEXT 292 8 "eqEps[2]" }
-{TEXT 362 94 " and moving the nonhomogeneous terms to the right-hand s
-ide of the resulting equation, we have" }}}{EXCHG {PARA 286 "> " 0 "" 
-{MPLTEXT 1 209 36 "eq241g:=expand(subs(sol0,order1Eq));" }}{PARA 11 ""
- 1 "" {XPPMATH 20 "/,&-I%diffG%*protectedG6$-F%6$-&I\"uG6\"6#\"\"\"6$&
-I\"TGF-6#\"\"!&F2F.F1F1F/F*F/,.*(^#!\"#F/-F%6$-I\"AGF-6#F5F5F/-I$expG6
-$F&I(_syslibGF-6#*&^#F/F/F1F/F/F/*(^#\"\"#F/-F%6$--I*conjugateGF&6#F=F
->F5F/F?!\"\"F/*&F<\"\"$F?FQFO*(F<FHF?F/FKF/!\"$*(F<F/F?FOFKFHFS*&FKFQF
-?FSFO" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 39 "We note that the terms \+
-proportional to " }{TEXT 362 5 " and " }{TEXT 362 53 " produce secular
- terms in the particular solution of " }{TEXT 362 114 " . Thus, to pro
-duce a uniform expansion, we set the coefficient of each of these func
-tions equal to zero; that is," }}}{EXCHG {PARA 287 "> " 0 "" {MPLTEXT 
-1 209 73 "eq241h:=map(term->coeff(rhs(eq241g),term)=0,[exp(I*T[0]),1/e
-xp(I*T[0])]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$/,&*&^#!\"#\"\"\"-I%d
-iffG%*protectedG6$-I\"AG6\"6#&I\"TGF/6#F(F1F(F(*&F-\"\"#--I*conjugateG
-F+6#F.F0F(!\"$\"\"!/,&*&^#F5F(-F*6$F6F1F(F(*&F-F(F6F5F:F;" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 164 "These two equations are not independent
- because they are complex conjugates of each other. Hence, if one of t
-hem is satisfied, the other is automatically satisfied." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 28 "To analyze the solutions of " }{TEXT 
-293 9 "eq241h[1]" }{TEXT 362 20 ", we multiply it by " }{TEXT 362 13 "
- and replace " }{TEXT 362 10 " with its " }{TEXT 294 9 "polarForm" }
-{TEXT 362 15 ". The result is" }}}{EXCHG {PARA 288 "> " 0 "" {MPLTEXT 
-1 209 61 "eq241i:=expand(exp(-I*beta(T[1]))*subs(polarForm,eq241h[1]))
-;" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,(*&^#!\"\"\"\"\"-I%diffG%*protect
-edG6$-I\"aG6\"6#&I\"TGF.6#F'F0F'F'*&F,F'-F)6$-I%betaGF.F/F0F'F'*$F,\"
-\"$#!\"$\"\")\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 50 "Next, we s
-eparate the real and imaginary parts of " }{TEXT 295 6 "eq241i" }{TEXT
- 362 24 ". The imaginary part of " }{TEXT 296 6 "eq241i" }{TEXT 362 3 
-" is" }}}{EXCHG {PARA 289 "> " 0 "" {MPLTEXT 1 209 102 "### WARNING: e
-xtraction of real and complex coefficients must be done using Re or Im
-; see ?Re and ?Im\n" }{MPLTEXT 1 209 30 "ampEq:=coeff(lhs(eq241i),I)=0
-;" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,$-I%diffG%*protectedG6$-I\"aG6\"6
-#&I\"TGF*6#\"\"\"F,!\"\"\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 75 
-"which governs the modulation of the amplitude. Similarly, the real pa
-rt of " }{TEXT 297 6 "eq241i" }{TEXT 362 3 " is" }}}{EXCHG {PARA 290 "
-> " 0 "" {MPLTEXT 1 209 26 "phaseEq:=subs(I=0,eq241i);" }}{PARA 11 "" 
-1 "" {XPPMATH 20 "/,&*&-I\"aG6\"6#&I\"TGF'6#\"\"\"F,-I%diffG%*protecte
-dG6$-I%betaGF'F(F)F,F,*$F%\"\"$#!\"$\"\")\"\"!" }}}{EXCHG {PARA 0 "" 0
- "" {TEXT 362 153 "which governs the modulation of the phase. These mo
-dulation equations are in agreement with those obtained above by expre
-ssing the solution in real form." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-198 "Comparing the complex-valued and the real-valued representations,
- we find it more convenient to use the complex-valued form. Therefore,
- the complex-valued form is used in the remainder of this book." }}}}
-{SECT 0 {PARA 5 "" 0 "" {TEXT 363 36 "2.4.2 First-Order Real-Valued Sy
-stem" }}{EXCHG {PARA 0 "" 0 "" {TEXT 362 7 "We let " }{TEXT 362 19 " a
-nd transform the " }{TEXT 298 10 "DuffingEq " }{TEXT 362 52 "into the \+
-following set of two first-order equations:" }}}{EXCHG {PARA 291 "> " 
-0 "" {MPLTEXT 1 209 62 "eq242a:=[diff(u(t),t)=v(t),diff(v(t),t)+u(t)=-
-epsilon*u(t)^3];" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$/-I%diffG%*protect
-edG6$-I\"uG6\"6#I\"tGF*F,-I\"vGF*F+/,&-F%6$F-F,\"\"\"F(F3,$*&I(epsilon
-GF*F3F(\"\"$!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 59 "We seek a f
-irst-order uniform expansion of the solution of " }{TEXT 299 6 "eq242a
-" }{TEXT 362 33 " in terms of the two time scales " }{TEXT 362 5 " and
- " }{TEXT 362 12 " in the form" }}}{EXCHG {PARA 292 "> " 0 "" {MPLTEXT
- 1 209 35 "solForm:=solForm,subs(u=v,solForm);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6$/-I\"uG6\"6$&I\"TGF&6#\"\"!&F)6#\"\"\",&-&F%F*F'F.*&I(e
-psilonGF&F.-&F%F-F'F.F./-I\"vGF&F',&-&F8F*F'F.*&F3F.-&F8F-F'F.F." }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 13 "Substituting " }{TEXT 300 8 "solF
-orm " }{TEXT 362 5 "into " }{TEXT 301 6 "eq242a" }{TEXT 362 46 ", tran
-sforming the derivative with respect to " }{TEXT 362 45 " in terms of \+
-the derivatives with respect to " }{TEXT 362 5 " and " }{TEXT 362 45 "
- , and discarding terms of order higher than " }{TEXT 362 12 " , we ob
-tain" }}}{EXCHG {PARA 293 "> " 0 "" {MPLTEXT 1 209 137 "temp:=value(su
-bs(u(t)=u(T[0],T[1]),v(t)=v(T[0],T[1]),D(u)(t)=dt[1](u(T[0],T[1])),D(v
-)(t)=dt[1](v(T[0],T[1])),solForm,convert(eq242a,D))):" }}}{EXCHG 
-{PARA 294 "> " 0 "" {MPLTEXT 1 209 87 "eq242b:=[seq(convert(series(lhs
-(temp[i])-rhs(temp[i]),epsilon=0,2),polynom)=0,i=1..2)];" }}{PARA 11 "
-" 1 "" {XPPMATH 20 "7$/,(-I%diffG%*protectedG6$-&I\"uG6\"6#\"\"!6$&I\"
-TGF,F-&F16#\"\"\"F0F4-&I\"vGF,F-F/!\"\"*&,(-F&6$-&F+F3F/F0F4-F&6$F)F2F
-4-&F7F3F/F8F4I(epsilonGF,F4F4F./,(-F&6$F5F0F4F)F4*&,*-F&6$FAF0F4-F&6$F
-5F2F4F=F4*$F)\"\"$F4F4FCF4F4F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-40 "Equating coefficients of like powers of " }{TEXT 362 10 " , we hav
-e" }}}{EXCHG {PARA 295 "> " 0 "" {MPLTEXT 1 209 76 "eqEps:=subs(epsilo
-n=0,eq242b),[seq(coeff(lhs(eq242b[i]),epsilon)=0,i=1..2)];" }}{PARA 11
- "" 1 "" {XPPMATH 20 "6$7$/,&-I%diffG%*protectedG6$-&I\"uG6\"6#\"\"!6$
-&I\"TGF-F.&F26#\"\"\"F1F5-&I\"vGF-F.F0!\"\"F//,&-F'6$F6F1F5F*F5F/7$/,(
--F'6$-&F,F4F0F1F5-F'6$F*F3F5-&F8F4F0F9F//,*-F'6$FGF1F5-F'6$F6F3F5FCF5*
-$F*\"\"$F5F/" }}}{SECT 0 {PARA 20 "" 0 "" {TEXT 364 35 "Zeroth-Order P
-roblem: Linear System" }}{EXCHG {PARA 0 "" 0 "" {TEXT 362 54 "The zero
-th-order problem is given by the linear system" }}}{EXCHG {PARA 296 ">
- " 0 "" {MPLTEXT 1 209 29 "linearSys:=map(lhs,eqEps[1]);" }}{PARA 11 "
-" 1 "" {XPPMATH 20 "7$,&-I%diffG%*protectedG6$-&I\"uG6\"6#\"\"!6$&I\"T
-GF+F,&F06#\"\"\"F/F3-&I\"vGF+F,F.!\"\",&-F%6$F4F/F3F(F3" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 84 "To determine the solution of this linear
- system, we seek a solution proportional to " }{TEXT 362 3 " as" }}}
-{EXCHG {PARA 297 "> " 0 "" {MPLTEXT 1 209 107 "coefList:=expand(exp(-I
-*T[0])*subs(u[0](T[0],T[1])=P*exp(I*T[0]),v[0](T[0],T[1])=Q*exp(I*T[0]
-),linearSys));" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$,&*&^#\"\"\"F&I\"PG6
-\"F&F&I\"QGF(!\"\",&*&F%F&F)F&F&F'F&" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 44 "Next, we determine the coefficient matrix as" }}}{EXCHG {PARA 
-298 "> " 0 "" {MPLTEXT 1 209 34 "coefMat:=jacobian(coefList,[P,Q]);" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "=6\"6$;\"\"\"\"\"#F%E\\[l%6$F&F&^#F&6$F
-&F'!\"\"6$F'F&F&6$F'F'F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 35 "The \+
-left and right eigenvectors of " }{TEXT 302 7 "coefMat" }{TEXT 362 13 
-" are given by" }}}{EXCHG {PARA 299 "> " 0 "" {MPLTEXT 1 209 77 "leftV
-ec:=subs(c1=solve(multiply(htranspose(coefMat),[1,c1])[1]=0,c1),[1,c1]
-);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"\"^#F#" }}}{EXCHG {PARA 300 
-"> " 0 "" {MPLTEXT 1 209 66 "rightVec:=subs(c1=solve(multiply(coefMat,
-[1,c1])[1]=0,c1),[1,c1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"\"^#F
-#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 94 "To express the solution of \+
-the zeroth-order problem, we introduce the following basic function" }
-}}{EXCHG {PARA 301 "> " 0 "" {MPLTEXT 1 209 28 "basicH:=A(T[1])*exp(I*
-T[0]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&-I\"AG6\"6#&I\"TGF%6#\"\"\"F
-*-I$expG6$%*protectedGI(_syslibGF%6#*&^#F*F*&F(6#\"\"!F*F*" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 22 "and the conjugate rule" }}}{EXCHG {PARA 
-302 "> " 0 "" {MPLTEXT 1 209 28 "ccRule:=I=-I,A=conjugate(A):" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 127 "In terms of the basic function a
-nd the right eigenvector, the solution of the zeroth-order problem can
- be expressed in terms of" }}}{EXCHG {PARA 303 "> " 0 "" {MPLTEXT 1 
-209 34 "sol0Form:=expand(rightVec*basicH);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "7$*&-I\"AG6\"6#&I\"TGF&6#\"\"\"F+-I$expG6$%*protectedGI(_
-syslibGF&6#*&^#F+F+&F)6#\"\"!F+F+*(F3F+F$F+F,F+" }}}{EXCHG {PARA 0 "" 
-0 "" {TEXT 362 28 "and its complex conjugate as" }}}{EXCHG {PARA 304 "
-> " 0 "" {MPLTEXT 1 209 114 "sol0:=[u[0](T[0],T[1])=sol0Form[1]+subs(c
-cRule,sol0Form[1]),v[0](T[0],T[1])=sol0Form[2]+subs(ccRule,sol0Form[2]
-)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$/-&I\"uG6\"6#\"\"!6$&I\"TGF'F(&
-F,6#\"\"\",&*&-I\"AGF'6#F-F/-I$expG6$%*protectedGI(_syslibGF'6#*&^#F/F
-/F+F/F/F/*&--I*conjugateGF86#F3F4F/-F66#*&^#!\"\"F/F+F/F/F//-&I\"vGF'F
-(F*,&*(F<F/F2F/F5F/F/*(FEF/F>F/FBF/F/" }}}}{SECT 0 {PARA 20 "" 0 "" 
-{TEXT 364 19 "First-Order Problem" }}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-39 "Substituting the zeroth-order solution " }{TEXT 303 4 "sol0" }
-{TEXT 362 30 " into the first-order problem " }{TEXT 304 8 "eqEps[2]" 
-}{TEXT 362 98 " and moving the nonhomogeneous terms to the right-hand \+
-sides of the resulting equations, we obtain" }}}{EXCHG {PARA 305 "> " 
-0 "" {MPLTEXT 1 209 111 "order1Eq:=seq(subs(u[0]=u[1],v[0]=v[1],linear
-Sys[i]=linearSys[i])-expand(subs(sol0,0=lhs(eqEps[2,i]))),i=1..2);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6$/,&-I%diffG%*protectedG6$-&I\"uG6\"6#
-\"\"\"6$&I\"TGF,6#\"\"!&F1F-F0F.-&I\"vGF,F-F/!\"\",&*&-F&6$-I\"AGF,6#F
-4F4F.-I$expG6$F'I(_syslibGF,6#*&^#F.F.F0F.F.F8*&-F&6$--I*conjugateGF'6
-#F>F?F4F.F@F8F8/,&-F&6$F5F0F.F)F.,.*(^#F8F.F;F.F@F.F.*(FFF.FHF.F@F8F.*
-&F=\"\"$F@FWF8*(F=\"\"#F@F.FJF.!\"$*(F=F.F@F8FJFYFZ*&FJFWF@FZF8" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 52 "Eliminating the terms that produc
-e secular terms in " }{TEXT 305 8 "order1Eq" }{TEXT 362 182 " demands \+
-that their right-hand sides are orthogonal to every solution of the ad
-joint homogeneous problem. To determine these conditions, we first cal
-culate the coefficient vector of " }{TEXT 362 3 " as" }}}{EXCHG {PARA 
-306 "> " 0 "" {MPLTEXT 1 209 58 "STerms:=[seq(coeff(rhs(order1Eq[i]),e
-xp(I*T[0])),i=1..2)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$,$-I%diffG%*p
-rotectedG6$-I\"AG6\"6#&I\"TGF*6#\"\"\"F,!\"\",&*&^#F0F/F$F/F/*&F(\"\"#
---I*conjugateGF&6#F)F+F/!\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 107 
-"Then, we demand that this vector is orthogonal to the left eigenvecto
-r and obtain the solvability condition" }}}{EXCHG {PARA 307 "> " 0 "" 
-{MPLTEXT 1 209 53 "SCond:=expand(multiply(subs(I=-I,leftVec),STerms))=
-0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,&-I%diffG%*protectedG6$-I\"AG6\"
-6#&I\"TGF*6#\"\"\"F,!\"#*(^#\"\"$F/F(\"\"#--I*conjugateGF&6#F)F+F/F/\"
-\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 82 "which is in agreement wit
-h that obtained by treating the second-order form of the " }{TEXT 306 
-9 "DuffingEq" }{TEXT 362 56 ". Repeating the procedure for the coeffic
-ient vector of " }{TEXT 362 38 " , we obtain the complex conjugate of 
-" }{TEXT 307 5 "SCond" }{TEXT 362 1 "." }}}}}{SECT 0 {PARA 5 "" 0 "" 
-{TEXT 363 39 "2.4.3 First-Order Complex-Valued System" }}{EXCHG {PARA 
-0 "" 0 "" {TEXT 362 85 "In this section, we determine a first-order un
-iform expansion of the solution of the " }{TEXT 308 9 "DuffingEq" }
-{TEXT 362 121 " by transforming it first into a single first-order com
-plex-valued equation. To this end, we introduce the transformation" }}
-}{EXCHG {PARA 308 "> " 0 "" {MPLTEXT 1 209 88 "transfRule:=u(t)=zeta(t
-)+conjugate(zeta)(t),diff(u(t),t)=I*(zeta(t)-conjugate(zeta)(t));" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6$/-I\"uG6\"6#I\"tGF&,&-I%zetaGF&F'\"\"
-\"--I*conjugateG%*protectedG6#F+F'F,/-I%diffGF06$F$F(*&^#F,F,,&F*F,F-!
-\"\"F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 16 "whose inverse is" }}}
-{EXCHG {PARA 309 "> " 0 "" {MPLTEXT 1 209 59 "zetaRule:=solve(\{transf
-Rule\},\{zeta(t),conjugate(zeta)(t)\});" }}{PARA 11 "" 1 "" {XPPMATH 
-20 "<$/-I%zetaG6\"6#I\"tGF&,&-I\"uGF&F'#\"\"\"\"\"#*&^##!\"\"F.F--I%di
-ffG%*protectedG6$F*F(F-F-/--I*conjugateGF56#F%F'*&F0F-,&*&^#F-F-F*F-F-
-F3F2F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 20 "It follows from the " 
-}{TEXT 309 9 "DuffingEq" }{TEXT 362 66 " that the acceleration is rela
-ted to the displacement according to" }}}{EXCHG {PARA 310 "> " 0 "" 
-{MPLTEXT 1 209 59 "acceleration:=diff(u(t),t,t)=solve(DuffingEq,(D@@2)
-(u)(t));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I%diffG%*protectedG6$-F$6$
--I\"uG6\"6#I\"tGF+F-F-,&*&I(epsilonGF+\"\"\"F)\"\"$!\"\"F)F3" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 16 "Differentiating " }{TEXT 362 3 " \+
-, " }{TEXT 310 11 "zetaRule[1]" }{TEXT 362 18 ", with respect to " }
-{TEXT 362 22 " and substituting for " }{TEXT 362 7 " , and " }{TEXT 
-362 11 " using the " }{TEXT 311 12 "acceleration" }{TEXT 362 5 " and "
- }{TEXT 312 10 "transfRule" }{TEXT 362 11 ", we obtain" }}}{EXCHG 
-{PARA 311 "> " 0 "" {MPLTEXT 1 209 87 "eq243a:=expand(subs(acceleratio
-n,\{transfRule\},diff(zeta(t)=subs(zetaRule,zeta(t)),t)));" }}{PARA 11
- "" 1 "" {XPPMATH 20 "/-I%diffG%*protectedG6$-I%zetaG6\"6#I\"tGF)F+,,*
-&^#\"\"\"F/F'F/F/*(^##F/\"\"#F/I(epsilonGF)F/F'\"\"$F/**^##F5F3F/F4F/F
-'F3--I*conjugateGF%6#F(F*F/F/**F7F/F4F/F'F/F9F3F/*(F1F/F4F/F9F5F/" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 107 "Next, we use the method of multi
-ple scales to determine a first-order uniform expansion of the solutio
-n of " }{TEXT 313 6 "eq243a" }{TEXT 362 12 " in the form" }}}{EXCHG 
-{PARA 312 "> " 0 "" {MPLTEXT 1 209 145 "solForm:=zeta(T[0],T[1])=add(e
-psilon^i*zeta[i](T[0],T[1]),i=0..1),conjugate(zeta)(T[0],T[1])=add(eps
-ilon^i*conjugate(zeta[i])(T[0],T[1]),i=0..1);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6$/-I%zetaG6\"6$&I\"TGF&6#\"\"!&F)6#\"\"\",&-&F%F*F'F.*&I
-(epsilonGF&F.-&F%F-F'F.F./--I*conjugateG%*protectedG6#F%F',&--F96#F1F'
-F.*&F3F.--F96#F5F'F.F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 33 "Substi
-tuting this expansion into " }{TEXT 314 6 "eq243a" }{TEXT 362 34 " and
- expanding the result, we have" }}}{EXCHG {PARA 313 "> " 0 "" {MPLTEXT
- 1 209 140 "temp:=expand(value(subs(zeta(t)=zeta(T[0],T[1]),conjugate(
-zeta)(t)=conjugate(zeta)(T[0],T[1]),solForm,dt[1](zeta(T[0],T[1]))-rhs
-(eq243a)))):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 38 "Discarding terms
- of order higher than " }{TEXT 362 44 " and equating coefficients of l
-ike power of " }{TEXT 362 4 " in " }{TEXT 315 4 "temp" }{TEXT 362 7 " \+
-yields" }}}{EXCHG {PARA 314 "> " 0 "" {MPLTEXT 1 209 43 "eqEps:=seq(co
-eff(temp,epsilon,i)=0,i=0..1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/,&-
-I%diffG%*protectedG6$-&I%zetaG6\"6#\"\"!6$&I\"TGF,F-&F16#\"\"\"F0F4*&^
-#!\"\"F4F)F4F4F./,0-F&6$-&F+F3F/F0F4-F&6$F)F2F4*&^##F7\"\"#F4--I*conju
-gateGF'6#F*F/\"\"$F4*&F6F4F<F4F4*&FAF4F)FHF4*(^##!\"$FCF4F)FCFDF4F4*(F
-LF4F)F4FDFCF4F." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 42 "The solution \+
-of the zeroth-order problem, " }{TEXT 316 8 "eqEps[1]" }{TEXT 362 21 "
-, can be expressed as" }}}{EXCHG {PARA 315 "> " 0 "" {MPLTEXT 1 209 
-55 "sol0:=subs(_F1=A,pdsolve(eqEps[1],zeta[0](T[0],T[1])));" }}{PARA 
-206 "" 1 "" {TEXT 365 0 "" }{HYPERLNK 365 "Error, (in pdesolve) pdesol
-ve is obsolete, use pdsolve" 4 "http://www.maplesoft.com/support/help/
-errors/view.aspx?path=Error,%20(in%20pdesolve)%20pdesolve%20is%20obsol
-ete,%20use%20pdsolve" "" }{TEXT 365 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 26 "whose complex conjugate is" }}}{EXCHG {PARA 316 "> " 0 "
-" {MPLTEXT 1 209 53 "sol0cc:=subs(ccRule,zeta[0]=conjugate(zeta[0]),so
-l0);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$/-&I\"uG6\"6#\"\"!6$&I\"TGF'F(
-&F,6#\"\"\",&*&--I*conjugateG%*protectedG6#I\"AGF'6#F-F/-I$expG6$F5I(_
-syslibGF'6#*&^#!\"\"F/F+F/F/F/*&--F46#F3F8F/-F:6#*&^#F/F/F+F/F/F//-&I
-\"vGF'F(F*,&*(F?F/F2F/F9F/F/*(FHF/FBF/FEF/F/" }}}{EXCHG {PARA 0 "" 0 "
-" {TEXT 362 13 "Substituting " }{TEXT 317 4 "sol0" }{TEXT 362 5 " and 
-" }{TEXT 318 6 "sol0cc" }{TEXT 362 31 " into the first-order problem, 
-" }{TEXT 319 8 "eqEps[2]" }{TEXT 362 97 ", and moving the nonhomogeneo
-us terms to the right-hand side of the resulting equation, we obtain" 
-}}}{EXCHG {PARA 317 "> " 0 "" {MPLTEXT 1 209 102 "order1Eq:=expand(sub
-s(zeta[0]=zeta[1],lhs(eqEps[1])=lhs(eqEps[1]))-subs(sol0,sol0cc,0=lhs(
-eqEps[2])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,&-I%diffG%*protectedG6
-$-&I%zetaG6\"6#\"\"\"6$&I\"TGF+6#\"\"!&F0F,F/F-*&^#!\"\"F-F(F-F-,,-F%6
-$-&F*F1F.F3F6*&^##F-\"\"#F---I*conjugateGF&6#F;F.\"\"$F-*&F=F-F:FDF-*(
-^##FDF?F-F:F?F@F-F-*(FGF-F:F-F@F?F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 54 "Elimintaing the terms that lead to secular terms from " }{TEXT
- 320 8 "order1Eq" }{TEXT 362 33 " yields the solvability condition" }}
-}{EXCHG {PARA 318 "> " 0 "" {MPLTEXT 1 209 42 "SCond:=coeff(rhs(order1
-Eq),exp(I*T[0]))=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "/\"\"!F#" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 73 "in agreement with that obtained b
-y treating the second-order form of the " }{TEXT 321 9 "DuffingEq" }
-{TEXT 362 94 " as well as that obtained by transforming it first into \+
-two first-order real-valued equations." }}}}}{SECT 0 {PARA 4 "" 0 "" 
-{TEXT 361 27 "2.5 Variation of Parameters" }}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 303 "In the next section, we use the method of averaging to \+
-determine a first-order uniform expansion of the solution of the Duffi
-ng equation. To this end, we use the method of variation of parameters
- to transform it into a system of two first-order equations. The Duffi
-ng equation is repeated here; that is," }}}{EXCHG {PARA 319 "> " 0 "" 
-{MPLTEXT 1 209 48 "DuffingEq:=diff(u(t),t,t)+u(t)+epsilon*u(t)^3=0;" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "/,(-I%diffG%*protectedG6$-F%6$-I\"uG6\"
-6#I\"tGF,F.F.\"\"\"F*F/*&I(epsilonGF,F/F*\"\"$F/\"\"!" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 5 "When " }{TEXT 362 50 " , the solution of \+
-this equation can be written as" }}}{EXCHG {PARA 320 "> " 0 "" 
-{MPLTEXT 1 209 27 "usolEq:=u(t)=a*cos(t+beta);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "/-I\"uG6\"6#I\"tGF%*&I\"aGF%\"\"\"-I$cosG6$%*protectedGI(
-_syslibGF%6#,&F'F*I%betaGF%F*F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 
-6 "where " }{TEXT 362 5 " and " }{TEXT 362 51 " are constants, which a
-re sometimes referred to as " }{TEXT 322 10 "parameters" }{TEXT 362 
-18 ". It follows from " }{TEXT 323 6 "usolEq" }{TEXT 362 5 " that" }}}
-{EXCHG {PARA 321 "> " 0 "" {MPLTEXT 1 209 23 "cond01:=diff(usolEq,t);"
- }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I%diffG%*protectedG6$-I\"uG6\"6#I\"
-tGF)F+,$*&I\"aGF)\"\"\"-I$sinG6$F%I(_syslibGF)6#,&F+F/I%betaGF)F/F/!\"
-\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 5 "When " }{TEXT 362 34 " , we
- assume that the solution of " }{TEXT 324 9 "DuffingEq" }{TEXT 362 19 
-" is still given by " }{TEXT 325 6 "usolEq" }{TEXT 362 23 " but with t
-ime-varying " }{TEXT 362 5 " and " }{TEXT 362 11 " ; that is," }}}
-{EXCHG {PARA 322 "> " 0 "" {MPLTEXT 1 209 30 "tdepRule:=a=a(t),beta=be
-ta(t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/I\"aG6\"-F$6#I\"tGF%/I%beta
-GF%-F*F'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 9 "and hence" }}}{EXCHG 
-{PARA 323 "> " 0 "" {MPLTEXT 1 209 31 "usolEqt:=subs(tdepRule,usolEq);
-" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I\"uG6\"6#I\"tGF%*&-I\"aGF%F&\"\"
-\"-I$cosG6$%*protectedGI(_syslibGF%6#,&F'F+-I%betaGF%F&F+F+" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 28 "In other words, we consider " }
-{TEXT 326 6 "usolEq" }{TEXT 362 26 " as a transformation from " }{TEXT
- 362 4 " to " }{TEXT 362 5 " and " }{TEXT 362 43 " . This is why this \+
-approach is called the " }{TEXT 327 33 "method of variation of paramet
-ers" }{TEXT 362 62 ". Using this view, we note that we have two equati
-ons, namely " }{TEXT 328 9 "DuffingEq" }{TEXT 362 5 " and " }{TEXT 
-329 6 "usolEq" }{TEXT 362 25 ", for the three unknowns " }{TEXT 362 7 
-" , and " }{TEXT 362 144 " . Hence, we have the freedom of imposing a \+
-third condition (third equation). This condition is arbitrary except t
-hat it must be independent of " }{TEXT 330 9 "DuffingEq" }{TEXT 362 5 
-" and " }{TEXT 331 6 "usolEq" }{TEXT 362 171 ". This arbitrariness can
- be used to advantage, namely to produce a simple and convenient trans
-formation. Out of all possible conditions, we choose to impose the con
-dition " }{TEXT 332 6 "cond01" }{TEXT 362 24 ", thereby assuming that 
-" }{TEXT 362 12 " as well as " }{TEXT 362 168 " have the same form as \+
-in the linear case. This condition leads to a convenient transformatio
-n; it leads to a set of first-order rather than second-order equations
- for " }{TEXT 362 5 " and " }{TEXT 362 2 " ." }}}{EXCHG {PARA 0 "" 0 "
-" {TEXT 362 16 "Differentiating " }{TEXT 333 6 "usolEq" }{TEXT 362 17 
-" with respect to " }{TEXT 362 20 " and recalling that " }{TEXT 362 5 
-" and " }{TEXT 362 18 " are functions of " }{TEXT 362 10 " , we have" 
-}}}{EXCHG {PARA 324 "> " 0 "" {MPLTEXT 1 209 24 "cond02:=diff(usolEqt,
-t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I%diffG%*protectedG6$-I\"uG6\"6
-#I\"tGF)F+,&*&-F$6$-I\"aGF)F*F+\"\"\"-I$cosG6$F%I(_syslibGF)6#,&F+F2-I
-%betaGF)F*F2F2F2*(F0F2,&F2F2-F$6$F9F+F2F2-I$sinGF5F7F2!\"\"" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 10 "Comparing " }{TEXT 334 6 "cond02"
- }{TEXT 362 6 " with " }{TEXT 335 6 "cond01" }{TEXT 362 18 ", we concl
-ude that" }}}{EXCHG {PARA 325 "> " 0 "" {MPLTEXT 1 209 45 "cond1:=comb
-ine(subs(tdepRule,cond01)-cond02);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/
-\"\"!,&*(-I\"aG6\"6#I\"tGF(\"\"\"-I$sinG6$%*protectedGI(_syslibGF(6#,&
-F*F+-I%betaGF(F)F+F+-I%diffGF/6$F3F*F+F+*&-F66$F&F*F+-I$cosGF.F1F+!\"
-\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 16 "Differentiating " }{TEXT 
-336 6 "cond01" }{TEXT 362 17 " with respect to " }{TEXT 362 12 " , we \+
-obtain" }}}{EXCHG {PARA 326 "> " 0 "" {MPLTEXT 1 209 38 "cond03:=diff(
-subs(tdepRule,cond01),t);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I%diffG%*
-protectedG6$-F$6$-I\"uG6\"6#I\"tGF+F-F-,&*&-F$6$-I\"aGF+F,F-\"\"\"-I$s
-inG6$F%I(_syslibGF+6#,&F-F4-I%betaGF+F,F4F4!\"\"*(F2F4,&F4F4-F$6$F;F-F
-4F4-I$cosGF7F9F4F=" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 17 "Substituti
-ng for " }{TEXT 362 5 " and " }{TEXT 362 6 " from " }{TEXT 337 7 "usol
-Eqt" }{TEXT 362 5 " and " }{TEXT 338 6 "cond03" }{TEXT 362 6 " into " 
-}{TEXT 339 9 "DuffingEq" }{TEXT 362 9 ", we have" }}}{EXCHG {PARA 327 
-"> " 0 "" {MPLTEXT 1 209 47 "cond2:=combine(subs(cond03,usolEqt,Duffin
-gEq));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/,**&-I%diffG%*protectedG6$-I
-\"aG6\"6#I\"tGF+F-\"\"\"-I$sinG6$F'I(_syslibGF+6#,&F-F.-I%betaGF+F,F.F
-.!\"\"*(F)F.-I$cosGF1F3F.-F&6$F5F-F.F7*(I(epsilonGF+F.F)\"\"$-F:6#,&F-
-F?F5F?F.#F.\"\"%*(F>F.F)F?F9F.#F?FD\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 362 8 "Solving " }{TEXT 340 5 "cond1" }{TEXT 362 5 " and " }
-{TEXT 341 5 "cond2" }{TEXT 362 5 " for " }{TEXT 362 5 " and " }{TEXT 
-362 50 " , we obtain the desired two first-order equations" }}}{EXCHG 
-{PARA 328 "> " 0 "" {MPLTEXT 1 209 59 "transformedEq:=solve(\{cond1,co
-nd2\},diff(\{a(t),beta(t)\},t));" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$/-
-I%diffG%*protectedG6$-I\"aG6\"6#I\"tGF*F,,$*,F(\"\"$-I$sinG6$F&I(_sysl
-ibGF*6#,&F,\"\"\"-I%betaGF*F+F6F6I(epsilonGF*F6,&-I$cosGF26#,&F,F/F7F/
-F6-F<F4F/F6,&*$F0\"\"#F6*$F?FBF6!\"\"#F6\"\"%/-F%6$F7F,,$*,F?F6F9F6F(F
-BF:F6F@FDFE" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 3 "if " }{TEXT 362 
-35 " . Thus, the original second-order " }{TEXT 342 9 "DuffingEq" }
-{TEXT 362 5 " for " }{TEXT 362 52 " has been replaced by two first-ord
-er equations for " }{TEXT 362 5 " and " }{TEXT 362 66 " . We emphasize
- that no approximations have been made in deriving " }{TEXT 343 13 "tr
-ansformedEq" }{TEXT 362 12 ". Comparing " }{TEXT 344 14 "transformedEq
- " }{TEXT 362 5 "with " }{TEXT 345 9 "DuffingEq" }{TEXT 362 191 ", we \+
-find that the transformed equations are more nonlinear than the origin
-al equation. Then, the question arises what is the value of this trans
-formation? The answer depends on the value of " }{TEXT 362 6 " . If " 
-}{TEXT 362 30 " is small, the major parts of " }{TEXT 362 5 " and " }
-{TEXT 362 23 " vary more slowly with " }{TEXT 362 6 " than " }{TEXT 
-362 518 " . This fact can be used to advantage analytically and numeri
-cally. The analytical advantage is utilized in the method of averaging
-, as discussed in the next section. Numerically, it is advantageous to
- solve the transformed equations instead of the original equation beca
-use a large step size can be used in the integration. This is the reas
-on why astronomers numerically solve the variational equations rather \+
-than the original equations. Usually, astronomers and celestial mechan
-icians refer to this approach as the " }{TEXT 346 31 "special method o
-f perturbations" }{TEXT 362 1 "." }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT 
-361 27 "2.6 The Method of Averaging" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
-362 146 "In this section, we determine a first-order approximation to \+
-the transformed equations obtained in the preceding section. To this e
-nd, we rewrite " }{TEXT 347 13 "transformedEq" }{TEXT 362 3 " as" }}}
-{EXCHG {PARA 329 "> " 0 "" {MPLTEXT 1 209 62 "ampEq:=combine(diff(a(t)
-,t)=subs(transformedEq,diff(a(t),t)));" }}{PARA 11 "" 1 "" {XPPMATH 20
- "/-I%diffG%*protectedG6$-I\"aG6\"6#I\"tGF)F+,&*(I(epsilonGF)\"\"\"F'
-\"\"$-I$sinG6$F%I(_syslibGF)6#,&F+\"\"%-I%betaGF)F*F7F/#F/\"\")*(F.F/F
-'F0-F26#,&F+\"\"#F8F@F/#F/F7" }}}{EXCHG {PARA 330 "> " 0 "" {MPLTEXT 
-1 209 70 "phaseEq:=combine(diff(beta(t),t)=subs(transformedEq,diff(bet
-a(t),t)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I%diffG%*protectedG6$-I%
-betaG6\"6#I\"tGF)F+,(*(-I\"aGF)F*\"\"#I(epsilonGF)\"\"\"-I$cosG6$F%I(_
-syslibGF)6#,&F+F0F'F0F2#F2F0*(F.F0F1F2-F46#,&F+\"\"%F'F>F2#F2\"\")*&F.
-F0F1F2#\"\"$F@" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 19 "The major part
-s of " }{TEXT 362 5 " and " }{TEXT 362 41 " are slowly varying functio
-ns of time if " }{TEXT 362 67 " is small. Hence, they change very litt
-le during the time interval " }{TEXT 362 121 " (the period of the circ
-ular functions) and, to the first approximation, they can be considere
-d constant in the interval " }{TEXT 362 21 " . Hence, we replace " }
-{TEXT 362 5 " and " }{TEXT 362 28 " on the right-hand sides of " }
-{TEXT 348 5 "ampEq" }{TEXT 362 5 " and " }{TEXT 349 7 "phaseEq" }{TEXT
- 362 23 " with time-independent " }{TEXT 362 5 " and " }{TEXT 362 11 "
- and obtain" }}}{EXCHG {PARA 331 "> " 0 "" {MPLTEXT 1 209 46 "tRule_re
-v:=map(s->rhs(s)=lhs(s),[tdepRule])[];" }}{PARA 11 "" 1 "" {XPPMATH 20
- "6$/-I\"aG6\"6#I\"tGF&F%/-I%betaGF&F'F+" }}}{EXCHG {PARA 332 "> " 0 "
-" {MPLTEXT 1 209 38 "ampEq_RHS:=subs(tRule_rev,rhs(ampEq));" }}{PARA 
-11 "" 1 "" {XPPMATH 20 ",&*(I(epsilonG6\"\"\"\"I\"aGF%\"\"$-I$sinG6$%*
-protectedGI(_syslibGF%6#,&I\"tGF%\"\"%I%betaGF%F1F&#F&\"\")*(F$F&F'F(-
-F*6#,&F0\"\"#F2F9F&#F&F1" }}}{EXCHG {PARA 333 "> " 0 "" {MPLTEXT 1 
-209 42 "phaseEq_RHS:=subs(tRule_rev,rhs(phaseEq));" }}{PARA 11 "" 1 ""
- {XPPMATH 20 ",(*(I\"aG6\"\"\"#I(epsilonGF%\"\"\"-I$cosG6$%*protectedG
-I(_syslibGF%6#,&I\"tGF%F&I%betaGF%F&F(#F(F&*(F$F&F'F(-F*6#,&F0\"\"%F1F
-7F(#F(\"\")*&F'F(F$F&#\"\"$F9" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 15 
-"We average the " }{TEXT 350 9 "ampEq_RHS" }{TEXT 362 5 " and " }{TEXT
- 351 11 "phaseEq_RHS" }{TEXT 362 19 " over the interval " }{TEXT 362 
-11 " and obtain" }}}{EXCHG {PARA 334 "> " 0 "" {MPLTEXT 1 209 63 "list
-26a:=expand(1/Pi*map(int,[ampEq_RHS,phaseEq_RHS],t=0..Pi));" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "7$\"\"!,$*&I(epsilonG6\"\"\"\"I\"aGF'\"\"##\"
-\"$\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 37 "It follows from the \+
-above result that" }}}{EXCHG {PARA 335 "> " 0 "" {MPLTEXT 1 209 59 "av
-eragingEq:=lhs(ampEq)=list26a[1],lhs(phaseEq)=list26a[2];" }}{PARA 11 
-"" 1 "" {XPPMATH 20 "6$/-I%diffG%*protectedG6$-I\"aG6\"6#I\"tGF*F,\"\"
-!/-F%6$-I%betaGF*F+F,,$*&I(epsilonGF*\"\"\"F)\"\"##\"\"$\"\")" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT 362 52 "This averaging method is usually \+
-referred to as the " }{TEXT 352 17 "Krylov-Bogoliubov" }{TEXT 362 4 " \+
-or " }{TEXT 353 21 "van der Pol technique" }{TEXT 362 1 "." }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 362 37 "Solving the averaged equations yields" }
-}}{EXCHG {PARA 336 "> " 0 "" {MPLTEXT 1 209 98 "rule26a:=dsolve(\{aver
-agingEq[1],a(0)=a[0]\},a(t)),dsolve(\{averagingEq[2],beta(0)=beta[0]\}
-,beta(t));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/-I\"aG6\"6#I\"tGF&&F%6#
-\"\"!/-I%betaGF&F',&*(F%\"\"#I(epsilonGF&\"\"\"F(F3#\"\"$\"\")&F.F*F3"
- }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 17 "Substituting for " }{TEXT 
-362 5 " and " }{TEXT 362 6 " into " }{TEXT 354 6 "usolEq" }{TEXT 362 
-45 ", we obtain, to the first approximation, that" }}}{EXCHG {PARA 337
- "> " 0 "" {MPLTEXT 1 209 30 "subs(tdepRule,rule26a,usolEq);" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "/-I\"uG6\"6#I\"tGF%*&&I\"aGF%6#\"\"!\"\"\"-I$c
-osG6$%*protectedGI(_syslibGF%6#,(F'F-*(F*\"\"#I(epsilonGF%F-F'F-#\"\"$
-\"\")&I%betaGF%F+F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 362 117 "in agr
-eement with the solutions obtained by using the Lindstedt-Poincar\351 \+
-technique and the method of multiple scales." }}}{EXCHG {PARA 0 "" 0 "
-" {TEXT 362 81 "Before closing this section, we note that one can arri
-ve at the final results in " }{TEXT 355 5 "ampEq" }{TEXT 362 5 " and "
- }{TEXT 356 7 "phaseEq" }{TEXT 362 50 " without going through the aver
-aging process. The " }{TEXT 357 9 "ampEq_RHS" }{TEXT 362 5 " and " }
-{TEXT 358 11 "phaseEq_RHS" }{TEXT 362 197 " are the sum of two groups \+
-of terms \227 a group that is a linear combination of fast varying ter
-ms and a group that is a linear combination of slowly varying terms. T
-hen, to the first approximation, " }{TEXT 362 4 " in " }{TEXT 359 5 "a
-mpEq" }{TEXT 362 110 " is equal to the slowly varying group on its rig
-ht-hand side, which is zero. And, to the first approximation, " }{TEXT
- 362 4 " in " }{TEXT 360 7 "phaseEq" }{TEXT 362 71 " is equal to the s
-lowly varying group on its right-hand side, which is " }{TEXT 362 2 " \+
-." }}}}}
-{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 75 100 1802 1 1 1 1 }{PAGENUMBERS 0 
-1 2 33 1 1 }
+{VERSION 2 3 "IBM INTEL NT" "2.3" }
+{USTYLETAB {CSTYLE "" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 1 0 0 0 0 }
+{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 132 0 0 0 2 0 0 0 0 0 0 }
+{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 22 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "
+2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "Define" 
+-1 256 "" 0 0 163 163 163 0 1 1 0 0 0 0 0 0 0 }{CSTYLE "Emphasis" -1 
+257 "" 0 0 128 0 128 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "Maple Input" -1 
+258 "Courier" 0 0 255 0 0 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 1 
+24 144 0 8 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 }{CSTYLE "" -1 261 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 262 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 263 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 265 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 267 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 268 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 255 0 0 1 
+0 0 0 0 0 0 0 }{CSTYLE "" -1 271 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 272 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 273 "" 0 1 16 1 84 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 275 "" 0 1 32 102 111 0 
+0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 276 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 277 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 278 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 279 "" 0 
+1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 280 "" 0 1 255 0 255 1 
+0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 281 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 282 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 283 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 284 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 285 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 287 "" 0 1 255 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 288 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 289 "" 0 1 
+0 0 13 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 290 "" 0 1 255 0 255 1 0 1 
+0 0 0 0 0 0 0 }{CSTYLE "" -1 291 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 292 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 293 
+"" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 294 "" 0 1 255 0 
+255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 295 "" 0 1 255 0 255 1 0 1 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 296 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 297 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+298 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 299 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 300 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 301 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 302 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+303 "" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 304 "" 0 1 255 0 
+255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 305 "" 0 1 255 0 255 1 0 1 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 306 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 307 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+308 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 309 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 310 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 311 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 312 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 313 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 314 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 315 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 316 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 317 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 318 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 319 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 320 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 321 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 322 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 323 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 324 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 325 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 326 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 327 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 328 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 329 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 330 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 331 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 332 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 333 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 334 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 335 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 336 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 337 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 338 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 339 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 340 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 341 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 342 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 343 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 344 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 345 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 346 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 347 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 348 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 349 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 350 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 351 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 352 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 353 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 354 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 355 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 356 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 357 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 358 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 359 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 360 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 361 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 362 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 363 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 364 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 365 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 366 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 367 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 368 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 369 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 370 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 371 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 372 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 373 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 374 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 375 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 376 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 377 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 378 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 379 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 380 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 381 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 382 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 383 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 384 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 385 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 386 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 387 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 388 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 389 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 390 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 391 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 392 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 393 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 394 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 395 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 396 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 397 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 398 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 399 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 400 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 401 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 
+0 }{CSTYLE "" -1 402 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 403 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 404 "" 0 1 
+255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 405 "" 0 1 255 0 255 1 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 406 "" 0 1 71 1 16 0 1 0 0 0 0 0 0 0 0 
+}{CSTYLE "" -1 407 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+408 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "" 0 1 163 163 163 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 
+-1 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 
+18 163 163 163 0 0 1 1 0 0 0 0 0 0 }3 0 0 -1 6 6 0 0 0 0 0 0 -1 0 }
+{PSTYLE "Heading 2" 3 4 1 {CSTYLE "" -1 -1 "" 1 14 163 163 163 0 0 0 
+2 0 0 0 0 0 0 }1 0 0 -1 4 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 3" 4 5 
+1 {CSTYLE "" -1 -1 "" 1 12 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 0 0 0 
+0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 
+206 0 116 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 11 12 1 {CSTYLE "" -1 -1 "" 0 1 117 110 99 0 0 0 0 0 0 0 0 
+0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Title" 0 18 1 {CSTYLE "
+" -1 -1 "" 1 18 163 163 163 0 0 1 1 0 0 0 0 0 0 }3 0 0 -1 12 12 0 0 0 
+0 0 0 19 0 }{PSTYLE "Heading 4" 5 20 1 {CSTYLE "" -1 -1 "" 1 10 0 0 0 
+0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 0 0 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {PARA 18 "" 0 "" {TEXT 259 30 "Chapter 2\nThe Duffing Equation
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "interface(labelling=false,warnlevel
+=0);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "with(linalg):" }}}
+{SECT 1 {PARA 4 "" 0 "" {TEXT -1 24 "2.1 The Duffing Equation" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 124 "The free oscillations of many con
+servative systems having a single degree of freedom are governed by an
+ equation of the form" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "eq
+21a:=diff(x(t),t$2)+f(x(t))=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&e
+q21aG/,&-%%diffG6$-F(6$-%\"xG6#%\"tGF/F/\"\"\"-%\"fG6#F,F0\"\"!" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 0 "f" "I\"fG6
+\"" }{TEXT -1 28 " is a nonlinear function of " }{XPPEDIT 18 0 "x(t)" 
+"-%\"xG6#%\"tG" }{TEXT -1 9 " . Here, " }{XPPEDIT 18 0 "diff(x(t),t,t)
+" "-%%diffG6%-%\"xG6#%\"tGF(F(" }{TEXT -1 44 " is the acceleration of \+
+the system, whereas " }{XPPEDIT 18 0 "f(x(t))" "-%\"fG6#-%\"xG6#%\"tG
+" }{TEXT -1 29 " is the restoring force. Let " }{XPPEDIT 18 0 "x=x0" "
+/%\"xG%#x0G" }{TEXT -1 48 " be an equilibrium position of the system. \+
+Then " }{XPPEDIT 18 0 "x0" "I#x0G6\"" }{TEXT -1 25 " is a constant and
+ hence " }{XPPEDIT 18 0 "f(x0)=0" "/-%\"fG6#%#x0G\"\"!" }{TEXT -1 18 "
+ . We assume that " }{XPPEDIT 18 0 "f" "I\"fG6\"" }{TEXT -1 28 " is an
+ analytic function of " }{XPPEDIT 18 0 "x" "I\"xG6\"" }{TEXT -1 4 " at
+ " }{XPPEDIT 18 0 "x=x0" "/%\"xG%#x0G" }{TEXT -1 41 " and expand it in
+ a Taylor series around " }{XPPEDIT 18 0 "x0" "I#x0G6\"" }{TEXT -1 3 "
+ as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "fexp:=subs(x=x(t),se
+ries(f(x),x=x0,4));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%fexpG+-,&-%
+\"xG6#%\"tG\"\"\"%#x0G!\"\"-%\"fG6#F,\"\"!--%\"DG6#F/F0\"\"\",$---%#@@
+G6$F4\"\"#F5F0#F+F=\"\"#,$---F;6$F4\"\"$F5F0#F+\"\"'\"\"$-%\"OG6#F+\"
+\"%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "where terms up to cubic ar
+e retained. Using " }{TEXT 275 8 "convert " }{TEXT -1 40 "to truncate \+
+the higher-order terms from " }{TEXT 276 4 "fexp" }{TEXT -1 9 ", we ha
+ve" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "fpoly:=convert(fexp,p
+olynom);  # Drop the order term" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&
+fpolyG,*-%\"fG6#%#x0G\"\"\"*&--%\"DG6#F'F(F*,&-%\"xG6#%\"tGF*F)!\"\"F*
+F**&---%#@@G6$F.\"\"#F/F(F*F0F<#F*F<*&---F:6$F.\"\"$F/F(F*F0FC#F*\"\"'
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Substituting " }{TEXT 277 6 "
+fpoly " }{TEXT -1 4 "for " }{XPPEDIT 18 0 "f(x(t))" "-%\"fG6#-%\"xG6#%
+\"tG" }{TEXT -1 37 " and using the equilibrium condition " }{XPPEDIT 
+18 0 "f(x0)=0" "/-%\"fG6#%#x0G\"\"!" }{TEXT -1 11 ", we obtain" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "temp:=subs(f(x(t))=fpoly,f(x
+0)=0,eq21a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%tempG/,*-%%diffG6$-
+F(6$-%\"xG6#%\"tGF/F/\"\"\"*&--%\"DG6#%\"fG6#%#x0GF0,&F,F0F8!\"\"F0F0*
+&---%#@@G6$F4\"\"#F5F7F0F9FA#F0FA*&---F?6$F4\"\"$F5F7F0F9FH#F0\"\"'\"
+\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 37 "Now, we introduce the tran
+sformation " }{XPPEDIT 18 0 "x:=t->x0+u(t)" ">%\"xG:6#%\"tG7\"6$%)oper
+atorG%&arrowG6\",&%#x0G\"\"\"-%\"uG6#F&F.F+F+" }{TEXT -1 6 " into " }
+{TEXT 278 5 "temp " }{TEXT -1 10 "and obtain" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 14 "x:=t->x0+u(t):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "eq21b:=temp;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq
+21bG/,*-%%diffG6$-F(6$-%\"uG6#%\"tGF/F/\"\"\"*&--%\"DG6#%\"fG6#%#x0GF0
+F,F0F0*&---%#@@G6$F4\"\"#F5F7F0F,F?#F0F?*&---F=6$F4\"\"$F5F7F0F,FF#F0
+\"\"'\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "To simplify the not
+ation in " }{TEXT 279 5 "eq21b" }{TEXT -1 31 ", we denote the coeffici
+ent of " }{XPPEDIT 18 0 "u(t)^b" ")-%\"uG6#%\"tG%\"bG" }{TEXT -1 4 " b
+y " }{XPPEDIT 18 0 "k[b]" "&%\"kG6#%\"bG" }{TEXT -1 16 " . The result \+
+is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "eq21c:=diff(u(t),t,t)
++sum(k[i]*u(t)^i,i=1..3)=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq21
+cG/,*-%%diffG6$-F(6$-%\"uG6#%\"tGF/F/\"\"\"*&&%\"kG6#F0F0F,F0F0*&&F36#
+\"\"#F0F,F8F0*&&F36#\"\"$F0F,F<F0\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 14 "We relate the " }{XPPEDIT 18 0 "k[b]" "&%\"kG6#%\"bG" }
+{TEXT -1 36 " to the derivatives of the function " }{XPPEDIT 18 0 "f(x
+)" "-%\"fG6#%\"xG" }{TEXT -1 9 " by using" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 56 "solve(\{coeffs(lhs(eq21b-eq21c),u(t))\},\{k[1],k[2]
+,k[3]\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<%/&%\"kG6#\"\"\"--%\"DG6
+#%\"fG6#%#x0G/&F&6#\"\"#,$---%#@@G6$F+F3F,F.#F(F3/&F&6#\"\"$,$---F86$F
++F>F,F.#F(\"\"'" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 131 "Most of this \+
+chapter is devoted to the special case of cubic nonlinearities. Thus, \+
+we set the coefficient of the quadratic term in " }{TEXT 280 6 "eq21c \+
+" }{TEXT -1 24 "equal to zero and obtain" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 26 "eq21d:=subs(k[2]=0,eq21c);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&eq21dG/,(-%%diffG6$-F(6$-%\"uG6#%\"tGF/F/\"\"\"*&&%
+\"kG6#F0F0F,F0F0*&&F36#\"\"$F0F,F8F0\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 20 "which is called the " }{TEXT 281 16 "Duffing equation" }
+{TEXT -1 15 ". We note that " }{XPPEDIT 18 0 "k[1]" "&%\"kG6#\"\"\"" }
+{TEXT -1 5 " and " }{XPPEDIT 18 0 "k[3]" "&%\"kG6#\"\"$" }{TEXT -1 29 
+" may be positive or negative." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+149 "It is a good practice to nondimensionalize the governing equation
+s before treating them with perturbation methods. To this end, we nond
+imensionalize " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 31 " using a characteristic len
+gth " }{XPPEDIT 18 0 "U" "I\"UG6\"" }{TEXT -1 27 " and a characteristi
+c time " }{XPPEDIT 18 0 "T" "I\"TG6\"" }{TEXT -1 58 " of the motion an
+d denote the nondimensional variables by " }{XPPEDIT 18 0 "us" "I#usG6
+\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "ts" "I#tsG6\"" }{TEXT -1 27 " \+
+. In nondimensional form, " }{TEXT 282 6 "eq21d " }{TEXT -1 7 "becomes
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "u:=t->U*us(t/T):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "eq21e:=subs(t=T*ts,eq21d);" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq21eG/,(*(%\"UG\"\"\"---%#@@G6$%
+\"DG\"\"#6#%#usG6#%#tsGF)%\"TG!\"#F)*(&%\"kG6#F)F)F(F)-F2F3F)F)*(&F96#
+\"\"$F)F(F?F;F?F)\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 40 "Next, w
+e multiply the left-hand side of " }{TEXT 283 6 "eq21e " }{TEXT -1 3 "
+by " }{XPPEDIT 18 0 "T^2/U" "*&%\"TG\"\"#%\"UG!\"\"" }{TEXT -1 28 " so
+ that the coefficient of " }{XPPEDIT 18 0 "(D@@2)(us)(ts)" "---%#@@G6$
+%\"DG\"\"#6#%#usG6#%#tsG" }{TEXT -1 24 " is unity. The result is" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "eq21f:=expand(eq21e*T^2/U);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq21fG/,(---%#@@G6$%\"DG\"\"#6#
+%#usG6#%#tsG\"\"\"*(%\"TGF-&%\"kG6#F2F2-F/F0F2F2**F4F-%\"UGF-&F66#\"\"
+$F2F8F=F2\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 89 "We choose T so \+
+that the linear natural frequency of the system is unity; that is, we \+
+let " }{XPPEDIT 18 0 "k[1]*T^2=1" "/*&&%\"kG6#\"\"\"\"\"\"*$%\"TG\"\"#
+F(\"\"\"" }{TEXT -1 32 " , for ease of notation, we let " }{XPPEDIT 
+18 0 "epsilon=k[3]*T^2*U^2" "/%(epsilonG*(&%\"kG6#\"\"$\"\"\"*$%\"TG\"
+\"#F)%\"UG\"\"#" }{TEXT -1 11 " , replace " }{XPPEDIT 18 0 "us" "I#usG
+6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "ts" "I#tsG6\"" }{TEXT -1 4 " \+
+by " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 
+"t" "I\"tG6\"" }{TEXT -1 29 " , respectively, and rewrite " }{TEXT 
+284 6 "eq21f " }{TEXT -1 2 "as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 7 "u:='u':" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "DuffingEq
+:=subs(k[1]=1/T^2,k[3]=epsilon/(T^2*U^2),us=u,ts=t,eq21f);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%*DuffingEqG/,(---%#@@G6$%\"DG\"\"#6#%\"uG6
+#%\"tG\"\"\"-F/F0F2*&%(epsilonGF2F3\"\"$F2\"\"!" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 13 "We note that " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6
+\"" }{TEXT -1 86 " is a nondimensional quantity, which is a measure of
+ the strength of the nonlinearity." }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 
+260 29 "2.2 Straightforward Expansion" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 13 "To solve the " }{TEXT 262 9 "DuffingEq" }{TEXT -1 43 ", we augm
+ent it with the initial conditions" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 25 "ic:=\{u(0)=u0,D(u)(0)=v0\};" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#icG<$/-%\"uG6#\"\"!%#u0G/--%\"DG6#F(F)%#v0G" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "The solution " }{XPPEDIT 18 0 "u" 
+"I\"uG6\"" }{TEXT -1 29 " of the initial-value problem" }{TEXT 287 1 "
+ " }{TEXT -1 25 "(IVP), consisting of the " }{TEXT 285 10 "DuffingEq \+
+" }{TEXT -1 34 "and associated initial conditions " }{TEXT 286 2 "ic" 
+}{TEXT -1 44 ", is a function of the independent variable " }{XPPEDIT 
+18 0 "t" "I\"tG6\"" }{TEXT -1 19 " and the parameter " }{XPPEDIT 18 0 
+"epsilon" "I(epsilonG6\"" }{TEXT -1 103 " . Next, we determine an appr
+oximation of the IVP for weak nonlinearity; that is, for small but fin
+ite " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 2 " ." }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 14 "First, we set " }{XPPEDIT 18 0 "ep
+silon" "I(epsilonG6\"" }{TEXT -1 22 " equal to zero in the " }{TEXT 
+288 9 "DuffingEq" }{TEXT -1 86 ", augment the result with the initial \+
+conditions, and obtain the following linear IVP:" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 46 "linearIVP:=[subs(epsilon=0,DuffingEq),op(ic)]
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*linearIVPG7%/,&---%#@@G6$%\"DG
+\"\"#6#%\"uG6#%\"tG\"\"\"-F0F1F3\"\"!/-F06#F5%#u0G/--F-F/F8%#v0G" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 61 "The solution of this linear IVP ca
+n be obtained by using the " }{TEXT 406 5 "Maple" }{TEXT -1 9 " comman
+d " }{TEXT 289 6 "dsolve" }{TEXT -1 15 ". The result is" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "linearSol:=dsolve(linearIVP,u(t));
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*linearSolG/-%\"uG6#%\"tG,&*&%#u
+0G\"\"\"-%$cosGF(F-F-*&%#v0GF--%$sinGF(F-F-" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 5 "When " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT 
+-1 109 " is small but different from zero, the solution of the nonline
+ar initial-value problem is no longer given by " }{TEXT 261 9 "linearS
+ol" }{TEXT -1 77 ", but deviates from it. We try a correction in the f
+orm of a power series in " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }
+{TEXT -1 21 "; that is, we expand " }{XPPEDIT 18 0 "u(t)" "-%\"uG6#%\"
+tG" }{TEXT -1 22 " in a power series in " }{XPPEDIT 18 0 "epsilon" "I(
+epsilonG6\"" }{TEXT -1 3 " as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 57 "uExp:=(maxOrder,t)->sum(epsilon^i*u[i](t),i=0..maxOrder);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%uExpG:6$%)maxOrderG%\"tG6\"6$%)oper
+atorG%&arrowGF)-%$sumG6$*&)%(epsilonG%\"iG\"\"\"-&%\"uG6#F36#9%F4/F3;
+\"\"!9$F)F)" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 
+18 0 "u[0](t)" "-&%\"uG6#\"\"!6#%\"tG" }{TEXT -1 76 " is the solution \+
+of the linear problem. For example, to first order, we have" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "uExp(1,t);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#,&-&%\"uG6#\"\"!6#%\"tG\"\"\"*&%(epsilonGF+-&F&6#F+F
+)F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "and to third order, we h
+ave" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "uExp(3,t);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#,*-&%\"uG6#\"\"!6#%\"tG\"\"\"*&%(epsilonGF+-
+&F&6#F+F)F+F+*&F-\"\"#-&F&6#F2F)F+F+*&F-\"\"$-&F&6#F7F)F+F+" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "and to fifth order, we have" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "uExp(5,t);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#,.-&%\"uG6#\"\"!6#%\"tG\"\"\"*&%(epsilonGF+-&F&6#F+F
+)F+F+*&F-\"\"#-&F&6#F2F)F+F+*&F-\"\"$-&F&6#F7F)F+F+*&F-\"\"%-&F&6#F<F)
+F+F+*&F-\"\"&-&F&6#FAF)F+F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 112 "N
+ext, we restrict our discussion to first order; that is, we keep two t
+erms in the power series. Thus, we apply " }{TEXT 263 5 "uExp " }
+{TEXT -1 7 "to the " }{TEXT 264 9 "DuffingEq" }{TEXT -1 31 ", expand t
+he result, and obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 87 "eq
+22atemp:=subs(u(t)=uExp(1,t),seq((D@@k)(u)(t)=diff(uExp(1,t),t$k),k=1.
+.2),DuffingEq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*eq22atempG/,,-%%
+diffG6$-F(6$-&%\"uG6#\"\"!6#%\"tGF2F2\"\"\"*&%(epsilonGF3-F(6$-F(6$-&F
+.6#F3F1F2F2F3F3F,F3*&F5F3F:F3F3*&F5F3,&F,F3F=F3\"\"$F3F0" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 31 "Since we kept only terms up to " }
+{XPPEDIT 18 0 "O(epsilon)" "-%\"OG6#%(epsilonG" }{TEXT -1 21 " in the \+
+expansion of " }{XPPEDIT 18 0 "u(t)" "-%\"uG6#%\"tG" }{TEXT -1 48 ", w
+e need to neglect terms of order higher than " }{XPPEDIT 18 0 "epsilon
+" "I(epsilonG6\"" }{TEXT -1 4 " in " }{TEXT 290 10 "eq22atemp " }
+{TEXT -1 44 "for consistency. To accomplish this, we use " }{TEXT 291 
+7 "series " }{TEXT -1 4 "and " }{TEXT 292 8 "convert " }{TEXT -1 10 "a
+nd obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 61 "eq22a:=convert
+(series(lhs(eq22atemp),epsilon=0,2),polynom)=0;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&eq22aG/,(-%%diffG6$-F(6$-&%\"uG6#\"\"!6#%\"tGF2F2\"
+\"\"F,F3*&,(-F(6$-F(6$-&F.6#F3F1F2F2F3F:F3*$F,\"\"$F3F3%(epsilonGF3F3F
+0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 43 "Setting the coefficients of \+
+like powers of " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 4 
+" in " }{TEXT 293 6 "eq22a " }{TEXT -1 69 "equal to zero, we obtain th
+e following hierarchy of linear equations:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 57 "eqEps:=subs(epsilon=0,eq22a),coeff(lhs(eq22a),epsil
+on)=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eqEpsG6$/,&-%%diffG6$-F)6
+$-&%\"uG6#\"\"!6#%\"tGF3F3\"\"\"F-F4F1/,(-F)6$-F)6$-&F/6#F4F2F3F3F4F;F
+4*$F-\"\"$F4F1" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 86 "which needs to \+
+be solved in succession. That is, we first solve the first equation in
+ " }{TEXT 265 6 "eqEps " }{TEXT -1 10 "to obtain " }{XPPEDIT 18 0 "u[0
+](t)" "-&%\"uG6#\"\"!6#%\"tG" }{TEXT -1 60 " and then substitute the r
+esult into the second equation in " }{TEXT 266 6 "eqEps " }{TEXT -1 
+68 "to obtain a linear nonhomogeneous equation, which can be solved fo
+r " }{XPPEDIT 18 0 "u[1](t)" "-&%\"uG6#\"\"\"6#%\"tG" }{TEXT -1 1 "." 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 50 "The general solution of the zer
+oth-order problem (" }{TEXT 267 8 "eqEps[1]" }{TEXT -1 39 ") can be ex
+pressed in Cartesian form as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 25 "dsolve(eqEps[1],u[0](t));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-&
+%\"uG6#\"\"!6#%\"tG,&*&%$_C1G\"\"\"-%$cosGF)F.F.*&%$_C2GF.-%$sinGF)F.F
+." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 89 "Alternatively, we can expres
+s the solution of the zeroth-order problem in the polar form " }
+{XPPEDIT 18 0 "u[0](t)=a[0]*cos(t+beta[0])" "/-&%\"uG6#\"\"!6#%\"tG*&&
+%\"aG6#F'\"\"\"-%$cosG6#,&F)F.&%%betaG6#F'F.F." }{TEXT -1 49 " by addi
+ng two appropriate initial conditions to " }{TEXT 268 8 "eqEps[1]" }
+{TEXT -1 3 " as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 98 "sol0:=co
+mbine(dsolve(\{eqEps[1],u[0](0)=a[0]*cos(beta[0]),D(u[0])(0)=-a[0]*sin
+(beta[0])\},u[0](t)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%sol0G/-&%
+\"uG6#\"\"!6#%\"tG*&&%\"aGF)\"\"\"-%$cosG6#,&&%%betaGF)F0F,F0F0" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 0 "a[0]" "&%\"
+aG6#\"\"!" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta[0]" "&%%betaG6#\"
+\"!" }{TEXT -1 34 " are arbitrary constants. Because " }{TEXT 269 8 "e
+qEps[1]" }{TEXT -1 134 " represents a linear undamped oscillator, one \+
+can write down its general solution in either Cartesian or polar form \+
+without using the " }{TEXT 407 5 "Maple" }{TEXT -1 9 " command " }
+{TEXT 270 6 "dsolve" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 17 "Substituting for " }{XPPEDIT 18 0 "u[0](t)" "-&%\"uG6#\"\"!6#%
+\"tG" }{TEXT -1 30 " in the first-order equation (" }{TEXT 271 8 "eqEp
+s[2]" }{TEXT -1 69 ") and determining the general solution of the resu
+lting equation for " }{XPPEDIT 18 0 "u[1](t)" "-&%\"uG6#\"\"\"6#%\"tG
+" }{TEXT -1 12 " , we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 55 "sol1temp:=combine(dsolve(subs(sol0,eqEps[2]),u[1](t)));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)sol1tempG/-&%\"uG6#\"\"\"6#%\"tG,.*
+&%$_C1GF*-%$cosGF+F*F**&%$_C2GF*-%$sinGF+F*F**(&%\"aG6#\"\"!\"\"$F,F*-
+F56#,&&%%betaGF9F*F,F*F*#!\"$\"\")*&F7F;-F16#,&F?F;F,!\"\"F*#FB\"#K*&F
+7F;-F1F=F*#FB\"#;*&F7F;-F16#,&F?F;F,F;F*#F*FJ" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 37 "We note that the homogeneous part of " }{TEXT 272 9 "s
+ol1temp " }{TEXT -1 36 "consists of the terms involving the " }
+{XPPEDIT 18 0 "_Ci" "I$_CiG6\"" }{TEXT -1 22 " (the usual case) and " 
+}{XPPEDIT 18 0 "cos(t+beta[0])" "-%$cosG6#,&%\"tG\"\"\"&%%betaG6#\"\"!
+F'" }{TEXT -1 16 " (obtained from " }{TEXT 273 7 "dsolve " }{TEXT -1 
+45 "in this case). Hence, we can replace them by " }{XPPEDIT 18 0 "a[1
+]*cos(t+beta[1])" "*&&%\"aG6#\"\"\"\"\"\"-%$cosG6#,&%\"tGF'&%%betaG6#
+\"\"\"F'F'" }{TEXT -1 13 " and rewrite " }{TEXT 274 9 "sol1temp " }
+{TEXT -1 2 "as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 102 "sol1:=u[
+1](t)=subs(_C1=0,_C2=0,cos(t+beta[0])=0,cos(t-3*beta[0])=0,rhs(sol1tem
+p)+a[1]*cos(t+beta[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%sol1G/-
+&%\"uG6#\"\"\"6#%\"tG,(*(&%\"aG6#\"\"!\"\"$F,F*-%$sinG6#,&&%%betaGF1F*
+F,F*F*#!\"$\"\")*&F/F3-%$cosG6#,&F8F3F,F3F*#F*\"#K*&&F0F)F*-F?6#,&F,F*
+&F9F)F*F*F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 103 "Combining the sol
+utions of the zeroth- and first-order problems, we obtain the general \+
+solution of the " }{TEXT 294 9 "DuffingEq" }{TEXT -1 20 ", to first or
+der, as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "sol:=u(t)=subs(s
+ol0,sol1,uExp(1,t));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$solG/-%\"uG
+6#%\"tG,&*&&%\"aG6#\"\"!\"\"\"-%$cosG6#,&&%%betaGF.F0F)F0F0F0*&%(epsil
+onGF0,(*(F,\"\"$F)F0-%$sinGF3F0#!\"$\"\")*&F,F;-F26#,&F5F;F)F;F0#F0\"#
+K*&&F-6#F0F0-F26#,&F)F0&F6FIF0F0F0F0F0" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 6 "where " }{XPPEDIT 18 0 "a[0],a[1],beta[0],beta[1]" "6&&%\"
+aG6#\"\"!&F$6#\"\"\"&%%betaG6#F&&F+6#\"\"\"" }{TEXT -1 25 " are arbitr
+ary constants." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 187 "We started wit
+h a second-order equation that can support two initial conditions but \+
+it appears that we ended up with four arbitrary constants. It turns ou
+t that only two of the constants " }{XPPEDIT 18 0 "a[0],a[1],beta[0]" 
+"6%&%\"aG6#\"\"!&F$6#\"\"\"&%%betaG6#F&" }{TEXT -1 7 " , and " }
+{XPPEDIT 18 0 "beta[1]" "&%%betaG6#\"\"\"" }{TEXT -1 54 " are arbitrar
+y and that the two initial conditions in " }{TEXT 295 3 "ic " }{TEXT 
+-1 81 "are sufficient to determine all of them. Hence, we impose the i
+nitial conditions " }{TEXT 296 3 "ic " }{TEXT -1 14 "by evaluating " }
+{TEXT 297 4 "sol " }{TEXT -1 22 "and its derivative at " }{XPPEDIT 18 
+0 "t=0" "/%\"tG\"\"!" }{TEXT -1 13 " according to" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 55 "eq22b:=subs(ic,subs(t=0,[sol,convert(diff(so
+l,t),D)]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq22bG7$/%#u0G,&*&&%
+\"aG6#\"\"!\"\"\"-%$cosG6#&%%betaGF,F.F.*&%(epsilonGF.,&*&F*\"\"$-F06#
+,$F2F8F.#F.\"#K*&&F+6#F.F.-F06#&F3F@F.F.F.F./%#v0G,&*&F*F.-%$sinGF1F.!
+\"\"*&F5F.,(*&F*F8FHF.#!\"$\"\")*&F*F8-FIF:F.#FOF=*&F?F.-FIFBF.FJF.F.
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 43 "We equate the coefficient of \+
+each power of " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 4 "
+ in " }{TEXT 298 6 "eq22b " }{TEXT -1 54 "and obtain four algebraic eq
+uations for the constants " }{XPPEDIT 18 0 "a[0],a[1],beta[0]" "6%&%\"
+aG6#\"\"!&F$6#\"\"\"&%%betaG6#F&" }{TEXT -1 7 " , and " }{XPPEDIT 18 
+0 "beta[1]" "&%%betaG6#\"\"\"" }{TEXT -1 15 ". The result is" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 71 "eq22c:=[subs(epsilon=0,eq22b
+),map(eq->0=coeff(rhs(eq),epsilon),eq22b)];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&eq22cG7$7$/%#u0G*&&%\"aG6#\"\"!\"\"\"-%$cosG6#&%%bet
+aGF,F./%#v0G,$*&F*F.-%$sinGF1F.!\"\"7$/F-,&*&F*\"\"$-F06#,$F2F?F.#F.\"
+#K*&&F+6#F.F.-F06#&F3FGF.F./F-,(*&F*F?F8F.#!\"$\"\")*&F*F?-F9FAF.#FOFD
+*&FFF.-F9FIF.F:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 11 "Thus, once " }
+{XPPEDIT 18 0 "a[0]" "&%\"aG6#\"\"!" }{TEXT -1 5 " and " }{XPPEDIT 18 
+0 "beta[0]" "&%%betaG6#\"\"!" }{TEXT -1 16 " are known from " }{TEXT 
+299 8 "eq22c[1]" }{TEXT -1 2 ", " }{XPPEDIT 18 0 "a[1]" "&%\"aG6#\"\"
+\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta[1]" "&%%betaG6#\"\"\"" }
+{TEXT -1 24 " can be calculated from " }{TEXT 300 8 "eq22c[2]" }{TEXT 
+-1 1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 133 "Alternatively, instea
+d of including the homogeneous solution at each order and consider the
+ arbitrary constants to be independent of " }{XPPEDIT 18 0 "epsilon" "
+I(epsilonG6\"" }{TEXT -1 140 " as done above, one may disregard the ho
+mogeneous solution at all orders except the first and consider the arb
+itrary constants to depend on " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6
+\"" }{TEXT -1 110 " in imposing the initial conditions. With the latte
+r approach, the solution to first order can be rewritten as" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "subs(a[0]=a,beta[0]=beta,a[1
+]=0,sol);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%\"uG6#%\"tG,&*&%\"aG\"
+\"\"-%$cosG6#,&%%betaGF+F'F+F+F+*&%(epsilonGF+,&*(F*\"\"$F'F+-%$sinGF.
+F+#!\"$\"\")*&F*F5-F-6#,&F0F5F'F5F+#F+\"#KF+F+" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 33 "We note that the correction term " }{XPPEDIT 18 0 "e
+psilon*(-3/8*a^3*t*sin(t+beta)+a^3*cos(3*t+3*beta)/32)" "*&%(epsilonG
+\"\"\",&*,\"\"$F$\"\")!\"\"%\"aG\"\"$%\"tGF$-%$sinG6#,&F,F$%%betaGF$F$
+F)*(F*\"\"$-%$cosG6#,&*&\"\"$F$F,F$F$*&\"\"$F$F1F$F$F$\"#KF)F$F$" }
+{TEXT -1 41 " is small compared to the principal term " }{XPPEDIT 18 
+0 "a*cos(t+beta" "*&%\"aG\"\"\"-%$cosG6#,&%\"tGF$%%betaGF$F$" }{TEXT 
+-1 38 " , as it is supposed to be, only when " }{XPPEDIT 18 0 "epsilon
+*t" "*&%(epsilonG\"\"\"%\"tGF$" }{TEXT -1 36 " is small compared with \+
+unity. When " }{XPPEDIT 18 0 "epsilon*t" "*&%(epsilonG\"\"\"%\"tGF$" }
+{TEXT -1 122 " is O(1), the term that is supposed to be a small correc
+tion becomes the same order as the principal term. Moreover, when " }
+{XPPEDIT 18 0 "epsilon*t" "*&%(epsilonG\"\"\"%\"tGF$" }{TEXT -1 1 " " 
+}{XPPEDIT 18 0 "`>`" "I\">G6\"" }{TEXT -1 161 " O(1), the \"small-corr
+ection\" term becomes larger than the principal term. Hence, the above
+ obtained straightforward expansion is valid only for times such that \+
+" }{XPPEDIT 18 0 "epsilon*t" "*&%(epsilonG\"\"\"%\"tGF$" }{TEXT -1 1 "
+ " }{XPPEDIT 18 0 "`<`" "I\"<G6\"" }{TEXT -1 16 " O(1); that is, " }
+{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 1 " " }{XPPEDIT 18 0 "`<`" "I\"
+<G6\"" }{TEXT -1 7 " O(1 / " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" 
+}{TEXT -1 101 " ). Consequently, we say such expansions are nonuniform
+ or breakdown for long times and we call them " }{TEXT 301 11 "pedestr
+ian " }{TEXT -1 3 "or " }{TEXT 302 16 "naive expansions" }{TEXT -1 82 
+". The reason for the breakdown of the above expansion is the presence
+ of the term " }{XPPEDIT 18 0 "t*sin(t+beta)" "*&%\"tG\"\"\"-%$sinG6#,
+&F#F$%%betaGF$F$" }{TEXT -1 200 " , a product of algebraic and circula
+r terms. Such terms are called mixed-secular terms. In subsequent sect
+ions, we implement four methods that avoid secular terms, and hence yi
+eld uniform expansions." }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 303 36 "2.3
+ The Lindstedt-Poincar\351 Technique" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 362 "The breakdown in the straightforward expansion is due to its f
+ailure to account for the nonlinear dependence of the frequency of the
+ system on the nonlinearity. A number of techniques that yield uniform
+ly valid expansions have been developed. Four of these techniques are \+
+discussed in this chapter. We start with the Lindstedt-Poincar\351 tec
+hnique in this section." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "To acc
+ount for the dependence of the frequency " }{XPPEDIT 18 0 "omega" "I&o
+megaG6\"" }{TEXT -1 58 " of the system on the nonlinearity, we explici
+tly exhibit " }{XPPEDIT 18 0 "omega" "I&omegaG6\"" }{TEXT -1 86 " in t
+he governing differential equation. To this end, we introduce the tran
+sformation " }{XPPEDIT 18 0 "tau=omega*t" "/%$tauG*&%&omegaG\"\"\"%\"t
+GF&" }{TEXT -1 9 " , where " }{XPPEDIT 18 0 "omega" "I&omegaG6\"" }
+{TEXT -1 31 " is a constant that depends on " }{XPPEDIT 18 0 "epsilon
+" "I(epsilonG6\"" }{TEXT -1 13 " , and obtain" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 18 "u:=t->us(omega*t);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"uG:6#%\"tG6\"6$%)operatorG%&arrowGF(-%#usG6#*&%&omegaG\"\"\"
+9$F1F(F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "eq23a:=subs(t=t
+au/omega,us=u,DuffingEq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq23aG
+/,(*&---%#@@G6$%\"DG\"\"#6#%\"uG6#%$tauG\"\"\"%&omegaGF.F3-F0F1F3*&%(e
+psilonGF3F5\"\"$F3\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "u
+:='u':" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 52 "To determine a uniform \+
+expansion of the solution of " }{TEXT 304 5 "eq23a" }{TEXT -1 17 ", we
+ expand both " }{XPPEDIT 18 0 "u(tau,epsilon)" "-%\"uG6$%$tauG%(epsilo
+nG" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "omega(epsilon)" "-%&omegaG6#%(
+epsilonG" }{TEXT -1 14 " in powers of " }{XPPEDIT 18 0 "epsilon" "I(ep
+silonG6\"" }{TEXT -1 7 " using " }{TEXT 408 4 "uExp" }{TEXT -1 4 " and
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 65 "omgRule:=(maxOrder,omeg
+a)->sum(epsilon^i*omega[i],i=0..maxOrder);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%(omgRuleG:6$%)maxOrderG%&omegaG6\"6$%)operatorG%&arro
+wGF)-%$sumG6$*&)%(epsilonG%\"iG\"\"\"&9%6#F3F4/F3;\"\"!9$F)F)" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 0 "omega[0]" "
+&%&omegaG6#\"\"!" }{TEXT -1 137 " is the linear natural frequency of t
+he system. In the present case, the linear natural frequency was norma
+lized to unity. Hence, we set " }{XPPEDIT 18 0 "omega[0]=1" "/&%&omega
+G6#\"\"!\"\"\"" }{TEXT -1 118 " . The corrections to the linear freque
+ncy are determined in the course of the analysis by requiring the expa
+nsion of " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 23 " to be uniform \+
+for all " }{XPPEDIT 18 0 "tau" "I$tauG6\"" }{TEXT -1 39 " . Next, we s
+how how one can determine " }{XPPEDIT 18 0 "omega[1]" "&%&omegaG6#\"\"
+\"" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "Substitutin
+g the expansions of " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 5 " and \+
+" }{XPPEDIT 18 0 "omega" "I&omegaG6\"" }{TEXT -1 6 " into " }{TEXT 
+305 5 "eq23a" }{TEXT -1 22 ", using the fact that " }{XPPEDIT 18 0 "om
+ega[0]=1" "/&%&omegaG6#\"\"!\"\"\"" }{TEXT -1 11 " , setting " }
+{XPPEDIT 18 0 "maxOrder=1" "/%)maxOrderG\"\"\"" }{TEXT -1 67 " , expan
+ding the result, and discarding terms of order higher than " }
+{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 12 " , we obtain" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 85 "temp:=subs(u(tau)=uExp(1,ta
+u),omega=omgRule(1,omega),omega[0]=1,convert(eq23a,diff));" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%%tempG/,**&-%%diffG6$-F)6$,&-&%\"uG6#\"\"!
+6#%$tauG\"\"\"*&%(epsilonGF5-&F06#F5F3F5F5F4F4F5,&F5F5*&F7F5&%&omegaGF
+:F5F5\"\"#F5F.F5F6F5*&F7F5F-\"\"$F5F2" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 56 "eq23b:=convert(series(lhs(temp),epsilon=0,2),polynom)
+=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eq23bG/,(-%%diffG6$-F(6$-&%
+\"uG6#\"\"!6#%$tauGF2F2\"\"\"F,F3*&,**&F'F3&%&omegaG6#F3F3\"\"#-F(6$-F
+(6$-&F.F9F1F2F2F3F?F3*$F,\"\"$F3F3%(epsilonGF3F3F0" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 40 "Equating coefficients of like powers of " }
+{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 18 " on both sides o
+f " }{TEXT 306 6 "eq23b " }{TEXT -1 6 "yields" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 57 "eqEps:=subs(epsilon=0,eq23b),coeff(lhs(eq23b),ep
+silon)=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eqEpsG6$/,&-%%diffG6$-
+F)6$-&%\"uG6#\"\"!6#%$tauGF3F3\"\"\"F-F4F1/,**&F(F4&%&omegaG6#F4F4\"\"
+#-F)6$-F)6$-&F/F:F2F3F3F4F@F4*$F-\"\"$F4F1" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 24 "The general solution of " }{TEXT 307 8 "eqEps[1]" }{TEXT 
+-1 62 ", the zeroth-order equation, can be expressed in polar form as
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 79 "sol0:=dsolve(\{eqEps[1]
+,u[0](0)=a*cos(beta),D(u[0])(0)=-a*sin(beta)\},u[0](tau));" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%%sol0G/-&%\"uG6#\"\"!6#%$tauG,&*(%\"aG\"\"
+\"-%$sinG6#%%betaGF0-F2F+F0!\"\"*(F/F0-%$cosGF3F0-F9F+F0F0" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 0 "a" "I\"aG6\"" }
+{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta" "I%betaG6\"" }{TEXT -1 33 " a
+re constants. Substituting for " }{XPPEDIT 18 0 "u[0](tau)" "-&%\"uG6#
+\"\"!6#%$tauG" }{TEXT -1 4 " in " }{TEXT 308 8 "eqEps[2]" }{TEXT -1 
+34 ", the first-order equation, yields" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 39 "order1Eq:=combine(subs(sol0,eqEps[2]));" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%)order1EqG/,,-%%diffG6$-F(6$-&%\"uG6#\"\"\"6#%
+$tauGF2F2F0*(%\"aGF0-%$cosG6#,&%%betaGF0F2F0F0&%&omegaGF/F0!\"#F,F0*&F
+4\"\"$-F66#,&F9F>F2F>F0#F0\"\"%*&F4F>F5F0#F>FC\"\"!" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 28 "whose particular solution is" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 98 "u1pSol:=subs(_C1=0,_C2=0,cos(tau+3*beta)=
+0,cos(tau-3*beta)=0,combine(dsolve(order1Eq,u[1](tau))));" }}{PARA 12 
+"" 1 "" {XPPMATH 20 "6#>%'u1pSolG/-&%\"uG6#\"\"\"6#%$tauG,0*(%\"aG\"\"
+$F,F*-%$sinG6#,&%%betaGF*F,F*F*#!\"$\"\")*(F/F*&%&omegaGF)F*-%$cosG6#,
+&F5!\"\"F,F*F*#F*\"\"#**F/F*F:F*F,F*F1F*F**&F/F0F<F*#F7\"#;*(F/F*-F=F3
+F*F:F*FA*&F/F0-F=6#,&F5F0F,F0F*#F*\"#K*&F/F0FHF*FE" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 17 "It is clear that " }{TEXT 309 7 "u1pSol " }{TEXT 
+-1 169 "contains a mixed-secular term, which makes the expansion nonun
+iform. In contrast with the straightforward expansion, where the secul
+ar term cannot be annihilated unless " }{XPPEDIT 18 0 "u" "I\"uG6\"" }
+{TEXT -1 55 " is trivial, in this case, we can choose the parameter " 
+}{XPPEDIT 18 0 "omega[1]" "&%&omegaG6#\"\"\"" }{TEXT -1 43 " to elimin
+ate the secular term according to" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 66 "omg1:=omega[1]=solve(coeff(rhs(u1pSol),sin(beta+tau))
+=0,omega[1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%omg1G/&%&omegaG6#
+\"\"\",$*$%\"aG\"\"##\"\"$\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+17 "Substituting for " }{XPPEDIT 18 0 "omega[1]" "&%&omegaG6#\"\"\"" }
+{TEXT -1 6 " into " }{TEXT 310 6 "u1pSol" }{TEXT -1 9 ", we have" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "sol1:=subs(omg1,u1pSol);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%sol1G/-&%\"uG6#\"\"\"6#%$tauG,$*&%
+\"aG\"\"$-%$cosG6#,&%%betaGF0F,F0F*#F*\"#K" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 86 "We note that, to determine the condition for the eliminat
+ion of the secular term from " }{XPPEDIT 18 0 "u[1]" "&%\"uG6#\"\"\"" 
+}{TEXT -1 109 " , we do not need to determine the particular solution \+
+first as done above. Instead, we only need to inspect " }{TEXT 311 9 "
+order1Eq " }{TEXT -1 11 "and choose " }{XPPEDIT 18 0 "omega[1]" "&%&om
+egaG6#\"\"\"" }{TEXT -1 28 " so that the coefficient of " }{XPPEDIT 
+18 0 "cos(beta+tau)" "-%$cosG6#,&%%betaG\"\"\"%$tauGF'" }{TEXT -1 35 "
+ , which produces secular terms in " }{XPPEDIT 18 0 "u[1]" "&%\"uG6#\"
+\"\"" }{TEXT -1 29 " , is equal to zero. That is," }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 62 "omega[1]=solve(coeff(lhs(order1Eq),cos(beta+
+tau))=0,omega[1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/&%&omegaG6#\"\"
+\",$*$%\"aG\"\"##\"\"$\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Su
+bstituting " }{TEXT 312 4 "sol0" }{TEXT -1 5 " and " }{TEXT 313 4 "sol
+1" }{TEXT -1 6 " into " }{TEXT 314 5 "uExp " }{TEXT -1 6 "yields" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "u(tau)=combine(subs(sol0,sol
+1,uExp(1,tau)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%\"uG6#%$tauG,&*
+&%\"aG\"\"\"-%$cosG6#,&%%betaGF+F'F+F+F+*(%(epsilonGF+F*\"\"$-F-6#,&F0
+F3F'F3F+#F+\"#K" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 10 "Replacing " }
+{XPPEDIT 18 0 "tau" "I$tauG6\"" }{TEXT -1 6 " with " }{XPPEDIT 18 0 "o
+mega*t" "*&%&omegaG\"\"\"%\"tGF$" }{TEXT -1 20 " , substituting for " 
+}{XPPEDIT 18 0 "omega" "I&omegaG6\"" }{TEXT -1 23 " , using the fact t
+hat " }{XPPEDIT 18 0 "omega[0]=1" "/&%&omegaG6#\"\"!\"\"\"" }{TEXT -1 
+72 " , and expanding the arguments of the trigonometric functions, we \+
+obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 73 "solLP:=u(t)=combi
+ne(subs(tau=omgRule(1,omega)*t,omega[0]=1,omg1,rhs(\")));" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%&solLPG/-%\"uG6#%\"tG,&*&%\"aG\"\"\"-%$cosG6#
+,(%%betaGF-F)F-*(F)F-%(epsilonGF-F,\"\"##\"\"$\"\")F-F-*(F4F-F,F7-F/6#
+,(F2F7F)F7F3#\"\"*F8F-#F-\"#K" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 23 "
+Clearly, the expansion " }{TEXT 315 6 "solLP " }{TEXT -1 49 "is free o
+f secular terms and the correction term " }{XPPEDIT 18 0 "epsilon*a^3*
+cos(3*beta+3*t+9/8*t*epsilon*a^2)/32" "**%(epsilonG\"\"\"*$%\"aG\"\"$F
+$-%$cosG6#,(*&\"\"$F$%%betaGF$F$*&\"\"$F$%\"tGF$F$*,\"\"*F$\"\")!\"\"F
+1F$F#F$F&\"\"#F$F$\"#KF5" }{TEXT -1 43 " is small compared with the pr
+incipal term " }{XPPEDIT 18 0 "a*cos(beta+t+3/8*t*epsilon*a^2)" "*&%\"
+aG\"\"\"-%$cosG6#,(%%betaGF$%\"tGF$*,\"\"$F$\"\")!\"\"F*F$%(epsilonGF$
+F#\"\"#F$F$" }{TEXT -1 9 " for all " }{XPPEDIT 18 0 "t" "I\"tG6\"" }
+{TEXT -1 33 " and hence it is uniformly valid." }}}}{SECT 1 {PARA 4 "
+" 0 "" {TEXT -1 33 "2.4 The Method of Multiple Scales" }}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 13 "We note from " }{TEXT 316 6 "solLP " }{TEXT -1 
+34 "that the functional dependence of " }{XPPEDIT 18 0 "u" "I\"uG6\"" 
+}{TEXT -1 4 " on " }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 27 " is not disjoint
+. In fact, " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 28 " depends on t
+he combination " }{XPPEDIT 18 0 "epsilon*t" "*&%(epsilonG\"\"\"%\"tGF$
+" }{TEXT -1 30 " as well as on the individual " }{XPPEDIT 18 0 "t" "I
+\"tG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" 
+}{TEXT -1 60 " . Carrying out the expansion to higher order, we find t
+hat " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 29 " depends on the comb
+inations " }{XPPEDIT 18 0 "epsilon*t" "*&%(epsilonG\"\"\"%\"tGF$" }
+{TEXT -1 3 " , " }{XPPEDIT 18 0 "epsilon^2*t" "*&%(epsilonG\"\"#%\"tG
+\"\"\"" }{TEXT -1 3 " , " }{XPPEDIT 18 0 "epsilon^3*t" "*&%(epsilonG\"
+\"$%\"tG\"\"\"" }{TEXT -1 36 " , ... as well as on the individual " }
+{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "epsil
+on" "I(epsilonG6\"" }{TEXT -1 10 " . Hence, " }{XPPEDIT 18 0 "u=u(epsi
+lon*t,epsilon^2*t,epsilon^3*t,`...;` epsilon)" "/%\"uG-F#6&*&%(epsilon
+G\"\"\"%\"tGF(*&F'\"\"#F)F(*&F'\"\"$F)F(*&%%...;GF(F'F(" }{TEXT -1 13 
+" . For small " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 3 "
+ , " }{XPPEDIT 18 0 "T[n]=epsilon^n*t" "/&%\"TG6#%\"nG*&)%(epsilonGF&
+\"\"\"%\"tGF*" }{TEXT -1 7 " , for " }{XPPEDIT 18 0 "n=1,2,3" "6%/%\"n
+G\"\"\"\"\"#\"\"$" }{TEXT -1 57 " , ..., represent different time scal
+es. For example, if " }{XPPEDIT 18 0 "epsilon=1/60" "/%(epsilonG*&\"\"
+\"\"\"\"\"#g!\"\"" }{TEXT -1 33 " , variations on the time scales " }
+{XPPEDIT 18 0 "T[0],T[1]" "6$&%\"TG6#\"\"!&F$6#\"\"\"" }{TEXT -1 7 " ,
+ and " }{XPPEDIT 18 0 "T[2]" "&%\"TG6#\"\"#" }{TEXT -1 87 " can be obs
+erved, respectively, on the second, minute, and hour arms of a watch. \+
+Thus, " }{XPPEDIT 18 0 "T[0]" "&%\"TG6#\"\"!" }{TEXT -1 31 " represent
+s a fast time scale, " }{XPPEDIT 18 0 "T[1]" "&%\"TG6#\"\"\"" }{TEXT 
+-1 33 " represents a slower time scale, " }{XPPEDIT 18 0 "T[2]" "&%\"T
+G6#\"\"#" }{TEXT -1 74 " represents an even slower time scale, and so \+
+on. Since the dependence of " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 
+4 " on " }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 5 " and " }{XPPEDIT 
+18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 105 " occurs on different tim
+e scales, we imagine that we have a watch and attempt to observe the b
+ehavior of " }{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 76 " using the di
+fferent scales of the watch. Therefore, instead of determining " }
+{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 18 " as a function of " }
+{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 16 " , we determine " }
+{XPPEDIT 18 0 "u" "I\"uG6\"" }{TEXT -1 18 " as a function of " }
+{XPPEDIT 18 0 "T[0],T[1],T[2]" "6%&%\"TG6#\"\"!&F$6#\"\"\"&F$6#\"\"#" 
+}{TEXT -1 56 " , .... To this end, we change the independent variable \+
+" }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 32 " in the governing equati
+on from " }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 4 " to " }{XPPEDIT 
+18 0 "T[0],T[1],T[2]" "6%&%\"TG6#\"\"!&F$6#\"\"\"&F$6#\"\"#" }{TEXT 
+-1 28 " , ..., which are defined as" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 27 "timeScales:=T[0],T[1],T[2]:" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 37 "We define the derivative operators as" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 75 "dt[1]:=expr->sum(epsilon^'i'*Diff(expr,ti
+meScales['i'+1]),'i'=0..maxOrder);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>&%#dtG6#\"\"\":6#%%exprG6\"6$%)operatorG%&arrowGF+-%$sumG6$*&)%(epsil
+onG.%\"iGF'-%%DiffG6$9$&%+timeScalesG6#,&F5F'F'F'F'/F5;\"\"!%)maxOrder
+GF+F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "dt[2]:=expr->value
+(dt[1](dt[1](expr)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>&%#dtG6#\"\"
+#:6#%%exprG6\"6$%)operatorG%&arrowGF+-%&valueG6#-&F%6#\"\"\"6#-F36#9$F
++F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 26 "and treat the time scales \+
+" }{XPPEDIT 18 0 "T[0],T[1]" "6$&%\"TG6#\"\"!&F$6#\"\"\"" }{TEXT -1 7 
+" , and " }{XPPEDIT 18 0 "T[2]" "&%\"TG6#\"\"#" }{TEXT -1 26 " as inde
+pendent variables." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 88 "Next, we us
+e the method of multiple scales to determine an approximate solution f
+or the " }{TEXT 317 9 "DuffingEq" }{TEXT -1 33 ". In Section 2.4.1, we
+ treat the " }{TEXT 318 10 "DuffingEq " }{TEXT -1 192 "in its second-o
+rder form; in Section 2.4.2, we transform it first into a system of tw
+o real-valued equations; and in Section 2.4.3, we transform it first i
+nto a single complex-valued equation." }}}{SECT 1 {PARA 5 "" 0 "" 
+{TEXT -1 37 "2.4.1 Second-Order Real-Valued System" }}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 113 "To determine a first-order uniform expansion of t
+he solution of the Duffing equation, we use the two time scales " }
+{XPPEDIT 18 0 "T[0]" "&%\"TG6#\"\"!" }{TEXT -1 5 " and " }{XPPEDIT 18 
+0 "T[1]" "&%\"TG6#\"\"\"" }{TEXT -1 14 " and hence let" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "maxOrder:=1:" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 34 "Expressing the time derivative in " }{TEXT 319 10 "D
+uffingEq " }{TEXT -1 32 "in terms of the two time scales " }{XPPEDIT 
+18 0 "T[0]" "&%\"TG6#\"\"!" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "T[1]" 
+"&%\"TG6#\"\"\"" }{TEXT -1 10 " , we have" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 85 "temp:=subs(u(t)=u(T[0],T[1]),seq((D@@k)(u)(t)=dt[k]
+(u(T[0],T[1])),k=1..2),DuffingEq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%%tempG/,,-%%diffG6$-F(6$-%\"uG6$&%\"TG6#\"\"!&F06#\"\"\"F/F/F5*&%(ep
+silonGF5-F(6$-F(6$F,F3F/F5F5*&F7F5,&F8F5*&F7F5-F(6$F:F3F5F5F5F5F,F5*&F
+7F5F,\"\"$F5F2" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "eq241a:=c
+onvert(series(lhs(temp),epsilon=0,2),polynom)=0;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'eq241aG/,(-%%diffG6$-F(6$-%\"uG6$&%\"TG6#\"\"!&F06#
+\"\"\"F/F/F5F,F5*&,&-F(6$-F(6$F,F3F/\"\"#*$F,\"\"$F5F5%(epsilonGF5F5F2
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 500 "Consequently, we have replac
+ed the original ordinary-differential equation by a partial-differenti
+al equation, and it appears that, as a result, we have complicated the
+ problem. This is partially true, but experience with this method has \+
+shown that the disadvantages of introducing this complication are far \+
+outweighed by the advantages. Not only does this method provide a unif
+orm expansion, but it also provides all the various nonlinear resonanc
+e phenomena, as we shall see in subsequent chapters." }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 60 "We seek a uniform second-order expansion of the
+ solution of " }{TEXT 320 7 "eq241a " }{TEXT -1 11 "in the form" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "solForm:=u(T[0],T[1])=add(ep
+silon^i*u[i](T[0],T[1]),i=0..maxOrder);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%(solFormG/-%\"uG6$&%\"TG6#\"\"!&F*6#\"\"\",&-&F'F+F(F/*&%(epsi
+lonGF/-&F'F.F(F/F/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 33 "Substitutin
+g this expansion into " }{TEXT 321 6 "eq241a" }{TEXT -1 62 ", expandin
+g the result, discarding terms of order higher than " }{XPPEDIT 18 0 "
+epsilon" "I(epsilonG6\"" }{TEXT -1 47 " , and equating coefficients of
+ like powers of " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 
+12 " , we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 72 "eqEps:=
+seq(coeff(expand(subs(solForm,lhs(eq241a))),epsilon,i)=0,i=0..1);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&eqEpsG6$/,&-%%diffG6$-F)6$-&%\"uG6#
+\"\"!6$&%\"TGF0&F46#\"\"\"F3F3F7F-F7F1/,*-F)6$-F)6$-&F/F6F2F3F3F7F>F7-
+F)6$-F)6$F-F5F3\"\"#*$F-\"\"$F7F1" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+24 "The general solution of " }{TEXT 322 8 "eqEps[1]" }{TEXT -1 18 " c
+an be written as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "sol0:=u
+[0](T[0],T[1])=a(T[1])*cos(T[0]+beta(T[1]));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%%sol0G/-&%\"uG6#\"\"!6$&%\"TGF)&F-6#\"\"\"*&-%\"aG6#F
+.F0-%$cosG6#,&F,F0-%%betaGF4F0F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+29 "The functional dependence of " }{XPPEDIT 18 0 "a" "I\"aG6\"" }
+{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta" "I%betaG6\"" }{TEXT -1 4 " on
+ " }{XPPEDIT 18 0 "T[1]" "&%\"TG6#\"\"\"" }{TEXT -1 134 " is not known
+ at this level of approximation; it is determined at subsequent levels
+ of approximation by eliminating the secular terms." }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 13 "Substituting " }{TEXT 323 5 "sol0 " }{TEXT -1 
+5 "into " }{TEXT 324 8 "eqEps[2]" }{TEXT -1 92 " and moving the nonhom
+ogeneous parts to the right-hand side of the resulting equation yields
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "temp:=subs(u[0]=u[1],lh
+s(eqEps[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%tempG,&-%%diffG6$-
+F'6$-&%\"uG6#\"\"\"6$&%\"TG6#\"\"!&F2F.F1F1F/F+F/" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 40 "order1Eq:=(temp=temp)-(0=lhs(eqEps[2]));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)order1EqG/,&-%%diffG6$-F(6$-&%\"uG6
+#\"\"\"6$&%\"TG6#\"\"!&F3F/F2F2F0F,F0,&-F(6$-F(6$-&F.F4F1F6F2!\"#*$F<
+\"\"$!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "eq241b:=subs(
+sol0,order1Eq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'eq241bG/,&-%%dif
+fG6$-F(6$-&%\"uG6#\"\"\"6$&%\"TG6#\"\"!&F3F/F2F2F0F,F0,&-F(6$-F(6$*&-%
+\"aG6#F6F0-%$cosG6#,&F2F0-%%betaGF?F0F0F6F2!\"#*&F=\"\"$F@FH!\"\"" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "Next, we expand the right-hand sid
+e of " }{TEXT 325 7 "eq241b " }{TEXT -1 61 "in a Fourier series using \+
+trigonometric identities and obtain" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 33 "eq241b_RHS:=combine(rhs(eq241b));" }}{PARA 12 "" 1 "
+" {XPPMATH 20 "6#>%+eq241b_RHSG,**&-%%diffG6$-%\"aG6#&%\"TG6#\"\"\"F-F
+0-%$sinG6#,&&F.6#\"\"!F0-%%betaGF,F0F0\"\"#*(F*F0-%$cosGF3F0-F(6$F8F-F
+0F:*&F*\"\"$-F=6#,&F5FAF8FAF0#!\"\"\"\"%*&F*FAF<F0#!\"$FG" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 87 "To produce a uniform expansion, we elimin
+ate the terms that produce secular terms from " }{TEXT 326 10 "eq241b_
+RHS" }{TEXT -1 21 "; that is, we choose " }{XPPEDIT 18 0 "diff(a(T[1])
+,T[1])" "-%%diffG6$-%\"aG6#&%\"TG6#\"\"\"&F)6#\"\"\"" }{TEXT -1 5 " an
+d " }{XPPEDIT 18 0 "diff(beta(T[1]),T[1])" "-%%diffG6$-%%betaG6#&%\"TG
+6#\"\"\"&F)6#\"\"\"" }{TEXT -1 43 " to annihilate each of the coeffici
+ents of " }{XPPEDIT 18 0 "sin(T[0]+beta(T[1]))" "-%$sinG6#,&&%\"TG6#\"
+\"!\"\"\"-%%betaG6#&F'6#\"\"\"F*" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "
+cos(T[0]+beta(T[1]))" "-%$cosG6#,&&%\"TG6#\"\"!\"\"\"-%%betaG6#&F'6#\"
+\"\"F*" }{TEXT -1 16 " . The result is" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 49 "eq241c:=coeff(eq241b_RHS,sin(T[0]+beta(T[1])))=0;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'eq241cG/,$-%%diffG6$-%\"aG6#&%\"TG6
+#\"\"\"F-\"\"#\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "eq24
+1d:=coeff(eq241b_RHS,cos(T[0]+beta(T[1])))=0;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'eq241dG/,&*&-%\"aG6#&%\"TG6#\"\"\"F.-%%diffG6$-%%bet
+aGF*F+F.\"\"#*$F(\"\"$#!\"$\"\"%\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 8 "Solving " }{TEXT 327 7 "eq241c " }{TEXT -1 4 "and " }
+{TEXT 328 7 "eq241d " }{TEXT -1 4 "for " }{XPPEDIT 18 0 "diff(a(T[1]),
+T[1])" "-%%diffG6$-%\"aG6#&%\"TG6#\"\"\"&F)6#\"\"\"" }{TEXT -1 5 " and
+ " }{XPPEDIT 18 0 "diff(beta(T[1]),T[1])" "-%%diffG6$-%%betaG6#&%\"TG6
+#\"\"\"&F)6#\"\"\"" }{TEXT -1 6 " when " }{XPPEDIT 18 0 "a(T[1])<>0" "
+0-%\"aG6#&%\"TG6#\"\"\"\"\"!" }{TEXT -1 7 " yields" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 86 "SCond:=[solve(\{eq241c\},diff(a(T[1]),T[1])
+)[],solve(\{eq241d\},diff(beta(T[1]),T[1]))[]];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&SCondG7$/-%%diffG6$-%\"aG6#&%\"TG6#\"\"\"F-\"\"!/-F(
+6$-%%betaGF,F-,$*$F*\"\"##\"\"$\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 16 "The solution of " }{TEXT 329 8 "SCond[1]" }{TEXT -1 4 " is " }
+{XPPEDIT 18 0 "a=a[0]" "/%\"aG&F#6#\"\"!" }{TEXT -1 35 " = constant. T
+hen, the solution of " }{TEXT 330 8 "SCond[2]" }{TEXT -1 3 " is" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "betaSol:=subs(_C1=beta[0],ds
+olve(subs(a(T[1])=a[0],SCond[2]),beta(T[1])));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%(betaSolG/-%%betaG6#&%\"TG6#\"\"\",&*&&%\"aG6#\"\"!\"
+\"#F)F,#\"\"$\"\")&F'F1F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "With
+ the above solvability conditions, " }{TEXT 331 7 "eq241b " }{TEXT -1 
+7 "becomes" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "eq241e:=lhs(e
+q241b)=subs(SCond,eq241b_RHS);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'e
+q241eG/,&-%%diffG6$-F(6$-&%\"uG6#\"\"\"6$&%\"TG6#\"\"!&F3F/F2F2F0F,F0,
+$*&-%\"aG6#F6\"\"$-%$cosG6#,&F2F<-%%betaGF;F<F0#!\"\"\"\"%" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 27 "The particular solution of " }{TEXT 332 
+7 "eq241e " }{TEXT -1 18 "can be obtained as" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 51 "u1Form:=u[1](T[0],T[1])=c*cos(3*T[0]+3*beta(T[1]
+));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'u1FormG/-&%\"uG6#\"\"\"6$&%
+\"TG6#\"\"!&F-F)*&%\"cGF*-%$cosG6#,&F,\"\"$-%%betaG6#F0F7F*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "sol1:=subs(c=solve(value(sub
+s(u1Form,eq241e)),c),u1Form);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%so
+l1G/-&%\"uG6#\"\"\"6$&%\"TG6#\"\"!&F-F),$*&-%\"aG6#F0\"\"$-%$cosG6#,&F
+,F6-%%betaGF5F6F*#F*\"#K" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 
+"eq241f:=subs(sol0,sol1,a(T[1])=a[0],betaSol,solForm);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%'eq241fG/-%\"uG6$&%\"TG6#\"\"!&F*6#\"\"\",&*&&%
+\"aGF+F/-%$cosG6#,(F)F/*&F2\"\"#F-F/#\"\"$\"\")&%%betaGF+F/F/F/*(%(eps
+ilonGF/F2F;-F56#,(F)F;F8#\"\"*F<F=F;F/#F/\"#K" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 6 "where " }{XPPEDIT 18 0 "a[0]" "&%\"aG6#\"\"!" }{TEXT 
+-1 5 " and " }{XPPEDIT 18 0 "beta[0]" "&%%betaG6#\"\"!" }{TEXT -1 93 "
+ are constants to within the order of the error indicated. In terms of
+ the original variable " }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 3 " ,
+ " }{TEXT 333 7 "eq241f " }{TEXT -1 19 "can be expressed as" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "u(t)=subs(T[0]=t,T[1]=epsilo
+n*t,rhs(eq241f));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%\"uG6#%\"tG,&*
+&&%\"aG6#\"\"!\"\"\"-%$cosG6#,(F'F.*(F*\"\"#%(epsilonGF.F'F.#\"\"$\"\"
+)&%%betaGF,F.F.F.*(F5F.F*F7-F06#,(F'F7F3#\"\"*F8F9F7F.#F.\"#K" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 83 "in agreement with the expansion ob
+tained by using the Lindstedt-Poincar\351 technique." }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 58 "In the higher-order approximations, we include \+
+the scales " }{XPPEDIT 18 0 "T[0],T[1]" "6$&%\"TG6#\"\"!&F$6#\"\"\"" }
+{TEXT -1 8 " , ..., " }{XPPEDIT 18 0 "T[N]" "&%\"TG6#%\"NG" }{TEXT -1 
+33 "  but we do not include the term " }{XPPEDIT 18 0 "O(epsilon^N)" "
+-%\"OG6#)%(epsilonG%\"NG" }{TEXT -1 7 " in an " }{XPPEDIT 18 0 "N" "I
+\"NG6\"" }{TEXT -1 20 " th-order expansion." }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 148 "Before closing this section, we present an alternate r
+epresentation of the solutions of the perturbation equations. Instead \+
+of the real-valued form " }{TEXT 334 4 "sol0" }{TEXT -1 31 ", we repre
+sent the solution of " }{TEXT 335 8 "eqEps[1]" }{TEXT -1 35 " in a com
+plex-valued form; that is," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+74 "sol0:=u[0](T[0],T[1])=A(T[1])*exp(I*T[0])+conjugate(A)(T[1])*exp(-
+I*T[0]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%sol0G/-&%\"uG6#\"\"!6$&
+%\"TGF)&F-6#\"\"\",&*&-%\"AG6#F.F0-%$expG6#*&%\"IGF0F,F0F0F0*&--%*conj
+ugateG6#F4F5F0-F76#,$F9!\"\"F0F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+6 "where " }{XPPEDIT 18 0 "conjugate(A)" "-%*conjugateG6#%\"AG" }
+{TEXT -1 29 " is the complex conjugate of " }{XPPEDIT 18 0 "A" "I\"AG6
+\"" }{TEXT -1 4 " and" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 99 "po
+larForm:=A(T[1])=1/2*a(T[1])*exp(I*beta(T[1])),conjugate(A)(T[1])=1/2*
+a(T[1])*exp(-I*beta(T[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*pola
+rFormG6$/-%\"AG6#&%\"TG6#\"\"\",$*&-%\"aGF)F--%$expG6#*&%\"IGF--%%beta
+GF)F-F-#F-\"\"#/--%*conjugateG6#F(F),$*&F0F--F36#,$F5!\"\"F-F9" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Substituting " }{TEXT 336 5 "sol0 \+
+" }{TEXT -1 5 "into " }{TEXT 337 8 "eqEps[2]" }{TEXT -1 94 " and movin
+g the nonhomogeneous terms to the right-hand side of the resulting equ
+ation, we have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "eq241g:=e
+xpand(subs(sol0,order1Eq));" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%'eq24
+1gG/,&-%%diffG6$-F(6$-&%\"uG6#\"\"\"6$&%\"TG6#\"\"!&F3F/F2F2F0F,F0,.*(
+%\"IGF0-F(6$-%\"AG6#F6F6F0-%$expG6#*&F9F0F2F0F0!\"#*(F9F0-F(6$--%*conj
+ugateG6#F=F>F6F0F?!\"\"\"\"#*&F<\"\"$F?FNFK*(F<FLF?F0FGF0!\"$*(F<F0F?F
+KFGFLFP*&FGFNF?FPFK" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "We note th
+at the terms proportional to " }{XPPEDIT 18 0 "exp(I*T[0])" "-%$expG6#
+*&%\"IG\"\"\"&%\"TG6#\"\"!F'" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "exp(
+-I*T[0])" "-%$expG6#,$*&%\"IG\"\"\"&%\"TG6#\"\"!F(!\"\"" }{TEXT -1 53 
+" produce secular terms in the particular solution of " }{XPPEDIT 18 
+0 "u[1]" "&%\"uG6#\"\"\"" }{TEXT -1 114 " . Thus, to produce a uniform
+ expansion, we set the coefficient of each of these functions equal to
+ zero; that is," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 73 "eq241h:=
+map(term->coeff(rhs(eq241g),term)=0,[exp(I*T[0]),1/exp(I*T[0])]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'eq241hG7$/,&*&%\"IG\"\"\"-%%diffG6$
+-%\"AG6#&%\"TG6#F*F1F*!\"#*&F.\"\"#--%*conjugateG6#F/F0F*!\"$\"\"!/,&*
+&F)F*-F,6$F7F1F*F6*&F.F*F7F6F;F<" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+164 "These two equations are not independent because they are complex \+
+conjugates of each other. Hence, if one of them is satisfied, the othe
+r is automatically satisfied." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "
+To analyze the solutions of " }{TEXT 338 9 "eq241h[1]" }{TEXT -1 20 ",
+ we multiply it by " }{XPPEDIT 18 0 "exp(-I*beta(T[1]))" "-%$expG6#,$*
+&%\"IG\"\"\"-%%betaG6#&%\"TG6#\"\"\"F(!\"\"" }{TEXT -1 13 " and replac
+e " }{XPPEDIT 18 0 "A" "I\"AG6\"" }{TEXT -1 10 " with its " }{TEXT 
+339 9 "polarForm" }{TEXT -1 15 ". The result is" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 61 "eq241i:=expand(exp(-I*beta(T[1]))*subs(polarFo
+rm,eq241h[1]));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'eq241iG/,(*&%\"I
+G\"\"\"-%%diffG6$-%\"aG6#&%\"TG6#F)F0F)!\"\"*&F-F)-F+6$-%%betaGF/F0F)F
+)*$F-\"\"$#!\"$\"\")\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 50 "Next
+, we separate the real and imaginary parts of " }{TEXT 340 6 "eq241i" 
+}{TEXT -1 24 ". The imaginary part of " }{TEXT 341 6 "eq241i" }{TEXT 
+-1 3 " is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "ampEq:=coeff(l
+hs(eq241i),I)=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&ampEqG/,$-%%dif
+fG6$-%\"aG6#&%\"TG6#\"\"\"F-!\"\"\"\"!" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 75 "which governs the modulation of the amplitude. Similarly,
+ the real part of " }{TEXT 342 6 "eq241i" }{TEXT -1 3 " is" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "phaseEq:=subs(I=0,eq241i);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(phaseEqG/,&*&-%\"aG6#&%\"TG6#\"\"\"
+F.-%%diffG6$-%%betaGF*F+F.F.*$F(\"\"$#!\"$\"\")\"\"!" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 153 "which governs the modulation of the phase. The
+se modulation equations are in agreement with those obtained above by \+
+expressing the solution in real form." }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 198 "Comparing the complex-valued and the real-valued represe
+ntations, we find it more convenient to use the complex-valued form. T
+herefore, the complex-valued form is used in the remainder of this boo
+k." }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 36 "2.4.2 First-Order Real-Va
+lued System" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 7 "We let " }{XPPEDIT 
+18 0 "v(t)=diff(u(t),t)" "/-%\"vG6#%\"tG-%%diffG6$-%\"uG6#F&F&" }
+{TEXT -1 19 " and transform the " }{TEXT 343 10 "DuffingEq " }{TEXT 
+-1 52 "into the following set of two first-order equations:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "eq242a:=[diff(u(t),t)=v(t),d
+iff(v(t),t)+u(t)=-epsilon*u(t)^3];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+>%'eq242aG7$/-%%diffG6$-%\"uG6#%\"tGF--%\"vGF,/,&-F(6$F.F-\"\"\"F*F4,$
+*&%(epsilonGF4F*\"\"$!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 59 "We \+
+seek a first-order uniform expansion of the solution of " }{TEXT 344 
+6 "eq242a" }{TEXT -1 33 " in terms of the two time scales " }{XPPEDIT 
+18 0 "T[0]" "&%\"TG6#\"\"!" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "T[1]" 
+"&%\"TG6#\"\"\"" }{TEXT -1 12 " in the form" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 35 "solForm:=solForm,subs(u=v,solForm);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%(solFormG6$/-%\"uG6$&%\"TG6#\"\"!&F+6#\"\"\",&
+-&F(F,F)F0*&%(epsilonGF0-&F(F/F)F0F0/-%\"vGF),&-&F:F,F)F0*&F5F0-&F:F/F
+)F0F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Substituting " }{TEXT 
+345 8 "solForm " }{TEXT -1 5 "into " }{TEXT 346 6 "eq242a" }{TEXT -1 
+46 ", transforming the derivative with respect to " }{XPPEDIT 18 0 "t
+" "I\"tG6\"" }{TEXT -1 45 " in terms of the derivatives with respect t
+o " }{XPPEDIT 18 0 "T[0]" "&%\"TG6#\"\"!" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "T[1]" "&%\"TG6#\"\"\"" }{TEXT -1 45 " , and discarding \+
+terms of order higher than " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" 
+}{TEXT -1 12 " , we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+137 "temp:=value(subs(u(t)=u(T[0],T[1]),v(t)=v(T[0],T[1]),D(u)(t)=dt[1
+](u(T[0],T[1])),D(v)(t)=dt[1](v(T[0],T[1])),solForm,convert(eq242a,D))
+):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 87 "eq242b:=[seq(convert(
+series(lhs(temp[i])-rhs(temp[i]),epsilon=0,2),polynom)=0,i=1..2)];" }}
+{PARA 12 "" 1 "" {XPPMATH 20 "6#>%'eq242bG7$/,(-%%diffG6$-&%\"uG6#\"\"
+!6$&%\"TGF.&F26#\"\"\"F1F5-&%\"vGF.F0!\"\"*&,(-F)6$-&F-F4F0F1F5-F)6$F+
+F3F5-&F8F4F0F9F5%(epsilonGF5F5F//,(-F)6$F6F1F5F+F5*&,*-F)6$FBF1F5-F)6$
+F6F3F5F>F5*$F+\"\"$F5F5FDF5F5F/" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+40 "Equating coefficients of like powers of " }{XPPEDIT 18 0 "epsilon
+" "I(epsilonG6\"" }{TEXT -1 10 " , we have" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 76 "eqEps:=subs(epsilon=0,eq242b),[seq(coeff(lhs(eq242b
+[i]),epsilon)=0,i=1..2)];" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&eqEpsG
+6$7$/,&-%%diffG6$-&%\"uG6#\"\"!6$&%\"TGF/&F36#\"\"\"F2F6-&%\"vGF/F1!\"
+\"F0/,&-F*6$F7F2F6F,F6F07$/,(-F*6$-&F.F5F1F2F6-F*6$F,F4F6-&F9F5F1F:F0/
+,*-F*6$FHF2F6-F*6$F7F4F6FDF6*$F,\"\"$F6F0" }}}{SECT 1 {PARA 20 "" 0 "
+" {TEXT -1 35 "Zeroth-Order Problem: Linear System" }}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 54 "The zeroth-order problem is given by the linear sy
+stem" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "linearSys:=map(lhs,
+eqEps[1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*linearSysG7$,&-%%diff
+G6$-&%\"uG6#\"\"!6$&%\"TGF-&F16#\"\"\"F0F4-&%\"vGF-F/!\"\",&-F(6$F5F0F
+4F*F4" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 84 "To determine the solutio
+n of this linear system, we seek a solution proportional to " }
+{XPPEDIT 18 0 "exp(I*T[0])" "-%$expG6#*&%\"IG\"\"\"&%\"TG6#\"\"!F'" }
+{TEXT -1 3 " as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 107 "coefLis
+t:=expand(exp(-I*T[0])*subs(u[0](T[0],T[1])=P*exp(I*T[0]),v[0](T[0],T[
+1])=Q*exp(I*T[0]),linearSys));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)c
+oefListG7$,&*&%\"IG\"\"\"%\"PGF)F)%\"QG!\"\",&*&F(F)F+F)F)F*F)" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "Next, we determine the coefficient
+ matrix as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "coefMat:=jaco
+bian(coefList,[P,Q]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(coefMatG-%
+'MATRIXG6#7$7$%\"IG!\"\"7$\"\"\"F*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 35 "The left and right eigenvectors of " }{TEXT 347 7 "coefMat" }
+{TEXT -1 13 " are given by" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+77 "leftVec:=subs(c1=solve(multiply(htranspose(coefMat),[1,c1])[1]=0,c
+1),[1,c1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(leftVecG7$\"\"\"%\"I
+G" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "rightVec:=subs(c1=solv
+e(multiply(coefMat,[1,c1])[1]=0,c1),[1,c1]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)rightVecG7$\"\"\"%\"IG" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 94 "To express the solution of the zeroth-order problem, we i
+ntroduce the following basic function" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 28 "basicH:=A(T[1])*exp(I*T[0]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'basicHG*&-%\"AG6#&%\"TG6#\"\"\"F,-%$expG6#*&%\"IGF,&
+F*6#\"\"!F,F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 22 "and the conjugat
+e rule" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "ccRule:=I=-I,A=co
+njugate(A):" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 127 "In terms of the b
+asic function and the right eigenvector, the solution of the zeroth-or
+der problem can be expressed in terms of" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "sol0Form:=expand(rightVec*basicH);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%)sol0FormG7$*&-%\"AG6#&%\"TG6#\"\"\"F--%$expG6#*&%
+\"IGF-&F+6#\"\"!F-F-*(F2F-F'F-F.F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 28 "and its complex conjugate as" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 114 "sol0:=[u[0](T[0],T[1])=sol0Form[1]+subs(ccRule,sol0F
+orm[1]),v[0](T[0],T[1])=sol0Form[2]+subs(ccRule,sol0Form[2])];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%sol0G7$/-&%\"uG6#\"\"!6$&%\"TGF*&F.
+6#\"\"\",&*&-%\"AG6#F/F1-%$expG6#*&%\"IGF1F-F1F1F1*&--%*conjugateG6#F5
+F6F1-F86#,$F:!\"\"F1F1/-&%\"vGF*F,,&*(F;F1F4F1F7F1F1*(F;F1F=F1FAF1FD" 
+}}}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 19 "First-Order Problem" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "Substituting the zeroth-order solu
+tion " }{TEXT 348 4 "sol0" }{TEXT -1 30 " into the first-order problem
+ " }{TEXT 349 8 "eqEps[2]" }{TEXT -1 98 " and moving the nonhomogeneou
+s terms to the right-hand sides of the resulting equations, we obtain
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 111 "order1Eq:=seq(subs(u[0
+]=u[1],v[0]=v[1],linearSys[i]=linearSys[i])-expand(subs(sol0,0=lhs(eqE
+ps[2,i]))),i=1..2);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%)order1EqG6$/
+,&-%%diffG6$-&%\"uG6#\"\"\"6$&%\"TG6#\"\"!&F2F.F1F/-&%\"vGF.F0!\"\",&*
+&-F)6$-%\"AG6#F5F5F/-%$expG6#*&%\"IGF/F1F/F/F9*&-F)6$--%*conjugateG6#F
+?F@F5F/FAF9F9/,&-F)6$F6F1F/F+F/,.*(FEF/F<F/FAF/F9*(FEF/FGF/FAF9F/*&F>
+\"\"$FAFUF9*(F>\"\"#FAF/FIF/!\"$*(F>F/FAF9FIFWFX*&FIFUFAFXF9" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 52 "Eliminating the terms that produce
+ secular terms in " }{TEXT 350 8 "order1Eq" }{TEXT -1 182 " demands th
+at their right-hand sides are orthogonal to every solution of the adjo
+int homogeneous problem. To determine these conditions, we first calcu
+late the coefficient vector of " }{XPPEDIT 18 0 "exp(I*T[0])" "-%$expG
+6#*&%\"IG\"\"\"&%\"TG6#\"\"!F'" }{TEXT -1 3 " as" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 58 "STerms:=[seq(coeff(rhs(order1Eq[i]),exp(I*T[0
+])),i=1..2)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'STermsG7$,$-%%diff
+G6$-%\"AG6#&%\"TG6#\"\"\"F-!\"\",&*&%\"IGF0F'F0F1*&F*\"\"#--%*conjugat
+eG6#F+F,F0!\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 107 "Then, we deman
+d that this vector is orthogonal to the left eigenvector and obtain th
+e solvability condition" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "
+SCond:=expand(multiply(subs(I=-I,leftVec),STerms))=0;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%&SCondG/,&-%%diffG6$-%\"AG6#&%\"TG6#\"\"\"F-!\"#
+*(%\"IGF0F*\"\"#--%*conjugateG6#F+F,F0\"\"$\"\"!" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 82 "which is in agreement with that obtained by treati
+ng the second-order form of the " }{TEXT 351 9 "DuffingEq" }{TEXT -1 
+56 ". Repeating the procedure for the coefficient vector of " }
+{XPPEDIT 18 0 "exp(-I*T[0])" "-%$expG6#,$*&%\"IG\"\"\"&%\"TG6#\"\"!F(!
+\"\"" }{TEXT -1 38 " , we obtain the complex conjugate of " }{TEXT 
+352 5 "SCond" }{TEXT -1 1 "." }}}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 
+39 "2.4.3 First-Order Complex-Valued System" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 85 "In this section, we determine a first-order uniform expan
+sion of the solution of the " }{TEXT 353 9 "DuffingEq" }{TEXT -1 121 "
+ by transforming it first into a single first-order complex-valued equ
+ation. To this end, we introduce the transformation" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 88 "transfRule:=u(t)=zeta(t)+conjugate(zeta)(
+t),diff(u(t),t)=I*(zeta(t)-conjugate(zeta)(t));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%+transfRuleG6$/-%\"uG6#%\"tG,&-%%zetaGF)\"\"\"--%*con
+jugateG6#F-F)F./-%%diffG6$F'F**&%\"IGF.,&F,F.F/!\"\"F." }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 16 "whose inverse is" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 59 "zetaRule:=solve(\{transfRule\},\{zeta(t),conjuga
+te(zeta)(t)\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)zetaRuleG<$/--%*
+conjugateG6#%%zetaG6#%\"tG,$*&%\"IG\"\"\",&-%%diffG6$-%\"uGF,F-F1*&F0F
+1F6F1!\"\"F1#F1\"\"#/-F+F,,&F6F:*&F0F1F3F1#F9F;" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 20 "It follows from the " }{TEXT 354 9 "DuffingEq" }
+{TEXT -1 66 " that the acceleration is related to the displacement acc
+ording to" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "acceleration:=
+diff(u(t),t,t)=solve(DuffingEq,(D@@2)(u)(t));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%-accelerationG/-%%diffG6$-F'6$-%\"uG6#%\"tGF.F.,&F+!
+\"\"*&%(epsilonG\"\"\"F+\"\"$F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+16 "Differentiating " }{XPPEDIT 18 0 "zeta(t)" "-%%zetaG6#%\"tG" }
+{TEXT -1 3 " , " }{TEXT 355 11 "zetaRule[1]" }{TEXT -1 18 ", with resp
+ect to " }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 22 " and substituting
+ for " }{XPPEDIT 18 0 "u(t),diff(u(t),t)" "6$-%\"uG6#%\"tG-%%diffG6$-F
+$6#F&F&" }{TEXT -1 7 " , and " }{XPPEDIT 18 0 "diff(u(t),t,t)" "-%%dif
+fG6%-%\"uG6#%\"tGF(F(" }{TEXT -1 11 " using the " }{TEXT 356 12 "accel
+eration" }{TEXT -1 5 " and " }{TEXT 357 10 "transfRule" }{TEXT -1 11 "
+, we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 87 "eq243a:=expa
+nd(subs(acceleration,\{transfRule\},diff(zeta(t)=subs(zetaRule,zeta(t)
+),t)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'eq243aG/-%%diffG6$-%%zet
+aG6#%\"tGF,,,*&%\"IG\"\"\"F)F0F0*(F/F0%(epsilonGF0F)\"\"$#F0\"\"#**F/F
+0F2F0F)F5--%*conjugateG6#F*F+F0#F3F5**F/F0F2F0F)F0F7F5F;*(F/F0F2F0F7F3
+F4" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 107 "Next, we use the method of
+ multiple scales to determine a first-order uniform expansion of the s
+olution of " }{TEXT 358 6 "eq243a" }{TEXT -1 12 " in the form" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 145 "solForm:=zeta(T[0],T[1])=ad
+d(epsilon^i*zeta[i](T[0],T[1]),i=0..1),conjugate(zeta)(T[0],T[1])=add(
+epsilon^i*conjugate(zeta[i])(T[0],T[1]),i=0..1);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%(solFormG6$/-%%zetaG6$&%\"TG6#\"\"!&F+6#\"\"\",&-&F(F
+,F)F0*&%(epsilonGF0-&F(F/F)F0F0/--%*conjugateG6#F(F),&--F;6#F3F)F0*&F5
+F0--F;6#F7F)F0F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 33 "Substituting \+
+this expansion into " }{TEXT 359 6 "eq243a" }{TEXT -1 34 " and expandi
+ng the result, we have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 140 "
+temp:=expand(value(subs(zeta(t)=zeta(T[0],T[1]),conjugate(zeta)(t)=con
+jugate(zeta)(T[0],T[1]),solForm,dt[1](zeta(T[0],T[1]))-rhs(eq243a)))):
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 38 "Discarding terms of order hig
+her than " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 44 " and
+ equating coefficients of like power of " }{XPPEDIT 18 0 "epsilon" "I(
+epsilonG6\"" }{TEXT -1 4 " in " }{TEXT 364 4 "temp" }{TEXT -1 7 " yiel
+ds" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "eqEps:=seq(coeff(temp
+,epsilon,i)=0,i=0..1);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%&eqEpsG6$/
+,&*&%\"IG\"\"\"-&%%zetaG6#\"\"!6$&%\"TGF.&F26#F*F*!\"\"-%%diffG6$F+F1F
+*F//,0*(F)F*F+F*--%*conjugateG6#F,F0\"\"##!\"$F@*(F)F*F+F@F<F*FA*&F)F*
+F<\"\"$#F5F@-F76$F+F3F**&F)F*-&F-F4F0F*F5*&F)F*F+FEFF-F76$FJF1F*F/" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 42 "The solution of the zeroth-order \+
+problem, " }{TEXT 360 8 "eqEps[1]" }{TEXT -1 21 ", can be expressed as
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "sol0:=subs(_F1=A,pdesol
+ve(eqEps[1],zeta[0](T[0],T[1])));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%%sol0G/-&%%zetaG6#\"\"!6$&%\"TGF)&F-6#\"\"\"*&-%\"AG6#F.F0-%$expG6#*&
+%\"IGF0F,F0F0" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 26 "whose complex co
+njugate is" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "sol0cc:=subs(
+ccRule,zeta[0]=conjugate(zeta[0]),sol0);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%'sol0ccG/--%*conjugateG6#&%%zetaG6#\"\"!6$&%\"TGF,&F06#\"\"\"*
+&--F(6#%\"AG6#F1F3-%$expG6#,$*&%\"IGF3F/F3!\"\"F3" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 13 "Substituting " }{TEXT 361 4 "sol0" }{TEXT -1 5 " a
+nd " }{TEXT 362 6 "sol0cc" }{TEXT -1 31 " into the first-order problem
+, " }{TEXT 363 8 "eqEps[2]" }{TEXT -1 97 ", and moving the nonhomogene
+ous terms to the right-hand side of the resulting equation, we obtain
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 102 "order1Eq:=expand(subs(
+zeta[0]=zeta[1],lhs(eqEps[1])=lhs(eqEps[1]))-subs(sol0,sol0cc,0=lhs(eq
+Eps[2])));" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#>%)order1EqG/,&*&%\"IG\"
+\"\"-&%%zetaG6#F)6$&%\"TG6#\"\"!&F0F-F)!\"\"-%%diffG6$F*F/F),,**F(F)-%
+\"AG6#F3F)-%$expG6#*&F(F)F/F)F4--%*conjugateG6#F;F<\"\"##\"\"$FE**F(F)
+F:FEF=F)FAF)FF*(F(F)FAFGF=!\"$#F)FE*&-F66$F:F3F)F=F)F4*(F(F)F:FGF=FGFK
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 54 "Elimintaing the terms that le
+ad to secular terms from " }{TEXT 365 8 "order1Eq" }{TEXT -1 33 " yiel
+ds the solvability condition" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 42 "SCond:=coeff(rhs(order1Eq),exp(I*T[0]))=0;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&SCondG/,&*(%\"IG\"\"\"-%\"AG6#&%\"TG6#F)\"\"#--%*con
+jugateG6#F+F,F)#\"\"$F0-%%diffG6$F*F-!\"\"\"\"!" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 73 "in agreement with that obtained by treating the seco
+nd-order form of the " }{TEXT 366 9 "DuffingEq" }{TEXT -1 94 " as well
+ as that obtained by transforming it first into two first-order real-v
+alued equations." }}}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 27 "2.5 Variat
+ion of Parameters" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 303 "In the next \+
+section, we use the method of averaging to determine a first-order uni
+form expansion of the solution of the Duffing equation. To this end, w
+e use the method of variation of parameters to transform it into a sys
+tem of two first-order equations. The Duffing equation is repeated her
+e; that is," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "DuffingEq:=d
+iff(u(t),t,t)+u(t)+epsilon*u(t)^3=0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%*DuffingEqG/,(-%%diffG6$-F(6$-%\"uG6#%\"tGF/F/\"\"\"F,F0*&%(epsilo
+nGF0F,\"\"$F0\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 5 "When " }
+{XPPEDIT 18 0 "epsilon=0" "/%(epsilonG\"\"!" }{TEXT -1 50 " , the solu
+tion of this equation can be written as" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 27 "usolEq:=u(t)=a*cos(t+beta);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'usolEqG/-%\"uG6#%\"tG*&%\"aG\"\"\"-%$cosG6#,&F)F,%%b
+etaGF,F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "where " }{XPPEDIT 18 
+0 "a" "I\"aG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta" "I%betaG6\"
+" }{TEXT -1 51 " are constants, which are sometimes referred to as " }
+{TEXT 367 10 "parameters" }{TEXT -1 18 ". It follows from " }{TEXT 
+368 6 "usolEq" }{TEXT -1 5 " that" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 23 "cond01:=diff(usolEq,t);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%'cond01G/-%%diffG6$-%\"uG6#%\"tGF,,$*&%\"aG\"\"\"-%$sinG6#,&F,
+F0%%betaGF0F0!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 5 "When " }
+{XPPEDIT 18 0 "epsilon<>0" "0%(epsilonG\"\"!" }{TEXT -1 34 " , we assu
+me that the solution of " }{TEXT 369 9 "DuffingEq" }{TEXT -1 19 " is s
+till given by " }{TEXT 370 6 "usolEq" }{TEXT -1 23 " but with time-var
+ying " }{XPPEDIT 18 0 "a" "I\"aG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 
+0 "beta" "I%betaG6\"" }{TEXT -1 11 " ; that is," }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 30 "tdepRule:=a=a(t),beta=beta(t);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%)tdepRuleG6$/%\"aG-F'6#%\"tG/%%betaG-F,F)" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 9 "and hence" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 31 "usolEqt:=subs(tdepRule,usolEq);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%(usolEqtG/-%\"uG6#%\"tG*&-%\"aGF(\"\"\"-%$cosG6#
+,&F)F--%%betaGF(F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "In other \+
+words, we consider " }{TEXT 371 6 "usolEq" }{TEXT -1 26 " as a transfo
+rmation from " }{XPPEDIT 18 0 "u(t)" "-%\"uG6#%\"tG" }{TEXT -1 4 " to \+
+" }{XPPEDIT 18 0 "a(t)" "-%\"aG6#%\"tG" }{TEXT -1 5 " and " }{XPPEDIT 
+18 0 "beta(t)" "-%%betaG6#%\"tG" }{TEXT -1 43 " . This is why this app
+roach is called the " }{TEXT 372 33 "method of variation of parameters
+" }{TEXT -1 62 ". Using this view, we note that we have two equations,
+ namely " }{TEXT 373 9 "DuffingEq" }{TEXT -1 5 " and " }{TEXT 374 6 "u
+solEq" }{TEXT -1 25 ", for the three unknowns " }{XPPEDIT 18 0 "u(t),a
+(t)" "6$-%\"uG6#%\"tG-%\"aG6#F&" }{TEXT -1 7 " , and " }{XPPEDIT 18 0 
+"beta(t)" "-%%betaG6#%\"tG" }{TEXT -1 144 " . Hence, we have the freed
+om of imposing a third condition (third equation). This condition is a
+rbitrary except that it must be independent of " }{TEXT 375 9 "Duffing
+Eq" }{TEXT -1 5 " and " }{TEXT 376 6 "usolEq" }{TEXT -1 171 ". This ar
+bitrariness can be used to advantage, namely to produce a simple and c
+onvenient transformation. Out of all possible conditions, we choose to
+ impose the condition " }{TEXT 377 6 "cond01" }{TEXT -1 24 ", thereby \+
+assuming that " }{XPPEDIT 18 0 "u(t)" "-%\"uG6#%\"tG" }{TEXT -1 12 " a
+s well as " }{XPPEDIT 18 0 "diff(u(t),t)" "-%%diffG6$-%\"uG6#%\"tGF(" 
+}{TEXT -1 168 " have the same form as in the linear case. This conditi
+on leads to a convenient transformation; it leads to a set of first-or
+der rather than second-order equations for " }{XPPEDIT 18 0 "a(t)" "-%
+\"aG6#%\"tG" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta(t)" "-%%betaG6#%
+\"tG" }{TEXT -1 2 " ." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 16 "Differen
+tiating " }{TEXT 378 6 "usolEq" }{TEXT -1 17 " with respect to " }
+{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 20 " and recalling that " }
+{XPPEDIT 18 0 "a" "I\"aG6\"" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta
+" "I%betaG6\"" }{TEXT -1 18 " are functions of " }{XPPEDIT 18 0 "t" "I
+\"tG6\"" }{TEXT -1 10 " , we have" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "cond02:=diff(usolEqt,t);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'cond02G/-%%diffG6$-%\"uG6#%\"tGF,,&*&-F'6$-%\"aGF+F,
+\"\"\"-%$cosG6#,&F,F3-%%betaGF+F3F3F3*(F1F3-%$sinGF6F3,&F3F3-F'6$F8F,F
+3F3!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 10 "Comparing " }{TEXT 
+379 6 "cond02" }{TEXT -1 6 " with " }{TEXT 380 6 "cond01" }{TEXT -1 
+18 ", we conclude that" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "c
+ond1:=combine(subs(tdepRule,cond01)-cond02);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%&cond1G/\"\"!,&*&-%%diffG6$-%\"aG6#%\"tGF/\"\"\"-%$co
+sG6#,&F/F0-%%betaGF.F0F0!\"\"*(F,F0-%$sinGF3F0-F*6$F5F/F0F0" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 16 "Differentiating " }{TEXT 381 6 "co
+nd01" }{TEXT -1 17 " with respect to " }{XPPEDIT 18 0 "t" "I\"tG6\"" }
+{TEXT -1 12 " , we obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+38 "cond03:=diff(subs(tdepRule,cond01),t);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%'cond03G/-%%diffG6$-F'6$-%\"uG6#%\"tGF.F.,&*&-F'6$-%
+\"aGF-F.\"\"\"-%$sinG6#,&F.F5-%%betaGF-F5F5!\"\"*(F3F5-%$cosGF8F5,&F5F
+5-F'6$F:F.F5F5F<" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 17 "Substituting \+
+for " }{XPPEDIT 18 0 "u(t)" "-%\"uG6#%\"tG" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "diff(u(t),t,t)" "-%%diffG6%-%\"uG6#%\"tGF(F(" }{TEXT 
+-1 6 " from " }{TEXT 382 7 "usolEqt" }{TEXT -1 5 " and " }{TEXT 383 6 
+"cond03" }{TEXT -1 6 " into " }{TEXT 384 9 "DuffingEq" }{TEXT -1 9 ", \+
+we have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 47 "cond2:=combine(s
+ubs(cond03,usolEqt,DuffingEq));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&
+cond2G/,**&-%%diffG6$-%\"aG6#%\"tGF.\"\"\"-%$sinG6#,&F.F/-%%betaGF-F/F
+/!\"\"*(F+F/-%$cosGF2F/-F)6$F4F.F/F6*(%(epsilonGF/F+\"\"$-F96#,&F.F>F4
+F>F/#F/\"\"%*(F=F/F+F>F8F/#F>FC\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 8 "Solving " }{TEXT 385 5 "cond1" }{TEXT -1 5 " and " }{TEXT 386 5 
+"cond2" }{TEXT -1 5 " for " }{XPPEDIT 18 0 "diff(a(t),t)" "-%%diffG6$-
+%\"aG6#%\"tGF(" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "diff(beta(t),t)" "
+-%%diffG6$-%%betaG6#%\"tGF(" }{TEXT -1 50 " , we obtain the desired tw
+o first-order equations" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "
+transformedEq:=solve(\{cond1,cond2\},diff(\{a(t),beta(t)\},t));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%.transformedEqG<$/-%%diffG6$-%\"aG6#
+%\"tGF-,$*,F*\"\"$-%$cosG6#,&F-\"\"\"-%%betaGF,F5F5%(epsilonGF5-%$sinG
+F3F5,&*$F9\"\"#F5!\"\"F5F5F>/-F(6$F6F-,(*(F8F5F*F=F9\"\"%F5*(F8F5F*F=F
+9F=!\"#*&F8F5F*F=F5" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 3 "if " }
+{XPPEDIT 18 0 "a<>0" "0%\"aG\"\"!" }{TEXT -1 35 " . Thus, the original
+ second-order " }{TEXT 387 9 "DuffingEq" }{TEXT -1 5 " for " }
+{XPPEDIT 18 0 "u(t)" "-%\"uG6#%\"tG" }{TEXT -1 52 " has been replaced \+
+by two first-order equations for " }{XPPEDIT 18 0 "a(t)" "-%\"aG6#%\"t
+G" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta(t)" "-%%betaG6#%\"tG" }
+{TEXT -1 66 " . We emphasize that no approximations have been made in \+
+deriving " }{TEXT 388 13 "transformedEq" }{TEXT -1 12 ". Comparing " }
+{TEXT 389 14 "transformedEq " }{TEXT -1 5 "with " }{TEXT 390 9 "Duffin
+gEq" }{TEXT -1 191 ", we find that the transformed equations are more \+
+nonlinear than the original equation. Then, the question arises what i
+s the value of this transformation? The answer depends on the value of
+ " }{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 6 " . If " }
+{XPPEDIT 18 0 "epsilon" "I(epsilonG6\"" }{TEXT -1 30 " is small, the m
+ajor parts of " }{XPPEDIT 18 0 "a" "I\"aG6\"" }{TEXT -1 5 " and " }
+{XPPEDIT 18 0 "beta" "I%betaG6\"" }{TEXT -1 23 " vary more slowly with
+ " }{XPPEDIT 18 0 "t" "I\"tG6\"" }{TEXT -1 6 " than " }{XPPEDIT 18 0 "
+u" "I\"uG6\"" }{TEXT -1 518 " . This fact can be used to advantage ana
+lytically and numerically. The analytical advantage is utilized in the
+ method of averaging, as discussed in the next section. Numerically, i
+t is advantageous to solve the transformed equations instead of the or
+iginal equation because a large step size can be used in the integrati
+on. This is the reason why astronomers numerically solve the variation
+al equations rather than the original equations. Usually, astronomers \+
+and celestial mechanicians refer to this approach as the " }{TEXT 391 
+31 "special method of perturbations" }{TEXT -1 1 "." }}}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT -1 27 "2.6 The Method of Averaging" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 146 "In this section, we determine a first-or
+der approximation to the transformed equations obtained in the precedi
+ng section. To this end, we rewrite " }{TEXT 392 13 "transformedEq" }
+{TEXT -1 3 " as" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "ampEq:=c
+ombine(diff(a(t),t)=subs(transformedEq,diff(a(t),t)));" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%&ampEqG/-%%diffG6$-%\"aG6#%\"tGF,,&*(%(epsilonG
+\"\"\"F)\"\"$-%$sinG6#,&F,\"\"#-%%betaGF+F6F0#F0\"\"%*(F/F0F)F1-F36#,&
+F,F:F7F:F0#F0\"\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "phase
+Eq:=combine(diff(beta(t),t)=subs(transformedEq,diff(beta(t),t)));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(phaseEqG/-%%diffG6$-%%betaG6#%\"tGF
+,,(*&%(epsilonG\"\"\"-%\"aGF+\"\"##\"\"$\"\")*(F/F0F1F3-%$cosG6#,&F,\"
+\"%F)F<F0#F0F6*(F/F0F1F3-F96#,&F,F3F)F3F0#F0F3" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 19 "The major parts of " }{XPPEDIT 18 0 "a" "I\"aG6\"" }
+{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta" "I%betaG6\"" }{TEXT -1 41 " a
+re slowly varying functions of time if " }{XPPEDIT 18 0 "epsilon" "I(e
+psilonG6\"" }{TEXT -1 67 " is small. Hence, they change very little du
+ring the time interval " }{XPPEDIT 18 0 "Pi" "I#PiG6\"" }{TEXT -1 121 
+" (the period of the circular functions) and, to the first approximati
+on, they can be considered constant in the interval " }{XPPEDIT 18 0 "
+[0,Pi]" "7$\"\"!%#PiG" }{TEXT -1 21 " . Hence, we replace " }{XPPEDIT 
+18 0 "a(t)" "-%\"aG6#%\"tG" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta(t
+)" "-%%betaG6#%\"tG" }{TEXT -1 28 " on the right-hand sides of " }
+{TEXT 393 5 "ampEq" }{TEXT -1 5 " and " }{TEXT 394 7 "phaseEq" }{TEXT 
+-1 23 " with time-independent " }{XPPEDIT 18 0 "a" "I\"aG6\"" }{TEXT 
+-1 5 " and " }{XPPEDIT 18 0 "beta" "I%betaG6\"" }{TEXT -1 11 " and obt
+ain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "tRule_rev:=map(s->rh
+s(s)=lhs(s),[tdepRule])[];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*tRule
+_revG6$/-%\"aG6#%\"tGF(/-%%betaGF)F-" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 38 "ampEq_RHS:=subs(tRule_rev,rhs(ampEq));" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%*ampEq_RHSG,&*(%(epsilonG\"\"\"%\"aG\"\"$-%$si
+nG6#,&%\"tG\"\"#%%betaGF0F(#F(\"\"%*(F'F(F)F*-F,6#,&F/F3F1F3F(#F(\"\")
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "phaseEq_RHS:=subs(tRule
+_rev,rhs(phaseEq));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%,phaseEq_RHSG
+,(*&%(epsilonG\"\"\"%\"aG\"\"##\"\"$\"\")*(F'F(F)F*-%$cosG6#,&%\"tG\"
+\"%%%betaGF4F(#F(F-*(F'F(F)F*-F06#,&F3F*F5F*F(#F(F*" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 15 "We average the " }{TEXT 395 9 "ampEq_RHS" }
+{TEXT -1 5 " and " }{TEXT 396 11 "phaseEq_RHS" }{TEXT -1 19 " over the
+ interval " }{XPPEDIT 18 0 "[0,Pi]" "7$\"\"!%#PiG" }{TEXT -1 11 " and \+
+obtain" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 63 "list26a:=expand(1
+/Pi*map(int,[ampEq_RHS,phaseEq_RHS],t=0..Pi));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%(list26aG7$\"\"!,$*&%(epsilonG\"\"\"%\"aG\"\"##\"\"$
+\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 37 "It follows from the abov
+e result that" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "averagingE
+q:=lhs(ampEq)=list26a[1],lhs(phaseEq)=list26a[2];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%,averagingEqG6$/-%%diffG6$-%\"aG6#%\"tGF-\"\"!/-F(6$-
+%%betaGF,F-,$*&%(epsilonG\"\"\"F+\"\"##\"\"$\"\")" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 52 "This averaging method is usually referred to as th
+e " }{TEXT 397 17 "Krylov-Bogoliubov" }{TEXT -1 4 " or " }{TEXT 398 
+21 "van der Pol technique" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 37 "Solving the averaged equations yields" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 98 "rule26a:=dsolve(\{averagingEq[1],a(0)=a[0]
+\},a(t)),dsolve(\{averagingEq[2],beta(0)=beta[0]\},beta(t));" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#>%(rule26aG6$/-%\"aG6#%\"tG&F(6#\"\"!/-%%bet
+aGF),&*(F*\"\"\"%(epsilonGF3F(\"\"##\"\"$\"\")&F0F,F3" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 17 "Substituting for " }{XPPEDIT 18 0 "a(t)" 
+"-%\"aG6#%\"tG" }{TEXT -1 5 " and " }{XPPEDIT 18 0 "beta(t)" "-%%betaG
+6#%\"tG" }{TEXT -1 6 " into " }{TEXT 399 6 "usolEq" }{TEXT -1 45 ", we
+ obtain, to the first approximation, that" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 30 "subs(tdepRule,rule26a,usolEq);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#/-%\"uG6#%\"tG*&&%\"aG6#\"\"!\"\"\"-%$cosG6#,(F'F-*(F'F
+-%(epsilonGF-F*\"\"##\"\"$\"\")&%%betaGF+F-F-" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT -1 117 "in agreement with the solutions obtained by using the
+ Lindstedt-Poincar\351 technique and the method of multiple scales." }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 81 "Before closing this section, we \+
+note that one can arrive at the final results in " }{TEXT 400 5 "ampEq
+" }{TEXT -1 5 " and " }{TEXT 401 7 "phaseEq" }{TEXT -1 50 " without go
+ing through the averaging process. The " }{TEXT 402 9 "ampEq_RHS" }
+{TEXT -1 5 " and " }{TEXT 403 11 "phaseEq_RHS" }{TEXT -1 197 " are the
+ sum of two groups of terms \227 a group that is a linear combination \+
+of fast varying terms and a group that is a linear combination of slow
+ly varying terms. Then, to the first approximation, " }{XPPEDIT 18 0 "
+diff(a(t),t)" "-%%diffG6$-%\"aG6#%\"tGF(" }{TEXT -1 4 " in " }{TEXT 
+404 5 "ampEq" }{TEXT -1 110 " is equal to the slowly varying group on \+
+its right-hand side, which is zero. And, to the first approximation, \+
+" }{XPPEDIT 18 0 "diff(beta(t),t)" "-%%diffG6$-%%betaG6#%\"tGF(" }
+{TEXT -1 4 " in " }{TEXT 405 7 "phaseEq" }{TEXT -1 71 " is equal to th
+e slowly varying group on its right-hand side, which is " }{XPPEDIT 
+18 0 "3/8*epsilon*a^2" "**\"\"$\"\"\"\"\")!\"\"%(epsilonGF$%\"aG\"\"#
+" }{TEXT -1 2 " ." }}}}}{MARK "0 0" 10 }{VIEWOPTS 1 1 0 3 4 1802 }
