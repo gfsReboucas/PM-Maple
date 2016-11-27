@@ -1,535 +1,658 @@
-{VERSION 2 3 "IBM INTEL NT" "2.3" }
-{USTYLETAB {CSTYLE "" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 1 0 0 0 0 }
-{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE 
-"2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "2D Output
-" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "Define" -1 256 "" 
-0 0 163 163 163 0 1 1 0 0 0 0 0 0 0 }{CSTYLE "Emphasis" -1 257 "" 0 0 
-128 0 128 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "Maple Input" -1 258 "Courier" 
-0 0 255 0 0 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 1 24 144 0 8 0 
-0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 
-}{CSTYLE "" -1 261 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-262 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 0 1 101 32 
-111 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 0 0 255 1 1 0 0 0 0 
-0 0 0 0 }{CSTYLE "" -1 265 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 266 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-267 "" 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 268 "" 0 1 255 0 
-255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 255 0 255 1 0 1 0 0 
-0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 271 "" 0 1 97 110 24 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-272 "" 0 1 105 99 97 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 273 "" 0 1 0 
-0 1 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 1 0 0 0 0 0 
-0 0 0 }{CSTYLE "" -1 275 "" 0 1 0 61 111 0 1 0 0 0 0 0 0 0 0 }{CSTYLE 
-"" -1 276 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 277 "" 0 1 
-0 0 3 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 0 0 1 0 0 0 0 
-0 0 0 0 }{CSTYLE "" -1 279 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "
-" -1 280 "" 0 1 92 1 36 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 281 "" 0 1 
-0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 282 "" 0 1 0 0 0 0 0 1 0 0 0 
-0 0 0 0 }{CSTYLE "" -1 283 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
-" -1 284 "" 0 1 101 108 108 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 285 "" 
-0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 "" 0 1 0 0 0 0 1 0 0 
-0 0 0 0 0 0 }{CSTYLE "" -1 287 "" 0 1 109 0 7 0 0 1 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 288 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 289 
-"" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 290 "" 0 1 0 0 167 0 
-0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 291 "" 0 1 2 0 61 0 0 1 0 0 0 0 0 0 
-0 }{CSTYLE "" -1 292 "" 0 1 0 0 212 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
--1 293 "" 0 1 0 0 196 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 294 "" 0 1 0 
-0 33 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 295 "" 0 1 0 0 0 0 0 1 0 0 0 
-0 0 0 0 }{CSTYLE "" -1 296 "" 0 1 34 52 32 0 1 0 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 297 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 298 
-"" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 299 "" 0 1 184 0 105 
-0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 300 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
-0 }{CSTYLE "" -1 301 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-302 "" 0 1 74 0 29 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 303 "" 0 1 0 0 
-0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 304 "" 0 1 0 0 108 0 1 0 0 0 0 0 
-0 0 0 }{CSTYLE "" -1 305 "" 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" 
--1 306 "" 0 1 0 0 255 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 307 "" 0 1 0 
-0 64 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 308 "" 0 1 0 0 0 0 0 1 0 0 0 
-0 0 0 0 }{CSTYLE "" -1 309 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "
-" -1 310 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 311 "" 0 1 
-114 111 114 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 312 "" 0 1 0 0 5 0 1 0 
-0 0 0 0 0 0 0 }{CSTYLE "" -1 313 "" 0 1 11 1 72 0 0 1 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 314 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-315 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 316 "" 0 1 0 0 16 
-0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 317 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 
-0 0 }{CSTYLE "" -1 318 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" 
--1 319 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 320 "" 0 1 
-0 0 32 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 321 "" 0 1 0 0 0 0 0 1 0 0 
-0 0 0 0 0 }{CSTYLE "" -1 322 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 323 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-324 "" 0 1 10 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 325 "" 0 1 4 0 
-116 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 326 "" 0 1 0 0 0 0 0 1 0 0 0 0 
-0 0 0 }{CSTYLE "" -1 327 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
--1 328 "" 0 1 0 0 68 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 329 "" 0 1 0 
-0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 330 "" 0 1 0 0 0 0 0 1 0 0 0 0 
-0 0 0 }{CSTYLE "" -1 331 "" 0 1 255 0 255 1 0 1 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 332 "" 0 1 0 0 4 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 333 
-"" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 334 "" 0 1 255 0 255 
-1 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 335 "" 0 1 0 0 5 0 0 1 0 0 0 0 0 0 
-0 }{CSTYLE "" -1 336 "" 0 1 97 108 108 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
-" -1 337 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 338 "" 0 1 
-188 0 8 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 339 "" 0 1 0 0 0 0 1 0 0 0 
-0 0 0 0 0 }{CSTYLE "" -1 340 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }
-{CSTYLE "" -1 341 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
-342 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 343 "" 0 1 0 0 0 
-0 1 0 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 
-163 163 163 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
-{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 163 163 163 0 0 1 
-1 0 0 0 0 0 0 }3 0 0 -1 6 6 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 2" 3 4 
-1 {CSTYLE "" -1 -1 "" 1 14 163 163 163 0 0 0 2 0 0 0 0 0 0 }1 0 0 -1 
-4 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 3" 4 5 1 {CSTYLE "" -1 -1 "" 1 
-12 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 0 0 0 0 0 0 0 0 -1 0 }{PSTYLE "
-Maple Output" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
-0 }3 3 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 12 1 {CSTYLE "" -1 
--1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
-{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 
-0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Title" 0 18 1 
-{CSTYLE "" -1 -1 "" 1 18 163 163 163 0 0 1 1 0 0 0 0 0 0 }3 0 0 -1 12 
-12 0 0 0 0 0 0 19 0 }{PSTYLE "Heading 4" 5 20 1 {CSTYLE "" -1 -1 "" 1 
-10 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 0 0 0 0 0 0 0 0 -1 0 }}
-{SECT 0 {PARA 18 "" 0 "" {TEXT 259 22 "Chapter 1\nIntroduction" }}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "
-> " 0 "" {MPLTEXT 1 0 39 "interface(labelling=false,warnlevel=0);" }}}
-{SECT 1 {PARA 4 "" 0 "" {TEXT -1 23 "1.1 Preliminary Remarks" }}
-{EXCHG {PARA 0 "" 0 "" {TEXT -1 727 "Many vibration problems in engine
-ering are nonlinear in nature. The usual linear analysis may be inadeq
-uate for many applications. An essential difference in the study of no
-nlinear systems is that general solutions cannot be obtained by superp
-osition, as in the case of linear systems. Moreover, the nonlinearity \+
-brings many new phenomena, which do not occur in linear systems. To st
-udy nonlinear systems, one has to learn new mathematical techniques, w
-hich have been developed in many branches of applied mathematics, phys
-ics, and engineering. In the past several years, a number of powerful \+
-computer software packages have been developed that allow one to perfo
-rm complicated symbolic manipulations. One of the best known is " }
-{TEXT 260 5 "Maple" }{TEXT -1 62 "; it is created by Waterloo Maple, I
-nc.. In this book, we use " }{TEXT 261 5 "Maple" }{TEXT -1 215 "'s sym
-bolic programming techniques to implement various perturbation methods
- for studying the dynamics of weakly nonlinear systems. Instead of bei
-ng burdened by the tedious algebra required to obtain the solutions, \+
-" }{TEXT 262 5 "Maple" }{TEXT -1 128 " enables us to focus our attenti
-on on understanding the techniques and the physics, thereby free our t
-ime for creative thinking." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 134 "Symbolic manipulators are powerful tools
-. They can be used to perform analyses in either an interactive or an \+
-automatic way. Learning " }{TEXT 263 5 "Maple" }{TEXT -1 80 " in the p
-rocess of studying perturbation methods should enhance the concepts of
- " }{TEXT 264 5 "Maple" }{TEXT 265 23 " programming techniques" }
-{TEXT -1 20 " as well as various " }{TEXT 266 23 "perturbation techniq
-ues" }{TEXT -1 1 "." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 
-0 "" 0 "" {TEXT -1 654 "In Chapter 2, we describe how various perturba
-tion methods, such as the Lindstedt-Poincar\351 technique, the method \+
-of multiple scales, and the method of averaging, can be used to obtain
- uniform asymptotic expansions of the solutions of the undamped and un
-forced Duffing equation. In Chapter 3, we apply the Lindstedt-Poincar
-\351 technique, the method of multiple scales, the method of averaging
-, the generalized method of averaging, the Krylov-Bogoliubov-Mitropols
-ky technique, and the method of normal forms to obtain uniform expansi
-ons of the solutions of an undamped and unforced single-degree-of-free
-dom oscillator with quadratic and cubic nonlinearities." }}}{PARA 0 "
-" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 657 "In Chapter
- 4, we use the method of multiple scales, the generalized method of av
-eraging, and the method of normal forms to obtain uniform expansions o
-f the solutions of a forced single-degree-of-freedom oscillator with q
-uadratic and cubic nonlinearities. In Chapter 5, we apply the method o
-f multiple scales, the method of normal forms, and the generalized met
-hod of averaging to study higher-order approximations for systems with
- internal resonances. In Chapter 6, we apply the method of multiple sc
-ales to obtain uniform expansions of the solutions of externally and p
-arametrically excited linearly coupled or uncoupled multiple-degree-of
--freedom systems." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "
-" 0 "" {TEXT -1 609 "In Chapter 7, we focus our attention on continuou
-s systems with cubic nonlinearities. In Section 7.1, we discuss the co
-ncepts of adjoint and solvability conditions. Then, we use the method \+
-of multiple scales to construct uniformly valid asymptotic expansions \+
-of the solutions of hinged-clamped beams in Section 7.2 and cantilever
- beams in Section 7.3. In Chapter 8, we use the method of multiple sca
-les to directly attack three continuous systems with quadratic and cub
-ic nonlinearities. We treat buckled beams in Section 8.1, circular cyl
-indrical shells in Section 8.2, and near-square plates in Section 8.3.
-" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
-314 "In Chapter 9, we show how one can use the method of multiple scal
-es to construct higher-order approximations of the solutions of contin
-uous systems having two-to-one internal resonances. We discuss two-mod
-e interactions in buckled beams in Section 9.1 and four-mode interacti
-ons in suspended cables in Section 9.2." }}}}{SECT 1 {PARA 4 "" 0 "" 
-{TEXT -1 24 "1.2 Symbolic Computation" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
-309 5 "Maple" }{TEXT -1 54 " is a computer environment for doing mathe
-matics. The " }{TEXT 267 5 "Maple" }{TEXT -1 171 " programming languag
-e allows not only for interactive manipulations of a wide range of obj
-ects, but it also encourages the automation of complicated computation
-s. Because " }{TEXT 338 5 "Maple" }{TEXT -1 127 " is interactive, it i
-s easy to test and debug programs. Therefore, writing a program (or pr
-ocedure) may only involve putting a " }{TEXT 336 4 "proc" }{TEXT -1 
-10 "() and an " }{TEXT 337 3 "end" }{TEXT -1 423 " around a sequence o
-f commands that we would have used to carry out the computation intera
-ctively. This computer algebra system is ideal for formulating, solvin
-g, and exploring mathematical models. Its interactive structured docum
-ents which contain live mathematics allow one to change equations and \+
-update the solutions automatically. Moreover, the on-line help system \+
-is a convenient reference manual at your fingertips. " }{TEXT 278 7 "M
-aple V" }{TEXT -1 181 " has hundreds of commands for working with symb
-olic expressions. In this section, we briefly cover the ingredients mo
-stly used in the following chapters. For further information on " }
-{TEXT 275 5 "Maple" }{TEXT -1 20 ", please review the " }{TEXT 274 5 "
-Maple" }{TEXT -1 17 " documentations: " }{TEXT 276 22 "Maple V Learnin
-g Guide" }{TEXT -1 5 " and " }{TEXT 277 17 "Programming Guide" }{TEXT 
--1 75 ", Waterloo Maple Inc., Springer-Verlag, 1996. This book was pre
-pared using " }{TEXT 304 7 "Maple V" }{TEXT -1 1 " " }{TEXT 305 9 "Rel
-ease 4" }{TEXT -1 8 ". Check " }{TEXT 306 8 "?updates" }{TEXT -1 39 " \+
-if you are using a version later than " }{TEXT 307 9 "Release 4" }
-{TEXT -1 1 "." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 
-"" {TEXT -1 21 "In this book, we use " }{TEXT 268 12 "bold-magenta" }
-{TEXT -1 13 " to indicate " }{TEXT 269 22 "user-defined functions" }
-{TEXT -1 4 " or " }{TEXT 270 5 "names" }{TEXT -1 5 " and " }{TEXT 271 
-10 "bold-black" }{TEXT -1 13 " to indicate " }{TEXT 272 5 "Maple" }
-{TEXT -1 3 "'s " }{TEXT 273 18 "built-in functions" }{TEXT -1 1 "." }}
-}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 36 "
-1.2.1 Assigning Names to Expressions" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
-279 5 "Maple" }{TEXT -1 16 " use the syntax " }{XPPEDIT 18 0 "name:=ex
-pression" ">%%nameG%+expressionG" }{TEXT -1 20 " for assignment and " 
-}{XPPEDIT 18 0 "expression1=expression2" "/%,expression1G%,expression2
-G" }{TEXT -1 14 " for equation." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
-1 0 27 "eqs:=\{a*x+b*y=c,d*x+e*y=f\};" }}{PARA 11 "" 1 "" {XPPMATH 20 
-"6#>%$eqsG<$/,&*&%\"aG\"\"\"%\"xGF*F**&%\"bGF*%\"yGF*F*%\"cG/,&*&%\"dG
-F*F+F*F**&%\"eGF*F.F*F*%\"fG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 12 "vars:=\{x,y\}:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "sol
-:=solve(eqs,vars);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$solG<$/%\"yG,
-$*&,&*&%\"aG\"\"\"%\"fGF-F-*&%\"cGF-%\"dGF-!\"\"F-,&*&F,F-%\"eGF-F2*&%
-\"bGF-F1F-F-F2F2/%\"xG*&,&*&F5F-F0F-F2*&F.F-F7F-F-F-F3F2" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 280 5 "Maple" }{TEXT -1 100 " names can contain \+
-any alphanumeric characters and underscores, but they cannot start wit
-h a number." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 "One way of definin
-g our own functions is the following:" }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 14 "f:=x->x^2+3*x;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%
-\"fG:6#%\"xG6\"6$%)operatorG%&arrowGF(,&*$9$\"\"#\"\"\"F.\"\"$F(F(" }}
-}{EXCHG {PARA 0 "" 0 "" {TEXT -1 38 "Then, we can either plot the func
-tion " }{XPPEDIT 18 0 "f(x)" "-%\"fG6#%\"xG" }{TEXT -1 50 ", apply any
- operator to it, or evaluate it at any " }{XPPEDIT 18 0 "x" "I\"xG6\"
-" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "plot(f(
-x),x=-10..10);" }}{PARA 13 "" 1 "" {INLPLOT "6%-%'CURVESG6$7S7$$!#5\"
-\"!$\"#qF*7$$!1nmm;p0k&*!#:$\"1^R_&R,zF'!#97$$!1LL$3<XZ=*F0$\"1AY1M3`!
-o&F37$$!1mmmT%p\"e()F0$\"1!Q%RkB5V]F37$$!1nmm\"4m(G$)F0$\"1X'pMj/#QWF3
-7$$!1LL$3i.9!zF0$\"16=oJozsQF37$$!1nm;/R=0vF0$\"1TiGsLA\"Q$F37$$!1,+]P
-8#\\4(F0$\"1!G\"GxWJ0HF37$$!1mm;/siqmF0$\"1SoWo&Q&[CF37$$!1****\\(y$pZ
-iF0$\"14m)*H'f!H?F37$$!1LLL$yaE\"eF0$\"1(y?!G\"**[j\"F37$$!1mmm\">s%Ha
-F0$\"1j\"30<v!>8F37$$!1******\\$*4)*\\F0$\"1@/Zi!*p')**F07$$!1+++]_&\\
-c%F0$\"1gD]%o]R9(F07$$!1+++]1aZTF0$\"1ACS$\\r%fZF07$$!1mm;/#)[oPF0$\"1
-0LWK(Qg*GF07$$!1LLL$=exJ$F0$\"1)HvI\"[Ca5F07$$!1LLLL2$f$HF0$!1xzo!HH5)
-=!#;7$$!1++]PYx\"\\#F0$!1W<ToIQm7F07$$!1MLLL7i)4#F0$!1yC+>El\"*=F07$$!
-1****\\P'psm\"F0$!1>1Po3-AAF07$$!1****\\74_c7F0$!1n,&R$zr!>#F07$$!1:LL
-$3x%z#)F^q$!1zbE<dM)z\"F07$$!1ILL3s$QM%F^q$!1))\\dX>Y96F07$$!1^omm;zr)
-*!#=$!1[!HHF#z^H!#<7$$\"1WLLezw5VF^q$\"1PfS\"fd!z9F07$$\"1.++v$Q#\\\")
-F^q$\"1GdUtB()3JF07$$\"1NLLe\"*[H7F0$\"1<#fa16,?&F07$$\"1++++dxd;F0$\"
-1\"\\5:PZ:s(F07$$\"1,++D0xw?F0$\"1y3&)Q(GV0\"F37$$\"1,+]i&p@[#F0$\"1X,
-XUuwg8F37$$\"1+++vgHKHF0$\"1Sgk\\[_R<F37$$\"1lmmmZvOLF0$\"1rsGn'>W6#F3
-7$$\"1,++]2goPF0$\"1d+H'Q:3b#F37$$\"1KL$eR<*fTF0$\"1xcw#\\m%yHF37$$\"1
--++])Hxe%F0$\"10\"eEZX5[$F37$$\"1mm;H!o-*\\F0$\"1'HU!4zN()RF37$$\"1,+]
-7k.6aF0$\"1*3!\\HCC^XF37$$\"1mmm;WTAeF0$\"1$yS*)Gvn8&F37$$\"1****\\i!*
-3`iF0$\"17d5,!Rgy&F37$$\"1NLLL*zym'F0$\"1O\\`giUYkF37$$\"1OLL3N1#4(F0$
-\"1NL7LbNdrF37$$\"1pm;HYt7vF0$\"10!y&\\&Qz*yF37$$\"1-+++xG**yF0$\"1Krt
-E4m4')F37$$\"1qmmT6KU$)F0$\"1q)pbaG@Y*F37$$\"1OLLLbdQ()F0$\"1?x^*G%yD5
-!#87$$\"1++]i`1h\"*F0$\"1t\\jYJ396F]z7$$\"1-+]P?Wl&*F0$\"1AF&[2S>?\"F]
-z7$$\"#5F*$\"$I\"F*-%'COLOURG6&%$RGBG$Fjz!\"\"F*F*-%+AXESLABELSG6$%\"x
-G%!G-%%VIEWG6$;F(Fiz%(DEFAULTG" 2 300 281 281 2 0 1 0 2 9 0 4 2 
-1.000000 45.000000 45.000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 
-0 0 0 0 0 0 0 0 0 1 }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "seq(d
-iff(f(x),x$i),i=1..3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6%,&%\"xG\"\"#
-\"\"$\"\"\"F%\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "[f(hi
-),f(a+b),f(3)];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%,&*$%#hiG\"\"#\"
-\"\"F&\"\"$,(*$,&%\"aGF(%\"bGF(F'F(F-F)F.F)\"#=" }}}{EXCHG {PARA 0 "" 
-0 "" {TEXT -1 101 "We can use forward quotes to unassign a variable th
-at was previously assigned to a value by the form " }{XPPEDIT 18 0 "x:
-='x'" ">%\"xG.F#" }{TEXT -1 23 ". See also the command " }{TEXT 308 8 
-"unassign" }{TEXT -1 1 "." }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 17 "1.
-2.2 Expressions" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 "All " }{TEXT 
-310 5 "Maple" }{TEXT -1 117 " objects are, at one level or another, ma
-de up entirely of expressions. Following are some commonly used in the
- book." }}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 9 "Sequences" }}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 26 "This is simply a group of " }{TEXT 281 5 
-"Maple" }{TEXT -1 33 " expressions separated by commas." }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "timeScales:=T[0],T[1],T[2];" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6#>%+timeScalesG6%&%\"TG6#\"\"!&F'6#\"\"
-\"&F'6#\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "x$3,$3..6;
-" }}{PARA 11 "" 1 "" {XPPMATH 20 "6)%\"xGF#F#\"\"$\"\"%\"\"&\"\"'" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "seq(epsilon^i*u[i],i=1..3); \+
-  # use seq to build sequences." }}{PARA 11 "" 1 "" {XPPMATH 20 "6%*&%
-(epsilonG\"\"\"&%\"uG6#F%F%*&F$\"\"#&F'6#F*F%*&F$\"\"$&F'6#F.F%" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "seq('f'(i),i=timeScales);" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "6%-%\"fG6#&%\"TG6#\"\"!-F$6#&F'6#\"\"\"
--F$6#&F'6#\"\"#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "We can also us
-e a loop to create a sequence." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
-1 0 40 "a:=NULL;   # NULL is the empty sequence." }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#>%\"aG6\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 
-"for k from 1 to 3 do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "   a:=a,ep
-silon^k*u[k]" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "od;" }}{PARA 11 "" 
-1 "" {XPPMATH 20 "6#>%\"aG*&%(epsilonG\"\"\"&%\"uG6#F'F'" }}{PARA 11 "
-" 1 "" {XPPMATH 20 "6#>%\"aG6$*&%(epsilonG\"\"\"&%\"uG6#F(F(*&F'\"\"#&
-F*6#F-F(" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"aG6%*&%(epsilonG\"\"\"
-&%\"uG6#F(F(*&F'\"\"#&F*6#F-F(*&F'\"\"$&F*6#F1F(" }}}{EXCHG {PARA 0 "
-" 0 "" {TEXT -1 106 "Expression sequences are neither lists nor sets. \+
-They preserve the order and repetition of their elements." }}}}{SECT 
-1 {PARA 20 "" 0 "" {TEXT -1 4 "Sets" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
--1 100 "A set is an expression sequence enclosed in braces. Unlike a s
-equence, its order and repetition are " }{TEXT 282 3 "not" }{TEXT -1 
-58 " preserved. Hence, the following three sets are identical." }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "\{x,y,z\},\{z,x,y\},\{y,x,x,
-z\};" }}{PARA 11 "" 1 "" {XPPMATH 20 "6%<%%\"yG%\"xG%\"zGF#F#" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT -1 92 "As we can see here, the order in w
-hich we list the elements of a set is not necessarily how " }{TEXT 
-311 5 "Maple" }{TEXT -1 129 " sees them internally. The ordering in wh
-ich the elements are displayed depends on the order in which the eleme
-nts are stored in " }{TEXT 312 5 "Maple" }{TEXT -1 183 "'s internal me
-mory. The order of the elements in a set is session dependent and may \+
-change for different runs. Hence, we should avoid using sets to perfor
-m order-related computations." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 "
-Four basic operators of sets in mathematics apply here:" }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "set1:=\{x,y,z\} union \{u,z,w\};" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%set1G<'%\"yG%\"xG%\"zG%\"wG%\"uG" 
-}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "set1 intersect \{u,v,w\};
-" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<$%\"wG%\"uG" }}}{EXCHG {PARA 0 ">
- " 0 "" {MPLTEXT 1 0 19 "set1 minus \{u,v,w\};" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#<%%\"yG%\"xG%\"zG" }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 15 "member(u,set1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#%%
-trueG" }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 5 "Lists" }}{EXCHG {PARA 
-0 "" 0 "" {TEXT -1 123 "A list is an expression sequence enclosed in s
-quare brackets. Like a sequence, its order and repetition are also pre
-served." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "a:='a':" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "[a,b,c],[b,a,c,a];" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "6$7%%\"aG%\"bG%\"cG7&F%F$F&F$" }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "list1:=[\{b1,a1,c1\},\{b2,b2,c2,a2,
-a2\},\{d,f,e\}];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&list1G7%<%%#c1G
-%#b1G%#a1G<%%#c2G%#b2G%#a2G<%%\"dG%\"eG%\"fG" }}}{EXCHG {PARA 0 "" 0 "
-" {TEXT 314 5 "list1" }{TEXT -1 250 " is a list of three sets of eleme
-nts. While the ordering of the elements within the sets may change, th
-e ordering of the three sets themselves remains the same. The fact tha
-t order is preserved allows us to extract an element of interest from \+
-a list." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "list1[3];" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6#<%%\"dG%\"eG%\"fG" }}}{EXCHG {PARA 0 "
-> " 0 "" {MPLTEXT 1 0 12 "op(3,list1);" }}{PARA 11 "" 1 "" {XPPMATH 
-20 "6#<%%\"dG%\"eG%\"fG" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 71 "The to
-tal number of elements within a list can be determined using the " }
-{TEXT 313 4 "nops" }{TEXT -1 9 " command." }}}{EXCHG {PARA 0 "> " 0 "
-" {MPLTEXT 1 0 12 "nops(list1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"
-\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 57 "The major difference betwe
-en sequences and lists is that " }{TEXT 339 5 "Maple" }{TEXT -1 57 " f
-lattens a sequence of sequences into a single sequence." }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "A:=seq(b[i],i=1..3): B:=p,q,r:" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "A,B,A;" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6+&%\"bG6#\"\"\"&F$6#\"\"#&F$6#\"\"$%\"pG%\"qG%\"rGF#F'F*
-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 54 "However, a list of lists rema
-ins just a list of lists." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
-12 "[[A],[B,A]];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$7%&%\"bG6#\"\"\"
-&F&6#\"\"#&F&6#\"\"$7(%\"pG%\"qG%\"rGF%F)F," }}}}{SECT 1 {PARA 20 "" 
-0 "" {TEXT -1 6 "Arrays" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 335 "Arrays
- are an extension of the concept of the list data structure. A list is
- group of items with a positive integer as each item's index, which re
-presents its position in the list. Whereas each element of an array is
- still associated with an index, but can be more than one dimension. I
-n addition, indices may also be zero or negative." }}}{EXCHG {PARA 0 "
-> " 0 "" {MPLTEXT 1 0 28 "primes:=array(0..2,[2,3,5]);" }}{PARA 12 "" 
-1 "" {XPPMATH 20 "6#>%'primesG-%&ARRAYG6$7#;\"\"!\"\"#7%/6#F*F+/6#\"\"
-\"\"\"$/6#F+\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "primes
-[0],primes[2];" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"#\"\"&" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT -1 58 "To see the array's contents, we mu
-st use commands such as " }{TEXT 283 4 "eval" }{TEXT -1 2 ", " }{TEXT 
-316 2 "op" }{TEXT -1 5 ", or " }{TEXT 315 5 "print" }{TEXT -1 1 "." }}
-}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "primes;" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#%'primesG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 
-"eval(primes);" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#-%&ARRAYG6$7#;\"\"!
-\"\"#7%/6#F(F)/6#\"\"\"\"\"$/6#F)\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 52 "\"[1];   # eval makes the visible results accessible.
-" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"\"$" }}}{EXCHG {PARA 0 "> " 0 "
-" {MPLTEXT 1 0 51 "print(primes);   # print just prints to the screen.
-" }}{PARA 12 "" 1 "" {XPPMATH 20 "6#-%&ARRAYG6$7#;\"\"!\"\"#7%/6#F(F)/
-6#\"\"\"\"\"$/6#F)\"\"&" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 72 "Multip
-le-dimension arrays are always rectangular in nature. For example," }}
-}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "matrixA:=array(1..2,1..2,[[
-a,b],[c,d]]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%(matrixAG-%'MATRIXG
-6#7$7$%\"aG%\"bG7$%\"cG%\"dG" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 58 "S
-tandard matrix operations and calculations are supported." }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "with(linalg):" }}}{EXCHG {PARA 0 ">
- " 0 "" {MPLTEXT 1 0 13 "det(matrixA);" }}{PARA 11 "" 1 "" {XPPMATH 
-20 "6#,&*&%\"aG\"\"\"%\"dGF&F&*&%\"bGF&%\"cGF&!\"\"" }}}{EXCHG {PARA 
-0 "" 0 "" {TEXT -1 11 "In general," }{TEXT 285 6 " Maple" }{TEXT -1 
-108 " does not automatically expand the names of an array to the repre
-sentation of all the elements. For example," }}}{EXCHG {PARA 0 "> " 0 
-"" {MPLTEXT 1 0 24 "subs(b=show_me,matrixA);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#%(matrixAG" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 28 "In t
-his case, we must force " }{TEXT 284 5 "Maple" }{TEXT -1 87 " to fully
- evaluate the name of the array to the element level and not just to i
-ts name." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "subs(b=show_me,
-evalm(matrixA));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'MATRIXG6#7$7$%
-\"aG%(show_meG7$%\"cG%\"dG" }}}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 29 "
-1.2.3 Expression Manipulation" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 100 "
-Most of the time we want to convert the output expressions into a form
- we want or a form with which " }{TEXT 286 5 "Maple" }{TEXT -1 94 " ro
-utines can work. In this section we introduce the most commonly used c
-ommands in this book." }}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 18 "expand
- and combine" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 73 "These two commands
- are commonly used in the perturbation techniques. The " }{TEXT 287 6 
-"expand" }{TEXT -1 85 " command knows expansion rules for many standar
-d mathematical functions. For example," }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 21 "expand(sin(3*theta));" }}{PARA 11 "" 1 "" {XPPMATH 
-20 "6#,&*&-%$sinG6#%&thetaG\"\"\"-%$cosGF'\"\"#\"\"%F%!\"\"" }}}
-{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 "The " }{TEXT 288 7 "combine" }
-{TEXT -1 136 " command, a useful general-purpose routine for putting t
-hings together, knows the same rules but applies them in the opposite \+
-direction." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "combine(\");
-" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%$sinG6#,$%&thetaG\"\"$" }}}}
-{SECT 1 {PARA 20 "" 0 "" {TEXT -1 7 "convert" }}{EXCHG {PARA 0 "" 0 "
-" {TEXT -1 88 "This command can replace one function's name by the oth
-er and hence change the operator." }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 14 "op(0,[u,v,w]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#%%l
-istG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "convert([u,v,w],`+`
-);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,(%\"uG\"\"\"%\"vGF%%\"wGF%" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "op(0,\");" }}{PARA 11 "" 1 "
-" {XPPMATH 20 "6#%\"+G" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 53 "It also
- converts expressions between different forms." }}}{EXCHG {PARA 0 "> \+
-" 0 "" {MPLTEXT 1 0 20 "convert(sin(x),exp);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#,$*&%\"IG\"\"\",&-%$expG6#*&F%F&%\"xGF&F&*$F(!\"\"F.F&#
-F.\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "simplify(convert
-(\",trig));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%$sinG6#%\"xG" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "convert(series(exp(x),x=x0,3
-),polynom);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,(-%$expG6#%#x0G\"\"\"*
-&F$F(,&%\"xGF(F'!\"\"F(F(*&F$F(F*\"\"##F(F." }}}{EXCHG {PARA 0 "> " 0 
-"" {MPLTEXT 1 0 33 "convert(binomial(m,n),factorial);" }}{PARA 11 "" 
-1 "" {XPPMATH 20 "6#*(-%*factorialG6#%\"mG\"\"\"-F%6#%\"nG!\"\"-F%6#,&
-F'F(F+F,F," }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT -1 11 "map and zip" }}
-{EXCHG {PARA 0 "" 0 "" {TEXT -1 151 "This command provides convenient \+
-ways for working with multiple solutions or for applying a function to
- each element of a data structure or expression." }}}{EXCHG {PARA 0 ">
- " 0 "" {MPLTEXT 1 0 41 "g([x,y,z]),map(g,[x,y,z]),map(sin,x*y*z);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6%-%\"gG6#7%%\"xG%\"yG%\"zG7%-F$6#F'-F$6
-#F(-F$6#F)*(-%$sinGF,\"\"\"-F3F.F4-F3F0F4" }}}{EXCHG {PARA 0 "" 0 "" 
-{TEXT 289 3 "map" }{TEXT -1 4 " or " }{TEXT 290 4 "map2" }{TEXT -1 39 
-" accepts more than two arguments; see ?" }{TEXT 291 3 "map" }{TEXT 
--1 18 " for more details." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
-31 "map(Diff,[x^2,ln(x),tan(x)],x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
-#7%-%%DiffG6$*$%\"xG\"\"#F(-F%6$-%#lnG6#F(F(-F%6$-%$tanGF.F(" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "value(\");" }}{PARA 11 "" 1 "
-" {XPPMATH 20 "6#7%,$%\"xG\"\"#*$F%!\"\",&\"\"\"F**$-%$tanG6#F%F&F*" }
-}}{EXCHG {PARA 0 "" 0 "" {TEXT 292 4 "map2" }{TEXT -1 23 " is closely \+
-related to " }{TEXT 293 3 "map" }{TEXT -1 2 ". " }{TEXT 294 3 "map" }
-{TEXT -1 45 " passes the elements of an expression as the " }{TEXT 
-296 5 "first" }{TEXT -1 33 " argument to a function, whereas " }{TEXT 
-295 4 "map2" }{TEXT -1 28 " passes the elements as the " }{TEXT 297 6 
-"second" }{TEXT -1 24 " argument to a function." }}}{EXCHG {PARA 0 "> \+
-" 0 "" {MPLTEXT 1 0 25 "map2((x,y)->x+y^2,u,v+w);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#,(%\"uG\"\"#*$%\"vGF%\"\"\"*$%\"wGF%F(" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 8 "Use the " }{TEXT 342 3 "zip" }{TEXT -1 39 
-" command to merge two lists or vectors." }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 40 "zip((x,y)->x=y,[lhs1,lhs2],[rhs1,rhs2]);" }}{PARA 11 
-"" 1 "" {XPPMATH 20 "6#7$/%%lhs1G%%rhs1G/%%lhs2G%%rhs2G" }}}}{SECT 1 
-{PARA 20 "" 0 "" {TEXT -1 17 "select and remove" }}{EXCHG {PARA 0 "" 
-0 "" {TEXT -1 7 "We can " }{TEXT 298 6 "select" }{TEXT -1 4 " or " }
-{TEXT 299 6 "remove" }{TEXT -1 88 " certain elements from an expressio
-n according to the boolean-valued function we choose." }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "expr1:=sin(x)+exp(y)-z^x:" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "select(s->has(s,x),expr1);" 
-}}{PARA 11 "" 1 "" {XPPMATH 20 "6#,&-%$sinG6#%\"xG\"\"\")%\"zGF'!\"\"
-" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "select(has,expr1,x);" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "6#,&-%$sinG6#%\"xG\"\"\")%\"zGF'!\"\"" 
-}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "remove(a->is(a<0),[-2.0,0
-.3,-0.6,12.0]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"\"$!\"\"$\"$?
-\"F&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "remove(evalb,\{x+y^
-2=u,x=x,y=z/x,3<=5,4>7\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#<%/,&%\"
-xG\"\"\"*$%\"yG\"\"#F'%\"uG/F)*&%\"zGF'F&!\"\"2\"\"(\"\"%" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 11 "We can use " }{TEXT 300 4 "type" }{TEXT 
--1 47 " to select or remove the type of an expression." }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "select(type,[u+v,4.5,cos(2),sin(2.)
-,Pi],numeric);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7$$\"#X!\"\"$\"+oU(H
-4*!#5" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 "The " }{TEXT 301 7 "hasty
-pe" }{TEXT -1 80 " command determines if an expression contains a sube
-xpression of a certain type." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 22 "expr2:=(a+b)*cos(c+d):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 23 "select(type,expr2,`+`);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,&%\"
-aG\"\"\"%\"bGF%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "select(h
-astype,expr2,`+`);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#*&,&%\"aG\"\"\"%
-\"bGF&F&-%$cosG6#,&%\"cGF&%\"dGF&F&" }}}}{SECT 1 {PARA 20 "" 0 "" 
-{TEXT -1 4 "subs" }}{EXCHG {PARA 0 "" 0 "" {TEXT 302 4 "subs" }{TEXT 
--1 75 " makes syntactical substitutions, not mathematical substitution
-s; that is, " }{TEXT 343 5 "Maple" }{TEXT -1 53 " does not evaluate th
-e result of a substitution. The " }{TEXT 303 4 "subs" }{TEXT -1 52 " c
-ommand makes the substitutions from left to right." }}}{EXCHG {PARA 0 
-"> " 0 "" {MPLTEXT 1 0 24 "expr1:=ln(x)+cos(y)*z^2:" }}}{EXCHG {PARA 
-0 "> " 0 "" {MPLTEXT 1 0 31 "subs(x=exp(z),z=sqrt(x),expr1);" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "6#,&-%#lnG6#-%$expG6#*$%\"xG#\"\"\"\"\"#F-*&-%
-$cosG6#%\"yGF-F+F-F-" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 91 "They can \+
-be substituted simultaneously if they are given as a set or list of su
-bstitutions." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "subs(\{x=ex
-p(z),z=sqrt(x)\},expr1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#,&-%#lnG6#
--%$expG6#%\"zG\"\"\"*&-%$cosG6#%\"yGF+%\"xGF+F+" }}}}}{SECT 1 {PARA 5 
-"" 0 "" {TEXT -1 22 "1.2.4 Evaluation Rules" }}{EXCHG {PARA 0 "" 0 "" 
-{TEXT -1 61 "The substitution of assigned expression for a name is cal
-led " }{TEXT 340 10 "evaluation" }{TEXT -1 46 " and each step in this \+
-process is known as an " }{TEXT 341 16 "evaluation level" }{TEXT -1 
-48 ". Global variables are normally evaluated fully." }}}{EXCHG {PARA 
-0 "> " 0 "" {MPLTEXT 1 0 5 "u:=v;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
-%\"uG%\"vG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "v:=w;" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"vG%\"wG" }}}{EXCHG {PARA 0 "> " 0 
-"" {MPLTEXT 1 0 5 "w:=2;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"wG\"\"
-#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "u,v;" }}{PARA 11 "" 1 "
-" {XPPMATH 20 "6$\"\"#F#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 116 "Righ
-t quotes prevent evaluation. A single evaluation simply removes the qu
-otes. That is why we can clear a variable." }}}{EXCHG {PARA 0 "> " 0 "
-" {MPLTEXT 1 0 15 "u:='u'; v:='v';" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
->%\"uGF$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"vGF$" }}}{EXCHG {PARA 
-0 "" 0 "" {TEXT -1 30 "Local variables are evaluated " }{TEXT 317 3 "o
-ne" }{TEXT -1 74 " level in procedures. Arrays, tables, and procedures
- are evaluated to the " }{TEXT 318 9 "last name" }{TEXT -1 132 "; that
- is, evaluation stops whenever evaluation to one more level would turn
- the name into either an array, a table, or a procedure." }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "with(linalg):" }}}{EXCHG {PARA 0 ">
- " 0 "" {MPLTEXT 1 0 39 "J:=jacobian([sin(x)*y,cos(y)/x],[x,y]);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"JG-%'MATRIXG6#7$7$*&-%$cosG6#%\"xG
-\"\"\"%\"yGF/-%$sinGF-7$,$*&-F,6#F0F/F.!\"#!\"\",$*&-F2F7F/F.F9F9" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "J;" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#%\"JG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "eval
-(J);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'MATRIXG6#7$7$*&-%$cosG6#%\"
-xG\"\"\"%\"yGF--%$sinGF+7$,$*&-F*6#F.F-F,!\"#!\"\",$*&-F0F5F-F,F7F7" }
-}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 71 "Special evaluation routines are \+
-used for special domains. For example, " }{TEXT 320 5 "evalm" }{TEXT 
--1 38 " is used for computing the inverse of " }{TEXT 319 1 "J" }
-{TEXT -1 1 "." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "evalm(J^(-
-1));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-%'MATRIXG6#7$7$*(-%$sinG6#%\"
-yG\"\"\"%\"xGF-,&**-%$cosG6#F.F-F,F-F)F-F.F-F-*&-F*F3F--F2F+F-!\"\"F7*
-(F5F-F/F7F.\"\"#7$,$*&F6F-F/F7F7,$**F1F-F,F-F/F7F.F9F7" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 12 "The routine " }{TEXT 321 5 "evalc" }
-{TEXT -1 29 " is used for complex numbers." }}}{EXCHG {PARA 0 "> " 0 "
-" {MPLTEXT 1 0 25 "evalc(Re(1/('a'+I*'b')));" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#*&%\"aG\"\"\",&*$F$\"\"#F%*$%\"bGF(F%!\"\"" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 10 "Note that " }{TEXT 322 5 "evalc" }{TEXT 
--1 35 " assumes implicitly that names are " }{TEXT 323 11 "real-valued
-" }{TEXT -1 28 ", while most of the rest of " }{TEXT 324 5 "Maple" }
-{TEXT -1 10 " does not." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 12 "The co
-mmand " }{TEXT 325 5 "value" }{TEXT -1 76 " converts an inert function
- to its active form, forcing symbolic processing." }}}{EXCHG {PARA 0 "
-> " 0 "" {MPLTEXT 1 0 21 "test1:=Int(sin(x),x);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#>%&test1G-%$IntG6$-%$sinG6#%\"xGF+" }}}{EXCHG {PARA 0 "
-> " 0 "" {MPLTEXT 1 0 25 "eval(test1),value(test1);" }}{PARA 11 "" 1 "
-" {XPPMATH 20 "6$-%$IntG6$-%$sinG6#%\"xGF),$-%$cosGF(!\"\"" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT -1 78 "Delaying evaluation using inert forms is \+
-sometimes useful. Consider a call to " }{TEXT 326 3 "Int" }{TEXT -1 
-12 " instead of " }{TEXT 327 3 "int" }{TEXT -1 1 "." }}}{EXCHG {PARA 
-0 "> " 0 "" {MPLTEXT 1 0 39 "form1:=Int(exp(-t^2)*arccos(t),t=0..1);" 
-}}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&form1G-%$IntG6$*&-%$expG6#,$*$%\"
-tG\"\"#!\"\"\"\"\"-%'arccosG6#F.F1/F.;\"\"!F1" }}}{EXCHG {PARA 0 "" 0 
-"" {TEXT -1 15 "The inert form " }{TEXT 328 3 "Int" }{TEXT -1 36 " pro
-vides a convenient interface to " }{TEXT 329 6 "Maples" }{TEXT -1 41 "
-'s numerical quadrature routines. We use " }{TEXT 330 5 "evalf" }
-{TEXT -1 13 " to evaluate " }{TEXT 331 5 "form1" }{TEXT -1 28 " and ti
-me the results using " }{TEXT 332 7 "time( )" }{TEXT -1 61 ", which re
-turns the time in seconds from some reference time." }}}{EXCHG {PARA 
-0 "> " 0 "" {MPLTEXT 1 0 48 "t0:=time(): evalf(form1); time_taken:=tim
-e()-t0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+!p2'=#)!#5" }}{PARA 11 
-"" 1 "" {XPPMATH 20 "6#>%+time_takenG$\"%#G\"!\"$" }}}{EXCHG {PARA 0 "
-" 0 "" {TEXT -1 10 "If we use " }{TEXT 333 3 "int" }{TEXT -1 4 " in " 
-}{TEXT 334 5 "form1" }{TEXT -1 10 " then use " }{TEXT 335 5 "evalf" }
-{TEXT -1 9 ", we have" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 63 "re
-start;   # to remove all possible effects of option remember." }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "t0:=time(): evalf(int(exp(-t
-^2)*arccos(t),t=0..1)); time_taken:=time()-t0;" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6#$\"+!p2'=#)!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%+ti
-me_takenG$\"%$p\"!\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 65 "A portio
-n of time was spent on needless symbolic processing here." }}}}}}
-{MARK "4 0 0" 24 }{VIEWOPTS 1 1 0 3 4 1802 }
+{VERSION 2 3 "Windows 10" "2.3" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 6 6 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 4 4 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0
+ 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Tit
+le" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 
+}3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variab
+le" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple C
+omment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Def
+ine" -1 200 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" 
+-1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Va
+riable" -1 201 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Emp
+hasis" -1 202 "Times" 1 12 128 0 128 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "C
+ode" -1 203 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 
+1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 
+1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0
+ 0 1 }{CSTYLE "Header and Footer" -1 204 "Times" 1 10 0 0 0 1 2 2 2 2 
+2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 
+1 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 205 "Times" 1 12 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 206 "Courier New" 1 12
+ 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 
+12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 207 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times
+" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12
+ 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 208 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input258" -1 209 "C
+ourier" 1 12 255 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined B
+old" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyrigh
+t" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary
+ Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE
+ "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE 
+"Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE
+ "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE
+ "2D Inert Output" -1 210 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0
+ 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "2D Math Italic Small" -1 211 "Times" 1 1 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 
+2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 212 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple Name" -1 35 "Times" 1 12
+ 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 
+43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Referenc
+e" -1 213 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Commen
+t" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1
+ {CSTYLE "" -1 -1 "Times" 1 24 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12
+ 12 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Courier" 1
+ 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 210 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 214 "Times" 1
+ 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 215 "Times" 1 12 0 0 0 
+1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 216 "Times" 1 12 0 0 0 1 1 2 2 2 
+2 2 0 0 0 1 }{CSTYLE "" -1 217 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 
+1 }{CSTYLE "" -1 218 "Times" 1 12 0 0 255 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 219 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 220 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+221 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Times
+" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 223 "Times" 1 12 0 0
+ 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 224 "Times" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "" -1 225 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0
+ 0 1 }{CSTYLE "" -1 226 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 227 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 228 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 229 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 231 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 232 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 233 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 234 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 235 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+236 "Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 237 "T
+imes" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 238 "Times" 
+1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 239 "Times" 1 12 0 0 0
+ 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 240 "Times" 1 12 0 0 0 1 2 1 2 2
+ 2 2 0 0 0 1 }{CSTYLE "" -1 241 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0
+ 1 }{PSTYLE "" -1 211 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 
+2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 212 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 213 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 242 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 214 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 215 1 {CSTYLE "" -1 -1 
+"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "" -1 216 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
+1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 217 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 
+1 }{CSTYLE "" -1 245 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE
+ "" -1 218 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 219 1 {CSTYLE "" -1 
+-1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "" -1 220 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1
+ 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 221 
+1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 222 1 {CSTYLE "" -1 -1 "Courier
+" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 223 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 224 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 225 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
+" -1 246 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 226 1
+ {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 247 "Times" 1 12 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "" -1 248 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0
+ 1 }{PSTYLE "" -1 227 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 
+2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 228 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 229 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 230 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 231 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 232 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 233 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 249 "Times" 1 12 255 0
+ 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 234 1 {CSTYLE "" -1 -1 "Cour
+ier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "" -1 235 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2
+ 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 250 "Times" 
+1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 236 1 {CSTYLE "" -1 -1
+ "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{CSTYLE "" -1 251 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 237 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 238 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 239 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 240 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 241 1 {CSTYLE "" -1 -1
+ "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{CSTYLE "" -1 252 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 253 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 254 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 242 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 243 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 244 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 245 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 246 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 247 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 248 1 {CSTYLE "" -1 -1
+ "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{CSTYLE "" -1 255 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 249 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 256 "Times" 1
+ 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 250 1 {CSTYLE "" -1 -1 
+"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{CSTYLE "" -1 257 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 258 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 251 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 259 "Times" 1 12 0 0 0 
+1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 252 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 253 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 254 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 255 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 256 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 257 1 {CSTYLE "" -1 -1
+ "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "" -1 258 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2
+ 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 259 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 260 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 260 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 261 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 262 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 261 1 {CSTYLE ""
+ -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2
+ 0 2 2 -1 1 }{PSTYLE "" -1 262 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0
+ 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 
+263 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 264 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 265 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 266 "Times" 1 12 0 0 0 1 1 2 2
+ 2 2 2 0 0 0 1 }{CSTYLE "" -1 267 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0
+ 0 1 }{CSTYLE "" -1 268 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 263 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 269 "Times" 1
+ 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 264 1 {CSTYLE "" -1 -1 
+"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{CSTYLE "" -1 270 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 271 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 265 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 266 1 {CSTYLE "" -1 -1 
+"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "" -1 267 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
+1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 268 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 269 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 272 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 270 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 273 "Times" 1 12 0 0 0 
+1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 271 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 272 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 273 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{CSTYLE "" -1 274 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0
+ 0 1 }{CSTYLE "" -1 275 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 276 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 274 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 275 1 {CSTYLE "" -1 -1 
+"Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "" -1 276 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 
+1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 277 "Ti
+mes" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 278 "Times" 1 
+12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 277 1 {CSTYLE "" -1 -1
+ "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "" -1 278 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2
+ 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 279 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 280 1 {CSTYLE "" -1 -1 "Courier" 
+1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 281 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 279 "Times" 1
+ 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 280 "Times" 1 12 0 0 
+255 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 282 1 {CSTYLE "" -1 -1 "Couri
+er" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 283 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 284 1 {CSTYLE
+ "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 285 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "
+" -1 281 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 282 "
+Times" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 286 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 283 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{PSTYLE "" -1 287 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0
+ 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 
+284 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 285 "Times
+" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 286 "Times" 1 12 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 287 "Times" 1 12 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 288 1 {CSTYLE "" -1 -1 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "
+" -1 289 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 288 "Times" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 289 "Times" 1 12 0 0 0 1 2 1 2 2
+ 2 2 0 0 0 1 }{PSTYLE "" -1 290 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 
+0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1
+ 290 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 291 "Time
+s" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 292 "Times" 1 12 0 
+0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 293 "Times" 1 12 255 0 255 1 
+2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 294 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{PSTYLE "" -1 291 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0
+ 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 
+295 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 296 "Times
+" 1 12 255 0 255 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 297 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 292 1 {CSTYLE "" -1 -1 "Co
+urier" 1 12 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
+1 }{PSTYLE "" -1 293 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 0 1 2 1 2
+ 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {PARA 208 "" 0 "" {TEXT 205 10 "Chapter 1\n" }{TEXT 205 12 "I
+ntroduction" }}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 205 8 "restart;" 
+}}}{EXCHG {PARA 210 "> " 0 "" {MPLTEXT 1 205 39 "interface(labelling=f
+alse,warnlevel=0);" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 298 23 "1.1 Preli
+minary Remarks" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 727 "Many vibration
+ problems in engineering are nonlinear in nature. The usual linear ana
+lysis may be inadequate for many applications. An essential difference
+ in the study of nonlinear systems is that general solutions cannot be
+ obtained by superposition, as in the case of linear systems. Moreover
+, the nonlinearity brings many new phenomena, which do not occur in li
+near systems. To study nonlinear systems, one has to learn new mathema
+tical techniques, which have been developed in many branches of applie
+d mathematics, physics, and engineering. In the past several years, a \+
+number of powerful computer software packages have been developed that
+ allow one to perform complicated symbolic manipulations. One of the b
+est known is " }{TEXT 214 5 "Maple" }{TEXT 299 62 "; it is created by \+
+Waterloo Maple, Inc.. In this book, we use " }{TEXT 215 5 "Maple" }
+{TEXT 299 215 "'s symbolic programming techniques to implement various
+ perturbation methods for studying the dynamics of weakly nonlinear sy
+stems. Instead of being burdened by the tedious algebra required to ob
+tain the solutions, " }{TEXT 216 5 "Maple" }{TEXT 299 128 " enables us
+ to focus our attention on understanding the techniques and the physic
+s, thereby free our time for creative thinking." }}}{PARA 0 "" 0 "" 
+{TEXT 299 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 134 "Symbolic manipu
+lators are powerful tools. They can be used to perform analyses in eit
+her an interactive or an automatic way. Learning " }{TEXT 217 5 "Maple
+" }{TEXT 299 80 " in the process of studying perturbation methods shou
+ld enhance the concepts of " }{TEXT 218 5 "Maple" }{TEXT 219 23 " prog
+ramming techniques" }{TEXT 299 20 " as well as various " }{TEXT 220 
+23 "perturbation techniques" }{TEXT 299 1 "." }}}{PARA 0 "" 0 "" {TEXT
+ 299 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 654 "In Chapter 2, we des
+cribe how various perturbation methods, such as the Lindstedt-Poincar
+\351 technique, the method of multiple scales, and the method of avera
+ging, can be used to obtain uniform asymptotic expansions of the solut
+ions of the undamped and unforced Duffing equation. In Chapter 3, we a
+pply the Lindstedt-Poincar\351 technique, the method of multiple scale
+s, the method of averaging, the generalized method of averaging, the K
+rylov-Bogoliubov-Mitropolsky technique, and the method of normal forms
+ to obtain uniform expansions of the solutions of an undamped and unfo
+rced single-degree-of-freedom oscillator with quadratic and cubic nonl
+inearities." }}}{PARA 0 "" 0 "" {TEXT 299 0 "" }}{EXCHG {PARA 0 "" 0 "
+" {TEXT 299 657 "In Chapter 4, we use the method of multiple scales, t
+he generalized method of averaging, and the method of normal forms to \+
+obtain uniform expansions of the solutions of a forced single-degree-o
+f-freedom oscillator with quadratic and cubic nonlinearities. In Chapt
+er 5, we apply the method of multiple scales, the method of normal for
+ms, and the generalized method of averaging to study higher-order appr
+oximations for systems with internal resonances. In Chapter 6, we appl
+y the method of multiple scales to obtain uniform expansions of the so
+lutions of externally and parametrically excited linearly coupled or u
+ncoupled multiple-degree-of-freedom systems." }}}{PARA 0 "" 0 "" {TEXT
+ 299 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 609 "In Chapter 7, we foc
+us our attention on continuous systems with cubic nonlinearities. In S
+ection 7.1, we discuss the concepts of adjoint and solvability conditi
+ons. Then, we use the method of multiple scales to construct uniformly
+ valid asymptotic expansions of the solutions of hinged-clamped beams \+
+in Section 7.2 and cantilever beams in Section 7.3. In Chapter 8, we u
+se the method of multiple scales to directly attack three continuous s
+ystems with quadratic and cubic nonlinearities. We treat buckled beams
+ in Section 8.1, circular cylindrical shells in Section 8.2, and near-
+square plates in Section 8.3." }}}{PARA 0 "" 0 "" {TEXT 299 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 299 314 "In Chapter 9, we show how one ca
+n use the method of multiple scales to construct higher-order approxim
+ations of the solutions of continuous systems having two-to-one intern
+al resonances. We discuss two-mode interactions in buckled beams in Se
+ction 9.1 and four-mode interactions in suspended cables in Section 9.
+2." }}}}{SECT 0 {PARA 4 "" 0 "" {TEXT 298 24 "1.2 Symbolic Computation
+" }}{EXCHG {PARA 0 "" 0 "" {TEXT 221 5 "Maple" }{TEXT 299 54 " is a co
+mputer environment for doing mathematics. The " }{TEXT 222 5 "Maple" }
+{TEXT 299 171 " programming language allows not only for interactive m
+anipulations of a wide range of objects, but it also encourages the au
+tomation of complicated computations. Because " }{TEXT 223 5 "Maple" }
+{TEXT 299 127 " is interactive, it is easy to test and debug programs.
+ Therefore, writing a program (or procedure) may only involve putting \+
+a " }{TEXT 224 4 "proc" }{TEXT 299 10 "() and an " }{TEXT 225 3 "end" 
+}{TEXT 299 423 " around a sequence of commands that we would have used
+ to carry out the computation interactively. This computer algebra sys
+tem is ideal for formulating, solving, and exploring mathematical mode
+ls. Its interactive structured documents which contain live mathematic
+s allow one to change equations and update the solutions automatically
+. Moreover, the on-line help system is a convenient reference manual a
+t your fingertips. " }{TEXT 226 7 "Maple V" }{TEXT 299 181 " has hundr
+eds of commands for working with symbolic expressions. In this section
+, we briefly cover the ingredients mostly used in the following chapte
+rs. For further information on " }{TEXT 227 5 "Maple" }{TEXT 299 20 ",
+ please review the " }{TEXT 228 5 "Maple" }{TEXT 299 17 " documentatio
+ns: " }{TEXT 229 22 "Maple V Learning Guide" }{TEXT 299 5 " and " }
+{TEXT 230 17 "Programming Guide" }{TEXT 299 75 ", Waterloo Maple Inc.,
+ Springer-Verlag, 1996. This book was prepared using " }{TEXT 231 7 "M
+aple V" }{TEXT 299 1 " " }{TEXT 232 9 "Release 4" }{TEXT 299 8 ". Chec
+k " }{TEXT 233 8 "?updates" }{TEXT 299 39 " if you are using a version
+ later than " }{TEXT 234 9 "Release 4" }{TEXT 299 1 "." }}}{PARA 0 "" 
+0 "" {TEXT 299 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 21 "In this boo
+k, we use " }{TEXT 235 12 "bold-magenta" }{TEXT 299 13 " to indicate "
+ }{TEXT 236 22 "user-defined functions" }{TEXT 299 4 " or " }{TEXT 
+237 5 "names" }{TEXT 299 5 " and " }{TEXT 238 10 "bold-black" }{TEXT 
+299 13 " to indicate " }{TEXT 239 5 "Maple" }{TEXT 299 3 "'s " }{TEXT 
+240 18 "built-in functions" }{TEXT 299 1 "." }}}{PARA 0 "" 0 "" {TEXT 
+299 0 "" }}{SECT 0 {PARA 5 "" 0 "" {TEXT 300 36 "1.2.1 Assigning Names
+ to Expressions" }}{EXCHG {PARA 0 "" 0 "" {TEXT 241 5 "Maple" }{TEXT 
+299 16 " use the syntax " }{TEXT 299 20 " for assignment and " }{TEXT 
+299 14 " for equation." }}}{EXCHG {PARA 211 "> " 0 "" {MPLTEXT 1 205 
+27 "eqs:=\{a*x+b*y=c,d*x+e*y=f\};" }}}{EXCHG {PARA 212 "> " 0 "" 
+{MPLTEXT 1 205 12 "vars:=\{x,y\}:" }}}{EXCHG {PARA 213 "> " 0 "" 
+{MPLTEXT 1 205 21 "sol:=solve(eqs,vars);" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 242 5 "Maple" }{TEXT 299 100 " names can contain any alphanumeri
+c characters and underscores, but they cannot start with a number." }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT 299 55 "One way of defining our own func
+tions is the following:" }}}{EXCHG {PARA 214 "> " 0 "" {MPLTEXT 1 205 
+14 "f:=x->x^2+3*x;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 38 "Then, we c
+an either plot the function " }{TEXT 299 50 ", apply any operator to i
+t, or evaluate it at any " }{TEXT 299 1 "." }}}{EXCHG {PARA 215 "> " 0
+ "" {MPLTEXT 1 205 21 "plot(f(x),x=-10..10);" }}}{EXCHG {PARA 216 "> "
+ 0 "" {MPLTEXT 1 205 27 "seq(diff(f(x),x$i),i=1..3);" }}}{EXCHG {PARA 
+217 "> " 0 "" {MPLTEXT 1 205 20 "[f(hi),f(a+b),f(3)];" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 299 101 "We can use forward quotes to unassign a
+ variable that was previously assigned to a value by the form " }{TEXT
+ 299 23 ". See also the command " }{TEXT 243 8 "unassign" }{TEXT 299 
+1 "." }}}}{SECT 0 {PARA 5 "" 0 "" {TEXT 300 17 "1.2.2 Expressions" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 299 4 "All " }{TEXT 244 5 "Maple" }{TEXT 
+299 117 " objects are, at one level or another, made up entirely of ex
+pressions. Following are some commonly used in the book." }}}{SECT 0 
+{PARA 20 "" 0 "" {TEXT 301 9 "Sequences" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 299 26 "This is simply a group of " }{TEXT 245 5 "Maple" }{TEXT 
+299 33 " expressions separated by commas." }}}{EXCHG {PARA 218 "> " 0 
+"" {MPLTEXT 1 205 27 "timeScales:=T[0],T[1],T[2];" }}}{EXCHG {PARA 219
+ "> " 0 "" {MPLTEXT 1 205 10 "x$3,$3..6;" }}}{EXCHG {PARA 220 "> " 0 "
+" {MPLTEXT 1 205 59 "seq(epsilon^i*u[i],i=1..3);   # use seq to build \+
+sequences." }}}{EXCHG {PARA 221 "> " 0 "" {MPLTEXT 1 205 25 "seq('f'(i
+),i=timeScales);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 44 "We can also \+
+use a loop to create a sequence." }}}{EXCHG {PARA 222 "> " 0 "" 
+{MPLTEXT 1 205 40 "a:=NULL;   # NULL is the empty sequence." }}}
+{EXCHG {PARA 223 "> " 0 "" {MPLTEXT 1 205 20 "for k from 1 to 3 do" }}
+{PARA 224 "> " 0 "" {MPLTEXT 1 205 22 "   a:=a,epsilon^k*u[k]" }}
+{PARA 225 "> " 0 "" {MPLTEXT 1 205 3 "od;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 299 106 "Expression sequences are neither lists nor sets. They p
+reserve the order and repetition of their elements." }}}}{SECT 0 
+{PARA 20 "" 0 "" {TEXT 301 4 "Sets" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+299 100 "A set is an expression sequence enclosed in braces. Unlike a \+
+sequence, its order and repetition are " }{TEXT 246 3 "not" }{TEXT 
+299 58 " preserved. Hence, the following three sets are identical." }}
+}{EXCHG {PARA 226 "> " 0 "" {MPLTEXT 1 205 26 "\{x,y,z\},\{z,x,y\},\{y
+,x,x,z\};" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 92 "As we can see here,
+ the order in which we list the elements of a set is not necessarily h
+ow " }{TEXT 247 5 "Maple" }{TEXT 299 129 " sees them internally. The o
+rdering in which the elements are displayed depends on the order in wh
+ich the elements are stored in " }{TEXT 248 5 "Maple" }{TEXT 299 183 "
+'s internal memory. The order of the elements in a set is session depe
+ndent and may change for different runs. Hence, we should avoid using \+
+sets to perform order-related computations." }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 299 55 "Four basic operators of sets in mathematics apply here:
+" }}}{EXCHG {PARA 227 "> " 0 "" {MPLTEXT 1 205 28 "set1:=\{x,y,z\} uni
+on \{u,z,w\};" }}}{EXCHG {PARA 228 "> " 0 "" {MPLTEXT 1 205 23 "set1 i
+ntersect \{u,v,w\};" }}}{EXCHG {PARA 229 "> " 0 "" {MPLTEXT 1 205 19 "
+set1 minus \{u,v,w\};" }}}{EXCHG {PARA 230 "> " 0 "" {MPLTEXT 1 205 
+15 "member(u,set1);" }}}}{SECT 0 {PARA 20 "" 0 "" {TEXT 301 5 "Lists" 
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 123 "A list is an expression sequen
+ce enclosed in square brackets. Like a sequence, its order and repetit
+ion are also preserved." }}}{EXCHG {PARA 231 "> " 0 "" {MPLTEXT 1 205 
+7 "a:='a':" }}}{EXCHG {PARA 232 "> " 0 "" {MPLTEXT 1 205 18 "[a,b,c],[
+b,a,c,a];" }}}{EXCHG {PARA 233 "> " 0 "" {MPLTEXT 1 205 45 "list1:=[\{
+b1,a1,c1\},\{b2,b2,c2,a2,a2\},\{d,f,e\}];" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 249 5 "list1" }{TEXT 299 250 " is a list of three sets of elemen
+ts. While the ordering of the elements within the sets may change, the
+ ordering of the three sets themselves remains the same. The fact that
+ order is preserved allows us to extract an element of interest from a
+ list." }}}{EXCHG {PARA 234 "> " 0 "" {MPLTEXT 1 205 9 "list1[3];" }}}
+{EXCHG {PARA 235 "> " 0 "" {MPLTEXT 1 205 12 "op(3,list1);" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 299 71 "The total number of elements within a li
+st can be determined using the " }{TEXT 250 4 "nops" }{TEXT 299 9 " co
+mmand." }}}{EXCHG {PARA 236 "> " 0 "" {MPLTEXT 1 205 12 "nops(list1);"
+ }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 57 "The major difference between \+
+sequences and lists is that " }{TEXT 251 5 "Maple" }{TEXT 299 57 " fla
+ttens a sequence of sequences into a single sequence." }}}{EXCHG 
+{PARA 237 "> " 0 "" {MPLTEXT 1 205 30 "A:=seq(b[i],i=1..3): B:=p,q,r:"
+ }}}{EXCHG {PARA 238 "> " 0 "" {MPLTEXT 1 205 6 "A,B,A;" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 299 54 "However, a list of lists remains just a \+
+list of lists." }}}{EXCHG {PARA 239 "> " 0 "" {MPLTEXT 1 205 12 "[[A],
+[B,A]];" }}}}{SECT 0 {PARA 20 "" 0 "" {TEXT 301 6 "Arrays" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 299 335 "Arrays are an extension of the concept \+
+of the list data structure. A list is group of items with a positive i
+nteger as each item's index, which represents its position in the list
+. Whereas each element of an array is still associated with an index, \+
+but can be more than one dimension. In addition, indices may also be z
+ero or negative." }}}{EXCHG {PARA 240 "> " 0 "" {MPLTEXT 1 205 28 "pri
+mes:=array(0..2,[2,3,5]);" }}}{EXCHG {PARA 241 "> " 0 "" {MPLTEXT 1 
+205 20 "primes[0],primes[2];" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 58 "
+To see the array's contents, we must use commands such as " }{TEXT 
+252 4 "eval" }{TEXT 299 2 ", " }{TEXT 253 2 "op" }{TEXT 299 5 ", or " 
+}{TEXT 254 5 "print" }{TEXT 299 1 "." }}}{EXCHG {PARA 242 "> " 0 "" 
+{MPLTEXT 1 205 7 "primes;" }}}{EXCHG {PARA 243 "> " 0 "" {MPLTEXT 1 
+205 13 "eval(primes);" }}}{EXCHG {PARA 244 "> " 0 "" {MPLTEXT 1 205 
+52 "\"[1];   # eval makes the visible results accessible." }}}{EXCHG 
+{PARA 245 "> " 0 "" {MPLTEXT 1 205 51 "print(primes);   # print just p
+rints to the screen." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 72 "Multiple
+-dimension arrays are always rectangular in nature. For example," }}}
+{EXCHG {PARA 246 "> " 0 "" {MPLTEXT 1 205 40 "matrixA:=array(1..2,1..2
+,[[a,b],[c,d]]);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 58 "Standard mat
+rix operations and calculations are supported." }}}{EXCHG {PARA 247 ">
+ " 0 "" {MPLTEXT 1 205 13 "with(linalg):" }}}{EXCHG {PARA 248 "> " 0 "
+" {MPLTEXT 1 205 13 "det(matrixA);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+299 11 "In general," }{TEXT 255 6 " Maple" }{TEXT 299 108 " does not a
+utomatically expand the names of an array to the representation of all
+ the elements. For example," }}}{EXCHG {PARA 249 "> " 0 "" {MPLTEXT 1 
+205 24 "subs(b=show_me,matrixA);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 
+28 "In this case, we must force " }{TEXT 256 5 "Maple" }{TEXT 299 87 "
+ to fully evaluate the name of the array to the element level and not \+
+just to its name." }}}{EXCHG {PARA 250 "> " 0 "" {MPLTEXT 1 205 31 "su
+bs(b=show_me,evalm(matrixA));" }}}}}{SECT 0 {PARA 5 "" 0 "" {TEXT 300 
+29 "1.2.3 Expression Manipulation" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 
+100 "Most of the time we want to convert the output expressions into a
+ form we want or a form with which " }{TEXT 257 5 "Maple" }{TEXT 299 
+94 " routines can work. In this section we introduce the most commonly
+ used commands in this book." }}}{SECT 0 {PARA 20 "" 0 "" {TEXT 301 
+18 "expand and combine" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 73 "These t
+wo commands are commonly used in the perturbation techniques. The " }
+{TEXT 258 6 "expand" }{TEXT 299 85 " command knows expansion rules for
+ many standard mathematical functions. For example," }}}{EXCHG {PARA 
+251 "> " 0 "" {MPLTEXT 1 205 21 "expand(sin(3*theta));" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 299 4 "The " }{TEXT 259 7 "combine" }{TEXT 299 
+136 " command, a useful general-purpose routine for putting things tog
+ether, knows the same rules but applies them in the opposite direction
+." }}}{EXCHG {PARA 252 "> " 0 "" {MPLTEXT 1 205 11 "combine(\");" }}}}
+{SECT 0 {PARA 20 "" 0 "" {TEXT 301 7 "convert" }}{EXCHG {PARA 0 "" 0 "
+" {TEXT 299 88 "This command can replace one function's name by the ot
+her and hence change the operator." }}}{EXCHG {PARA 253 "> " 0 "" 
+{MPLTEXT 1 205 14 "op(0,[u,v,w]);" }}}{EXCHG {PARA 254 "> " 0 "" 
+{MPLTEXT 1 205 21 "convert([u,v,w],`+`);" }}}{EXCHG {PARA 255 "> " 0 "
+" {MPLTEXT 1 205 8 "op(0,\");" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 53 
+"It also converts expressions between different forms." }}}{EXCHG 
+{PARA 256 "> " 0 "" {MPLTEXT 1 205 20 "convert(sin(x),exp);" }}}
+{EXCHG {PARA 257 "> " 0 "" {MPLTEXT 1 205 26 "simplify(convert(\",trig
+));" }}}{EXCHG {PARA 258 "> " 0 "" {MPLTEXT 1 205 39 "convert(series(e
+xp(x),x=x0,3),polynom);" }}}{EXCHG {PARA 259 "> " 0 "" {MPLTEXT 1 205 
+33 "convert(binomial(m,n),factorial);" }}}}{SECT 0 {PARA 20 "" 0 "" 
+{TEXT 301 11 "map and zip" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 151 "Thi
+s command provides convenient ways for working with multiple solutions
+ or for applying a function to each element of a data structure or exp
+ression." }}}{EXCHG {PARA 260 "> " 0 "" {MPLTEXT 1 205 41 "g([x,y,z]),
+map(g,[x,y,z]),map(sin,x*y*z);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 260 3 
+"map" }{TEXT 299 4 " or " }{TEXT 261 4 "map2" }{TEXT 299 39 " accepts \+
+more than two arguments; see ?" }{TEXT 262 3 "map" }{TEXT 299 18 " for
+ more details." }}}{EXCHG {PARA 261 "> " 0 "" {MPLTEXT 1 205 31 "map(D
+iff,[x^2,ln(x),tan(x)],x);" }}}{EXCHG {PARA 262 "> " 0 "" {MPLTEXT 1 
+205 9 "value(\");" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 263 4 "map2" }{TEXT
+ 299 23 " is closely related to " }{TEXT 264 3 "map" }{TEXT 299 2 ". "
+ }{TEXT 265 3 "map" }{TEXT 299 45 " passes the elements of an expressi
+on as the " }{TEXT 266 5 "first" }{TEXT 299 33 " argument to a functio
+n, whereas " }{TEXT 267 4 "map2" }{TEXT 299 28 " passes the elements a
+s the " }{TEXT 268 6 "second" }{TEXT 299 24 " argument to a function."
+ }}}{EXCHG {PARA 263 "> " 0 "" {MPLTEXT 1 205 25 "map2((x,y)->x+y^2,u,
+v+w);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 8 "Use the " }{TEXT 269 3 "
+zip" }{TEXT 299 39 " command to merge two lists or vectors." }}}
+{EXCHG {PARA 264 "> " 0 "" {MPLTEXT 1 205 40 "zip((x,y)->x=y,[lhs1,lhs
+2],[rhs1,rhs2]);" }}}}{SECT 0 {PARA 20 "" 0 "" {TEXT 301 17 "select an
+d remove" }}{EXCHG {PARA 0 "" 0 "" {TEXT 299 7 "We can " }{TEXT 270 6 
+"select" }{TEXT 299 4 " or " }{TEXT 271 6 "remove" }{TEXT 299 88 " cer
+tain elements from an expression according to the boolean-valued funct
+ion we choose." }}}{EXCHG {PARA 265 "> " 0 "" {MPLTEXT 1 205 25 "expr1
+:=sin(x)+exp(y)-z^x:" }}}{EXCHG {PARA 266 "> " 0 "" {MPLTEXT 1 205 26 
+"select(s->has(s,x),expr1);" }}}{EXCHG {PARA 267 "> " 0 "" {MPLTEXT 1 
+205 20 "select(has,expr1,x);" }}}{EXCHG {PARA 268 "> " 0 "" {MPLTEXT 
+1 205 40 "remove(a->is(a<0),[-2.0,0.3,-0.6,12.0]);" }}}{EXCHG {PARA 
+269 "> " 0 "" {MPLTEXT 1 205 43 "remove(evalb,\{x+y^2=u,x=x,y=z/x,3<=5
+,4>7\});" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 11 "We can use " }{TEXT 
+272 4 "type" }{TEXT 299 47 " to select or remove the type of an expres
+sion." }}}{EXCHG {PARA 270 "> " 0 "" {MPLTEXT 1 205 49 "select(type,[u
++v,4.5,cos(2),sin(2.),Pi],numeric);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+299 4 "The " }{TEXT 273 7 "hastype" }{TEXT 299 80 " command determines
+ if an expression contains a subexpression of a certain type." }}}
+{EXCHG {PARA 271 "> " 0 "" {MPLTEXT 1 205 22 "expr2:=(a+b)*cos(c+d):" 
+}}}{EXCHG {PARA 272 "> " 0 "" {MPLTEXT 1 205 23 "select(type,expr2,`+`
+);" }}}{EXCHG {PARA 273 "> " 0 "" {MPLTEXT 1 205 26 "select(hastype,ex
+pr2,`+`);" }}}}{SECT 0 {PARA 20 "" 0 "" {TEXT 301 4 "subs" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 274 4 "subs" }{TEXT 299 75 " makes syntactical s
+ubstitutions, not mathematical substitutions; that is, " }{TEXT 275 5 
+"Maple" }{TEXT 299 53 " does not evaluate the result of a substitution
+. The " }{TEXT 276 4 "subs" }{TEXT 299 52 " command makes the substitu
+tions from left to right." }}}{EXCHG {PARA 274 "> " 0 "" {MPLTEXT 1 
+205 24 "expr1:=ln(x)+cos(y)*z^2:" }}}{EXCHG {PARA 275 "> " 0 "" 
+{MPLTEXT 1 205 31 "subs(x=exp(z),z=sqrt(x),expr1);" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT 299 91 "They can be substituted simultaneously if they a
+re given as a set or list of substitutions." }}}{EXCHG {PARA 276 "> " 
+0 "" {MPLTEXT 1 205 33 "subs(\{x=exp(z),z=sqrt(x)\},expr1);" }}}}}
+{SECT 0 {PARA 5 "" 0 "" {TEXT 300 22 "1.2.4 Evaluation Rules" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 299 61 "The substitution of assigned expr
+ession for a name is called " }{TEXT 277 10 "evaluation" }{TEXT 299 
+46 " and each step in this process is known as an " }{TEXT 278 16 "eva
+luation level" }{TEXT 299 48 ". Global variables are normally evaluate
+d fully." }}}{EXCHG {PARA 277 "> " 0 "" {MPLTEXT 1 205 5 "u:=v;" }}}
+{EXCHG {PARA 278 "> " 0 "" {MPLTEXT 1 205 5 "v:=w;" }}}{EXCHG {PARA 
+279 "> " 0 "" {MPLTEXT 1 205 5 "w:=2;" }}}{EXCHG {PARA 280 "> " 0 "" 
+{MPLTEXT 1 205 4 "u,v;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 116 "Right
+ quotes prevent evaluation. A single evaluation simply removes the quo
+tes. That is why we can clear a variable." }}}{EXCHG {PARA 281 "> " 0 
+"" {MPLTEXT 1 205 15 "u:='u'; v:='v';" }}}{EXCHG {PARA 0 "" 0 "" {TEXT
+ 299 30 "Local variables are evaluated " }{TEXT 279 3 "one" }{TEXT 
+299 74 " level in procedures. Arrays, tables, and procedures are evalu
+ated to the " }{TEXT 280 9 "last name" }{TEXT 299 132 "; that is, eval
+uation stops whenever evaluation to one more level would turn the name
+ into either an array, a table, or a procedure." }}}{EXCHG {PARA 282 "
+> " 0 "" {MPLTEXT 1 205 13 "with(linalg):" }}}{EXCHG {PARA 283 "> " 0 
+"" {MPLTEXT 1 205 39 "J:=jacobian([sin(x)*y,cos(y)/x],[x,y]);" }}}
+{EXCHG {PARA 284 "> " 0 "" {MPLTEXT 1 205 2 "J;" }}}{EXCHG {PARA 285 "
+> " 0 "" {MPLTEXT 1 205 8 "eval(J);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+299 71 "Special evaluation routines are used for special domains. For \+
+example, " }{TEXT 281 5 "evalm" }{TEXT 299 38 " is used for computing \+
+the inverse of " }{TEXT 282 1 "J" }{TEXT 299 1 "." }}}{EXCHG {PARA 286
+ "> " 0 "" {MPLTEXT 1 205 14 "evalm(J^(-1));" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT 299 12 "The routine " }{TEXT 283 5 "evalc" }{TEXT 299 29 " is \+
+used for complex numbers." }}}{EXCHG {PARA 287 "> " 0 "" {MPLTEXT 1 
+205 25 "evalc(Re(1/('a'+I*'b')));" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+299 10 "Note that " }{TEXT 284 5 "evalc" }{TEXT 299 35 " assumes impli
+citly that names are " }{TEXT 285 11 "real-valued" }{TEXT 299 28 ", wh
+ile most of the rest of " }{TEXT 286 5 "Maple" }{TEXT 299 10 " does no
+t." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 299 12 "The command " }{TEXT 287 
+5 "value" }{TEXT 299 76 " converts an inert function to its active for
+m, forcing symbolic processing." }}}{EXCHG {PARA 288 "> " 0 "" 
+{MPLTEXT 1 205 21 "test1:=Int(sin(x),x);" }}}{EXCHG {PARA 289 "> " 0 "
+" {MPLTEXT 1 205 25 "eval(test1),value(test1);" }}}{EXCHG {PARA 0 "" 0
+ "" {TEXT 299 78 "Delaying evaluation using inert forms is sometimes u
+seful. Consider a call to " }{TEXT 288 3 "Int" }{TEXT 299 12 " instead
+ of " }{TEXT 289 3 "int" }{TEXT 299 1 "." }}}{EXCHG {PARA 290 "> " 0 "
+" {MPLTEXT 1 205 39 "form1:=Int(exp(-t^2)*arccos(t),t=0..1);" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 299 15 "The inert form " }{TEXT 290 3 "In
+t" }{TEXT 299 36 " provides a convenient interface to " }{TEXT 291 6 "
+Maples" }{TEXT 299 41 "'s numerical quadrature routines. We use " }
+{TEXT 292 5 "evalf" }{TEXT 299 13 " to evaluate " }{TEXT 293 5 "form1"
+ }{TEXT 299 28 " and time the results using " }{TEXT 294 7 "time( )" }
+{TEXT 299 61 ", which returns the time in seconds from some reference \+
+time." }}}{EXCHG {PARA 291 "> " 0 "" {MPLTEXT 1 205 48 "t0:=time(): ev
+alf(form1); time_taken:=time()-t0;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+299 10 "If we use " }{TEXT 295 3 "int" }{TEXT 299 4 " in " }{TEXT 296 
+5 "form1" }{TEXT 299 10 " then use " }{TEXT 297 5 "evalf" }{TEXT 299 
+9 ", we have" }}}{EXCHG {PARA 292 "> " 0 "" {MPLTEXT 1 205 63 "restart
+;   # to remove all possible effects of option remember." }}}{EXCHG 
+{PARA 293 "> " 0 "" {MPLTEXT 1 205 74 "t0:=time(): evalf(int(exp(-t^2)
+*arccos(t),t=0..1)); time_taken:=time()-t0;" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 299 65 "A portion of time was spent on needless symbolic proces
+sing here." }}}}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 75 100 1802 1 1 1 1 }{PAGENUMBERS 0 
+1 2 33 1 1 }
